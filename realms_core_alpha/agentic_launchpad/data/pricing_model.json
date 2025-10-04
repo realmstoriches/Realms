@@ -1,0 +1,19 @@
+{
+  "tiers": {
+    "Basic": {
+      "price_per_mission": 10,
+      "features": ["Single crew dispatch", "Fallback logic"]
+    },
+    "Pro": {
+      "price_per_mission": 25,
+      "features": ["Multi-crew dispatch", "Confirmation chains", "Twin sync"]
+    },
+    "Enterprise": {
+      "custom_pricing": true,
+      "features": ["Recursive scaling", "Custom agents", "Dedicated fallback routing"]
+    }
+  },
+  "value_proposition": "Deploy legendary minds instantly with modular fallback, confirmation, and twin logic.",
+  "channels": ["API", "Dashboard", "White-label integration"]
+}
+

@@ -1,0 +1,2 @@
+# Failure log for Make.com and agentic modules
+# Format: timestamp | error message

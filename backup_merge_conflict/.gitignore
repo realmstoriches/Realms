@@ -1,0 +1,33 @@
+# Logs and runtime artifacts
+logs/
+*.log
+*.txt
+
+# Credentials and secrets
+.env
+*.key
+*.pem
+*.token
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# Fallback and test artifacts
+fallback/
+*.bak
+*.tmp
+
+pantheon_env/
+__pycache__/
+node_modules/
+*.lnk

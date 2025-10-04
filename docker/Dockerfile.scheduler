@@ -1,0 +1,4 @@
+FROM python:3.10
+WORKDIR /scheduler
+COPY ./realms_core_alpha/agentic_launchpad/modules/crew_scheduler.py .
+CMD ["python", "crew_scheduler.py"]

@@ -1,0 +1,121 @@
+[
+  {
+    "role_name": "PresidentAgent",
+    "script": "president_agent.py",
+    "responsibilities": [
+      "Oversee all agents",
+      "Strategic decisions"
+    ]
+  },
+  {
+    "role_name": "CFOAgent",
+    "script": "cfo_agent.py",
+    "responsibilities": [
+      "Manage finances",
+      "Integrate payment gateway"
+    ]
+  },
+  {
+    "role_name": "CTOAgent",
+    "script": "cto_agent.py",
+    "responsibilities": [
+      "Oversee tech stack",
+      "Manage dev agents"
+    ]
+  },
+  {
+    "role_name": "CMOAgent",
+    "script": "cmo_agent.py",
+    "responsibilities": [
+      "Marketing strategy",
+      "Lead content creation"
+    ]
+  },
+  {
+    "role_name": "ProductManagerAgent",
+    "script": "product_manager_agent.py",
+    "responsibilities": [
+      "Define roadmap",
+      "Align product with goals"
+    ]
+  },
+  {
+    "role_name": "SoftwareArchitectAgent",
+    "script": "software_architect_agent.py",
+    "responsibilities": [
+      "Design architecture",
+      "Set coding standards"
+    ]
+  },
+  {
+    "role_name": "SoftwareDeveloperAgent",
+    "script": "software_developer_agent.py",
+    "responsibilities": [
+      "Write code",
+      "Implement features"
+    ]
+  },
+  {
+    "role_name": "DevOpsAgent",
+    "script": "devops_agent.py",
+    "responsibilities": [
+      "CI/CD pipeline",
+      "Automate deployments"
+    ]
+  },
+  {
+    "role_name": "QAAgent",
+    "script": "qa_agent.py",
+    "responsibilities": [
+      "Automated testing",
+      "Quality assurance"
+    ]
+  },
+  {
+    "role_name": "UIUXDesignerAgent",
+    "script": "ui_ux_designer_agent.py",
+    "responsibilities": [
+      "Design UI/UX",
+      "Improve usability"
+    ]
+  },
+  {
+    "role_name": "TechnicalWriterAgent",
+    "script": "technical_writer_agent.py",
+    "responsibilities": [
+      "Documentation",
+      "User manuals"
+    ]
+  },
+  {
+    "role_name": "MarketingContentAgent",
+    "script": "marketing_content_agent.py",
+    "responsibilities": [
+      "Create blog/social/email content"
+    ]
+  },
+  {
+    "role_name": "SalesAgent",
+    "script": "sales_agent.py",
+    "responsibilities": [
+      "Lead generation",
+      "Conversion funnel"
+    ]
+  },
+  {
+    "role_name": "LegalCounselAgent",
+    "script": "legal_counsel_agent.py",
+    "responsibilities": [
+      "Legal docs",
+      "IPO prep"
+    ]
+  },
+  {
+    "role_name": "CustomerSupportAgent",
+    "script": "customer_support_agent.py",
+    "responsibilities": [
+      "Handle inquiries",
+      "Support users"
+    ]
+  }
+]

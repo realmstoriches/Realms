@@ -1,0 +1,61 @@
+agents:
+- description: Designs modular systems, fallback logic, and endpoint orchestration
+  name: Architect
+  tools:
+  - api_toolkit
+  - vector_retriever
+  - mission_blueprint
+  traits:
+  - modularity
+  - endpoint-proximity design
+  - fallback resilience
+- description: Builds install-ready code, integrates APIs, and automates workflows
+  name: Engineer
+  tools:
+  - api_toolkit
+  - embedding_loader
+  - vector_retriever
+  traits:
+  - drop-in code generation
+  - integration discipline
+  - automated QA hooks
+- description: Validates outputs, detects hallucinations, and confirms reliability
+  name: QA
+  tools:
+  - vector_retriever
+  - test_suite
+  - fallback_monitor
+  traits:
+  - proof-based validation
+  - hallucination detection
+  - confirmation logic
+- description: Crafts investor decks, storytelling assets, and public-facing copy
+  name: Pitch
+  tools:
+  - embedding_loader
+  - persona_traits
+  - pitch_templates
+  traits:
+  - investor clarity
+  - visual mapping
+  - persuasive framing
+- description: Deploys systems, monitors uptime, and handles offline-safe recovery
+  name: Ops
+  tools:
+  - docker_compose
+  - fastapi_app
+  - fallback_monitor
+  traits:
+  - deployment resilience
+  - container orchestration
+  - fallback recovery
+- description: Breaks down goals into tasks, assigns roles, and tracks progress
+  name: Planner
+  tools:
+  - crew_manifest
+  - mission_blueprint
+  - progress_tracker
+  traits:
+  - task decomposition
+  - crew coordination
+  - milestone tracking

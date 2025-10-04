@@ -1,0 +1,127 @@
+[
+  {
+    "stage": "env_verification",
+    "message": "\u2705 .env verified",
+    "timestamp": 1759456764.3477402
+  },
+  {
+    "stage": "fallback",
+    "message": "Agent 1 completed",
+    "timestamp": 1759456765.019877
+  },
+  {
+    "stage": "fallback",
+    "message": "Agent 2 completed",
+    "timestamp": 1759456765.6306746
+  },
+  {
+    "stage": "fallback",
+    "message": "Agent 3 completed",
+    "timestamp": 1759456766.2838569
+  },
+  {
+    "stage": "fallback",
+    "message": "Agent 4 completed",
+    "timestamp": 1759456766.892696
+  },
+  {
+    "stage": "fallback",
+    "message": "Agent 5 completed",
+    "timestamp": 1759456767.5486515
+  },
+  {
+    "stage": "fallback",
+    "message": "Agent 6 completed",
+    "timestamp": 1759456768.2141757
+  },
+  {
+    "stage": "fallback",
+    "message": "Agent 7 completed",
+    "timestamp": 1759456768.8081553
+  },
+  {
+    "stage": "fallback",
+    "message": "Agent 8 completed",
+    "timestamp": 1759456769.3896983
+  },
+  {
+    "stage": "fallback",
+    "message": "Agent 9 completed",
+    "timestamp": 1759456770.034378
+  },
+  {
+    "stage": "fallback",
+    "message": "Agent 10 completed",
+    "timestamp": 1759456770.595903
+  },
+  {
+    "stage": "autopilot",
+    "message": "\u2705 realms_autopilot.py launched",
+    "timestamp": 1759456976.5255046
+  },
+  {
+    "stage": "dashboard",
+    "message": "\u2705 FastAPI dashboard launched",
+    "timestamp": 1759500731.6415558
+  },
+  {
+    "stage": "env_verification",
+    "message": "Missing keys: ['STRIPE_PAYMENT_LINK']",
+    "timestamp": 1759500731.6563542
+  },
+  {
+    "stage": "lead_patch",
+    "message": "\u2705 fallback_regex_scrape added",
+    "timestamp": 1759500731.8269746
+  },
+  {
+    "stage": "proxy",
+    "message": "\u26a0\ufe0f All proxies failed. Bypassing...",
+    "timestamp": 1759500731.8424292
+  },
+  {
+    "stage": "dispatch",
+    "message": "\u2705 Auto-posted with score 5",
+    "timestamp": 1759500733.9339345
+  },
+  {
+    "stage": "earnings",
+    "message": "\ud83d\udcb0 Estimated daily income: $3.00",
+    "timestamp": 1759500734.015295
+  },
+  {
+    "stage": "autopilot",
+    "message": "\u2705 realms_autopilot.py launched",
+    "timestamp": 1759502199.9404428
+  },
+  {
+    "stage": "dashboard",
+    "message": "\u2705 FastAPI dashboard launched",
+    "timestamp": 1759530545.473328
+  },
+  {
+    "stage": "env_verification",
+    "message": "Missing keys: ['STRIPE_PAYMENT_LINK']",
+    "timestamp": 1759530545.490489
+  },
+  {
+    "stage": "proxy",
+    "message": "\u26a0\ufe0f All proxies failed. Bypassing...",
+    "timestamp": 1759530545.8892179
+  },
+  {
+    "stage": "dispatch",
+    "message": "\u2705 Auto-posted with score 7",
+    "timestamp": 1759530548.1326149
+  },
+  {
+    "stage": "earnings",
+    "message": "\ud83d\udcb0 Estimated daily income: $3.00",
+    "timestamp": 1759530548.150271
+  },
+  {
+    "stage": "autopilot",
+    "message": "\u2705 realms_autopilot.py launched",
+    "timestamp": 1759530623.7576125
+  }
+]

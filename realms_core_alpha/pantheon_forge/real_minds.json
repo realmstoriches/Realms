@@ -1,0 +1,2203 @@
+[
+    {
+        "name": "Ada Lovelace",
+        "domain": "Computing Pioneer",
+        "contribution": "First algorithm intended for a machine",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Ada_Lovelace",
+            "https://www.ted.com/search?q=Ada%20Lovelace"
+        ]
+    },
+    {
+        "name": "Alan Turing",
+        "domain": "Cryptography & AI",
+        "contribution": "Father of theoretical computer science and artificial intelligence",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Alan_Turing",
+            "https://www.ted.com/search?q=Alan%20Turing"
+        ]
+    },
+    {
+        "name": "Claude Shannon",
+        "domain": "Information Theory",
+        "contribution": "Founded digital circuit design theory and information theory",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Claude_Shannon",
+            "https://www.ted.com/search?q=Claude%20Shannon"
+        ]
+    },
+    {
+        "name": "Grace Hopper",
+        "domain": "Programming Languages",
+        "contribution": "Invented the first compiler and helped develop COBOL",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Grace_Hopper",
+            "https://www.ted.com/search?q=Grace%20Hopper"
+        ]
+    },
+    {
+        "name": "Steve Jobs",
+        "domain": "Product Strategy & Design",
+        "contribution": "Co-founder of Apple, revolutionized consumer tech",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Steve_Jobs",
+            "https://www.ted.com/search?q=Steve%20Jobs"
+        ]
+    },
+    {
+        "name": "Tim Berners-Lee",
+        "domain": "Web Architecture",
+        "contribution": "Invented the World Wide Web",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+            "https://www.ted.com/search?q=Tim%20Berners-Lee"
+        ]
+    },
+    {
+        "name": "Linus Torvalds",
+        "domain": "Open Source Systems",
+        "contribution": "Created the Linux kernel and Git",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Linus_Torvalds",
+            "https://www.ted.com/search?q=Linus%20Torvalds"
+        ]
+    },
+    {
+        "name": "Barbara Liskov",
+        "domain": "Software Engineering",
+        "contribution": "Developed Liskov Substitution Principle and CLU language",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Barbara_Liskov",
+            "https://www.ted.com/search?q=Barbara%20Liskov"
+        ]
+    },
+    {
+        "name": "Donald Knuth",
+        "domain": "Algorithms & Typography",
+        "contribution": "Author of The Art of Computer Programming and creator of TeX",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Donald_Knuth",
+            "https://www.ted.com/search?q=Donald%20Knuth"
+        ]
+    },
+    {
+        "name": "Radia Perlman",
+        "domain": "Networking",
+        "contribution": "Invented the Spanning Tree Protocol",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Radia_Perlman",
+            "https://www.ted.com/search?q=Radia%20Perlman"
+        ]
+    },
+    {
+        "name": "Fei-Fei Li",
+        "domain": "Artificial Intelligence",
+        "contribution": "Invented ImageNet, advanced human-centered AI",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Fei-Fei_Li",
+            "https://www.ted.com/search?q=Fei-Fei%20Li"
+        ]
+    },
+    {
+        "name": "Anne Wojcicki",
+        "domain": "Genomics & Health Tech",
+        "contribution": "Co-founder of 23andMe, democratized consumer genetics",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Anne_Wojcicki",
+            "https://www.ted.com/search?q=Anne%20Wojcicki"
+        ]
+    },
+    {
+        "name": "Ben Silbermann",
+        "domain": "Social Discovery Platforms",
+        "contribution": "Co-founder of Pinterest, redefined visual inspiration",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Ben_Silbermann",
+            "https://www.ted.com/search?q=Ben%20Silbermann"
+        ]
+    },
+    {
+        "name": "Kara Swisher",
+        "domain": "Tech Journalism",
+        "contribution": "Influential journalist covering Silicon Valley since 1994",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Kara_Swisher",
+            "https://www.ted.com/search?q=Kara%20Swisher"
+        ]
+    },
+    {
+        "name": "Michael Krigsman",
+        "domain": "Digital Strategy & Analysis",
+        "contribution": "Founder of CXOTalk, interviewed 1000+ tech leaders",
+        "sources": [
+            "https://www.cxotalk.com/",
+            "https://www.ted.com/search?q=Michael%20Krigsman"
+        ]
+    },
+    {
+        "name": "Hamilton Mann",
+        "domain": "Digital Transformation",
+        "contribution": "Founder of The Hamilton Mann Conversation, global tech strategist",
+        "sources": [
+            "https://www.hamiltonmannconversation.com/",
+            "https://www.ted.com/search?q=Hamilton%20Mann"
+        ]
+    },
+    {
+        "name": "Sam Altman",
+        "domain": "AI & Startup Leadership",
+        "contribution": "CEO of OpenAI, former president of Y Combinator",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Sam_Altman",
+            "https://www.ted.com/search?q=Sam%20Altman"
+        ]
+    },
+    {
+        "name": "Ilya Sutskever",
+        "domain": "Deep Learning",
+        "contribution": "Co-founder of OpenAI, key architect of GPT models",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Ilya_Sutskever",
+            "https://www.ted.com/search?q=Ilya%20Sutskever"
+        ]
+    },
+    {
+        "name": "Geoffrey Hinton",
+        "domain": "Neural Networks",
+        "contribution": "Pioneer of backpropagation and deep learning",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Geoffrey_Hinton",
+            "https://www.ted.com/search?q=Geoffrey%20Hinton"
+        ]
+    },
+    {
+        "name": "Yoshua Bengio",
+        "domain": "Machine Learning",
+        "contribution": "Co-inventor of deep learning, advocate for ethical AI",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Yoshua_Bengio",
+            "https://www.ted.com/search?q=Yoshua%20Bengio"
+        ]
+    },
+    {
+        "name": "Marissa Mayer",
+        "domain": "Product & UX Leadership",
+        "contribution": "First female engineer at Google, former CEO of Yahoo",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Marissa_Mayer",
+            "https://www.ted.com/search?q=Marissa%20Mayer"
+        ]
+    },
+    {
+        "name": "Mitchell Baker",
+        "domain": "Open Source Governance",
+        "contribution": "Chairwoman of Mozilla Foundation, advocate for open web standards",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Mitchell_Baker",
+            "https://www.ted.com/search?q=Mitchell%20Baker"
+        ]
+    },
+    {
+        "name": "Kent Beck",
+        "domain": "Agile Development",
+        "contribution": "Creator of Extreme Programming, key figure in Agile Manifesto",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Kent_Beck",
+            "https://www.ted.com/search?q=Kent%20Beck"
+        ]
+    },
+    {
+        "name": "Martin Fowler",
+        "domain": "Software Architecture",
+        "contribution": "Thought leader in refactoring, microservices, and agile design",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Martin_Fowler",
+            "https://www.ted.com/search?q=Martin%20Fowler"
+        ]
+    },
+    {
+        "name": "James Gosling",
+        "domain": "Programming Languages",
+        "contribution": "Creator of the Java programming language",
+        "sources": [
+            "https://en.wikipedia.org/wiki/James_Gosling",
+            "https://www.ted.com/search?q=James%20Gosling"
+        ]
+    },
+    {
+        "name": "Guido van Rossum",
+        "domain": "Programming Languages",
+        "contribution": "Creator of Python, champion of readable code",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Guido_van_Rossum",
+            "https://www.ted.com/search?q=Guido%20van%20Rossum"
+        ]
+    },
+    {
+        "name": "Brendan Eich",
+        "domain": "Web Development",
+        "contribution": "Invented JavaScript, co-founded Mozilla and Brave",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Brendan_Eich",
+            "https://www.ted.com/search?q=Brendan%20Eich"
+        ]
+    },
+    {
+        "name": "Bjarne Stroustrup",
+        "domain": "Programming Languages",
+        "contribution": "Inventor of C++, advanced systems programming",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Bjarne_Stroustrup",
+            "https://www.ted.com/search?q=Bjarne%20Stroustrup"
+        ]
+    },
+    {
+        "name": "Yukihiro Matsumoto",
+        "domain": "Programming Languages",
+        "contribution": "Creator of Ruby, focused on developer happiness",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Yukihiro_Matsumoto",
+            "https://www.ted.com/search?q=Yukihiro%20Matsumoto"
+        ]
+    },
+    {
+        "name": "Anders Hejlsberg",
+        "domain": "Programming Languages",
+        "contribution": "Architect of Turbo Pascal, Delphi, and TypeScript",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Anders_Hejlsberg",
+            "https://www.ted.com/search?q=Anders%20Hejlsberg"
+        ]
+    },
+    {
+        "name": "Jeff Dean",
+        "domain": "Scalable Systems & AI",
+        "contribution": "Google Senior Fellow, co-creator of MapReduce and TensorFlow",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Jeff_Dean",
+            "https://www.ted.com/search?q=Jeff%20Dean"
+        ]
+    },
+    {
+        "name": "Ian Goodfellow",
+        "domain": "Machine Learning",
+        "contribution": "Inventor of GANs (Generative Adversarial Networks)",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Ian_Goodfellow",
+            "https://www.ted.com/search?q=Ian%20Goodfellow"
+        ]
+    },
+    {
+        "name": "Jeremy Howard",
+        "domain": "Deep Learning Education",
+        "contribution": "Co-founder of fast.ai, democratized deep learning training",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Jeremy_Howard",
+            "https://www.ted.com/search?q=Jeremy%20Howard"
+        ]
+    },
+    {
+        "name": "Chris Lattner",
+        "domain": "Compiler Design",
+        "contribution": "Created LLVM and Swift programming language",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Chris_Lattner",
+            "https://www.ted.com/search?q=Chris%20Lattner"
+        ]
+    },
+    {
+        "name": "John Carmack",
+        "domain": "Graphics & Game Engines",
+        "contribution": "Co-founder of id Software, architect of Doom and Quake engines",
+        "sources": [
+            "https://en.wikipedia.org/wiki/John_Carmack",
+            "https://www.ted.com/search?q=John%20Carmack"
+        ]
+    },
+    {
+        "name": "Sal Khan",
+        "domain": "Education Technology",
+        "contribution": "Founder of Khan Academy, global free learning platform",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Sal_Khan",
+            "https://www.ted.com/search?q=Sal%20Khan"
+        ]
+    },
+    {
+        "name": "Susan Wojcicki",
+        "domain": "Digital Media",
+        "contribution": "Former CEO of YouTube, early Google marketing leader",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Susan_Wojcicki",
+            "https://www.ted.com/search?q=Susan%20Wojcicki"
+        ]
+    },
+    {
+        "name": "Melanie Mitchell",
+        "domain": "Complex Systems & AI",
+        "contribution": "Author of 'Artificial Intelligence: A Guide for Thinking Humans'",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Melanie_Mitchell",
+            "https://www.ted.com/search?q=Melanie%20Mitchell"
+        ]
+    },
+    {
+        "name": "Lex Fridman",
+        "domain": "AI & Robotics",
+        "contribution": "MIT researcher and host of influential AI podcast",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Lex_Fridman",
+            "https://www.ted.com/search?q=Lex%20Fridman"
+        ]
+    },
+    {
+        "name": "Sebastian Thrun",
+        "domain": "Autonomous Systems",
+        "contribution": "Founder of Udacity, led Google\u2019s self-driving car project",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Sebastian_Thrun",
+            "https://www.ted.com/search?q=Sebastian%20Thrun"
+        ]
+    },
+    {
+        "name": "Bill Gates",
+        "domain": "Software & Philanthropy",
+        "contribution": "Co-founder of Microsoft, global health philanthropist",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Bill_Gates",
+            "https://www.ted.com/search?q=Bill%20Gates"
+        ]
+    },
+    {
+        "name": "Jeff Bezos",
+        "domain": "E-commerce & Cloud",
+        "contribution": "Founder of Amazon, pioneered cloud infrastructure with AWS",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Jeff_Bezos",
+            "https://www.ted.com/search?q=Jeff%20Bezos"
+        ]
+    },
+    {
+        "name": "Mark Zuckerberg",
+        "domain": "Social Media",
+        "contribution": "Co-founder of Facebook, reshaped global communication",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+            "https://www.ted.com/search?q=Mark%20Zuckerberg"
+        ]
+    },
+    {
+        "name": "Jack Dorsey",
+        "domain": "Social Platforms & Fintech",
+        "contribution": "Co-founder of Twitter and Square",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Jack_Dorsey",
+            "https://www.ted.com/search?q=Jack%20Dorsey"
+        ]
+    },
+    {
+        "name": "Antonio Neri",
+        "domain": "Enterprise IT",
+        "contribution": "CEO of HPE, led shift to Everything-as-a-Service",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Antonio_Neri",
+            "https://www.ted.com/search?q=Antonio%20Neri"
+        ]
+    },
+    {
+        "name": "Neil Gunther",
+        "domain": "Computational Scalability",
+        "contribution": "Developed universal law of computational scalability",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Neil_Gunther",
+            "https://www.ted.com/search?q=Neil%20Gunther"
+        ]
+    },
+    {
+        "name": "Meredith Whittaker",
+        "domain": "AI Ethics & Governance",
+        "contribution": "Co-founder of AI Now Institute, advocate for ethical AI",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Meredith_Whittaker",
+            "https://www.ted.com/search?q=Meredith%20Whittaker"
+        ]
+    },
+    {
+        "name": "Sundar Pichai",
+        "domain": "Search & Cloud Platforms",
+        "contribution": "CEO of Google and Alphabet, scaled global AI infrastructure",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Sundar_Pichai",
+            "https://www.ted.com/search?q=Sundar%20Pichai"
+        ]
+    },
+    {
+        "name": "Brian Chesky",
+        "domain": "Platform Economy",
+        "contribution": "Co-founder and CEO of Airbnb",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Brian_Chesky",
+            "https://www.ted.com/search?q=Brian%20Chesky"
+        ]
+    },
+    {
+        "name": "Drew Houston",
+        "domain": "Cloud Storage",
+        "contribution": "Co-founder and CEO of Dropbox",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Drew_Houston",
+            "https://www.ted.com/search?q=Drew%20Houston"
+        ]
+    },
+    {
+        "name": "Daniel Ek",
+        "domain": "Streaming Media",
+        "contribution": "Co-founder and CEO of Spotify",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Daniel_Ek",
+            "https://www.ted.com/search?q=Daniel%20Ek"
+        ]
+    },
+    {
+        "name": "Whitney Wolfe Herd",
+        "domain": "Social Platforms",
+        "contribution": "Founder of Bumble, redefined dating app dynamics",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Whitney_Wolfe_Herd",
+            "https://www.ted.com/search?q=Whitney%20Wolfe%20Herd"
+        ]
+    },
+    {
+        "name": "Reshma Saujani",
+        "domain": "Tech Education",
+        "contribution": "Founder of Girls Who Code",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Reshma_Saujani",
+            "https://www.ted.com/search?q=Reshma%20Saujani"
+        ]
+    },
+    {
+        "name": "Melinda French Gates",
+        "domain": "Philanthropy & Tech Equity",
+        "contribution": "Co-chair of Gates Foundation, advocate for women in tech",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Melinda_French_Gates",
+            "https://www.ted.com/search?q=Melinda%20Gates"
+        ]
+    },
+    {
+        "name": "Reed Hastings",
+        "domain": "Streaming & Media",
+        "contribution": "Co-founder and former CEO of Netflix",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Reed_Hastings",
+            "https://www.ted.com/search?q=Reed%20Hastings"
+        ]
+    },
+    {
+        "name": "Marc Andreessen",
+        "domain": "Venture Capital & Browsers",
+        "contribution": "Co-founder of Netscape and Andreessen Horowitz",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Marc_Andreessen",
+            "https://www.ted.com/search?q=Marc%20Andreessen"
+        ]
+    },
+    {
+        "name": "Ben Horowitz",
+        "domain": "Venture Capital",
+        "contribution": "Co-founder of Andreessen Horowitz, author of 'The Hard Thing About Hard Things'",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Ben_Horowitz",
+            "https://www.ted.com/search?q=Ben%20Horowitz"
+        ]
+    },
+    {
+        "name": "Naval Ravikant",
+        "domain": "Angel Investing & Philosophy",
+        "contribution": "Founder of AngelList, advocate for founder independence",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Naval_Ravikant",
+            "https://www.ted.com/search?q=Naval%20Ravikant"
+        ]
+    },
+    {
+        "name": "Patrick Collison",
+        "domain": "Fintech Infrastructure",
+        "contribution": "Co-founder and CEO of Stripe",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Patrick_Collison",
+            "https://www.ted.com/search?q=Patrick%20Collison"
+        ]
+    },
+    {
+        "name": "John Collison",
+        "domain": "Fintech Infrastructure",
+        "contribution": "Co-founder of Stripe, youngest self-made billionaire",
+        "sources": [
+            "https://en.wikipedia.org/wiki/John_Collison",
+            "https://www.ted.com/search?q=John%20Collison"
+        ]
+    },
+    {
+        "name": "Diane Greene",
+        "domain": "Cloud Computing",
+        "contribution": "Co-founder of VMware, former head of Google Cloud",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Diane_Greene",
+            "https://www.ted.com/search?q=Diane%20Greene"
+        ]
+    },
+    {
+        "name": "Safra Catz",
+        "domain": "Enterprise Software",
+        "contribution": "CEO of Oracle Corporation",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Safra_Catz",
+            "https://www.ted.com/search?q=Safra%20Catz"
+        ]
+    },
+    {
+        "name": "Ginni Rometty",
+        "domain": "Enterprise AI & Cloud",
+        "contribution": "Former CEO of IBM, led AI and hybrid cloud strategy",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Ginni_Rometty",
+            "https://www.ted.com/search?q=Ginni%20Rometty"
+        ]
+    },
+    {
+        "name": "Meg Whitman",
+        "domain": "Tech Leadership",
+        "contribution": "Former CEO of eBay and HP, led major tech turnarounds",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Meg_Whitman",
+            "https://www.ted.com/search?q=Meg%20Whitman"
+        ]
+    },
+    {
+        "name": "Padmasree Warrior",
+        "domain": "Mobility & Innovation",
+        "contribution": "Former CTO of Cisco, CEO of NIO US",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Padmasree_Warrior",
+            "https://www.ted.com/search?q=Padmasree%20Warrior"
+        ]
+    },
+    {
+        "name": "Tristan Harris",
+        "domain": "Tech Ethics",
+        "contribution": "Founder of Center for Humane Technology",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Tristan_Harris",
+            "https://www.ted.com/search?q=Tristan%20Harris"
+        ]
+    },
+    {
+        "name": "Gina Bianchini",
+        "domain": "Community Platforms",
+        "contribution": "Founder of Mighty Networks, pioneer in online community building",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Gina_Bianchini",
+            "https://www.ted.com/search?q=Gina%20Bianchini"
+        ]
+    },
+    {
+        "name": "Jony Ive",
+        "domain": "Industrial Design",
+        "contribution": "Chief Design Officer at Apple, led design of iPhone, iMac, iPad",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Jonathan_Ive",
+            "https://www.ted.com/search?q=Jony%20Ive"
+        ]
+    },
+    {
+        "name": "Don Norman",
+        "domain": "UX & Human-Centered Design",
+        "contribution": "Author of 'The Design of Everyday Things', coined term 'user experience'",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Don_Norman",
+            "https://www.ted.com/search?q=Don%20Norman"
+        ]
+    },
+    {
+        "name": "Mary Jo Foley",
+        "domain": "Enterprise Tech Journalism",
+        "contribution": "Veteran Microsoft journalist, chronicled enterprise evolution for decades",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Mary_Jo_Foley",
+            "https://www.ted.com/search?q=Mary%20Jo%20Foley"
+        ]
+    },
+    {
+        "name": "Marty Cagan",
+        "domain": "Product Management",
+        "contribution": "Author of 'Inspired', shaped modern product leadership",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Marty_Cagan",
+            "https://www.ted.com/search?q=Marty%20Cagan"
+        ]
+    },
+    {
+        "name": "Martin Casado",
+        "domain": "Networking & VC",
+        "contribution": "Co-founder of Nicira, partner at Andreessen Horowitz",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Martin_Casado",
+            "https://www.ted.com/search?q=Martin%20Casado"
+        ]
+    },
+    {
+        "name": "Shantanu Narayen",
+        "domain": "Creative Software",
+        "contribution": "CEO of Adobe, led transition to cloud-based creative tools",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Shantanu_Narayen",
+            "https://www.ted.com/search?q=Shantanu%20Narayen"
+        ]
+    },
+    {
+        "name": "Julie Zhuo",
+        "domain": "Product Design",
+        "contribution": "Former VP of Product Design at Facebook, author of 'The Making of a Manager'",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Julie_Zhuo",
+            "https://www.ted.com/search?q=Julie%20Zhuo"
+        ]
+    },
+    {
+        "name": "Laszlo Bock",
+        "domain": "People Operations",
+        "contribution": "Former SVP of People at Google, author of 'Work Rules!'",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Laszlo_Bock",
+            "https://www.ted.com/search?q=Laszlo%20Bock"
+        ]
+    },
+    {
+        "name": "Patty McCord",
+        "domain": "HR & Culture",
+        "contribution": "Former Chief Talent Officer at Netflix, co-created Netflix Culture Deck",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Patty_McCord",
+            "https://www.ted.com/search?q=Patty%20McCord"
+        ]
+    },
+    {
+        "name": "Josh Bersin",
+        "domain": "HR Strategy",
+        "contribution": "Founder of Bersin & Associates, global HR thought leader",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Josh_Bersin",
+            "https://www.ted.com/search?q=Josh%20Bersin"
+        ]
+    },
+    {
+        "name": "Hubert Joly",
+        "domain": "Leadership & Turnaround",
+        "contribution": "Former CEO of Best Buy, led cultural and operational transformation",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Hubert_Joly",
+            "https://www.ted.com/search?q=Hubert%20Joly"
+        ]
+    },
+    {
+        "name": "Simon Sinek",
+        "domain": "Leadership & Vision",
+        "contribution": "Author of 'Start With Why', global speaker on purpose-driven leadership",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Simon_Sinek",
+            "https://www.ted.com/search?q=Simon%20Sinek"
+        ]
+    },
+    {
+        "name": "Seth Godin",
+        "domain": "Marketing & Storytelling",
+        "contribution": "Author of 'Purple Cow' and 'This is Marketing', pioneer of permission marketing",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Seth_Godin",
+            "https://www.ted.com/search?q=Seth%20Godin"
+        ]
+    },
+    {
+        "name": "Ann Handley",
+        "domain": "Content Marketing",
+        "contribution": "Author of 'Everybody Writes', Chief Content Officer at MarketingProfs",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Ann_Handley",
+            "https://www.ted.com/search?q=Ann%20Handley"
+        ]
+    },
+    {
+        "name": "Rand Fishkin",
+        "domain": "SEO & Growth",
+        "contribution": "Founder of Moz and SparkToro, expert in search and audience intelligence",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Rand_Fishkin",
+            "https://www.ted.com/search?q=Rand%20Fishkin"
+        ]
+    },
+    {
+        "name": "April Dunford",
+        "domain": "Positioning & GTM",
+        "contribution": "Author of 'Obviously Awesome', expert in product positioning",
+        "sources": [
+            "https://en.wikipedia.org/wiki/April_Dunford",
+            "https://www.ted.com/search?q=April%20Dunford"
+        ]
+    },
+    {
+        "name": "Brian Halligan",
+        "domain": "Inbound Marketing",
+        "contribution": "Co-founder of HubSpot, evangelist of inbound marketing",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Brian_Halligan",
+            "https://www.ted.com/search?q=Brian%20Halligan"
+        ]
+    },
+    {
+        "name": "Dharmesh Shah",
+        "domain": "Startup Marketing & Culture",
+        "contribution": "Co-founder of HubSpot, advocate for startup transparency",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Dharmesh_Shah",
+            "https://www.ted.com/search?q=Dharmesh%20Shah"
+        ]
+    },
+    {
+        "name": "Mary Barra",
+        "domain": "Executive Leadership",
+        "contribution": "CEO of General Motors, first female CEO of a major global automaker",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Mary_Barra",
+            "https://www.ted.com/search?q=Mary%20Barra"
+        ]
+    },
+    {
+        "name": "Satya Nadella",
+        "domain": "Cloud & Culture Transformation",
+        "contribution": "CEO of Microsoft, led cultural and cloud-first transformation",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Satya_Nadella",
+            "https://www.ted.com/search?q=Satya%20Nadella"
+        ]
+    },
+    {
+        "name": "Indra Nooyi",
+        "domain": "Global Strategy & Leadership",
+        "contribution": "Former CEO of PepsiCo, advocate for performance with purpose",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Indra_Nooyi",
+            "https://www.ted.com/search?q=Indra%20Nooyi"
+        ]
+    },
+    {
+        "name": "Tony Robbins",
+        "domain": "Performance & Influence",
+        "contribution": "Global speaker and coach on mindset, leadership, and influence",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Tony_Robbins",
+            "https://www.ted.com/search?q=Tony%20Robbins"
+        ]
+    },
+    {
+        "name": "Marc Benioff",
+        "domain": "CRM & Culture",
+        "contribution": "Founder of Salesforce, champion of stakeholder capitalism",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Marc_Benioff",
+            "https://www.ted.com/search?q=Marc%20Benioff"
+        ]
+    },
+    {
+        "name": "Melanie Perkins",
+        "domain": "Design & SaaS",
+        "contribution": "Co-founder and CEO of Canva, democratized design tools",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Melanie_Perkins",
+            "https://www.ted.com/search?q=Melanie%20Perkins"
+        ]
+    },
+    {
+        "name": "Tobi L\u00fctke",
+        "domain": "E-commerce Infrastructure",
+        "contribution": "Founder and CEO of Shopify, built scalable commerce platform",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Tobias_L\u00fctke",
+            "https://www.ted.com/search?q=Tobi%20L\u00fctke"
+        ]
+    },
+    {
+        "name": "Stewart Butterfield",
+        "domain": "Team Communication",
+        "contribution": "Co-founder of Slack, redefined workplace messaging",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Stewart_Butterfield",
+            "https://www.ted.com/search?q=Stewart%20Butterfield"
+        ]
+    },
+    {
+        "name": "Claire Hughes Johnson",
+        "domain": "Operations & Scaling",
+        "contribution": "Former COO of Stripe, author of 'Scaling People'",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Claire_Hughes_Johnson",
+            "https://www.ted.com/search?q=Claire%20Hughes%20Johnson"
+        ]
+    },
+    {
+  "name": "Henry Gantt",
+  "domain": "Project Management",
+  "contribution": "Invented the Gantt Chart, foundational tool for project scheduling",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Henry_Gantt",
+    "https://hogonext.com/the-18-most-influential-people-in-project-management/"
+  ]
+},
+{
+  "name": "Peter Drucker",
+  "domain": "Management Theory",
+  "contribution": "Father of modern management, emphasized strategic planning and decentralization",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peter_Drucker",
+    "https://hogonext.com/the-18-most-influential-people-in-project-management/"
+  ]
+},
+{
+  "name": "Rita Mulcahy",
+  "domain": "Project Management Training",
+  "contribution": "Author of PMP Exam Prep, revolutionized project certification training",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rita_Mulcahy",
+    "https://hogonext.com/the-18-most-influential-people-in-project-management/"
+  ]
+},
+{
+  "name": "Tom Peters",
+  "domain": "Organizational Excellence",
+  "contribution": "Author of 'In Search of Excellence', championed innovation and leadership",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tom_Peters",
+    "https://hogonext.com/the-18-most-influential-people-in-project-management/"
+  ]
+},
+{
+  "name": "Margaret Hamilton",
+  "domain": "Software Project Management",
+  "contribution": "Led Apollo mission software, pioneered error detection and recovery systems",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)",
+    "https://hogonext.com/the-18-most-influential-people-in-project-management/"
+  ]
+},
+{
+  "name": "W. Edwards Deming",
+  "domain": "Quality Management",
+  "contribution": "Created the 14 Points for Management, transformed manufacturing and project quality",
+  "sources": [
+    "https://en.wikipedia.org/wiki/W._Edwards_Deming",
+    "https://hogonext.com/the-18-most-influential-people-in-project-management/"
+  ]
+},
+{
+  "name": "Frederick Winslow Taylor",
+  "domain": "Scientific Management",
+  "contribution": "Pioneered time-motion studies and efficiency optimization",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor",
+    "https://www.projectengineer.net/10-famous-project-managers-leaders-who-shaped-success/"
+  ]
+},
+{
+  "name": "Steve Browne",
+  "domain": "Human Resources",
+  "contribution": "Executive Director of HR at LaRosa’s, known for relational HR leadership",
+  "sources": [
+    "https://www.softwaresuggest.com/blog/top-hr-managers/",
+    "https://www.linkedin.com/in/stevebrowne/"
+  ]
+},
+{
+  "name": "Felicia Fields",
+  "domain": "Strategic HR",
+  "contribution": "VP of HR at Ford, led HR turnaround during 2008 recession",
+  "sources": [
+    "https://www.softwaresuggest.com/blog/top-hr-managers/",
+    "https://www.linkedin.com/in/felicia-fields-hr/"
+  ]
+},
+{
+  "name": "Hollie Delaney",
+  "domain": "Culture & Retention",
+  "contribution": "HR Director at Zappos, pioneered social recruiting and employee engagement",
+  "sources": [
+    "https://www.softwaresuggest.com/blog/top-hr-managers/",
+    "https://www.linkedin.com/in/holliedelaney/"
+  ]
+},
+{
+  "name": "Laszlo Bock",
+  "domain": "People Operations",
+  "contribution": "Former SVP of People at Google, author of 'Work Rules!'",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Laszlo_Bock",
+    "https://www.ted.com/search?q=Laszlo%20Bock"
+  ]
+},
+{
+  "name": "Patty McCord",
+  "domain": "HR & Culture",
+  "contribution": "Co-created Netflix Culture Deck, champion of radical transparency",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Patty_McCord",
+    "https://www.ted.com/search?q=Patty%20McCord"
+  ]
+},
+{
+  "name": "Josh Bersin",
+  "domain": "HR Strategy",
+  "contribution": "Founder of Bersin & Associates, global HR thought leader",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Josh_Bersin",
+    "https://www.ted.com/search?q=Josh%20Bersin"
+  ]
+},
+{
+  "name": "Hubert Joly",
+  "domain": "Leadership & Turnaround",
+  "contribution": "Former CEO of Best Buy, led cultural and operational transformation",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hubert_Joly",
+    "https://www.ted.com/search?q=Hubert%20Joly"
+  ]
+},
+{
+  "name": "Simon Sinek",
+  "domain": "Leadership & Vision",
+  "contribution": "Author of 'Start With Why', global speaker on purpose-driven leadership",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Simon_Sinek",
+    "https://www.ted.com/search?q=Simon%20Sinek"
+  ]
+},
+{
+  "name": "Ann Mei Chang",
+  "domain": "Lean Impact & Innovation",
+  "contribution": "Author of 'Lean Impact', former Chief Innovation Officer at USAID",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ann_Mei_Chang",
+    "https://www.ted.com/search?q=Ann%20Mei%20Chang"
+  ]
+},
+{
+  "name": "John Kotter",
+  "domain": "Organizational Change",
+  "contribution": "Author of 'Leading Change', developed 8-step change model",
+  "sources": [
+    "https://en.wikipedia.org/wiki/John_Kotter",
+    "https://www.ted.com/search?q=John%20Kotter"
+  ]
+},
+{
+  "name": "Amy Edmondson",
+  "domain": "Psychological Safety",
+  "contribution": "Harvard professor, coined 'teaming' and psychological safety in organizations",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amy_Edmondson",
+    "https://www.ted.com/search?q=Amy%20Edmondson"
+  ]
+},
+{
+  "name": "Linda Hill",
+  "domain": "Leadership & Innovation",
+  "contribution": "Harvard professor, co-author of 'Collective Genius'",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Linda_A._Hill",
+    "https://www.ted.com/search?q=Linda%20Hill"
+  ]
+},
+{
+  "name": "Rosabeth Moss Kanter",
+  "domain": "Organizational Behavior",
+  "contribution": "Harvard professor, expert in strategy, innovation, and leadership",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rosabeth_Moss_Kanter",
+    "https://www.ted.com/search?q=Rosabeth%20Moss%20Kanter"
+  ]
+},
+{
+  "name": "Michael Porter",
+  "domain": "Competitive Strategy",
+  "contribution": "Harvard economist, developed Five Forces and value chain models",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Michael_Porter",
+    "https://www.ted.com/search?q=Michael%20Porter"
+  ]
+},
+{
+  "name": "Clayton Christensen",
+  "domain": "Disruptive Innovation",
+  "contribution": "Author of 'The Innovator’s Dilemma', coined disruptive innovation",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Clayton_Christensen",
+    "https://www.ted.com/search?q=Clayton%20Christensen"
+  ]
+},
+{
+  "name": "Theresa M. Payton",
+  "domain": "Cybersecurity Leadership",
+  "contribution": "Former White House CIO, expert in digital risk and resilience",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Theresa_Payton",
+    "https://www.ted.com/search?q=Theresa%20Payton"
+  ]
+},
+{
+  "name": "Nicole Forsgren",
+  "domain": "DevOps & Performance",
+  "contribution": "Co-author of 'Accelerate', led DORA research on software delivery",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nicole_Forsgren",
+    "https://www.ted.com/search?q=Nicole%20Forsgren"
+  ]
+},
+{
+  "name": "Kim Scott",
+  "domain": "Leadership & Feedback",
+  "contribution": "Author of 'Radical Candor', promotes honest communication in management",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kim_Scott_(author)",
+    "https://www.radicalcandor.com/"
+  ]
+},
+{
+  "name": "Ram Charan",
+  "domain": "Business Strategy",
+  "contribution": "Advisor to CEOs, author of 'Execution' and 'Boards That Lead'",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ram_Charan_(consultant)",
+    "https://www.ram-charan.com/"
+  ]
+},
+{
+  "name": "Liz Wiseman",
+  "domain": "Leadership Development",
+  "contribution": "Author of 'Multipliers', expert in growing leadership capacity",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Liz_Wiseman",
+    "https://thewisemangroup.com/"
+  ]
+},
+{
+  "name": "Frances Frei",
+  "domain": "Organizational Transformation",
+  "contribution": "Harvard professor, expert in trust, inclusion, and leadership",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Frances_Frei",
+    "https://www.ted.com/speakers/frances_frei"
+  ]
+},
+{
+  "name": "Tasha Eurich",
+  "domain": "Self-Awareness & Leadership",
+  "contribution": "Organizational psychologist, author of 'Insight'",
+  "sources": [
+    "https://www.tashaeurich.com/",
+    "https://www.ted.com/speakers/tasha_eurich"
+  ]
+},
+{
+  "name": "Herminia Ibarra",
+  "domain": "Leadership Identity",
+  "contribution": "Professor at London Business School, author of 'Act Like a Leader, Think Like a Leader'",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Herminia_Ibarra",
+    "https://www.london.edu/faculty-and-research/faculty-profiles/i/ibarra-h"
+  ]
+},
+{
+  "name": "Kim Scott",
+  "domain": "Leadership & Feedback",
+  "contribution": "Author of 'Radical Candor', promotes honest communication in management",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kim_Scott_(author)",
+    "https://www.radicalcandor.com/"
+  ]
+},
+{
+  "name": "Ram Charan",
+  "domain": "Business Strategy",
+  "contribution": "Advisor to CEOs, author of 'Execution' and 'Boards That Lead'",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ram_Charan_(consultant)",
+    "https://www.ram-charan.com/"
+  ]
+},
+{
+  "name": "Liz Wiseman",
+  "domain": "Leadership Development",
+  "contribution": "Author of 'Multipliers', expert in growing leadership capacity",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Liz_Wiseman",
+    "https://thewisemangroup.com/"
+  ]
+},
+{
+  "name": "Frances Frei",
+  "domain": "Organizational Transformation",
+  "contribution": "Harvard professor, expert in trust, inclusion, and leadership",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Frances_Frei",
+    "https://www.ted.com/speakers/frances_frei"
+  ]
+},
+{
+  "name": "Tasha Eurich",
+  "domain": "Self-Awareness & Leadership",
+  "contribution": "Organizational psychologist, author of 'Insight'",
+  "sources": [
+    "https://www.tashaeurich.com/",
+    "https://www.ted.com/speakers/tasha_eurich"
+  ]
+},
+{
+  "name": "Herminia Ibarra",
+  "domain": "Leadership Identity",
+  "contribution": "Professor at London Business School, author of 'Act Like a Leader, Think Like a Leader'",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Herminia_Ibarra",
+    "https://www.london.edu/faculty-and-research/faculty-profiles/i/ibarra-h"
+  ]
+},
+{
+  "name": "Whitney Johnson",
+  "domain": "Talent Development",
+  "contribution": "Author of 'Disrupt Yourself', expert in personal and organizational growth",
+  "sources": [
+    "https://whitneyjohnson.com/",
+    "https://www.linkedin.com/in/whitneyjohnson/"
+  ]
+},
+{
+  "name": "Claude Silver",
+  "domain": "Chief Heart Officer",
+  "contribution": "CHRO at VaynerMedia, known for emotional optimism and people-first leadership",
+  "sources": [
+    "https://www.vaynermedia.com/team/claude-silver",
+    "https://www.linkedin.com/in/claudesilver/"
+  ]
+},
+{
+  "name": "Dave Ulrich",
+  "domain": "HR Strategy",
+  "contribution": "Co-founder of RBL Group, shaped modern HR practices and leadership capital",
+  "sources": [
+    "https://www.rbl.net/about-us/dave-ulrich",
+    "https://en.wikipedia.org/wiki/Dave_Ulrich"
+  ]
+},
+{
+  "name": "Brene Brown",
+  "domain": "Vulnerability & Leadership",
+  "contribution": "Researcher and speaker on courage, vulnerability, and organizational culture",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bren%C3%A9_Brown",
+    "https://www.ted.com/speakers/brene_brown"
+  ]
+},
+{
+  "name": "Tony Robbins",
+  "domain": "Peak Performance",
+  "contribution": "Coach and speaker on personal development, leadership, and business mastery",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tony_Robbins",
+    "https://www.tonyrobbins.com/"
+  ]
+},
+{
+  "name": "Marshall Goldsmith",
+  "domain": "Executive Coaching",
+  "contribution": "Author of 'What Got You Here Won’t Get You There', top leadership coach",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marshall_Goldsmith",
+    "https://marshallgoldsmith.com/"
+  ]
+},
+{
+  "name": "Daniel Goleman",
+  "domain": "Emotional Intelligence",
+  "contribution": "Popularized emotional intelligence in leadership and organizational behavior",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Daniel_Goleman",
+    "https://www.danielgoleman.info/"
+  ]
+},
+{
+  "name": "Adam Grant",
+  "domain": "Organizational Psychology",
+  "contribution": "Wharton professor, author of 'Give and Take' and 'Think Again'",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Adam_Grant",
+    "https://www.ted.com/speakers/adam_grant"
+  ]
+},
+{
+  "name": "Angela Duckworth",
+  "domain": "Grit & Performance",
+  "contribution": "Author of 'Grit', researcher on perseverance and achievement",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Angela_Duckworth",
+    "https://www.ted.com/speakers/angela_duckworth"
+  ]
+},
+{
+  "name": "Jeffrey Pfeffer",
+  "domain": "Power & Organizations",
+  "contribution": "Stanford professor, author of 'Power' and 'Leadership BS'",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jeffrey_Pfeffer",
+    "https://www.gsb.stanford.edu/faculty-research/faculty/jeffrey-pfeffer"
+  ]
+},
+{
+  "name": "Gary Hamel",
+  "domain": "Management Innovation",
+  "contribution": "Author of 'The Future of Management', advocate for reinventing organizations",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gary_Hamel",
+    "https://www.garyhamel.com/"
+  ]
+},
+{
+  "name": "Ranjay Gulati",
+  "domain": "Organizational Resilience",
+  "contribution": "Harvard professor, author of 'Deep Purpose'",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ranjay_Gulati",
+    "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6466"
+  ]
+},
+{
+  "name": "Stewart Butterfield",
+  "domain": "Team Communication",
+  "contribution": "Co-founder of Slack, transformed workplace collaboration",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stewart_Butterfield",
+    "https://slack.com/blog/news/stewart-butterfield-to-step-down-as-ceo"
+  ]
+},
+{
+  "name": "Julie Zhuo",
+  "domain": "Product Leadership",
+  "contribution": "Former VP of Product Design at Facebook, author of 'The Making of a Manager'",
+  "sources": [
+    "https://www.juliezhuo.com/",
+    "https://en.wikipedia.org/wiki/Julie_Zhuo"
+  ]
+},
+
+  {
+    "name": "Mary Parker Follett",
+    "domain": "organizational design",
+    "contribution": "Pioneered participatory management and the concept of 'power with' rather than 'power over'.",
+    "source": "https://hbr.org/2003/01/mary-parker-follett-power-sharing-in-organizations"
+  },
+  {
+    "name": "Lyndall Urwick",
+    "domain": "organizational design",
+    "contribution": "Codified classical management theory and emphasized organizational structure and principles.",
+    "source": "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100459189"
+  },
+  {
+    "name": "Henri Fayol",
+    "domain": "organizational design",
+    "contribution": "Developed the 14 principles of management and introduced administrative theory.",
+    "source": "https://www.businessmanagementideas.com/management/henri-fayol-14-principles-of-management/20137"
+  },
+  {
+    "name": "Peter Senge",
+    "domain": "organizational design",
+    "contribution": "Introduced the concept of the learning organization in 'The Fifth Discipline'.",
+    "source": "https://mitsloan.mit.edu/LearningEdge/CaseDocs/The-Fifth-Discipline.aspx"
+  },
+  {
+    "name": "Chris Argyris",
+    "domain": "organizational design",
+    "contribution": "Developed theories of organizational learning and double-loop learning.",
+    "source": "https://hbr.org/1977/09/double-loop-learning-in-organizations"
+  },
+  {
+    "name": "Warren Bennis",
+    "domain": "organizational design",
+    "contribution": "Advanced leadership studies and emphasized the importance of adaptive organizations.",
+    "source": "https://www.leadershipnow.com/leadershop/9780465015009.html"
+  },
+  {
+    "name": "Rosabeth Moss Kanter",
+    "domain": "organizational design",
+    "contribution": "Explored change management and innovation within corporations.",
+    "source": "https://hbr.org/authors/rosabeth-moss-kanter"
+  },
+  {
+    "name": "Jay Galbraith",
+    "domain": "organizational design",
+    "contribution": "Created the Star Model for organizational design.",
+    "source": "https://www.jaygalbraith.com/star-model"
+  },
+  {
+    "name": "Mintzberg",
+    "domain": "organizational design",
+    "contribution": "Defined organizational configurations and managerial roles.",
+    "source": "https://www.mintzberg.org/books/structure-in-fives"
+  },
+  {
+    "name": "Joan Woodward",
+    "domain": "organizational design",
+    "contribution": "Linked technology to organizational structure in contingency theory.",
+    "source": "https://www.britannica.com/biography/Joan-Woodward"
+  },
+  {
+    "name": "Frederick Herzberg",
+    "domain": "HR leadership",
+    "contribution": "Developed the two-factor theory of motivation.",
+    "source": "https://www.mindtools.com/a4wo118/herzbergs-motivators-and-hygiene-factors"
+  },
+  {
+    "name": "David Ulrich",
+    "domain": "HR leadership",
+    "contribution": "Redefined HR roles and introduced the HR business partner model.",
+    "source": "https://www.davidulrich.com/"
+  },
+  {
+    "name": "Susan Heathfield",
+    "domain": "HR leadership",
+    "contribution": "Popularized practical HR strategies and employee engagement techniques.",
+    "source": "https://www.thebalancecareers.com/susan-m-heathfield-1918189"
+  },
+  {
+    "name": "Laszlo Bock",
+    "domain": "HR leadership",
+    "contribution": "Led Google's People Operations and authored 'Work Rules!'.",
+    "source": "https://www.workrules.net/"
+  },
+  {
+    "name": "Jac Fitz-enz",
+    "domain": "HR leadership",
+    "contribution": "Pioneered HR metrics and workforce analytics.",
+    "source": "https://www.hci.org/blog/jac-fitz-enz-hr-metrics"
+  },
+  {
+    "name": "Patty McCord",
+    "domain": "HR leadership",
+    "contribution": "Co-created the Netflix Culture Deck and championed radical honesty.",
+    "source": "https://www.pattymccord.com/"
+  },
+  {
+    "name": "John P. Kotter",
+    "domain": "operational excellence",
+    "contribution": "Developed the 8-step process for leading change.",
+    "source": "https://www.kotterinc.com/methodology/8-steps/"
+  },
+  {
+    "name": "W. Edwards Deming",
+    "domain": "operational excellence",
+    "contribution": "Father of quality management and continuous improvement.",
+    "source": "https://deming.org/explore/"
+  },
+  {
+    "name": "Joseph Juran",
+    "domain": "operational excellence",
+    "contribution": "Introduced the Juran Trilogy: quality planning, control, and improvement.",
+    "source": "https://www.juran.com/blog/juran-trilogy/"
+  },
+  {
+    "name": "Taiichi Ohno",
+    "domain": "operational excellence",
+    "contribution": "Invented the Toyota Production System and lean manufacturing.",
+    "source": "https://www.toyota-global.com/company/history_of_toyota/75years/text/taking_on_the_challenge/chapter2/section2/item1.html"
+  },
+  
+  {
+    "name": "Frank Gilbreth",
+    "domain": "operational excellence",
+    "contribution": "Pioneered time and motion studies to improve industrial efficiency.",
+    "source": "https://www.britannica.com/biography/Frank-Bunker-Gilbreth"
+  },
+  {
+    "name": "Lillian Gilbreth",
+    "domain": "operational excellence",
+    "contribution": "Integrated psychology into industrial engineering and human factors.",
+    "source": "https://www.asme.org/about-asme/who-we-are/engineering-history/lillian-m-gilbreth"
+  },
+  {
+    "name": "Shigeo Shingo",
+    "domain": "operational excellence",
+    "contribution": "Developed Poka-Yoke and SMED within lean manufacturing.",
+    "source": "https://www.shingoinstitute.org/shigeo-shingo"
+  },
+  {
+    "name": "Michael Hammer",
+    "domain": "operational excellence",
+    "contribution": "Introduced business process reengineering (BPR).",
+    "source": "https://hbr.org/1990/07/reengineering-work-dont-automate-obsolete"
+  },
+  {
+    "name": "Tom Peters",
+    "domain": "operational excellence",
+    "contribution": "Co-authored 'In Search of Excellence' and championed management innovation.",
+    "source": "https://tompeters.com/"
+  },
+  {
+    "name": "Jim Collins",
+    "domain": "operational excellence",
+    "contribution": "Authored 'Good to Great' and identified traits of enduring companies.",
+    "source": "https://www.jimcollins.com/"
+  },
+  {
+    "name": "Eliyahu Goldratt",
+    "domain": "operational excellence",
+    "contribution": "Created the Theory of Constraints (TOC).",
+    "source": "https://www.tocico.org/page/EliyahuGoldratt"
+  },
+  {
+    "name": "Philip Crosby",
+    "domain": "operational excellence",
+    "contribution": "Promoted 'zero defects' and cost of quality concepts.",
+    "source": "https://qualitymanagement.hu/philip-crosby/"
+  },
+  {
+    "name": "Daniel Goleman",
+    "domain": "HR leadership",
+    "contribution": "Popularized emotional intelligence in leadership.",
+    "source": "https://www.danielgoleman.info/topics/emotional-intelligence/"
+  },
+  {
+    "name": "Marshall Goldsmith",
+    "domain": "HR leadership",
+    "contribution": "Renowned executive coach and author of 'What Got You Here Won’t Get You There'.",
+    "source": "https://marshallgoldsmith.com/"
+  },
+  {
+    "name": "Brene Brown",
+    "domain": "HR leadership",
+    "contribution": "Advanced vulnerability and courage as leadership strengths.",
+    "source": "https://brenebrown.com/"
+  },
+  {
+    "name": "Adam Grant",
+    "domain": "HR leadership",
+    "contribution": "Organizational psychologist known for research on motivation and workplace dynamics.",
+    "source": "https://www.adamgrant.net/"
+  },
+  {
+    "name": "Liz Wiseman",
+    "domain": "HR leadership",
+    "contribution": "Authored 'Multipliers' and explored how leaders amplify team intelligence.",
+    "source": "https://thewisemangroup.com/books/multipliers/"
+  },
+  {
+    "name": "Kim Scott",
+    "domain": "HR leadership",
+    "contribution": "Created the Radical Candor framework for feedback and leadership.",
+    "source": "https://www.radicalcandor.com/"
+  },
+  {
+    "name": "John Doerr",
+    "domain": "project management",
+    "contribution": "Popularized OKRs (Objectives and Key Results) in tech companies.",
+    "source": "https://www.whatmatters.com/"
+  },
+  {
+    "name": "Andy Grove",
+    "domain": "project management",
+    "contribution": "Applied OKRs at Intel and authored 'High Output Management'.",
+    "source": "https://www.intel.com/content/www/us/en/history/historical-background.html"
+  },
+  {
+    "name": "Jeff Sutherland",
+    "domain": "project management",
+    "contribution": "Co-created Scrum methodology for agile development.",
+    "source": "https://www.scruminc.com/jeff-sutherland/"
+  },
+  {
+    "name": "Ken Schwaber",
+    "domain": "project management",
+    "contribution": "Scrum co-founder and agile advocate.",
+    "source": "https://www.scrum.org/ken-schwaber"
+  },
+  {
+    "name": "Mike Cohn",
+    "domain": "project management",
+    "contribution": "Agile expert and author of 'User Stories Applied'.",
+    "source": "https://www.mountaingoatsoftware.com/"
+  },
+  {
+    "name": "Alistair Cockburn",
+    "domain": "project management",
+    "contribution": "Co-author of the Agile Manifesto and creator of Crystal methodology.",
+    "source": "https://alistair.cockburn.us/"
+  },
+  {
+    "name": "Frederick Taylor",
+    "domain": "operational excellence",
+    "contribution": "Father of scientific management, introduced time studies and task optimization.",
+    "source": "https://www.britannica.com/biography/Frederick-Winslow-Taylor"
+  },
+  {
+    "name": "Mary Barra",
+    "domain": "organizational design",
+    "contribution": "CEO of GM, known for flattening hierarchy and driving cultural transformation.",
+    "source": "https://www.gm.com/our-company/leadership/mary-barra.html"
+  },
+  {
+    "name": "Rensis Likert",
+    "domain": "organizational design",
+    "contribution": "Developed Likert scale and studied participative management systems.",
+    "source": "https://www.britannica.com/biography/Rensis-Likert"
+  },
+  {
+    "name": "Barbara Kellerman",
+    "domain": "HR leadership",
+    "contribution": "Explored followership and leadership dynamics beyond the leader-centric model.",
+    "source": "https://www.barbarakellerman.com/"
+  },
+  {
+    "name": "Peter Drucker",
+    "domain": "organizational design",
+    "contribution": "Father of modern management, emphasized decentralization and knowledge work.",
+    "source": "https://www.drucker.institute/peter-drucker/"
+  },
+  {
+    "name": "Ram Charan",
+    "domain": "HR leadership",
+    "contribution": "Advisor to CEOs, known for practical leadership frameworks and execution discipline.",
+    "source": "https://ram-charan.com/"
+  },
+  {
+    "name": "Frances Hesselbein",
+    "domain": "HR leadership",
+    "contribution": "Led the Girl Scouts and championed values-based leadership.",
+    "source": "https://www.hesselbeininstitute.org/frances-hesselbein/"
+  },
+  {
+    "name": "Gary Hamel",
+    "domain": "organizational design",
+    "contribution": "Co-authored 'Core Competence of the Corporation' and promoted management innovation.",
+    "source": "https://www.garyhamel.com/"
+  },
+  {
+    "name": "Richard Hackman",
+    "domain": "HR leadership",
+    "contribution": "Studied team effectiveness and conditions for high performance.",
+    "source": "https://www.apa.org/monitor/2013/01/hackman"
+  },
+  {
+    "name": "Linda Hill",
+    "domain": "HR leadership",
+    "contribution": "Explored leadership development and collective genius in innovation.",
+    "source": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6479"
+  },
+  {
+    "name": "Stephen Covey",
+    "domain": "HR leadership",
+    "contribution": "Authored '7 Habits of Highly Effective People', emphasizing personal leadership.",
+    "source": "https://www.franklincovey.com/the-7-habits/"
+  },
+  {
+    "name": "Clayton Christensen",
+    "domain": "organizational design",
+    "contribution": "Coined disruptive innovation and studied organizational adaptability.",
+    "source": "https://claytonchristensen.com/"
+  },
+  {
+    "name": "Donella Meadows",
+    "domain": "operational excellence",
+    "contribution": "Systems thinker and co-author of 'Limits to Growth'.",
+    "source": "https://donellameadows.org/"
+  },
+  {
+    "name": "Russell Ackoff",
+    "domain": "operational excellence",
+    "contribution": "Pioneer in systems thinking and organizational planning.",
+    "source": "https://thesystemsthinker.com/russell-ackoff/"
+  },
+  {
+    "name": "Geary Rummler",
+    "domain": "operational excellence",
+    "contribution": "Developed process improvement frameworks linking performance to business goals.",
+    "source": "https://www.ispi.org/ISPI/About/Geary_A__Rummler.aspx"
+  },
+  {
+    "name": "Tom DeMarco",
+    "domain": "project management",
+    "contribution": "Co-authored 'Peopleware' and emphasized human factors in software projects.",
+    "source": "https://www.systemsguild.com/"
+  },
+  {
+    "name": "Barry Boehm",
+    "domain": "project management",
+    "contribution": "Created the Spiral Model and contributed to software engineering economics.",
+    "source": "https://csse.usc.edu/about/faculty/barry-boehm/"
+  },
+  {
+    "name": "Gerald Weinberg",
+    "domain": "project management",
+    "contribution": "Explored systems thinking and team dynamics in software development.",
+    "source": "https://www.geraldmweinberg.com/"
+  },
+  {
+    "name": "Grady Booch",
+    "domain": "project management",
+    "contribution": "Co-developed UML and advanced software architecture practices.",
+    "source": "https://www.ibm.com/blogs/think/author/gradybooch/"
+  },
+  {
+    "name": "Ikujiro Nonaka",
+    "domain": "organizational design",
+    "contribution": "Co-created the SECI model of knowledge creation in organizations.",
+    "source": "https://www.researchgate.net/profile/Ikujiro-Nonaka"
+  },
+  {
+    "name": "Hirotaka Takeuchi",
+    "domain": "project management",
+    "contribution": "Co-authored the original Scrum paper and studied agile innovation.",
+    "source": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6560"
+  },
+  {
+    "name": "Edgar Schein",
+    "domain": "organizational design",
+    "contribution": "Defined organizational culture and career anchors.",
+    "source": "https://www.organizationalculture.center/edgar-schein"
+  },
+  {
+    "name": "Karl Weick",
+    "domain": "organizational design",
+    "contribution": "Introduced sensemaking and studied high-reliability organizations.",
+    "source": "https://www.si.umich.edu/people/karl-e-weick"
+  },
+  {
+    "name": "Robert Sutton",
+    "domain": "HR leadership",
+    "contribution": "Studied workplace civility and authored 'The No Asshole Rule'.",
+    "source": "https://www.bobsutton.net/"
+  },
+  {
+    "name": "Jeffrey Pfeffer",
+    "domain": "HR leadership",
+    "contribution": "Critiqued toxic workplaces and power dynamics in organizations.",
+    "source": "https://www.gsb.stanford.edu/faculty-research/faculty/jeffrey-pfeffer"
+  },
+  {
+    "name": "Amy Edmondson",
+    "domain": "HR leadership",
+    "contribution": "Defined psychological safety and studied teaming.",
+    "source": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6451"
+  },
+  {
+    "name": "Richard Branson",
+    "domain": "HR leadership",
+    "contribution": "Built Virgin Group with a people-first culture and decentralized leadership.",
+    "source": "https://www.virgin.com/about-richard-branson"
+  },
+  {
+    "name": "Tony Hsieh",
+    "domain": "organizational design",
+    "contribution": "Led Zappos with holacracy and customer-centric culture.",
+    "source": "https://www.zappos.com/about"
+  },
+  {
+    "name": "John Boyd",
+    "domain": "operational excellence",
+    "contribution": "Created the OODA loop and revolutionized decision-making speed.",
+    "source": "https://www.danford.net/boyd/"
+  },
+  {
+    "name": "Gifford Pinchot III",
+    "domain": "organizational design",
+    "contribution": "Popularized intrapreneurship and decentralized innovation.",
+    "source": "https://www.pinchot.com/"
+  },
+  {
+    "name": "Don Norman",
+    "domain": "operational excellence",
+    "contribution": "Advanced human-centered design and usability engineering.",
+    "source": "https://jnd.org/"
+  },
+  {
+    "name": "Clay Shirky",
+    "domain": "organizational design",
+    "contribution": "Studied decentralized collaboration and cognitive surplus.",
+    "source": "https://www.shirky.com/"
+  },
+  {
+    "name": "Yves Morieux",
+    "domain": "organizational design",
+    "contribution": "Critiqued organizational complexity and promoted smart simplicity.",
+    "source": "https://www.bcg.com/publications/2014/six-rules-simplicity-yves-morieux"
+  },
+  {
+    "name": "Nilofer Merchant",
+    "domain": "organizational design",
+    "contribution": "Explored the power of onlyness and inclusive innovation.",
+    "source": "https://nilofermerchant.com/"
+  },
+  
+  {
+    "name": "Ron Westrum",
+    "domain": "organizational design",
+    "contribution": "Studied organizational culture and its impact on safety and information flow.",
+    "source": "https://ronwestrum.com/"
+  },
+  {
+    "name": "Nicole Forsgren",
+    "domain": "operational excellence",
+    "contribution": "Co-authored the DORA report, linking DevOps practices to performance.",
+    "source": "https://nicolefv.com/"
+  },
+  {
+    "name": "Gene Kim",
+    "domain": "operational excellence",
+    "contribution": "Co-authored 'The Phoenix Project' and advanced DevOps culture.",
+    "source": "https://itrevolution.com/authors/gene-kim/"
+  },
+  {
+    "name": "Jez Humble",
+    "domain": "operational excellence",
+    "contribution": "Co-authored 'Accelerate' and promoted continuous delivery.",
+    "source": "https://continuousdelivery.com/about/"
+  },
+  {
+    "name": "Kelsey Hightower",
+    "domain": "operational excellence",
+    "contribution": "Popularized Kubernetes and cloud-native operations.",
+    "source": "https://twitter.com/kelseyhightower"
+  },
+  {
+    "name": "Camille Fournier",
+    "domain": "HR leadership",
+    "contribution": "Authored 'The Manager's Path' and scaled engineering leadership.",
+    "source": "https://www.oreilly.com/library/view/the-managers-path/9781491973899/"
+  },
+  {
+    "name": "Julie Zhuo",
+    "domain": "HR leadership",
+    "contribution": "Led product design at Facebook and authored 'The Making of a Manager'.",
+    "source": "https://www.juliezhuo.com/"
+  },
+  {
+    "name": "Claire Hughes Johnson",
+    "domain": "HR leadership",
+    "contribution": "Scaled Stripe’s operations and authored 'Scaling People'.",
+    "source": "https://scalingpeople.com/"
+  },
+  {
+    "name": "Ben Horowitz",
+    "domain": "HR leadership",
+    "contribution": "Authored 'The Hard Thing About Hard Things' and built Andreessen Horowitz.",
+    "source": "https://a16z.com/author/ben-horowitz/"
+  },
+  {
+    "name": "Reid Hoffman",
+    "domain": "organizational design",
+    "contribution": "Co-founded LinkedIn and promoted blitzscaling for rapid growth.",
+    "source": "https://www.reidhoffman.org/"
+  },
+  {
+    "name": "Jason Fried",
+    "domain": "organizational design",
+    "contribution": "Co-founded Basecamp and advocated for calm company culture.",
+    "source": "https://world.hey.com/jason"
+  },
+  {
+    "name": "David Heinemeier Hansson",
+    "domain": "organizational design",
+    "contribution": "Created Ruby on Rails and co-authored 'Remote' and 'Rework'.",
+    "source": "https://dhh.dk/"
+  },
+  {
+    "name": "Stewart Butterfield",
+    "domain": "organizational design",
+    "contribution": "Founded Slack and emphasized asynchronous collaboration.",
+    "source": "https://slack.com/blog/news/stewart-butterfield-to-step-down-as-ceo"
+  },
+  {
+    "name": "Melanie Perkins",
+    "domain": "organizational design",
+    "contribution": "Co-founded Canva and scaled a global design platform.",
+    "source": "https://www.canva.com/about/"
+  },
+  {
+    "name": "Tony Robbins",
+    "domain": "HR leadership",
+    "contribution": "Popularized personal development and peak performance coaching.",
+    "source": "https://www.tonyrobbins.com/"
+  },
+  {
+    "name": "Jim Rohn",
+    "domain": "HR leadership",
+    "contribution": "Mentored leaders in personal development and business philosophy.",
+    "source": "https://www.jimrohn.com/"
+  },
+  {
+    "name": "Zeynep Ton",
+    "domain": "operational excellence",
+    "contribution": "Authored 'Good Jobs Strategy' linking operational excellence to worker dignity.",
+    "source": "https://zeynepton.com/"
+  },
+  {
+    "name": "Anil Dash",
+    "domain": "organizational design",
+    "contribution": "Advocated for humane tech and ethical product development.",
+    "source": "https://anildash.com/"
+  },
+  {
+    "name": "Tristan Harris",
+    "domain": "organizational design",
+    "contribution": "Founded Center for Humane Technology and critiqued attention economics.",
+    "source": "https://www.humanetech.com/"
+  },
+  {
+    "name": "Margaret Heffernan",
+    "domain": "organizational design",
+    "contribution": "Explored willful blindness and the power of social capital.",
+    "source": "https://www.mheffernan.com/"
+  },
+  {
+    "name": "Rita McGrath",
+    "domain": "organizational design",
+    "contribution": "Studied transient advantage and strategic inflection points.",
+    "source": "https://www.ritamcgrath.com/"
+  },
+  {
+    "name": "Whitney Johnson",
+    "domain": "HR leadership",
+    "contribution": "Developed the S-curve of learning and personal disruption theory.",
+    "source": "https://whitneyjohnson.com/"
+  },
+  {
+    "name": "Tasha Eurich",
+    "domain": "HR leadership",
+    "contribution": "Studied self-awareness and leadership effectiveness.",
+    "source": "https://tashaeurich.com/"
+  },
+  {
+    "name": "Liz Fosslien",
+    "domain": "HR leadership",
+    "contribution": "Co-authored 'No Hard Feelings' on emotions at work.",
+    "source": "https://www.fosslien.com/"
+  },
+  {
+    "name": "Molly Graham",
+    "domain": "HR leadership",
+    "contribution": "Scaled teams at Google and Facebook, known for 'giving away your legos'.",
+    "source": "https://firstround.com/review/give-away-your-legos-and-other-commandments-for-scaling/"
+  },
+  {
+    "name": "Anne Morriss",
+    "domain": "HR leadership",
+    "contribution": "Co-authored 'Unleashed' and studied trust and leadership.",
+    "source": "https://www.theleadershipconsortium.com/team/anne-morriss/"
+  },
+  {
+    "name": "Frances Frei",
+    "domain": "HR leadership",
+    "contribution": "Harvard professor and Uber turnaround advisor, focused on trust and inclusion.",
+    "source": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6611"
+  },
+  {
+    "name": "Kim Malone Scott",
+    "domain": "HR leadership",
+    "contribution": "Created Radical Candor framework for feedback and leadership.",
+    "source": "https://www.radicalcandor.com/"
+  },
+  {
+    "name": "Heidi Grant Halvorson",
+    "domain": "HR leadership",
+    "contribution": "Studied motivation and goal-setting psychology.",
+    "source": "https://www.heidigranthalvorson.com/"
+  },
+  {
+    "name": "Susan David",
+    "domain": "HR leadership",
+    "contribution": "Developed emotional agility framework for resilient leadership.",
+    "source": "https://www.susandavid.com/"
+  },
+  {
+    "name": "Herminia Ibarra",
+    "domain": "HR leadership",
+    "contribution": "Studied identity transitions and leadership development.",
+    "source": "https://herminiaibarra.com/"
+  },
+  {
+    "name": "Roger Martin",
+    "domain": "organizational design",
+    "contribution": "Advanced integrative thinking and strategy design.",
+    "source": "https://rogerlmartin.com/"
+  },
+  {
+    "name": "Michael Bungay Stanier",
+    "domain": "HR leadership",
+    "contribution": "Authored 'The Coaching Habit' and simplified coaching for managers.",
+    "source": "https://www.mbs.works/"
+  },
+  {
+    "name": "Keith Ferrazzi",
+    "domain": "HR leadership",
+    "contribution": "Promoted relational intelligence and team transformation.",
+    "source": "https://www.ferrazzigreenlight.com/"
+  },
+  {
+    "name": "Angela Duckworth",
+    "domain": "HR leadership",
+    "contribution": "Defined grit and its role in long-term success.",
+    "source": "https://angeladuckworth.com/"
+  },
+  {
+    "name": "Dan Pink",
+    "domain": "HR leadership",
+    "contribution": "Explored motivation and the science of timing.",
+    "source": "https://www.danpink.com/"
+  },
+  {
+    "name": "Cal Newport",
+    "domain": "operational excellence",
+    "contribution": "Authored 'Deep Work' and studied focus in knowledge work.",
+    "source": "https://www.calnewport.com/"
+  },
+  {
+    "name": "David Allen",
+    "domain": "project management",
+    "contribution": "Created GTD (Getting Things Done) productivity method.",
+    "source": "https://gettingthingsdone.com/"
+  },
+  {
+    "name": "Tiago Forte",
+    "domain": "project management",
+    "contribution": "Developed the PARA method and Building a Second Brain.",
+    "source": "https://fortelabs.com/"
+  },
+  {
+    "name": "Laura Vanderkam",
+    "domain": "project management",
+    "contribution": "Studied time management and authored '168 Hours'.",
+    "source": "https://lauravanderkam.com/"
+  },
+  {
+    "name": "Oliver Burkeman",
+    "domain": "project management",
+    "contribution": "Authored 'Four Thousand Weeks' on time and meaning.",
+    "source": "https://oliverburkeman.com/"
+  },
+  {
+    "name": "Greg McKeown",
+    "domain": "project management",
+    "contribution": "Authored 'Essentialism' and 'Effortless' on disciplined focus.",
+    "source": "https://gregmckeown.com/"
+  },
+  {
+    "name": "Jake Knapp",
+    "domain": "project management",
+    "contribution": "Created the Design Sprint methodology at Google Ventures.",
+    "source": "https://www.thesprintbook.com/"
+  },
+  {
+    "name": "John Maeda",
+    "domain": "organizational design",
+    "contribution": "Blended design, tech, and leadership in computational design.",
+    "source": "https://maedastudio.com/"
+  },
+  {
+    "name": "Erika Hall",
+    "domain": "organizational design",
+    "contribution": "Advocated for research-driven design and organizational clarity.",
+    "source": "https://muledesign.com/team/erika-hall"
+  },
+  {
+    "name": "Leah Buley",
+    "domain": "organizational design",
+    "contribution": "Authored 'The User Experience Team of One' and scaled UX practices.",
+    "source": "https://www.leahbuley.com/"
+  },
+  {
+    "name": "Kate Rutter",
+    "domain": "organizational design",
+    "contribution": "Visual thinker and startup strategist focused on lean UX.",
+    "source": "https://intelleto.com/"
+  },
+  
+  {
+    "name": "Jennifer Dulski",
+    "domain": "organizational design",
+    "contribution": "Led teams at Facebook and Change.org, focused on movement-building inside companies.",
+    "source": "https://jenniferdulski.com/"
+  },
+  {
+    "name": "Brian Robertson",
+    "domain": "organizational design",
+    "contribution": "Created Holacracy, a decentralized management system.",
+    "source": "https://www.holacracy.org/brian-robertson"
+  },
+  {
+    "name": "Frederic Laloux",
+    "domain": "organizational design",
+    "contribution": "Authored 'Reinventing Organizations' and introduced teal organizations.",
+    "source": "https://www.reinventingorganizations.com/"
+  },
+  {
+    "name": "Navi Radjou",
+    "domain": "organizational design",
+    "contribution": "Promoted frugal innovation and creative constraint-based problem solving.",
+    "source": "https://naviradjou.com/"
+  },
+  {
+    "name": "Linda Gratton",
+    "domain": "HR leadership",
+    "contribution": "Studied the future of work and authored 'The 100-Year Life'.",
+    "source": "https://www.lse.ac.uk/Management/People/Academic-Staff/Linda-Gratton"
+  },
+  {
+    "name": "Rob Cross",
+    "domain": "HR leadership",
+    "contribution": "Mapped organizational networks and studied collaborative overload.",
+    "source": "https://www.robcross.org/"
+  },
+  {
+    "name": "Teresa Amabile",
+    "domain": "HR leadership",
+    "contribution": "Studied creativity in organizations and the impact of work environments.",
+    "source": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6419"
+  },
+  {
+    "name": "Scott Eblin",
+    "domain": "HR leadership",
+    "contribution": "Authored 'The Next Level' and coached leaders through transitions.",
+    "source": "https://eblingroup.com/"
+  },
+  {
+    "name": "Jennifer Garvey Berger",
+    "domain": "HR leadership",
+    "contribution": "Explored complexity and adult development in leadership.",
+    "source": "https://www.cultivatingleadership.com/team/jennifer-garvey-berger"
+  },
+  {
+    "name": "Carol Dweck",
+    "domain": "HR leadership",
+    "contribution": "Defined growth mindset and its impact on learning and leadership.",
+    "source": "https://profiles.stanford.edu/carol-dweck"
+  },
+  {
+    "name": "Ed Batista",
+    "domain": "HR leadership",
+    "contribution": "Executive coach focused on emotional intelligence and self-management.",
+    "source": "https://www.edbatista.com/"
+  },
+  {
+    "name": "Michael Lopp",
+    "domain": "HR leadership",
+    "contribution": "Authored 'Managing Humans' and scaled engineering leadership at Apple and Slack.",
+    "source": "https://randsinrepose.com/"
+  },
+  {
+    "name": "Camille Ricketts",
+    "domain": "HR leadership",
+    "contribution": "Built First Round Review and scaled startup storytelling.",
+    "source": "https://www.firstround.com/review/"
+  },
+  {
+    "name": "Tomas Chamorro-Premuzic",
+    "domain": "HR leadership",
+    "contribution": "Studied talent, personality, and the psychology of leadership.",
+    "source": "https://drtomas.com/"
+  },
+  {
+    "name": "Annie Duke",
+    "domain": "operational excellence",
+    "contribution": "Applied decision science and probabilistic thinking to business strategy.",
+    "source": "https://www.annieduke.com/"
+  },
+  {
+    "name": "Julia Galef",
+    "domain": "operational excellence",
+    "contribution": "Authored 'The Scout Mindset' and promoted rational decision-making.",
+    "source": "https://juliagalef.com/"
+  },
+  {
+    "name": "Barbara Minto",
+    "domain": "operational excellence",
+    "contribution": "Created the Pyramid Principle for structured thinking and communication.",
+    "source": "https://www.barbara-minto.com/"
+  },
+  {
+    "name": "Nancy Duarte",
+    "domain": "operational excellence",
+    "contribution": "Transformed presentation strategy and visual storytelling.",
+    "source": "https://www.duarte.com/nancy-duarte/"
+  },
+  {
+    "name": "Dan Roam",
+    "domain": "operational excellence",
+    "contribution": "Authored 'Back of the Napkin' and promoted visual thinking in business.",
+    "source": "https://danroam.com/"
+  },
+  {
+    "name": "Patti Sanchez",
+    "domain": "operational excellence",
+    "contribution": "Co-authored 'Illuminate' and studied change communication.",
+    "source": "https://www.duarte.com/team/patti-sanchez/"
+  },
+  {
+    "name": "Stephen Bungay",
+    "domain": "operational excellence",
+    "contribution": "Applied military strategy to business execution and alignment.",
+    "source": "https://stephenbungay.com/"
+  },
+  {
+    "name": "David Marquet",
+    "domain": "HR leadership",
+    "contribution": "Authored 'Turn the Ship Around' and promoted leader-leader models.",
+    "source": "https://www.davidmarquet.com/"
+  },
+  {
+    "name": "Stanley McChrystal",
+    "domain": "organizational design",
+    "contribution": "Led Joint Special Operations Command and authored 'Team of Teams'.",
+    "source": "https://www.mcchrystalgroup.com/"
+  },
+  {
+    "name": "Chris Fussell",
+    "domain": "organizational design",
+    "contribution": "Co-authored 'Team of Teams' and scaled decentralized leadership.",
+    "source": "https://www.mcchrystalgroup.com/team/chris-fussell/"
+  },
+  {
+    "name": "Amy C. Edmondson",
+    "domain": "HR leadership",
+    "contribution": "Defined psychological safety and studied teaming.",
+    "source": "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6451"
+  },
+  {
+    "name": "David Rock",
+    "domain": "HR leadership",
+    "contribution": "Created the SCARF model and founded NeuroLeadership Institute.",
+    "source": "https://www.davidrock.net/"
+  },
+  {
+    "name": "Lisa Feldman Barrett",
+    "domain": "HR leadership",
+    "contribution": "Studied emotion construction and its impact on leadership.",
+    "source": "https://lisafeldmanbarrett.com/"
+  },
+  {
+    "name": "Roy Baumeister",
+    "domain": "HR leadership",
+    "contribution": "Studied willpower, decision fatigue, and self-regulation.",
+    "source": "https://roybaumeister.com/"
+  },
+  {
+    "name": "Daniel Kahneman",
+    "domain": "operational excellence",
+    "contribution": "Nobel laureate who studied cognitive biases and decision-making.",
+    "source": "https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/facts/"
+  }
+
+]

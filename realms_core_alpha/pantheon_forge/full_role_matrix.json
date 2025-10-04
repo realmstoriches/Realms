@@ -1,0 +1,461 @@
+[
+    {
+        "department": "Executive Leadership",
+        "role": "CEO",
+        "crew": "Crew_Alpha_22",
+        "alpha": "Jac Fitz-enz",
+        "beta": "Daniel Ek",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Executive Leadership",
+        "role": "CTO",
+        "crew": "Crew_Alpha_85",
+        "alpha": "Michael Hammer",
+        "beta": "Ian Goodfellow",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Executive Leadership",
+        "role": "COO",
+        "crew": "Crew_Alpha_87",
+        "alpha": "Marissa Mayer",
+        "beta": "Amy C. Edmondson",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Executive Leadership",
+        "role": "Chief Strategy Officer",
+        "crew": "Crew_Alpha_31",
+        "alpha": "Susan David",
+        "beta": "Kate Rutter",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Engineering",
+        "role": "Frontend Engineer",
+        "crew": "Crew_Alpha_42",
+        "alpha": "Robert Sutton",
+        "beta": "Gary Hamel",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Engineering",
+        "role": "Backend Engineer",
+        "crew": "Crew_Alpha_12",
+        "alpha": "Laszlo Bock",
+        "beta": "Don Norman",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Engineering",
+        "role": "API Architect",
+        "crew": "Crew_Alpha_65",
+        "alpha": "Nicole Forsgren",
+        "beta": "Brian Chesky",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Engineering",
+        "role": "AI Integration Engineer",
+        "crew": "Crew_Alpha_27",
+        "alpha": "Teresa Amabile",
+        "beta": "Sal Khan",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Engineering",
+        "role": "Platform Engineer",
+        "crew": "Crew_Alpha_53",
+        "alpha": "Adam Grant",
+        "beta": "Frank Gilbreth",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Engineering",
+        "role": "Systems Architect",
+        "crew": "Crew_Alpha_48",
+        "alpha": "Yves Morieux",
+        "beta": "Dave Ulrich",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Data Science & ML",
+        "role": "ML Engineer",
+        "crew": "Crew_Alpha_51",
+        "alpha": "Mary Jo Foley",
+        "beta": "Jake Knapp",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Data Science & ML",
+        "role": "Data Scientist",
+        "crew": "Crew_Alpha_69",
+        "alpha": "John Maeda",
+        "beta": "Carol Dweck",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Data Science & ML",
+        "role": "NLP Specialist",
+        "crew": "Crew_Alpha_32",
+        "alpha": "Camille Ricketts",
+        "beta": "Taiichi Ohno",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Data Science & ML",
+        "role": "Computer Vision Lead",
+        "crew": "Crew_Alpha_15",
+        "alpha": "Martin Fowler",
+        "beta": "Laura Vanderkam",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Data Science & ML",
+        "role": "Model Ops Engineer",
+        "crew": "Crew_Alpha_86",
+        "alpha": "Jeff Bezos",
+        "beta": "Drew Houston",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Product Management",
+        "role": "Head of Product",
+        "crew": "Crew_Alpha_21",
+        "alpha": "Michael Porter",
+        "beta": "Patty McCord",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Product Management",
+        "role": "Technical PM",
+        "crew": "Crew_Alpha_5",
+        "alpha": "Navi Radjou",
+        "beta": "Rita McGrath",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Product Management",
+        "role": "Strategic PM",
+        "crew": "Crew_Alpha_72",
+        "alpha": "John Carmack",
+        "beta": "Jim Collins",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Product Management",
+        "role": "Growth PM",
+        "crew": "Crew_Alpha_81",
+        "alpha": "Barry Boehm",
+        "beta": "David Rock",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Design & UX",
+        "role": "UX Director",
+        "crew": "Crew_Alpha_76",
+        "alpha": "Tony Robbins",
+        "beta": "Brene Brown",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Design & UX",
+        "role": "UI Designer",
+        "crew": "Crew_Alpha_82",
+        "alpha": "Laszlo Bock",
+        "beta": "Rosabeth Moss Kanter",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Design & UX",
+        "role": "User Researcher",
+        "crew": "Crew_Alpha_33",
+        "alpha": "Donald Knuth",
+        "beta": "Daniel Kahneman",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Design & UX",
+        "role": "Interaction Designer",
+        "crew": "Crew_Alpha_60",
+        "alpha": "Tristan Harris",
+        "beta": "Simon Sinek",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Quality Assurance",
+        "role": "QA Lead",
+        "crew": "Crew_Alpha_30",
+        "alpha": "Ben Horowitz",
+        "beta": "Jeremy Howard",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Quality Assurance",
+        "role": "Automation Tester",
+        "crew": "Crew_Alpha_3",
+        "alpha": "Jeff Dean",
+        "beta": "Claire Hughes Johnson",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Quality Assurance",
+        "role": "Manual Tester",
+        "crew": "Crew_Alpha_88",
+        "alpha": "Zeynep Ton",
+        "beta": "Tiago Forte",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Quality Assurance",
+        "role": "Test Architect",
+        "crew": "Crew_Alpha_95",
+        "alpha": "Safra Catz",
+        "beta": "Gifford Pinchot III",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "DevOps & Infrastructure",
+        "role": "DevOps Lead",
+        "crew": "Crew_Alpha_68",
+        "alpha": "Julie Zhuo",
+        "beta": "Ed Batista",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "DevOps & Infrastructure",
+        "role": "Cloud Engineer",
+        "crew": "Crew_Alpha_39",
+        "alpha": "Bjarne Stroustrup",
+        "beta": "Hamilton Mann",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "DevOps & Infrastructure",
+        "role": "CI/CD Specialist",
+        "crew": "Crew_Alpha_93",
+        "alpha": "Naval Ravikant",
+        "beta": "Liz Wiseman",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "DevOps & Infrastructure",
+        "role": "Infra Reliability Engineer",
+        "crew": "Crew_Alpha_61",
+        "alpha": "John Doerr",
+        "beta": "Rand Fishkin",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Security & Compliance",
+        "role": "CISO",
+        "crew": "Crew_Alpha_78",
+        "alpha": "Josh Bersin",
+        "beta": "Linda Hill",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Security & Compliance",
+        "role": "Security Engineer",
+        "crew": "Crew_Alpha_46",
+        "alpha": "Marc Benioff",
+        "beta": "Frances Hesselbein",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Security & Compliance",
+        "role": "Risk Analyst",
+        "crew": "Crew_Alpha_2",
+        "alpha": "Susan Heathfield",
+        "beta": "Mary Parker Follett",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Security & Compliance",
+        "role": "Compliance Architect",
+        "crew": "Crew_Alpha_70",
+        "alpha": "Ikujiro Nonaka",
+        "beta": "Michael Bungay Stanier",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "People & Culture",
+        "role": "HR Director",
+        "crew": "Crew_Alpha_100",
+        "alpha": "Julie Zhuo",
+        "beta": "Rita Mulcahy",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "People & Culture",
+        "role": "Recruiter",
+        "crew": "Crew_Alpha_26",
+        "alpha": "Stewart Butterfield",
+        "beta": "Jeffrey Pfeffer",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "People & Culture",
+        "role": "Culture Ops",
+        "crew": "Crew_Alpha_37",
+        "alpha": "Jennifer Garvey Berger",
+        "beta": "Radia Perlman",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "People & Culture",
+        "role": "Org Designer",
+        "crew": "Crew_Alpha_96",
+        "alpha": "David Allen",
+        "beta": "Anne Morriss",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Finance & Legal",
+        "role": "CFO",
+        "crew": "Crew_Alpha_84",
+        "alpha": "Chris Lattner",
+        "beta": "Amy Edmondson",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Finance & Legal",
+        "role": "Legal Counsel",
+        "crew": "Crew_Alpha_64",
+        "alpha": "Ken Schwaber",
+        "beta": "Jay Galbraith",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Finance & Legal",
+        "role": "Compliance Officer",
+        "crew": "Crew_Alpha_28",
+        "alpha": "Diane Greene",
+        "beta": "Stewart Butterfield",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Finance & Legal",
+        "role": "Financial Analyst",
+        "crew": "Crew_Alpha_4",
+        "alpha": "Peter Drucker",
+        "beta": "Tobi L\u00fctke",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Sales & Partnerships",
+        "role": "CRO",
+        "crew": "Crew_Alpha_17",
+        "alpha": "Tasha Eurich",
+        "beta": "Kara Swisher",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Sales & Partnerships",
+        "role": "Account Exec",
+        "crew": "Crew_Alpha_62",
+        "alpha": "Kim Scott",
+        "beta": "Anne Wojcicki",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Sales & Partnerships",
+        "role": "Business Dev Manager",
+        "crew": "Crew_Alpha_11",
+        "alpha": "Tony Robbins",
+        "beta": "Satya Nadella",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Sales & Partnerships",
+        "role": "Partner Strategist",
+        "crew": "Crew_Alpha_18",
+        "alpha": "Brendan Eich",
+        "beta": "Brene Brown",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Marketing & Growth",
+        "role": "CMO",
+        "crew": "Crew_Alpha_56",
+        "alpha": "Joan Woodward",
+        "beta": "Liz Wiseman",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Marketing & Growth",
+        "role": "Growth Hacker",
+        "crew": "Crew_Alpha_94",
+        "alpha": "Gary Hamel",
+        "beta": "Nancy Duarte",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Marketing & Growth",
+        "role": "Content Strategist",
+        "crew": "Crew_Alpha_19",
+        "alpha": "Grace Hopper",
+        "beta": "David Ulrich",
+        "status": "assigned",
+        "simulation_ready": true
+    },
+    {
+        "department": "Marketing & Growth",
+        "role": "Brand Architect",
+        "crew": "Crew_Alpha_49",
+        "alpha": "Melinda French Gates",
+        "beta": "Oliver Burkeman",
+        "status": "assigned",
+        "simulation_ready": true
+    }
+]

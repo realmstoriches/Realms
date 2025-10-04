@@ -1,0 +1,366 @@
+{
+    "ada_lovelace": [
+        "https://www.ted.com/search?q=Ada%20Lovelace"
+    ],
+    "alan_turing": [
+        "https://www.ted.com/search?q=Alan%20Turing"
+    ],
+    "claude_shannon": [
+        "https://www.ted.com/search?q=Claude%20Shannon"
+    ],
+    "grace_hopper": [
+        "https://www.ted.com/search?q=Grace%20Hopper"
+    ],
+    "steve_jobs": [
+        "https://www.ted.com/search?q=Steve%20Jobs"
+    ],
+    "tim_berners-lee": [
+        "https://www.ted.com/search?q=Tim%20Berners-Lee"
+    ],
+    "linus_torvalds": [
+        "https://www.ted.com/search?q=Linus%20Torvalds"
+    ],
+    "barbara_liskov": [
+        "https://www.ted.com/search?q=Barbara%20Liskov"
+    ],
+    "donald_knuth": [
+        "https://www.ted.com/search?q=Donald%20Knuth"
+    ],
+    "radia_perlman": [
+        "https://www.ted.com/search?q=Radia%20Perlman"
+    ],
+    "fei-fei_li": [
+        "https://www.ted.com/search?q=Fei-Fei%20Li"
+    ],
+    "anne_wojcicki": [
+        "https://www.ted.com/search?q=Anne%20Wojcicki"
+    ],
+    "ben_silbermann": [
+        "https://www.ted.com/search?q=Ben%20Silbermann"
+    ],
+    "kara_swisher": [
+        "https://www.ted.com/search?q=Kara%20Swisher"
+    ],
+    "michael_krigsman": [
+        "https://www.ted.com/search?q=Michael%20Krigsman"
+    ],
+    "hamilton_mann": [
+        "https://www.hamiltonmannconversation.com/",
+        "https://www.ted.com/search?q=Hamilton%20Mann"
+    ],
+    "sam_altman": [
+        "https://www.ted.com/search?q=Sam%20Altman"
+    ],
+    "ilya_sutskever": [
+        "https://www.ted.com/search?q=Ilya%20Sutskever"
+    ],
+    "geoffrey_hinton": [
+        "https://www.ted.com/search?q=Geoffrey%20Hinton"
+    ],
+    "yoshua_bengio": [
+        "https://www.ted.com/search?q=Yoshua%20Bengio"
+    ],
+    "marissa_mayer": [
+        "https://www.ted.com/search?q=Marissa%20Mayer"
+    ],
+    "mitchell_baker": [
+        "https://www.ted.com/search?q=Mitchell%20Baker"
+    ],
+    "kent_beck": [
+        "https://www.ted.com/search?q=Kent%20Beck"
+    ],
+    "martin_fowler": [
+        "https://www.ted.com/search?q=Martin%20Fowler"
+    ],
+    "james_gosling": [
+        "https://www.ted.com/search?q=James%20Gosling"
+    ],
+    "guido_van_rossum": [
+        "https://www.ted.com/search?q=Guido%20van%20Rossum"
+    ],
+    "brendan_eich": [
+        "https://www.ted.com/search?q=Brendan%20Eich"
+    ],
+    "bjarne_stroustrup": [
+        "https://www.ted.com/search?q=Bjarne%20Stroustrup"
+    ],
+    "yukihiro_matsumoto": [
+        "https://www.ted.com/search?q=Yukihiro%20Matsumoto"
+    ],
+    "anders_hejlsberg": [
+        "https://www.ted.com/search?q=Anders%20Hejlsberg"
+    ],
+    "jeff_dean": [
+        "https://www.ted.com/search?q=Jeff%20Dean"
+    ],
+    "ian_goodfellow": [],
+    "jeremy_howard": [
+        "https://www.ted.com/search?q=Jeremy%20Howard"
+    ],
+    "chris_lattner": [
+        "https://www.ted.com/search?q=Chris%20Lattner"
+    ],
+    "john_carmack": [
+        "https://www.ted.com/search?q=John%20Carmack"
+    ],
+    "sal_khan": [],
+    "susan_wojcicki": [],
+    "melanie_mitchell": [
+        "https://www.ted.com/search?q=Melanie%20Mitchell"
+    ],
+    "lex_fridman": [],
+    "sebastian_thrun": [],
+    "bill_gates": [],
+    "jeff_bezos": [
+        "https://www.ted.com/search?q=Jeff%20Bezos"
+    ],
+    "mark_zuckerberg": [],
+    "jack_dorsey": [],
+    "antonio_neri": [],
+    "neil_gunther": [],
+    "meredith_whittaker": [],
+    "sundar_pichai": [
+        "https://www.ted.com/search?q=Sundar%20Pichai"
+    ],
+    "brian_chesky": [],
+    "drew_houston": [
+        "https://www.ted.com/search?q=Drew%20Houston"
+    ],
+    "daniel_ek": [],
+    "whitney_wolfe_herd": [
+        "https://www.ted.com/search?q=Whitney%20Wolfe%20Herd"
+    ],
+    "reshma_saujani": [],
+    "melinda_french_gates": [],
+    "reed_hastings": [
+        "https://www.ted.com/search?q=Reed%20Hastings"
+    ],
+    "marc_andreessen": [],
+    "ben_horowitz": [],
+    "naval_ravikant": [],
+    "patrick_collison": [],
+    "john_collison": [],
+    "diane_greene": [],
+    "safra_catz": [],
+    "ginni_rometty": [],
+    "meg_whitman": [],
+    "padmasree_warrior": [],
+    "tristan_harris": [],
+    "gina_bianchini": [],
+    "jony_ive": [],
+    "don_norman": [],
+    "mary_jo_foley": [],
+    "marty_cagan": [],
+    "martin_casado": [],
+    "shantanu_narayen": [],
+    "julie_zhuo": [],
+    "laszlo_bock": [],
+    "patty_mccord": [],
+    "josh_bersin": [],
+    "hubert_joly": [],
+    "simon_sinek": [],
+    "seth_godin": [],
+    "ann_handley": [],
+    "rand_fishkin": [],
+    "april_dunford": [],
+    "brian_halligan": [],
+    "dharmesh_shah": [],
+    "mary_barra": [],
+    "satya_nadella": [],
+    "indra_nooyi": [],
+    "tony_robbins": [],
+    "marc_benioff": [],
+    "melanie_perkins": [],
+    "tobi_l\u00fctke": [],
+    "stewart_butterfield": [],
+    "claire_hughes_johnson": [],
+    "henry_gantt": [
+        "https://hogonext.com/the-18-most-influential-people-in-project-management/"
+    ],
+    "peter_drucker": [
+        "https://hogonext.com/the-18-most-influential-people-in-project-management/"
+    ],
+    "rita_mulcahy": [
+        "https://hogonext.com/the-18-most-influential-people-in-project-management/"
+    ],
+    "tom_peters": [
+        "https://hogonext.com/the-18-most-influential-people-in-project-management/"
+    ],
+    "margaret_hamilton": [
+        "https://hogonext.com/the-18-most-influential-people-in-project-management/"
+    ],
+    "w._edwards_deming": [
+        "https://hogonext.com/the-18-most-influential-people-in-project-management/"
+    ],
+    "frederick_winslow_taylor": [
+        "https://www.projectengineer.net/10-famous-project-managers-leaders-who-shaped-success/"
+    ],
+    "steve_browne": [],
+    "felicia_fields": [],
+    "hollie_delaney": [],
+    "ann_mei_chang": [],
+    "john_kotter": [
+        "https://www.ted.com/search?q=John%20Kotter"
+    ],
+    "amy_edmondson": [
+        "https://www.ted.com/search?q=Amy%20Edmondson"
+    ],
+    "linda_hill": [],
+    "rosabeth_moss_kanter": [],
+    "michael_porter": [],
+    "clayton_christensen": [],
+    "theresa_m._payton": [
+        "https://www.ted.com/search?q=Theresa%20Payton"
+    ],
+    "nicole_forsgren": [],
+    "kim_scott": [
+        "https://www.radicalcandor.com/"
+    ],
+    "ram_charan": [],
+    "liz_wiseman": [],
+    "frances_frei": [
+        "https://www.ted.com/speakers/frances_frei"
+    ],
+    "tasha_eurich": [
+        "https://www.tashaeurich.com/"
+    ],
+    "herminia_ibarra": [],
+    "whitney_johnson": [],
+    "claude_silver": [],
+    "dave_ulrich": [],
+    "brene_brown": [
+        "https://www.ted.com/speakers/brene_brown"
+    ],
+    "marshall_goldsmith": [],
+    "daniel_goleman": [
+        "https://www.danielgoleman.info/"
+    ],
+    "adam_grant": [
+        "https://www.ted.com/speakers/adam_grant"
+    ],
+    "angela_duckworth": [],
+    "jeffrey_pfeffer": [
+        "https://www.gsb.stanford.edu/faculty-research/faculty/jeffrey-pfeffer"
+    ],
+    "gary_hamel": [
+        "https://www.garyhamel.com/"
+    ],
+    "ranjay_gulati": [],
+    "mary_parker_follett": [],
+    "lyndall_urwick": [],
+    "henri_fayol": [],
+    "peter_senge": [],
+    "chris_argyris": [],
+    "warren_bennis": [],
+    "jay_galbraith": [],
+    "mintzberg": [],
+    "joan_woodward": [],
+    "frederick_herzberg": [],
+    "david_ulrich": [],
+    "susan_heathfield": [],
+    "jac_fitz-enz": [],
+    "john_p._kotter": [],
+    "joseph_juran": [],
+    "taiichi_ohno": [],
+    "frank_gilbreth": [],
+    "lillian_gilbreth": [],
+    "shigeo_shingo": [],
+    "michael_hammer": [],
+    "jim_collins": [],
+    "eliyahu_goldratt": [],
+    "philip_crosby": [],
+    "john_doerr": [],
+    "andy_grove": [],
+    "jeff_sutherland": [],
+    "ken_schwaber": [],
+    "mike_cohn": [],
+    "alistair_cockburn": [],
+    "frederick_taylor": [],
+    "rensis_likert": [],
+    "barbara_kellerman": [],
+    "frances_hesselbein": [],
+    "richard_hackman": [],
+    "stephen_covey": [],
+    "donella_meadows": [],
+    "russell_ackoff": [],
+    "geary_rummler": [],
+    "tom_demarco": [],
+    "barry_boehm": [],
+    "gerald_weinberg": [],
+    "grady_booch": [],
+    "ikujiro_nonaka": [],
+    "hirotaka_takeuchi": [],
+    "edgar_schein": [],
+    "karl_weick": [],
+    "robert_sutton": [],
+    "richard_branson": [],
+    "tony_hsieh": [],
+    "john_boyd": [],
+    "gifford_pinchot_iii": [],
+    "clay_shirky": [],
+    "yves_morieux": [],
+    "nilofer_merchant": [],
+    "ron_westrum": [],
+    "gene_kim": [],
+    "jez_humble": [],
+    "kelsey_hightower": [],
+    "camille_fournier": [],
+    "reid_hoffman": [],
+    "jason_fried": [],
+    "david_heinemeier_hansson": [],
+    "jim_rohn": [],
+    "zeynep_ton": [],
+    "anil_dash": [],
+    "margaret_heffernan": [],
+    "rita_mcgrath": [],
+    "liz_fosslien": [],
+    "molly_graham": [],
+    "anne_morriss": [],
+    "kim_malone_scott": [],
+    "heidi_grant_halvorson": [],
+    "susan_david": [],
+    "roger_martin": [],
+    "michael_bungay_stanier": [],
+    "keith_ferrazzi": [],
+    "dan_pink": [],
+    "cal_newport": [],
+    "david_allen": [],
+    "tiago_forte": [],
+    "laura_vanderkam": [],
+    "oliver_burkeman": [],
+    "greg_mckeown": [],
+    "jake_knapp": [],
+    "john_maeda": [],
+    "erika_hall": [],
+    "leah_buley": [],
+    "kate_rutter": [],
+    "jennifer_dulski": [],
+    "brian_robertson": [],
+    "frederic_laloux": [],
+    "navi_radjou": [],
+    "linda_gratton": [],
+    "rob_cross": [],
+    "teresa_amabile": [],
+    "scott_eblin": [],
+    "jennifer_garvey_berger": [],
+    "carol_dweck": [],
+    "ed_batista": [],
+    "michael_lopp": [],
+    "camille_ricketts": [],
+    "tomas_chamorro-premuzic": [],
+    "annie_duke": [],
+    "julia_galef": [],
+    "barbara_minto": [],
+    "nancy_duarte": [],
+    "dan_roam": [],
+    "patti_sanchez": [],
+    "stephen_bungay": [],
+    "david_marquet": [],
+    "stanley_mcchrystal": [],
+    "chris_fussell": [],
+    "amy_c._edmondson": [],
+    "david_rock": [],
+    "lisa_feldman_barrett": [],
+    "roy_baumeister": [],
+    "daniel_kahneman": []
+}

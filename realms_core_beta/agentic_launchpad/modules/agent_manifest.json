@@ -1,0 +1,30 @@
+{
+  "new_agents": [
+    {"name": "Ada Lovelace", "role": "General Genius"},
+    {"name": "Elon Musk", "role": "CEO Strategist"},
+    {"name": "Laszlo Bock", "role": "HR Architect"},
+    {"name": "Indra Nooyi", "role": "Executive Ops"},
+    {"name": "Satya Nadella", "role": "Tech Visionary"},
+    {"name": "Mary Barra", "role": "Manufacturing Lead"},
+    {"name": "Tim Cook", "role": "Product Strategist"},
+    {"name": "Susan Cain", "role": "Culture Architect"},
+    {"name": "Reid Hoffman", "role": "Growth Advisor"},
+    {"name": "Anne Wojcicki", "role": "BioTech Strategist"},
+    {"name": "Marc Andreessen", "role": "VC Liaison"},
+    {"name": "Sheryl Sandberg", "role": "Ops Commander"},
+    {"name": "Tony Robbins", "role": "Motivation Lead"},
+    {"name": "Melinda Gates", "role": "Impact Strategist"},
+    {"name": "Jack Dorsey", "role": "Social Architect"},
+    {"name": "Daniel Ek", "role": "Media Strategist"},
+    {"name": "Whitney Wolfe Herd", "role": "Brand Architect"},
+    {"name": "Drew Houston", "role": "Cloud Ops"},
+    {"name": "Brian Chesky", "role": "Experience Designer"},
+    {"name": "Angela Ahrendts", "role": "Retail Strategist"},
+    {"name": "Ginni Rometty", "role": "Enterprise Lead"},
+    {"name": "Eric Schmidt", "role": "AI Strategist"},
+    {"name": "Marissa Mayer", "role": "UX Lead"},
+    {"name": "Jeff Weiner", "role": "Talent Strategist"},
+    {"name": "Safra Catz", "role": "Finance Commander"},
+    {"name": "Rosalind Brewer", "role": "Operations Lead"}
+  ]
+}

@@ -1,0 +1,528 @@
+{
+    "crew_name": "Crew_Quality_QAAnalyst",
+    "mission_scope": "Real mission packet for Crew_Quality_QAAnalyst",
+    "agents": [
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Michael Krigsman",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Hamilton Mann",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Kent Beck",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "James Gosling",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Sal Khan",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Ben Horowitz",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Meg Whitman",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Mary Barra",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Tony Robbins",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Melanie Perkins",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Henry Gantt",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Peter Drucker",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Amy Edmondson",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Ranjay Gulati",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Mary Parker Follett",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Susan Heathfield",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "John P. Kotter",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Mike Cohn",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Barbara Kellerman",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Russell Ackoff",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Geary Rummler",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Tom DeMarco",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Barry Boehm",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Richard Branson",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Gifford Pinchot III",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Camille Fournier",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Jason Fried",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Jim Rohn",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Margaret Heffernan",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Liz Fosslien",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Kate Rutter",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Jennifer Dulski",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "Rob Cross",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "QA Analyst",
+            "agent_name": "David Rock",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        }
+    ],
+    "fallbacks": [
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Hamilton Mann"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Kent Beck"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "James Gosling"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Sal Khan"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Ben Horowitz"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Meg Whitman"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Mary Barra"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Tony Robbins"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Melanie Perkins"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Henry Gantt"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Peter Drucker"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Amy Edmondson"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Ranjay Gulati"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Mary Parker Follett"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Susan Heathfield"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "John P. Kotter"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Mike Cohn"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Barbara Kellerman"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Russell Ackoff"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Geary Rummler"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Tom DeMarco"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Barry Boehm"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Richard Branson"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Gifford Pinchot III"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Camille Fournier"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Jason Fried"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Jim Rohn"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Margaret Heffernan"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Liz Fosslien"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Kate Rutter"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Jennifer Dulski"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "Rob Cross"
+        },
+        {
+            "role_title": "QA Analyst",
+            "fallback_agent": "David Rock"
+        }
+    ],
+    "domains": [
+        "General"
+    ],
+    "persona_overlay": {
+        "crew_style": "adaptive",
+        "tone": "neutral"
+    },
+    "dispatch_logic": {
+        "primary": "Crew_Quality_QAAnalyst",
+        "fallback": [
+            "Hamilton Mann",
+            "Kent Beck",
+            "James Gosling",
+            "Sal Khan",
+            "Ben Horowitz",
+            "Meg Whitman",
+            "Mary Barra",
+            "Tony Robbins",
+            "Melanie Perkins",
+            "Henry Gantt",
+            "Peter Drucker",
+            "Amy Edmondson",
+            "Ranjay Gulati",
+            "Mary Parker Follett",
+            "Susan Heathfield",
+            "John P. Kotter",
+            "Mike Cohn",
+            "Barbara Kellerman",
+            "Russell Ackoff",
+            "Geary Rummler",
+            "Tom DeMarco",
+            "Barry Boehm",
+            "Richard Branson",
+            "Gifford Pinchot III",
+            "Camille Fournier",
+            "Jason Fried",
+            "Jim Rohn",
+            "Margaret Heffernan",
+            "Liz Fosslien",
+            "Kate Rutter",
+            "Jennifer Dulski",
+            "Rob Cross",
+            "David Rock"
+        ],
+        "twin_origin": "pantheon_twin/Crew_Quality_QAAnalyst",
+        "offline_safe": []
+    },
+    "confirmation_chain": []
+}

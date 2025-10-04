@@ -1,0 +1,598 @@
+{
+    "crew_name": "Crew_Leadership_StrategicPM",
+    "mission_scope": "Real mission packet for Crew_Leadership_StrategicPM",
+    "agents": [
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Ada Lovelace",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Alan Turing",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Grace Hopper",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Geoffrey Hinton",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Martin Fowler",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Jeff Bezos",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Meredith Whittaker",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Daniel Ek",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Whitney Wolfe Herd",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Marc Andreessen",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Ann Handley",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Rand Fishkin",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Satya Nadella",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Stewart Butterfield",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Margaret Hamilton",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Brene Brown",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Henri Fayol",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Mintzberg",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Jac Fitz-enz",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Jeff Sutherland",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Ken Schwaber",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Frances Hesselbein",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Kelsey Hightower",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Zeynep Ton",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Rita McGrath",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Molly Graham",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Susan David",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Michael Bungay Stanier",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Cal Newport",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Erika Hall",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Leah Buley",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Carol Dweck",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Camille Ricketts",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Strategic PM",
+            "agent_name": "Daniel Kahneman",
+            "domain": "General",
+            "persona": {
+                "style": "visionary",
+                "tone": "inspiring",
+                "offline_safe": true
+            }
+        }
+    ],
+    "fallbacks": [
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Alan Turing"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Grace Hopper"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Geoffrey Hinton"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Martin Fowler"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Jeff Bezos"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Meredith Whittaker"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Daniel Ek"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Whitney Wolfe Herd"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Marc Andreessen"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Ann Handley"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Rand Fishkin"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Satya Nadella"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Stewart Butterfield"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Margaret Hamilton"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Brene Brown"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Henri Fayol"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Mintzberg"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Jac Fitz-enz"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Jeff Sutherland"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Ken Schwaber"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Frances Hesselbein"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Kelsey Hightower"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Zeynep Ton"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Rita McGrath"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Molly Graham"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Susan David"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Michael Bungay Stanier"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Cal Newport"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Erika Hall"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Leah Buley"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Carol Dweck"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Camille Ricketts"
+        },
+        {
+            "role_title": "Strategic PM",
+            "fallback_agent": "Daniel Kahneman"
+        }
+    ],
+    "domains": [
+        "General"
+    ],
+    "persona_overlay": {
+        "crew_style": "visionary",
+        "tone": "inspiring"
+    },
+    "dispatch_logic": {
+        "primary": "Crew_Leadership_StrategicPM",
+        "fallback": [
+            "Alan Turing",
+            "Grace Hopper",
+            "Geoffrey Hinton",
+            "Martin Fowler",
+            "Jeff Bezos",
+            "Meredith Whittaker",
+            "Daniel Ek",
+            "Whitney Wolfe Herd",
+            "Marc Andreessen",
+            "Ann Handley",
+            "Rand Fishkin",
+            "Satya Nadella",
+            "Stewart Butterfield",
+            "Margaret Hamilton",
+            "Brene Brown",
+            "Henri Fayol",
+            "Mintzberg",
+            "Jac Fitz-enz",
+            "Jeff Sutherland",
+            "Ken Schwaber",
+            "Frances Hesselbein",
+            "Kelsey Hightower",
+            "Zeynep Ton",
+            "Rita McGrath",
+            "Molly Graham",
+            "Susan David",
+            "Michael Bungay Stanier",
+            "Cal Newport",
+            "Erika Hall",
+            "Leah Buley",
+            "Carol Dweck",
+            "Camille Ricketts",
+            "Daniel Kahneman"
+        ],
+        "twin_origin": "pantheon_twin/Crew_Leadership_StrategicPM",
+        "offline_safe": [
+            "Ada Lovelace",
+            "Alan Turing",
+            "Grace Hopper",
+            "Geoffrey Hinton",
+            "Martin Fowler",
+            "Jeff Bezos",
+            "Meredith Whittaker",
+            "Daniel Ek",
+            "Whitney Wolfe Herd",
+            "Marc Andreessen",
+            "Ann Handley",
+            "Rand Fishkin",
+            "Satya Nadella",
+            "Stewart Butterfield",
+            "Margaret Hamilton",
+            "Brene Brown",
+            "Henri Fayol",
+            "Mintzberg",
+            "Jac Fitz-enz",
+            "Jeff Sutherland",
+            "Ken Schwaber",
+            "Frances Hesselbein",
+            "Kelsey Hightower",
+            "Zeynep Ton",
+            "Rita McGrath",
+            "Molly Graham",
+            "Susan David",
+            "Michael Bungay Stanier",
+            "Cal Newport",
+            "Erika Hall",
+            "Leah Buley",
+            "Carol Dweck",
+            "Camille Ricketts",
+            "Daniel Kahneman"
+        ]
+    },
+    "confirmation_chain": [
+        "Ada Lovelace",
+        "Alan Turing",
+        "Ann Handley",
+        "Brene Brown",
+        "Cal Newport",
+        "Camille Ricketts",
+        "Carol Dweck",
+        "Daniel Ek",
+        "Daniel Kahneman",
+        "Erika Hall",
+        "Frances Hesselbein",
+        "Geoffrey Hinton",
+        "Grace Hopper",
+        "Henri Fayol",
+        "Jac Fitz-enz",
+        "Jeff Bezos",
+        "Jeff Sutherland",
+        "Kelsey Hightower",
+        "Ken Schwaber",
+        "Leah Buley",
+        "Marc Andreessen",
+        "Margaret Hamilton",
+        "Martin Fowler",
+        "Meredith Whittaker",
+        "Michael Bungay Stanier",
+        "Mintzberg",
+        "Molly Graham",
+        "Rand Fishkin",
+        "Rita McGrath",
+        "Satya Nadella",
+        "Stewart Butterfield",
+        "Susan David",
+        "Whitney Wolfe Herd",
+        "Zeynep Ton"
+    ]
+}

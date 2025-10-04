@@ -1,0 +1,2506 @@
+[
+    {
+        "crew_name": "Crew_Alpha_1",
+        "mission_brief": "Deploy HR leadership and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Frederick Herzberg",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Anil Dash",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Susan Heathfield",
+                "Mary Parker Follett"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_2",
+        "mission_brief": "Deploy HR leadership and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Susan Heathfield",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Mary Parker Follett",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Jeff Dean",
+                "Claire Hughes Johnson"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_3",
+        "mission_brief": "Deploy Scalable Systems & AI and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Jeff Dean",
+                "role": "Scalable Systems & AI Specialist"
+            },
+            "beta": {
+                "name": "Claire Hughes Johnson",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Peter Drucker",
+                "Tobi L\u00fctke"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_4",
+        "mission_brief": "Deploy organizational design and E-commerce Infrastructure expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Peter Drucker",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Tobi L\u00fctke",
+                "role": "E-commerce Infrastructure Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Navi Radjou",
+                "Rita McGrath"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_5",
+        "mission_brief": "Deploy organizational design and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Navi Radjou",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Rita McGrath",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Ann Mei Chang",
+                "Lyndall Urwick"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_6",
+        "mission_brief": "Deploy Lean Impact & Innovation and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Ann Mei Chang",
+                "role": "Lean Impact & Innovation Specialist"
+            },
+            "beta": {
+                "name": "Lyndall Urwick",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Nicole Forsgren",
+                "Tim Berners-Lee"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_7",
+        "mission_brief": "Deploy operational excellence and Web Architecture expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Nicole Forsgren",
+                "role": "operational excellence Specialist"
+            },
+            "beta": {
+                "name": "Tim Berners-Lee",
+                "role": "Web Architecture Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Lex Fridman",
+                "Theresa M. Payton"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_8",
+        "mission_brief": "Deploy AI & Robotics and Cybersecurity Leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Lex Fridman",
+                "role": "AI & Robotics Specialist"
+            },
+            "beta": {
+                "name": "Theresa M. Payton",
+                "role": "Cybersecurity Leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Shantanu Narayen",
+                "Henry Gantt"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_9",
+        "mission_brief": "Deploy Creative Software and Project Management expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Shantanu Narayen",
+                "role": "Creative Software Specialist"
+            },
+            "beta": {
+                "name": "Henry Gantt",
+                "role": "Project Management Specialist"
+            }
+        },
+        "tool_access": [
+            "Asana",
+            "Jira",
+            "Google Docs",
+            "Notion",
+            "Trello",
+            "GanttPro"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Mike Cohn",
+                "Hirotaka Takeuchi"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_10",
+        "mission_brief": "Deploy project management and project management expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Mike Cohn",
+                "role": "project management Specialist"
+            },
+            "beta": {
+                "name": "Hirotaka Takeuchi",
+                "role": "project management Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Tony Robbins",
+                "Satya Nadella"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_11",
+        "mission_brief": "Deploy HR leadership and Cloud & Culture Transformation expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Tony Robbins",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Satya Nadella",
+                "role": "Cloud & Culture Transformation Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Laszlo Bock",
+                "Don Norman"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_12",
+        "mission_brief": "Deploy HR leadership and operational excellence expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Laszlo Bock",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Don Norman",
+                "role": "operational excellence Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Dan Pink",
+                "Brian Halligan"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_13",
+        "mission_brief": "Deploy HR leadership and Inbound Marketing expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Dan Pink",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Brian Halligan",
+                "role": "Inbound Marketing Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Melanie Mitchell",
+                "Guido van Rossum"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_14",
+        "mission_brief": "Deploy Complex Systems & AI and Programming Languages expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Melanie Mitchell",
+                "role": "Complex Systems & AI Specialist"
+            },
+            "beta": {
+                "name": "Guido van Rossum",
+                "role": "Programming Languages Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Martin Fowler",
+                "Laura Vanderkam"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_15",
+        "mission_brief": "Deploy Software Architecture and project management expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Martin Fowler",
+                "role": "Software Architecture Specialist"
+            },
+            "beta": {
+                "name": "Laura Vanderkam",
+                "role": "project management Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Martin Casado",
+                "Herminia Ibarra"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_16",
+        "mission_brief": "Deploy Networking & VC and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Martin Casado",
+                "role": "Networking & VC Specialist"
+            },
+            "beta": {
+                "name": "Herminia Ibarra",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Tasha Eurich",
+                "Kara Swisher"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_17",
+        "mission_brief": "Deploy HR leadership and Tech Journalism expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Tasha Eurich",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Kara Swisher",
+                "role": "Tech Journalism Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Brendan Eich",
+                "Brene Brown"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_18",
+        "mission_brief": "Deploy Web Development and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Brendan Eich",
+                "role": "Web Development Specialist"
+            },
+            "beta": {
+                "name": "Brene Brown",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Grace Hopper",
+                "David Ulrich"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_19",
+        "mission_brief": "Deploy Programming Languages and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Grace Hopper",
+                "role": "Programming Languages Specialist"
+            },
+            "beta": {
+                "name": "David Ulrich",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "John Boyd",
+                "Adam Grant"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_20",
+        "mission_brief": "Deploy operational excellence and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "John Boyd",
+                "role": "operational excellence Specialist"
+            },
+            "beta": {
+                "name": "Adam Grant",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Michael Porter",
+                "Patty McCord"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_21",
+        "mission_brief": "Deploy Competitive Strategy and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Michael Porter",
+                "role": "Competitive Strategy Specialist"
+            },
+            "beta": {
+                "name": "Patty McCord",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Jac Fitz-enz",
+                "Daniel Ek"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_22",
+        "mission_brief": "Deploy HR leadership and Streaming Media expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Jac Fitz-enz",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Daniel Ek",
+                "role": "Streaming Media Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Ranjay Gulati",
+                "Clayton Christensen"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_23",
+        "mission_brief": "Deploy Organizational Resilience and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Ranjay Gulati",
+                "role": "Organizational Resilience Specialist"
+            },
+            "beta": {
+                "name": "Clayton Christensen",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Keith Ferrazzi",
+                "Susan Wojcicki"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_24",
+        "mission_brief": "Deploy HR leadership and Digital Media expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Keith Ferrazzi",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Susan Wojcicki",
+                "role": "Digital Media Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Donella Meadows",
+                "Frederick Winslow Taylor"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_25",
+        "mission_brief": "Deploy operational excellence and Scientific Management expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Donella Meadows",
+                "role": "operational excellence Specialist"
+            },
+            "beta": {
+                "name": "Frederick Winslow Taylor",
+                "role": "Scientific Management Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Stewart Butterfield",
+                "Jeffrey Pfeffer"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_26",
+        "mission_brief": "Deploy organizational design and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Stewart Butterfield",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Jeffrey Pfeffer",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Teresa Amabile",
+                "Sal Khan"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_27",
+        "mission_brief": "Deploy HR leadership and Education Technology expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Teresa Amabile",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Sal Khan",
+                "role": "Education Technology Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Diane Greene",
+                "Stewart Butterfield"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_28",
+        "mission_brief": "Deploy Cloud Computing and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Diane Greene",
+                "role": "Cloud Computing Specialist"
+            },
+            "beta": {
+                "name": "Stewart Butterfield",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Clay Shirky",
+                "John Kotter"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_29",
+        "mission_brief": "Deploy organizational design and Organizational Change expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Clay Shirky",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "John Kotter",
+                "role": "Organizational Change Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Ben Horowitz",
+                "Jeremy Howard"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_30",
+        "mission_brief": "Deploy HR leadership and Deep Learning Education expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Ben Horowitz",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Jeremy Howard",
+                "role": "Deep Learning Education Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Susan David",
+                "Kate Rutter"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_31",
+        "mission_brief": "Deploy HR leadership and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Susan David",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Kate Rutter",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Camille Ricketts",
+                "Taiichi Ohno"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_32",
+        "mission_brief": "Deploy HR leadership and operational excellence expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Camille Ricketts",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Taiichi Ohno",
+                "role": "operational excellence Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Donald Knuth",
+                "Daniel Kahneman"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_33",
+        "mission_brief": "Deploy Algorithms & Typography and operational excellence expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Donald Knuth",
+                "role": "Algorithms & Typography Specialist"
+            },
+            "beta": {
+                "name": "Daniel Kahneman",
+                "role": "operational excellence Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Tom Peters",
+                "Amy Edmondson"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_34",
+        "mission_brief": "Deploy operational excellence and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Tom Peters",
+                "role": "operational excellence Specialist"
+            },
+            "beta": {
+                "name": "Amy Edmondson",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Tasha Eurich",
+                "W. Edwards Deming"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_35",
+        "mission_brief": "Deploy HR leadership and operational excellence expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Tasha Eurich",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "W. Edwards Deming",
+                "role": "operational excellence Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Claire Hughes Johnson",
+                "Daniel Goleman"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_36",
+        "mission_brief": "Deploy HR leadership and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Claire Hughes Johnson",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Daniel Goleman",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Jennifer Garvey Berger",
+                "Radia Perlman"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_37",
+        "mission_brief": "Deploy HR leadership and Networking expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Jennifer Garvey Berger",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Radia Perlman",
+                "role": "Networking Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Patti Sanchez",
+                "Linda Hill"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_38",
+        "mission_brief": "Deploy operational excellence and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Patti Sanchez",
+                "role": "operational excellence Specialist"
+            },
+            "beta": {
+                "name": "Linda Hill",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Bjarne Stroustrup",
+                "Hamilton Mann"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_39",
+        "mission_brief": "Deploy Programming Languages and Digital Transformation expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Bjarne Stroustrup",
+                "role": "Programming Languages Specialist"
+            },
+            "beta": {
+                "name": "Hamilton Mann",
+                "role": "Digital Transformation Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Stephen Covey",
+                "Jack Dorsey"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_40",
+        "mission_brief": "Deploy HR leadership and Social Platforms & Fintech expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Stephen Covey",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Jack Dorsey",
+                "role": "Social Platforms & Fintech Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Peter Senge",
+                "Barbara Minto"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_41",
+        "mission_brief": "Deploy organizational design and operational excellence expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Peter Senge",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Barbara Minto",
+                "role": "operational excellence Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Robert Sutton",
+                "Gary Hamel"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_42",
+        "mission_brief": "Deploy HR leadership and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Robert Sutton",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Gary Hamel",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Erika Hall",
+                "Lisa Feldman Barrett"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_43",
+        "mission_brief": "Deploy organizational design and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Erika Hall",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Lisa Feldman Barrett",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Reed Hastings",
+                "Geary Rummler"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_44",
+        "mission_brief": "Deploy Streaming & Media and operational excellence expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Reed Hastings",
+                "role": "Streaming & Media Specialist"
+            },
+            "beta": {
+                "name": "Geary Rummler",
+                "role": "operational excellence Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Camille Fournier",
+                "Roger Martin"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_45",
+        "mission_brief": "Deploy HR leadership and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Camille Fournier",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Roger Martin",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Marc Benioff",
+                "Frances Hesselbein"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_46",
+        "mission_brief": "Deploy CRM & Culture and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Marc Benioff",
+                "role": "CRM & Culture Specialist"
+            },
+            "beta": {
+                "name": "Frances Hesselbein",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Hollie Delaney",
+                "Angela Duckworth"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_47",
+        "mission_brief": "Deploy Culture & Retention and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Hollie Delaney",
+                "role": "Culture & Retention Specialist"
+            },
+            "beta": {
+                "name": "Angela Duckworth",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Yves Morieux",
+                "Dave Ulrich"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_48",
+        "mission_brief": "Deploy organizational design and HR Strategy expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Yves Morieux",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Dave Ulrich",
+                "role": "HR Strategy Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Melinda French Gates",
+                "Oliver Burkeman"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_49",
+        "mission_brief": "Deploy Philanthropy & Tech Equity and project management expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Melinda French Gates",
+                "role": "Philanthropy & Tech Equity Specialist"
+            },
+            "beta": {
+                "name": "Oliver Burkeman",
+                "role": "project management Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Tom Peters",
+                "Jason Fried"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_50",
+        "mission_brief": "Deploy operational excellence and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Tom Peters",
+                "role": "operational excellence Specialist"
+            },
+            "beta": {
+                "name": "Jason Fried",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Mary Jo Foley",
+                "Jake Knapp"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_51",
+        "mission_brief": "Deploy Enterprise Tech Journalism and project management expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Mary Jo Foley",
+                "role": "Enterprise Tech Journalism Specialist"
+            },
+            "beta": {
+                "name": "Jake Knapp",
+                "role": "project management Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Tom DeMarco",
+                "Whitney Johnson"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_52",
+        "mission_brief": "Deploy project management and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Tom DeMarco",
+                "role": "project management Specialist"
+            },
+            "beta": {
+                "name": "Whitney Johnson",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Adam Grant",
+                "Frank Gilbreth"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_53",
+        "mission_brief": "Deploy HR leadership and operational excellence expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Adam Grant",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Frank Gilbreth",
+                "role": "operational excellence Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Kent Beck",
+                "David Marquet"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_54",
+        "mission_brief": "Deploy Agile Development and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Kent Beck",
+                "role": "Agile Development Specialist"
+            },
+            "beta": {
+                "name": "David Marquet",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Simon Sinek",
+                "Ron Westrum"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_55",
+        "mission_brief": "Deploy Leadership & Vision and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Simon Sinek",
+                "role": "Leadership & Vision Specialist"
+            },
+            "beta": {
+                "name": "Ron Westrum",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Joan Woodward",
+                "Liz Wiseman"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_56",
+        "mission_brief": "Deploy organizational design and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Joan Woodward",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Liz Wiseman",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Leah Buley",
+                "Jony Ive"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_57",
+        "mission_brief": "Deploy organizational design and Industrial Design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Leah Buley",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Jony Ive",
+                "role": "Industrial Design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Rob Cross",
+                "Reshma Saujani"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_58",
+        "mission_brief": "Deploy HR leadership and Tech Education expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Rob Cross",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Reshma Saujani",
+                "role": "Tech Education Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Liz Fosslien",
+                "Michael Krigsman"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_59",
+        "mission_brief": "Deploy HR leadership and Digital Strategy & Analysis expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Liz Fosslien",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Michael Krigsman",
+                "role": "Digital Strategy & Analysis Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Tristan Harris",
+                "Simon Sinek"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_60",
+        "mission_brief": "Deploy organizational design and Leadership & Vision expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Tristan Harris",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Simon Sinek",
+                "role": "Leadership & Vision Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "John Doerr",
+                "Rand Fishkin"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_61",
+        "mission_brief": "Deploy project management and SEO & Growth expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "John Doerr",
+                "role": "project management Specialist"
+            },
+            "beta": {
+                "name": "Rand Fishkin",
+                "role": "SEO & Growth Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Kim Scott",
+                "Anne Wojcicki"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_62",
+        "mission_brief": "Deploy HR leadership and Genomics & Health Tech expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Kim Scott",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Anne Wojcicki",
+                "role": "Genomics & Health Tech Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Roy Baumeister",
+                "Clayton Christensen"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_63",
+        "mission_brief": "Deploy HR leadership and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Roy Baumeister",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Clayton Christensen",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Ken Schwaber",
+                "Jay Galbraith"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_64",
+        "mission_brief": "Deploy project management and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Ken Schwaber",
+                "role": "project management Specialist"
+            },
+            "beta": {
+                "name": "Jay Galbraith",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Nicole Forsgren",
+                "Brian Chesky"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_65",
+        "mission_brief": "Deploy operational excellence and Platform Economy expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Nicole Forsgren",
+                "role": "operational excellence Specialist"
+            },
+            "beta": {
+                "name": "Brian Chesky",
+                "role": "Platform Economy Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Rensis Likert",
+                "Stanley McChrystal"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_66",
+        "mission_brief": "Deploy organizational design and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Rensis Likert",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Stanley McChrystal",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Steve Browne",
+                "Anders Hejlsberg"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_67",
+        "mission_brief": "Deploy Human Resources and Programming Languages expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Steve Browne",
+                "role": "Human Resources Specialist"
+            },
+            "beta": {
+                "name": "Anders Hejlsberg",
+                "role": "Programming Languages Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Julie Zhuo",
+                "Ed Batista"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_68",
+        "mission_brief": "Deploy HR leadership and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Julie Zhuo",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Ed Batista",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "John Maeda",
+                "Carol Dweck"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_69",
+        "mission_brief": "Deploy organizational design and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "John Maeda",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Carol Dweck",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Ikujiro Nonaka",
+                "Michael Bungay Stanier"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_70",
+        "mission_brief": "Deploy organizational design and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Ikujiro Nonaka",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Michael Bungay Stanier",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Felicia Fields",
+                "Kim Scott"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_71",
+        "mission_brief": "Deploy Strategic HR and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Felicia Fields",
+                "role": "Strategic HR Specialist"
+            },
+            "beta": {
+                "name": "Kim Scott",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "John Carmack",
+                "Jim Collins"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_72",
+        "mission_brief": "Deploy Graphics & Game Engines and operational excellence expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "John Carmack",
+                "role": "Graphics & Game Engines Specialist"
+            },
+            "beta": {
+                "name": "Jim Collins",
+                "role": "operational excellence Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Tristan Harris",
+                "Kim Malone Scott"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_73",
+        "mission_brief": "Deploy organizational design and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Tristan Harris",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Kim Malone Scott",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Melanie Perkins",
+                "Linda Gratton"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_74",
+        "mission_brief": "Deploy organizational design and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Melanie Perkins",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Linda Gratton",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Patrick Collison",
+                "Chris Fussell"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_75",
+        "mission_brief": "Deploy Fintech Infrastructure and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Patrick Collison",
+                "role": "Fintech Infrastructure Specialist"
+            },
+            "beta": {
+                "name": "Chris Fussell",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Tony Robbins",
+                "Brene Brown"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_76",
+        "mission_brief": "Deploy HR leadership and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Tony Robbins",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Brene Brown",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Cal Newport",
+                "Mintzberg"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_77",
+        "mission_brief": "Deploy operational excellence and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Cal Newport",
+                "role": "operational excellence Specialist"
+            },
+            "beta": {
+                "name": "Mintzberg",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Josh Bersin",
+                "Linda Hill"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_78",
+        "mission_brief": "Deploy HR Strategy and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Josh Bersin",
+                "role": "HR Strategy Specialist"
+            },
+            "beta": {
+                "name": "Linda Hill",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Ram Charan",
+                "Russell Ackoff"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_79",
+        "mission_brief": "Deploy HR leadership and operational excellence expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Ram Charan",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Russell Ackoff",
+                "role": "operational excellence Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Rosabeth Moss Kanter",
+                "Gene Kim"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_80",
+        "mission_brief": "Deploy organizational design and operational excellence expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Rosabeth Moss Kanter",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Gene Kim",
+                "role": "operational excellence Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Barry Boehm",
+                "David Rock"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_81",
+        "mission_brief": "Deploy project management and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Barry Boehm",
+                "role": "project management Specialist"
+            },
+            "beta": {
+                "name": "David Rock",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Laszlo Bock",
+                "Rosabeth Moss Kanter"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_82",
+        "mission_brief": "Deploy HR leadership and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Laszlo Bock",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Rosabeth Moss Kanter",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Frederic Laloux",
+                "Herminia Ibarra"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_83",
+        "mission_brief": "Deploy organizational design and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Frederic Laloux",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Herminia Ibarra",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Chris Lattner",
+                "Amy Edmondson"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_84",
+        "mission_brief": "Deploy Compiler Design and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Chris Lattner",
+                "role": "Compiler Design Specialist"
+            },
+            "beta": {
+                "name": "Amy Edmondson",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Michael Hammer",
+                "Ian Goodfellow"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_85",
+        "mission_brief": "Deploy operational excellence and Machine Learning expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Michael Hammer",
+                "role": "operational excellence Specialist"
+            },
+            "beta": {
+                "name": "Ian Goodfellow",
+                "role": "Machine Learning Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Jeff Bezos",
+                "Drew Houston"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_86",
+        "mission_brief": "Deploy E-commerce & Cloud and Cloud Storage expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Jeff Bezos",
+                "role": "E-commerce & Cloud Specialist"
+            },
+            "beta": {
+                "name": "Drew Houston",
+                "role": "Cloud Storage Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Marissa Mayer",
+                "Amy C. Edmondson"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_87",
+        "mission_brief": "Deploy Product & UX Leadership and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Marissa Mayer",
+                "role": "Product & UX Leadership Specialist"
+            },
+            "beta": {
+                "name": "Amy C. Edmondson",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Zeynep Ton",
+                "Tiago Forte"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_88",
+        "mission_brief": "Deploy operational excellence and project management expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Zeynep Ton",
+                "role": "operational excellence Specialist"
+            },
+            "beta": {
+                "name": "Tiago Forte",
+                "role": "project management Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Jeffrey Pfeffer",
+                "Gina Bianchini"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_89",
+        "mission_brief": "Deploy HR leadership and Community Platforms expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Jeffrey Pfeffer",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Gina Bianchini",
+                "role": "Community Platforms Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Jennifer Dulski",
+                "Hubert Joly"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_90",
+        "mission_brief": "Deploy organizational design and Leadership & Turnaround expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Jennifer Dulski",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Hubert Joly",
+                "role": "Leadership & Turnaround Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Marshall Goldsmith",
+                "David Heinemeier Hansson"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_91",
+        "mission_brief": "Deploy HR leadership and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Marshall Goldsmith",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "David Heinemeier Hansson",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Hubert Joly",
+                "Alan Turing"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_92",
+        "mission_brief": "Deploy Leadership & Turnaround and Cryptography & AI expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Hubert Joly",
+                "role": "Leadership & Turnaround Specialist"
+            },
+            "beta": {
+                "name": "Alan Turing",
+                "role": "Cryptography & AI Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Naval Ravikant",
+                "Liz Wiseman"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_93",
+        "mission_brief": "Deploy Angel Investing & Philosophy and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Naval Ravikant",
+                "role": "Angel Investing & Philosophy Specialist"
+            },
+            "beta": {
+                "name": "Liz Wiseman",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Gary Hamel",
+                "Nancy Duarte"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_94",
+        "mission_brief": "Deploy organizational design and operational excellence expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Gary Hamel",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Nancy Duarte",
+                "role": "operational excellence Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Safra Catz",
+                "Gifford Pinchot III"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_95",
+        "mission_brief": "Deploy Enterprise Software and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Safra Catz",
+                "role": "Enterprise Software Specialist"
+            },
+            "beta": {
+                "name": "Gifford Pinchot III",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "David Allen",
+                "Anne Morriss"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_96",
+        "mission_brief": "Deploy project management and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "David Allen",
+                "role": "project management Specialist"
+            },
+            "beta": {
+                "name": "Anne Morriss",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Reid Hoffman",
+                "Richard Branson"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_97",
+        "mission_brief": "Deploy organizational design and HR leadership expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Reid Hoffman",
+                "role": "organizational design Specialist"
+            },
+            "beta": {
+                "name": "Richard Branson",
+                "role": "HR leadership Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Bill Gates",
+                "Geoffrey Hinton"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_98",
+        "mission_brief": "Deploy Software & Philanthropy and Neural Networks expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Bill Gates",
+                "role": "Software & Philanthropy Specialist"
+            },
+            "beta": {
+                "name": "Geoffrey Hinton",
+                "role": "Neural Networks Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Barbara Kellerman",
+                "Henri Fayol"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_99",
+        "mission_brief": "Deploy HR leadership and organizational design expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Barbara Kellerman",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Henri Fayol",
+                "role": "organizational design Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Julie Zhuo",
+                "Rita Mulcahy"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    },
+    {
+        "crew_name": "Crew_Alpha_100",
+        "mission_brief": "Deploy HR leadership and Project Management Training expertise to solve strategic challenges.",
+        "agent_roles": {
+            "alpha": {
+                "name": "Julie Zhuo",
+                "role": "HR leadership Specialist"
+            },
+            "beta": {
+                "name": "Rita Mulcahy",
+                "role": "Project Management Training Specialist"
+            }
+        },
+        "tool_access": [
+            "Notion",
+            "Google Docs"
+        ],
+        "simulation_flags": {
+            "fallback": [
+                "Ram Charan",
+                "Herminia Ibarra"
+            ],
+            "escalation": "use fused persona if both agents fail"
+        }
+    }
+]

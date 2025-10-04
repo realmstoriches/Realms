@@ -1,0 +1,1102 @@
+[
+    {
+        "agent_pair_id": "DB-001",
+        "alpha": "Frederick Herzberg",
+        "beta": "Anil Dash",
+        "crew": "Crew_Alpha_1",
+        "status": "active",
+        "fallback_pair": [
+            "Susan Heathfield",
+            "Mary Parker Follett"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-002",
+        "alpha": "Susan Heathfield",
+        "beta": "Mary Parker Follett",
+        "crew": "Crew_Alpha_2",
+        "status": "active",
+        "fallback_pair": [
+            "Jeff Dean",
+            "Claire Hughes Johnson"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-003",
+        "alpha": "Jeff Dean",
+        "beta": "Claire Hughes Johnson",
+        "crew": "Crew_Alpha_3",
+        "status": "active",
+        "fallback_pair": [
+            "Peter Drucker",
+            "Tobi L\u00fctke"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-004",
+        "alpha": "Peter Drucker",
+        "beta": "Tobi L\u00fctke",
+        "crew": "Crew_Alpha_4",
+        "status": "active",
+        "fallback_pair": [
+            "Navi Radjou",
+            "Rita McGrath"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-005",
+        "alpha": "Navi Radjou",
+        "beta": "Rita McGrath",
+        "crew": "Crew_Alpha_5",
+        "status": "active",
+        "fallback_pair": [
+            "Ann Mei Chang",
+            "Lyndall Urwick"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-006",
+        "alpha": "Ann Mei Chang",
+        "beta": "Lyndall Urwick",
+        "crew": "Crew_Alpha_6",
+        "status": "active",
+        "fallback_pair": [
+            "Nicole Forsgren",
+            "Tim Berners-Lee"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-007",
+        "alpha": "Nicole Forsgren",
+        "beta": "Tim Berners-Lee",
+        "crew": "Crew_Alpha_7",
+        "status": "active",
+        "fallback_pair": [
+            "Lex Fridman",
+            "Theresa M. Payton"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-008",
+        "alpha": "Lex Fridman",
+        "beta": "Theresa M. Payton",
+        "crew": "Crew_Alpha_8",
+        "status": "active",
+        "fallback_pair": [
+            "Shantanu Narayen",
+            "Henry Gantt"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-009",
+        "alpha": "Shantanu Narayen",
+        "beta": "Henry Gantt",
+        "crew": "Crew_Alpha_9",
+        "status": "active",
+        "fallback_pair": [
+            "Mike Cohn",
+            "Hirotaka Takeuchi"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-010",
+        "alpha": "Mike Cohn",
+        "beta": "Hirotaka Takeuchi",
+        "crew": "Crew_Alpha_10",
+        "status": "active",
+        "fallback_pair": [
+            "Tony Robbins",
+            "Satya Nadella"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-011",
+        "alpha": "Tony Robbins",
+        "beta": "Satya Nadella",
+        "crew": "Crew_Alpha_11",
+        "status": "active",
+        "fallback_pair": [
+            "Laszlo Bock",
+            "Don Norman"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-012",
+        "alpha": "Laszlo Bock",
+        "beta": "Don Norman",
+        "crew": "Crew_Alpha_12",
+        "status": "active",
+        "fallback_pair": [
+            "Dan Pink",
+            "Brian Halligan"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-013",
+        "alpha": "Dan Pink",
+        "beta": "Brian Halligan",
+        "crew": "Crew_Alpha_13",
+        "status": "active",
+        "fallback_pair": [
+            "Melanie Mitchell",
+            "Guido van Rossum"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-014",
+        "alpha": "Melanie Mitchell",
+        "beta": "Guido van Rossum",
+        "crew": "Crew_Alpha_14",
+        "status": "active",
+        "fallback_pair": [
+            "Martin Fowler",
+            "Laura Vanderkam"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-015",
+        "alpha": "Martin Fowler",
+        "beta": "Laura Vanderkam",
+        "crew": "Crew_Alpha_15",
+        "status": "active",
+        "fallback_pair": [
+            "Martin Casado",
+            "Herminia Ibarra"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-016",
+        "alpha": "Martin Casado",
+        "beta": "Herminia Ibarra",
+        "crew": "Crew_Alpha_16",
+        "status": "active",
+        "fallback_pair": [
+            "Tasha Eurich",
+            "Kara Swisher"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-017",
+        "alpha": "Tasha Eurich",
+        "beta": "Kara Swisher",
+        "crew": "Crew_Alpha_17",
+        "status": "active",
+        "fallback_pair": [
+            "Brendan Eich",
+            "Brene Brown"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-018",
+        "alpha": "Brendan Eich",
+        "beta": "Brene Brown",
+        "crew": "Crew_Alpha_18",
+        "status": "active",
+        "fallback_pair": [
+            "Grace Hopper",
+            "David Ulrich"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-019",
+        "alpha": "Grace Hopper",
+        "beta": "David Ulrich",
+        "crew": "Crew_Alpha_19",
+        "status": "active",
+        "fallback_pair": [
+            "John Boyd",
+            "Adam Grant"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-020",
+        "alpha": "John Boyd",
+        "beta": "Adam Grant",
+        "crew": "Crew_Alpha_20",
+        "status": "active",
+        "fallback_pair": [
+            "Michael Porter",
+            "Patty McCord"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-021",
+        "alpha": "Michael Porter",
+        "beta": "Patty McCord",
+        "crew": "Crew_Alpha_21",
+        "status": "active",
+        "fallback_pair": [
+            "Jac Fitz-enz",
+            "Daniel Ek"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-022",
+        "alpha": "Jac Fitz-enz",
+        "beta": "Daniel Ek",
+        "crew": "Crew_Alpha_22",
+        "status": "active",
+        "fallback_pair": [
+            "Ranjay Gulati",
+            "Clayton Christensen"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-023",
+        "alpha": "Ranjay Gulati",
+        "beta": "Clayton Christensen",
+        "crew": "Crew_Alpha_23",
+        "status": "active",
+        "fallback_pair": [
+            "Keith Ferrazzi",
+            "Susan Wojcicki"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-024",
+        "alpha": "Keith Ferrazzi",
+        "beta": "Susan Wojcicki",
+        "crew": "Crew_Alpha_24",
+        "status": "active",
+        "fallback_pair": [
+            "Donella Meadows",
+            "Frederick Winslow Taylor"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-025",
+        "alpha": "Donella Meadows",
+        "beta": "Frederick Winslow Taylor",
+        "crew": "Crew_Alpha_25",
+        "status": "active",
+        "fallback_pair": [
+            "Stewart Butterfield",
+            "Jeffrey Pfeffer"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-026",
+        "alpha": "Stewart Butterfield",
+        "beta": "Jeffrey Pfeffer",
+        "crew": "Crew_Alpha_26",
+        "status": "active",
+        "fallback_pair": [
+            "Teresa Amabile",
+            "Sal Khan"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-027",
+        "alpha": "Teresa Amabile",
+        "beta": "Sal Khan",
+        "crew": "Crew_Alpha_27",
+        "status": "active",
+        "fallback_pair": [
+            "Diane Greene",
+            "Stewart Butterfield"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-028",
+        "alpha": "Diane Greene",
+        "beta": "Stewart Butterfield",
+        "crew": "Crew_Alpha_28",
+        "status": "active",
+        "fallback_pair": [
+            "Clay Shirky",
+            "John Kotter"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-029",
+        "alpha": "Clay Shirky",
+        "beta": "John Kotter",
+        "crew": "Crew_Alpha_29",
+        "status": "active",
+        "fallback_pair": [
+            "Ben Horowitz",
+            "Jeremy Howard"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-030",
+        "alpha": "Ben Horowitz",
+        "beta": "Jeremy Howard",
+        "crew": "Crew_Alpha_30",
+        "status": "active",
+        "fallback_pair": [
+            "Susan David",
+            "Kate Rutter"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-031",
+        "alpha": "Susan David",
+        "beta": "Kate Rutter",
+        "crew": "Crew_Alpha_31",
+        "status": "active",
+        "fallback_pair": [
+            "Camille Ricketts",
+            "Taiichi Ohno"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-032",
+        "alpha": "Camille Ricketts",
+        "beta": "Taiichi Ohno",
+        "crew": "Crew_Alpha_32",
+        "status": "active",
+        "fallback_pair": [
+            "Donald Knuth",
+            "Daniel Kahneman"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-033",
+        "alpha": "Donald Knuth",
+        "beta": "Daniel Kahneman",
+        "crew": "Crew_Alpha_33",
+        "status": "active",
+        "fallback_pair": [
+            "Tom Peters",
+            "Amy Edmondson"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-034",
+        "alpha": "Tom Peters",
+        "beta": "Amy Edmondson",
+        "crew": "Crew_Alpha_34",
+        "status": "active",
+        "fallback_pair": [
+            "Tasha Eurich",
+            "W. Edwards Deming"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-035",
+        "alpha": "Tasha Eurich",
+        "beta": "W. Edwards Deming",
+        "crew": "Crew_Alpha_35",
+        "status": "active",
+        "fallback_pair": [
+            "Claire Hughes Johnson",
+            "Daniel Goleman"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-036",
+        "alpha": "Claire Hughes Johnson",
+        "beta": "Daniel Goleman",
+        "crew": "Crew_Alpha_36",
+        "status": "active",
+        "fallback_pair": [
+            "Jennifer Garvey Berger",
+            "Radia Perlman"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-037",
+        "alpha": "Jennifer Garvey Berger",
+        "beta": "Radia Perlman",
+        "crew": "Crew_Alpha_37",
+        "status": "active",
+        "fallback_pair": [
+            "Patti Sanchez",
+            "Linda Hill"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-038",
+        "alpha": "Patti Sanchez",
+        "beta": "Linda Hill",
+        "crew": "Crew_Alpha_38",
+        "status": "active",
+        "fallback_pair": [
+            "Bjarne Stroustrup",
+            "Hamilton Mann"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-039",
+        "alpha": "Bjarne Stroustrup",
+        "beta": "Hamilton Mann",
+        "crew": "Crew_Alpha_39",
+        "status": "active",
+        "fallback_pair": [
+            "Stephen Covey",
+            "Jack Dorsey"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-040",
+        "alpha": "Stephen Covey",
+        "beta": "Jack Dorsey",
+        "crew": "Crew_Alpha_40",
+        "status": "active",
+        "fallback_pair": [
+            "Peter Senge",
+            "Barbara Minto"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-041",
+        "alpha": "Peter Senge",
+        "beta": "Barbara Minto",
+        "crew": "Crew_Alpha_41",
+        "status": "active",
+        "fallback_pair": [
+            "Robert Sutton",
+            "Gary Hamel"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-042",
+        "alpha": "Robert Sutton",
+        "beta": "Gary Hamel",
+        "crew": "Crew_Alpha_42",
+        "status": "active",
+        "fallback_pair": [
+            "Erika Hall",
+            "Lisa Feldman Barrett"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-043",
+        "alpha": "Erika Hall",
+        "beta": "Lisa Feldman Barrett",
+        "crew": "Crew_Alpha_43",
+        "status": "active",
+        "fallback_pair": [
+            "Reed Hastings",
+            "Geary Rummler"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-044",
+        "alpha": "Reed Hastings",
+        "beta": "Geary Rummler",
+        "crew": "Crew_Alpha_44",
+        "status": "active",
+        "fallback_pair": [
+            "Camille Fournier",
+            "Roger Martin"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-045",
+        "alpha": "Camille Fournier",
+        "beta": "Roger Martin",
+        "crew": "Crew_Alpha_45",
+        "status": "active",
+        "fallback_pair": [
+            "Marc Benioff",
+            "Frances Hesselbein"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-046",
+        "alpha": "Marc Benioff",
+        "beta": "Frances Hesselbein",
+        "crew": "Crew_Alpha_46",
+        "status": "active",
+        "fallback_pair": [
+            "Hollie Delaney",
+            "Angela Duckworth"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-047",
+        "alpha": "Hollie Delaney",
+        "beta": "Angela Duckworth",
+        "crew": "Crew_Alpha_47",
+        "status": "active",
+        "fallback_pair": [
+            "Yves Morieux",
+            "Dave Ulrich"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-048",
+        "alpha": "Yves Morieux",
+        "beta": "Dave Ulrich",
+        "crew": "Crew_Alpha_48",
+        "status": "active",
+        "fallback_pair": [
+            "Melinda French Gates",
+            "Oliver Burkeman"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-049",
+        "alpha": "Melinda French Gates",
+        "beta": "Oliver Burkeman",
+        "crew": "Crew_Alpha_49",
+        "status": "active",
+        "fallback_pair": [
+            "Tom Peters",
+            "Jason Fried"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-050",
+        "alpha": "Tom Peters",
+        "beta": "Jason Fried",
+        "crew": "Crew_Alpha_50",
+        "status": "active",
+        "fallback_pair": [
+            "Mary Jo Foley",
+            "Jake Knapp"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-051",
+        "alpha": "Mary Jo Foley",
+        "beta": "Jake Knapp",
+        "crew": "Crew_Alpha_51",
+        "status": "active",
+        "fallback_pair": [
+            "Tom DeMarco",
+            "Whitney Johnson"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-052",
+        "alpha": "Tom DeMarco",
+        "beta": "Whitney Johnson",
+        "crew": "Crew_Alpha_52",
+        "status": "active",
+        "fallback_pair": [
+            "Adam Grant",
+            "Frank Gilbreth"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-053",
+        "alpha": "Adam Grant",
+        "beta": "Frank Gilbreth",
+        "crew": "Crew_Alpha_53",
+        "status": "active",
+        "fallback_pair": [
+            "Kent Beck",
+            "David Marquet"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-054",
+        "alpha": "Kent Beck",
+        "beta": "David Marquet",
+        "crew": "Crew_Alpha_54",
+        "status": "active",
+        "fallback_pair": [
+            "Simon Sinek",
+            "Ron Westrum"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-055",
+        "alpha": "Simon Sinek",
+        "beta": "Ron Westrum",
+        "crew": "Crew_Alpha_55",
+        "status": "active",
+        "fallback_pair": [
+            "Joan Woodward",
+            "Liz Wiseman"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-056",
+        "alpha": "Joan Woodward",
+        "beta": "Liz Wiseman",
+        "crew": "Crew_Alpha_56",
+        "status": "active",
+        "fallback_pair": [
+            "Leah Buley",
+            "Jony Ive"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-057",
+        "alpha": "Leah Buley",
+        "beta": "Jony Ive",
+        "crew": "Crew_Alpha_57",
+        "status": "active",
+        "fallback_pair": [
+            "Rob Cross",
+            "Reshma Saujani"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-058",
+        "alpha": "Rob Cross",
+        "beta": "Reshma Saujani",
+        "crew": "Crew_Alpha_58",
+        "status": "active",
+        "fallback_pair": [
+            "Liz Fosslien",
+            "Michael Krigsman"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-059",
+        "alpha": "Liz Fosslien",
+        "beta": "Michael Krigsman",
+        "crew": "Crew_Alpha_59",
+        "status": "active",
+        "fallback_pair": [
+            "Tristan Harris",
+            "Simon Sinek"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-060",
+        "alpha": "Tristan Harris",
+        "beta": "Simon Sinek",
+        "crew": "Crew_Alpha_60",
+        "status": "active",
+        "fallback_pair": [
+            "John Doerr",
+            "Rand Fishkin"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-061",
+        "alpha": "John Doerr",
+        "beta": "Rand Fishkin",
+        "crew": "Crew_Alpha_61",
+        "status": "active",
+        "fallback_pair": [
+            "Kim Scott",
+            "Anne Wojcicki"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-062",
+        "alpha": "Kim Scott",
+        "beta": "Anne Wojcicki",
+        "crew": "Crew_Alpha_62",
+        "status": "active",
+        "fallback_pair": [
+            "Roy Baumeister",
+            "Clayton Christensen"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-063",
+        "alpha": "Roy Baumeister",
+        "beta": "Clayton Christensen",
+        "crew": "Crew_Alpha_63",
+        "status": "active",
+        "fallback_pair": [
+            "Ken Schwaber",
+            "Jay Galbraith"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-064",
+        "alpha": "Ken Schwaber",
+        "beta": "Jay Galbraith",
+        "crew": "Crew_Alpha_64",
+        "status": "active",
+        "fallback_pair": [
+            "Nicole Forsgren",
+            "Brian Chesky"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-065",
+        "alpha": "Nicole Forsgren",
+        "beta": "Brian Chesky",
+        "crew": "Crew_Alpha_65",
+        "status": "active",
+        "fallback_pair": [
+            "Rensis Likert",
+            "Stanley McChrystal"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-066",
+        "alpha": "Rensis Likert",
+        "beta": "Stanley McChrystal",
+        "crew": "Crew_Alpha_66",
+        "status": "active",
+        "fallback_pair": [
+            "Steve Browne",
+            "Anders Hejlsberg"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-067",
+        "alpha": "Steve Browne",
+        "beta": "Anders Hejlsberg",
+        "crew": "Crew_Alpha_67",
+        "status": "active",
+        "fallback_pair": [
+            "Julie Zhuo",
+            "Ed Batista"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-068",
+        "alpha": "Julie Zhuo",
+        "beta": "Ed Batista",
+        "crew": "Crew_Alpha_68",
+        "status": "active",
+        "fallback_pair": [
+            "John Maeda",
+            "Carol Dweck"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-069",
+        "alpha": "John Maeda",
+        "beta": "Carol Dweck",
+        "crew": "Crew_Alpha_69",
+        "status": "active",
+        "fallback_pair": [
+            "Ikujiro Nonaka",
+            "Michael Bungay Stanier"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-070",
+        "alpha": "Ikujiro Nonaka",
+        "beta": "Michael Bungay Stanier",
+        "crew": "Crew_Alpha_70",
+        "status": "active",
+        "fallback_pair": [
+            "Felicia Fields",
+            "Kim Scott"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-071",
+        "alpha": "Felicia Fields",
+        "beta": "Kim Scott",
+        "crew": "Crew_Alpha_71",
+        "status": "active",
+        "fallback_pair": [
+            "John Carmack",
+            "Jim Collins"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-072",
+        "alpha": "John Carmack",
+        "beta": "Jim Collins",
+        "crew": "Crew_Alpha_72",
+        "status": "active",
+        "fallback_pair": [
+            "Tristan Harris",
+            "Kim Malone Scott"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-073",
+        "alpha": "Tristan Harris",
+        "beta": "Kim Malone Scott",
+        "crew": "Crew_Alpha_73",
+        "status": "active",
+        "fallback_pair": [
+            "Melanie Perkins",
+            "Linda Gratton"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-074",
+        "alpha": "Melanie Perkins",
+        "beta": "Linda Gratton",
+        "crew": "Crew_Alpha_74",
+        "status": "active",
+        "fallback_pair": [
+            "Patrick Collison",
+            "Chris Fussell"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-075",
+        "alpha": "Patrick Collison",
+        "beta": "Chris Fussell",
+        "crew": "Crew_Alpha_75",
+        "status": "active",
+        "fallback_pair": [
+            "Tony Robbins",
+            "Brene Brown"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-076",
+        "alpha": "Tony Robbins",
+        "beta": "Brene Brown",
+        "crew": "Crew_Alpha_76",
+        "status": "active",
+        "fallback_pair": [
+            "Cal Newport",
+            "Mintzberg"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-077",
+        "alpha": "Cal Newport",
+        "beta": "Mintzberg",
+        "crew": "Crew_Alpha_77",
+        "status": "active",
+        "fallback_pair": [
+            "Josh Bersin",
+            "Linda Hill"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-078",
+        "alpha": "Josh Bersin",
+        "beta": "Linda Hill",
+        "crew": "Crew_Alpha_78",
+        "status": "active",
+        "fallback_pair": [
+            "Ram Charan",
+            "Russell Ackoff"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-079",
+        "alpha": "Ram Charan",
+        "beta": "Russell Ackoff",
+        "crew": "Crew_Alpha_79",
+        "status": "active",
+        "fallback_pair": [
+            "Rosabeth Moss Kanter",
+            "Gene Kim"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-080",
+        "alpha": "Rosabeth Moss Kanter",
+        "beta": "Gene Kim",
+        "crew": "Crew_Alpha_80",
+        "status": "active",
+        "fallback_pair": [
+            "Barry Boehm",
+            "David Rock"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-081",
+        "alpha": "Barry Boehm",
+        "beta": "David Rock",
+        "crew": "Crew_Alpha_81",
+        "status": "active",
+        "fallback_pair": [
+            "Laszlo Bock",
+            "Rosabeth Moss Kanter"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-082",
+        "alpha": "Laszlo Bock",
+        "beta": "Rosabeth Moss Kanter",
+        "crew": "Crew_Alpha_82",
+        "status": "active",
+        "fallback_pair": [
+            "Frederic Laloux",
+            "Herminia Ibarra"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-083",
+        "alpha": "Frederic Laloux",
+        "beta": "Herminia Ibarra",
+        "crew": "Crew_Alpha_83",
+        "status": "active",
+        "fallback_pair": [
+            "Chris Lattner",
+            "Amy Edmondson"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-084",
+        "alpha": "Chris Lattner",
+        "beta": "Amy Edmondson",
+        "crew": "Crew_Alpha_84",
+        "status": "active",
+        "fallback_pair": [
+            "Michael Hammer",
+            "Ian Goodfellow"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-085",
+        "alpha": "Michael Hammer",
+        "beta": "Ian Goodfellow",
+        "crew": "Crew_Alpha_85",
+        "status": "active",
+        "fallback_pair": [
+            "Jeff Bezos",
+            "Drew Houston"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-086",
+        "alpha": "Jeff Bezos",
+        "beta": "Drew Houston",
+        "crew": "Crew_Alpha_86",
+        "status": "active",
+        "fallback_pair": [
+            "Marissa Mayer",
+            "Amy C. Edmondson"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-087",
+        "alpha": "Marissa Mayer",
+        "beta": "Amy C. Edmondson",
+        "crew": "Crew_Alpha_87",
+        "status": "active",
+        "fallback_pair": [
+            "Zeynep Ton",
+            "Tiago Forte"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-088",
+        "alpha": "Zeynep Ton",
+        "beta": "Tiago Forte",
+        "crew": "Crew_Alpha_88",
+        "status": "active",
+        "fallback_pair": [
+            "Jeffrey Pfeffer",
+            "Gina Bianchini"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-089",
+        "alpha": "Jeffrey Pfeffer",
+        "beta": "Gina Bianchini",
+        "crew": "Crew_Alpha_89",
+        "status": "active",
+        "fallback_pair": [
+            "Jennifer Dulski",
+            "Hubert Joly"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-090",
+        "alpha": "Jennifer Dulski",
+        "beta": "Hubert Joly",
+        "crew": "Crew_Alpha_90",
+        "status": "active",
+        "fallback_pair": [
+            "Marshall Goldsmith",
+            "David Heinemeier Hansson"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-091",
+        "alpha": "Marshall Goldsmith",
+        "beta": "David Heinemeier Hansson",
+        "crew": "Crew_Alpha_91",
+        "status": "active",
+        "fallback_pair": [
+            "Hubert Joly",
+            "Alan Turing"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-092",
+        "alpha": "Hubert Joly",
+        "beta": "Alan Turing",
+        "crew": "Crew_Alpha_92",
+        "status": "active",
+        "fallback_pair": [
+            "Naval Ravikant",
+            "Liz Wiseman"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-093",
+        "alpha": "Naval Ravikant",
+        "beta": "Liz Wiseman",
+        "crew": "Crew_Alpha_93",
+        "status": "active",
+        "fallback_pair": [
+            "Gary Hamel",
+            "Nancy Duarte"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-094",
+        "alpha": "Gary Hamel",
+        "beta": "Nancy Duarte",
+        "crew": "Crew_Alpha_94",
+        "status": "active",
+        "fallback_pair": [
+            "Safra Catz",
+            "Gifford Pinchot III"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-095",
+        "alpha": "Safra Catz",
+        "beta": "Gifford Pinchot III",
+        "crew": "Crew_Alpha_95",
+        "status": "active",
+        "fallback_pair": [
+            "David Allen",
+            "Anne Morriss"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-096",
+        "alpha": "David Allen",
+        "beta": "Anne Morriss",
+        "crew": "Crew_Alpha_96",
+        "status": "active",
+        "fallback_pair": [
+            "Reid Hoffman",
+            "Richard Branson"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-097",
+        "alpha": "Reid Hoffman",
+        "beta": "Richard Branson",
+        "crew": "Crew_Alpha_97",
+        "status": "active",
+        "fallback_pair": [
+            "Bill Gates",
+            "Geoffrey Hinton"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-098",
+        "alpha": "Bill Gates",
+        "beta": "Geoffrey Hinton",
+        "crew": "Crew_Alpha_98",
+        "status": "active",
+        "fallback_pair": [
+            "Barbara Kellerman",
+            "Henri Fayol"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-099",
+        "alpha": "Barbara Kellerman",
+        "beta": "Henri Fayol",
+        "crew": "Crew_Alpha_99",
+        "status": "active",
+        "fallback_pair": [
+            "Julie Zhuo",
+            "Rita Mulcahy"
+        ]
+    },
+    {
+        "agent_pair_id": "DB-100",
+        "alpha": "Julie Zhuo",
+        "beta": "Rita Mulcahy",
+        "crew": "Crew_Alpha_100",
+        "status": "active",
+        "fallback_pair": [
+            "Ram Charan",
+            "Herminia Ibarra"
+        ]
+    }
+]

@@ -1,0 +1,2942 @@
+[
+    {
+        "agent_id": "caac5d86",
+        "agent_name": "Rita Mulcahy",
+        "crew": "Crew_001",
+        "role_title": "Lead of Executive Leadership",
+        "domain": "Executive Leadership",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/caac5d86"
+    },
+    {
+        "agent_id": "79155435",
+        "agent_name": "Jeremy Howard",
+        "crew": "Crew_001",
+        "role_title": "Specialist of Executive Leadership",
+        "domain": "Executive Leadership",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/79155435"
+    },
+    {
+        "agent_id": "ba084bf7",
+        "agent_name": "Mark Zuckerberg",
+        "crew": "Crew_002",
+        "role_title": "Architect of Executive Leadership",
+        "domain": "Executive Leadership",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/ba084bf7"
+    },
+    {
+        "agent_id": "bf4af8af",
+        "agent_name": "Naval Ravikant",
+        "crew": "Crew_002",
+        "role_title": "Strategist of Executive Leadership",
+        "domain": "Executive Leadership",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/bf4af8af"
+    },
+    {
+        "agent_id": "a360a69d",
+        "agent_name": "Amy Edmondson",
+        "crew": "Crew_003",
+        "role_title": "Engineer of Executive Leadership",
+        "domain": "Executive Leadership",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a360a69d"
+    },
+    {
+        "agent_id": "5435c16f",
+        "agent_name": "Melinda French Gates",
+        "crew": "Crew_003",
+        "role_title": "Coordinator of Executive Leadership",
+        "domain": "Executive Leadership",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/5435c16f"
+    },
+    {
+        "agent_id": "e3b1e41e",
+        "agent_name": "Mary Barra",
+        "crew": "Crew_004",
+        "role_title": "Observer of Executive Leadership",
+        "domain": "Executive Leadership",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/e3b1e41e"
+    },
+    {
+        "agent_id": "991f8edf",
+        "agent_name": "Tom DeMarco",
+        "crew": "Crew_004",
+        "role_title": "Commander of Executive Leadership",
+        "domain": "Executive Leadership",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/991f8edf"
+    },
+    {
+        "agent_id": "58432316",
+        "agent_name": "Claude Shannon",
+        "crew": "Crew_005",
+        "role_title": "Validator of Executive Leadership",
+        "domain": "Executive Leadership",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/58432316"
+    },
+    {
+        "agent_id": "acc3445b",
+        "agent_name": "Scott Eblin",
+        "crew": "Crew_005",
+        "role_title": "Trainer of Executive Leadership",
+        "domain": "Executive Leadership",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/acc3445b"
+    },
+    {
+        "agent_id": "396299c8",
+        "agent_name": "Julie Zhuo",
+        "crew": "Crew_006",
+        "role_title": "Planner of Executive Leadership",
+        "domain": "Executive Leadership",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/396299c8"
+    },
+    {
+        "agent_id": "888a0e88",
+        "agent_name": "Claire Hughes Johnson",
+        "crew": "Crew_006",
+        "role_title": "Analyst of Executive Leadership",
+        "domain": "Executive Leadership",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/888a0e88"
+    },
+    {
+        "agent_id": "4c43a8e9",
+        "agent_name": "Rensis Likert",
+        "crew": "Crew_007",
+        "role_title": "Operator of Executive Leadership",
+        "domain": "Executive Leadership",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/4c43a8e9"
+    },
+    {
+        "agent_id": "e477f02a",
+        "agent_name": "Tony Robbins",
+        "crew": "Crew_007",
+        "role_title": "Designer of Executive Leadership",
+        "domain": "Executive Leadership",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/e477f02a"
+    },
+    {
+        "agent_id": "8ab905a3",
+        "agent_name": "Hamilton Mann",
+        "crew": "Crew_008",
+        "role_title": "Director of Executive Leadership",
+        "domain": "Executive Leadership",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/8ab905a3"
+    },
+    {
+        "agent_id": "7e6f7781",
+        "agent_name": "Patty McCord",
+        "crew": "Crew_008",
+        "role_title": "Lead of Engineering",
+        "domain": "Engineering",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/7e6f7781"
+    },
+    {
+        "agent_id": "42b59b8c",
+        "agent_name": "Laszlo Bock",
+        "crew": "Crew_009",
+        "role_title": "Specialist of Engineering",
+        "domain": "Engineering",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/42b59b8c"
+    },
+    {
+        "agent_id": "dec2fcd5",
+        "agent_name": "Liz Wiseman",
+        "crew": "Crew_009",
+        "role_title": "Architect of Engineering",
+        "domain": "Engineering",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/dec2fcd5"
+    },
+    {
+        "agent_id": "f64ade1a",
+        "agent_name": "W. Edwards Deming",
+        "crew": "Crew_010",
+        "role_title": "Strategist of Engineering",
+        "domain": "Engineering",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/f64ade1a"
+    },
+    {
+        "agent_id": "1def2965",
+        "agent_name": "Mike Cohn",
+        "crew": "Crew_010",
+        "role_title": "Engineer of Engineering",
+        "domain": "Engineering",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/1def2965"
+    },
+    {
+        "agent_id": "94269147",
+        "agent_name": "Stewart Butterfield",
+        "crew": "Crew_011",
+        "role_title": "Coordinator of Engineering",
+        "domain": "Engineering",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/94269147"
+    },
+    {
+        "agent_id": "4a41f657",
+        "agent_name": "Marc Benioff",
+        "crew": "Crew_011",
+        "role_title": "Observer of Engineering",
+        "domain": "Engineering",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/4a41f657"
+    },
+    {
+        "agent_id": "4793a4f7",
+        "agent_name": "Jake Knapp",
+        "crew": "Crew_012",
+        "role_title": "Commander of Engineering",
+        "domain": "Engineering",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/4793a4f7"
+    },
+    {
+        "agent_id": "24b05845",
+        "agent_name": "Jennifer Garvey Berger",
+        "crew": "Crew_012",
+        "role_title": "Validator of Engineering",
+        "domain": "Engineering",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/24b05845"
+    },
+    {
+        "agent_id": "d2789b1b",
+        "agent_name": "Michael Hammer",
+        "crew": "Crew_013",
+        "role_title": "Trainer of Engineering",
+        "domain": "Engineering",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/d2789b1b"
+    },
+    {
+        "agent_id": "f3618583",
+        "agent_name": "Antonio Neri",
+        "crew": "Crew_013",
+        "role_title": "Planner of Engineering",
+        "domain": "Engineering",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/f3618583"
+    },
+    {
+        "agent_id": "5a273ca9",
+        "agent_name": "Nicole Forsgren",
+        "crew": "Crew_014",
+        "role_title": "Analyst of Engineering",
+        "domain": "Engineering",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/5a273ca9"
+    },
+    {
+        "agent_id": "8bef9c6c",
+        "agent_name": "Jack Dorsey",
+        "crew": "Crew_014",
+        "role_title": "Operator of Engineering",
+        "domain": "Engineering",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/8bef9c6c"
+    },
+    {
+        "agent_id": "c77c4496",
+        "agent_name": "Don Norman",
+        "crew": "Crew_015",
+        "role_title": "Designer of Engineering",
+        "domain": "Engineering",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/c77c4496"
+    },
+    {
+        "agent_id": "c74e0880",
+        "agent_name": "Brendan Eich",
+        "crew": "Crew_015",
+        "role_title": "Director of Engineering",
+        "domain": "Engineering",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/c74e0880"
+    },
+    {
+        "agent_id": "6e424174",
+        "agent_name": "Laszlo Bock",
+        "crew": "Crew_016",
+        "role_title": "Lead of Data Science & ML",
+        "domain": "Data Science & ML",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/6e424174"
+    },
+    {
+        "agent_id": "5e814a56",
+        "agent_name": "Jeffrey Pfeffer",
+        "crew": "Crew_016",
+        "role_title": "Specialist of Data Science & ML",
+        "domain": "Data Science & ML",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/5e814a56"
+    },
+    {
+        "agent_id": "b267fc75",
+        "agent_name": "Ann Mei Chang",
+        "crew": "Crew_017",
+        "role_title": "Architect of Data Science & ML",
+        "domain": "Data Science & ML",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/b267fc75"
+    },
+    {
+        "agent_id": "fb8dad6d",
+        "agent_name": "Alan Turing",
+        "crew": "Crew_017",
+        "role_title": "Strategist of Data Science & ML",
+        "domain": "Data Science & ML",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/fb8dad6d"
+    },
+    {
+        "agent_id": "040aef73",
+        "agent_name": "Bill Gates",
+        "crew": "Crew_018",
+        "role_title": "Engineer of Data Science & ML",
+        "domain": "Data Science & ML",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/040aef73"
+    },
+    {
+        "agent_id": "c2726011",
+        "agent_name": "Yukihiro Matsumoto",
+        "crew": "Crew_018",
+        "role_title": "Coordinator of Data Science & ML",
+        "domain": "Data Science & ML",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/c2726011"
+    },
+    {
+        "agent_id": "3f2cbd96",
+        "agent_name": "Stanley McChrystal",
+        "crew": "Crew_019",
+        "role_title": "Observer of Data Science & ML",
+        "domain": "Data Science & ML",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/3f2cbd96"
+    },
+    {
+        "agent_id": "0a35a20e",
+        "agent_name": "Hollie Delaney",
+        "crew": "Crew_019",
+        "role_title": "Commander of Data Science & ML",
+        "domain": "Data Science & ML",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/0a35a20e"
+    },
+    {
+        "agent_id": "5a0c2756",
+        "agent_name": "Molly Graham",
+        "crew": "Crew_020",
+        "role_title": "Validator of Data Science & ML",
+        "domain": "Data Science & ML",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/5a0c2756"
+    },
+    {
+        "agent_id": "dcfc9763",
+        "agent_name": "Sebastian Thrun",
+        "crew": "Crew_020",
+        "role_title": "Trainer of Data Science & ML",
+        "domain": "Data Science & ML",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/dcfc9763"
+    },
+    {
+        "agent_id": "a317b65d",
+        "agent_name": "Frederick Winslow Taylor",
+        "crew": "Crew_021",
+        "role_title": "Planner of Data Science & ML",
+        "domain": "Data Science & ML",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a317b65d"
+    },
+    {
+        "agent_id": "2c9db5ed",
+        "agent_name": "Ken Schwaber",
+        "crew": "Crew_021",
+        "role_title": "Analyst of Data Science & ML",
+        "domain": "Data Science & ML",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/2c9db5ed"
+    },
+    {
+        "agent_id": "6809d32f",
+        "agent_name": "Yves Morieux",
+        "crew": "Crew_022",
+        "role_title": "Operator of Data Science & ML",
+        "domain": "Data Science & ML",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/6809d32f"
+    },
+    {
+        "agent_id": "0cd86056",
+        "agent_name": "Whitney Johnson",
+        "crew": "Crew_022",
+        "role_title": "Designer of Data Science & ML",
+        "domain": "Data Science & ML",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/0cd86056"
+    },
+    {
+        "agent_id": "3c68b31c",
+        "agent_name": "Josh Bersin",
+        "crew": "Crew_023",
+        "role_title": "Director of Data Science & ML",
+        "domain": "Data Science & ML",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/3c68b31c"
+    },
+    {
+        "agent_id": "1e9e5d81",
+        "agent_name": "Sam Altman",
+        "crew": "Crew_023",
+        "role_title": "Lead of Product Management",
+        "domain": "Product Management",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/1e9e5d81"
+    },
+    {
+        "agent_id": "a5232435",
+        "agent_name": "Gifford Pinchot III",
+        "crew": "Crew_024",
+        "role_title": "Specialist of Product Management",
+        "domain": "Product Management",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a5232435"
+    },
+    {
+        "agent_id": "508219ba",
+        "agent_name": "Anil Dash",
+        "crew": "Crew_024",
+        "role_title": "Architect of Product Management",
+        "domain": "Product Management",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/508219ba"
+    },
+    {
+        "agent_id": "e638064a",
+        "agent_name": "Frederick Herzberg",
+        "crew": "Crew_025",
+        "role_title": "Strategist of Product Management",
+        "domain": "Product Management",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/e638064a"
+    },
+    {
+        "agent_id": "7f8eba9b",
+        "agent_name": "Stephen Covey",
+        "crew": "Crew_025",
+        "role_title": "Engineer of Product Management",
+        "domain": "Product Management",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/7f8eba9b"
+    },
+    {
+        "agent_id": "e9237d73",
+        "agent_name": "Amy Edmondson",
+        "crew": "Crew_026",
+        "role_title": "Coordinator of Product Management",
+        "domain": "Product Management",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/e9237d73"
+    },
+    {
+        "agent_id": "c79784f8",
+        "agent_name": "Heidi Grant Halvorson",
+        "crew": "Crew_026",
+        "role_title": "Observer of Product Management",
+        "domain": "Product Management",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/c79784f8"
+    },
+    {
+        "agent_id": "bb750275",
+        "agent_name": "Julie Zhuo",
+        "crew": "Crew_027",
+        "role_title": "Commander of Product Management",
+        "domain": "Product Management",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/bb750275"
+    },
+    {
+        "agent_id": "96b2ef34",
+        "agent_name": "Karl Weick",
+        "crew": "Crew_027",
+        "role_title": "Validator of Product Management",
+        "domain": "Product Management",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/96b2ef34"
+    },
+    {
+        "agent_id": "eafe6682",
+        "agent_name": "Kent Beck",
+        "crew": "Crew_028",
+        "role_title": "Trainer of Product Management",
+        "domain": "Product Management",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/eafe6682"
+    },
+    {
+        "agent_id": "4688c16d",
+        "agent_name": "Nicole Forsgren",
+        "crew": "Crew_028",
+        "role_title": "Planner of Product Management",
+        "domain": "Product Management",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/4688c16d"
+    },
+    {
+        "agent_id": "f2f39dca",
+        "agent_name": "Eliyahu Goldratt",
+        "crew": "Crew_029",
+        "role_title": "Analyst of Product Management",
+        "domain": "Product Management",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/f2f39dca"
+    },
+    {
+        "agent_id": "fecb5217",
+        "agent_name": "Linus Torvalds",
+        "crew": "Crew_029",
+        "role_title": "Operator of Product Management",
+        "domain": "Product Management",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/fecb5217"
+    },
+    {
+        "agent_id": "15a8fa58",
+        "agent_name": "Warren Bennis",
+        "crew": "Crew_030",
+        "role_title": "Designer of Product Management",
+        "domain": "Product Management",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/15a8fa58"
+    },
+    {
+        "agent_id": "432e87a4",
+        "agent_name": "Tobi L\u00fctke",
+        "crew": "Crew_030",
+        "role_title": "Director of Product Management",
+        "domain": "Product Management",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/432e87a4"
+    },
+    {
+        "agent_id": "1ed78844",
+        "agent_name": "Reshma Saujani",
+        "crew": "Crew_031",
+        "role_title": "Lead of Design & UX",
+        "domain": "Design & UX",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/1ed78844"
+    },
+    {
+        "agent_id": "b0489772",
+        "agent_name": "Annie Duke",
+        "crew": "Crew_031",
+        "role_title": "Specialist of Design & UX",
+        "domain": "Design & UX",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/b0489772"
+    },
+    {
+        "agent_id": "daea79c0",
+        "agent_name": "Brian Robertson",
+        "crew": "Crew_032",
+        "role_title": "Architect of Design & UX",
+        "domain": "Design & UX",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/daea79c0"
+    },
+    {
+        "agent_id": "93856f59",
+        "agent_name": "Angela Duckworth",
+        "crew": "Crew_032",
+        "role_title": "Strategist of Design & UX",
+        "domain": "Design & UX",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/93856f59"
+    },
+    {
+        "agent_id": "970104a2",
+        "agent_name": "Liz Wiseman",
+        "crew": "Crew_033",
+        "role_title": "Engineer of Design & UX",
+        "domain": "Design & UX",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/970104a2"
+    },
+    {
+        "agent_id": "7ef6dd64",
+        "agent_name": "Teresa Amabile",
+        "crew": "Crew_033",
+        "role_title": "Coordinator of Design & UX",
+        "domain": "Design & UX",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/7ef6dd64"
+    },
+    {
+        "agent_id": "bf655e11",
+        "agent_name": "Kim Scott",
+        "crew": "Crew_034",
+        "role_title": "Observer of Design & UX",
+        "domain": "Design & UX",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/bf655e11"
+    },
+    {
+        "agent_id": "9c176faf",
+        "agent_name": "Rita McGrath",
+        "crew": "Crew_034",
+        "role_title": "Commander of Design & UX",
+        "domain": "Design & UX",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/9c176faf"
+    },
+    {
+        "agent_id": "b848cada",
+        "agent_name": "Jeff Bezos",
+        "crew": "Crew_035",
+        "role_title": "Validator of Design & UX",
+        "domain": "Design & UX",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/b848cada"
+    },
+    {
+        "agent_id": "cf6ea7ba",
+        "agent_name": "W. Edwards Deming",
+        "crew": "Crew_035",
+        "role_title": "Trainer of Design & UX",
+        "domain": "Design & UX",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/cf6ea7ba"
+    },
+    {
+        "agent_id": "6036ba7e",
+        "agent_name": "Henri Fayol",
+        "crew": "Crew_036",
+        "role_title": "Planner of Design & UX",
+        "domain": "Design & UX",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/6036ba7e"
+    },
+    {
+        "agent_id": "03f00bae",
+        "agent_name": "Barbara Liskov",
+        "crew": "Crew_036",
+        "role_title": "Analyst of Design & UX",
+        "domain": "Design & UX",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/03f00bae"
+    },
+    {
+        "agent_id": "c526ec96",
+        "agent_name": "Michael Bungay Stanier",
+        "crew": "Crew_037",
+        "role_title": "Operator of Design & UX",
+        "domain": "Design & UX",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/c526ec96"
+    },
+    {
+        "agent_id": "71de642b",
+        "agent_name": "Mitchell Baker",
+        "crew": "Crew_037",
+        "role_title": "Designer of Design & UX",
+        "domain": "Design & UX",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/71de642b"
+    },
+    {
+        "agent_id": "1f5ded52",
+        "agent_name": "Jeff Sutherland",
+        "crew": "Crew_038",
+        "role_title": "Director of Design & UX",
+        "domain": "Design & UX",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/1f5ded52"
+    },
+    {
+        "agent_id": "9270a562",
+        "agent_name": "Gary Hamel",
+        "crew": "Crew_038",
+        "role_title": "Lead of Quality Assurance",
+        "domain": "Quality Assurance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/9270a562"
+    },
+    {
+        "agent_id": "62efc474",
+        "agent_name": "Joseph Juran",
+        "crew": "Crew_039",
+        "role_title": "Specialist of Quality Assurance",
+        "domain": "Quality Assurance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/62efc474"
+    },
+    {
+        "agent_id": "de54c036",
+        "agent_name": "Kara Swisher",
+        "crew": "Crew_039",
+        "role_title": "Architect of Quality Assurance",
+        "domain": "Quality Assurance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/de54c036"
+    },
+    {
+        "agent_id": "b81f3f94",
+        "agent_name": "Ron Westrum",
+        "crew": "Crew_040",
+        "role_title": "Strategist of Quality Assurance",
+        "domain": "Quality Assurance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/b81f3f94"
+    },
+    {
+        "agent_id": "6628ceac",
+        "agent_name": "Ikujiro Nonaka",
+        "crew": "Crew_040",
+        "role_title": "Engineer of Quality Assurance",
+        "domain": "Quality Assurance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/6628ceac"
+    },
+    {
+        "agent_id": "ee9114d8",
+        "agent_name": "Marshall Goldsmith",
+        "crew": "Crew_041",
+        "role_title": "Coordinator of Quality Assurance",
+        "domain": "Quality Assurance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/ee9114d8"
+    },
+    {
+        "agent_id": "a9e06fd5",
+        "agent_name": "Adam Grant",
+        "crew": "Crew_041",
+        "role_title": "Observer of Quality Assurance",
+        "domain": "Quality Assurance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a9e06fd5"
+    },
+    {
+        "agent_id": "c499be30",
+        "agent_name": "Frances Frei",
+        "crew": "Crew_042",
+        "role_title": "Commander of Quality Assurance",
+        "domain": "Quality Assurance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/c499be30"
+    },
+    {
+        "agent_id": "119ac4e7",
+        "agent_name": "Tristan Harris",
+        "crew": "Crew_042",
+        "role_title": "Validator of Quality Assurance",
+        "domain": "Quality Assurance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/119ac4e7"
+    },
+    {
+        "agent_id": "d546ce2b",
+        "agent_name": "Gene Kim",
+        "crew": "Crew_043",
+        "role_title": "Trainer of Quality Assurance",
+        "domain": "Quality Assurance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/d546ce2b"
+    },
+    {
+        "agent_id": "64d5470c",
+        "agent_name": "Daniel Goleman",
+        "crew": "Crew_043",
+        "role_title": "Planner of Quality Assurance",
+        "domain": "Quality Assurance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/64d5470c"
+    },
+    {
+        "agent_id": "13bee237",
+        "agent_name": "Mintzberg",
+        "crew": "Crew_044",
+        "role_title": "Analyst of Quality Assurance",
+        "domain": "Quality Assurance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/13bee237"
+    },
+    {
+        "agent_id": "4d8f09df",
+        "agent_name": "April Dunford",
+        "crew": "Crew_044",
+        "role_title": "Operator of Quality Assurance",
+        "domain": "Quality Assurance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/4d8f09df"
+    },
+    {
+        "agent_id": "e437dfde",
+        "agent_name": "Ian Goodfellow",
+        "crew": "Crew_045",
+        "role_title": "Designer of Quality Assurance",
+        "domain": "Quality Assurance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/e437dfde"
+    },
+    {
+        "agent_id": "70484fb5",
+        "agent_name": "Greg McKeown",
+        "crew": "Crew_045",
+        "role_title": "Director of Quality Assurance",
+        "domain": "Quality Assurance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/70484fb5"
+    },
+    {
+        "agent_id": "f9d7dce5",
+        "agent_name": "Tony Hsieh",
+        "crew": "Crew_046",
+        "role_title": "Lead of DevOps & Infrastructure",
+        "domain": "DevOps & Infrastructure",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/f9d7dce5"
+    },
+    {
+        "agent_id": "03661fc2",
+        "agent_name": "Melanie Perkins",
+        "crew": "Crew_046",
+        "role_title": "Specialist of DevOps & Infrastructure",
+        "domain": "DevOps & Infrastructure",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/03661fc2"
+    },
+    {
+        "agent_id": "0a0c27c0",
+        "agent_name": "Linda Gratton",
+        "crew": "Crew_047",
+        "role_title": "Architect of DevOps & Infrastructure",
+        "domain": "DevOps & Infrastructure",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/0a0c27c0"
+    },
+    {
+        "agent_id": "923ffb54",
+        "agent_name": "Nilofer Merchant",
+        "crew": "Crew_047",
+        "role_title": "Strategist of DevOps & Infrastructure",
+        "domain": "DevOps & Infrastructure",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/923ffb54"
+    },
+    {
+        "agent_id": "80912814",
+        "agent_name": "Marissa Mayer",
+        "crew": "Crew_048",
+        "role_title": "Engineer of DevOps & Infrastructure",
+        "domain": "DevOps & Infrastructure",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/80912814"
+    },
+    {
+        "agent_id": "700478c6",
+        "agent_name": "Dave Ulrich",
+        "crew": "Crew_048",
+        "role_title": "Coordinator of DevOps & Infrastructure",
+        "domain": "DevOps & Infrastructure",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/700478c6"
+    },
+    {
+        "agent_id": "ec225990",
+        "agent_name": "Tomas Chamorro-Premuzic",
+        "crew": "Crew_049",
+        "role_title": "Observer of DevOps & Infrastructure",
+        "domain": "DevOps & Infrastructure",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/ec225990"
+    },
+    {
+        "agent_id": "75a7340b",
+        "agent_name": "Tasha Eurich",
+        "crew": "Crew_049",
+        "role_title": "Commander of DevOps & Infrastructure",
+        "domain": "DevOps & Infrastructure",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/75a7340b"
+    },
+    {
+        "agent_id": "b7c6091c",
+        "agent_name": "Laszlo Bock",
+        "crew": "Crew_050",
+        "role_title": "Validator of DevOps & Infrastructure",
+        "domain": "DevOps & Infrastructure",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/b7c6091c"
+    },
+    {
+        "agent_id": "43df2e9d",
+        "agent_name": "Hubert Joly",
+        "crew": "Crew_050",
+        "role_title": "Trainer of DevOps & Infrastructure",
+        "domain": "DevOps & Infrastructure",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/43df2e9d"
+    },
+    {
+        "agent_id": "eee0d710",
+        "agent_name": "Clayton Christensen",
+        "crew": "Crew_051",
+        "role_title": "Planner of DevOps & Infrastructure",
+        "domain": "DevOps & Infrastructure",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/eee0d710"
+    },
+    {
+        "agent_id": "5ee3d8fa",
+        "agent_name": "Jason Fried",
+        "crew": "Crew_051",
+        "role_title": "Analyst of DevOps & Infrastructure",
+        "domain": "DevOps & Infrastructure",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/5ee3d8fa"
+    },
+    {
+        "agent_id": "d570d5ee",
+        "agent_name": "Melanie Perkins",
+        "crew": "Crew_052",
+        "role_title": "Operator of DevOps & Infrastructure",
+        "domain": "DevOps & Infrastructure",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/d570d5ee"
+    },
+    {
+        "agent_id": "e28604d5",
+        "agent_name": "Adam Grant",
+        "crew": "Crew_052",
+        "role_title": "Designer of DevOps & Infrastructure",
+        "domain": "DevOps & Infrastructure",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/e28604d5"
+    },
+    {
+        "agent_id": "6d02eef0",
+        "agent_name": "Reed Hastings",
+        "crew": "Crew_053",
+        "role_title": "Director of DevOps & Infrastructure",
+        "domain": "DevOps & Infrastructure",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/6d02eef0"
+    },
+    {
+        "agent_id": "a000f1ab",
+        "agent_name": "Hubert Joly",
+        "crew": "Crew_053",
+        "role_title": "Lead of Security & Compliance",
+        "domain": "Security & Compliance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a000f1ab"
+    },
+    {
+        "agent_id": "fef47edc",
+        "agent_name": "Ginni Rometty",
+        "crew": "Crew_054",
+        "role_title": "Specialist of Security & Compliance",
+        "domain": "Security & Compliance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/fef47edc"
+    },
+    {
+        "agent_id": "a28d8f2c",
+        "agent_name": "Indra Nooyi",
+        "crew": "Crew_054",
+        "role_title": "Architect of Security & Compliance",
+        "domain": "Security & Compliance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a28d8f2c"
+    },
+    {
+        "agent_id": "e63352f3",
+        "agent_name": "Barbara Kellerman",
+        "crew": "Crew_055",
+        "role_title": "Strategist of Security & Compliance",
+        "domain": "Security & Compliance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/e63352f3"
+    },
+    {
+        "agent_id": "c0122c96",
+        "agent_name": "Keith Ferrazzi",
+        "crew": "Crew_055",
+        "role_title": "Engineer of Security & Compliance",
+        "domain": "Security & Compliance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/c0122c96"
+    },
+    {
+        "agent_id": "51d3eafe",
+        "agent_name": "Stewart Butterfield",
+        "crew": "Crew_056",
+        "role_title": "Coordinator of Security & Compliance",
+        "domain": "Security & Compliance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/51d3eafe"
+    },
+    {
+        "agent_id": "e53a3cb0",
+        "agent_name": "Tiago Forte",
+        "crew": "Crew_056",
+        "role_title": "Observer of Security & Compliance",
+        "domain": "Security & Compliance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/e53a3cb0"
+    },
+    {
+        "agent_id": "5e706d9b",
+        "agent_name": "John Carmack",
+        "crew": "Crew_057",
+        "role_title": "Commander of Security & Compliance",
+        "domain": "Security & Compliance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/5e706d9b"
+    },
+    {
+        "agent_id": "c1955d3d",
+        "agent_name": "Jac Fitz-enz",
+        "crew": "Crew_057",
+        "role_title": "Validator of Security & Compliance",
+        "domain": "Security & Compliance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/c1955d3d"
+    },
+    {
+        "agent_id": "037a2a54",
+        "agent_name": "Felicia Fields",
+        "crew": "Crew_058",
+        "role_title": "Trainer of Security & Compliance",
+        "domain": "Security & Compliance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/037a2a54"
+    },
+    {
+        "agent_id": "2d7d9c8e",
+        "agent_name": "David Rock",
+        "crew": "Crew_058",
+        "role_title": "Planner of Security & Compliance",
+        "domain": "Security & Compliance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/2d7d9c8e"
+    },
+    {
+        "agent_id": "8c29ddea",
+        "agent_name": "Meg Whitman",
+        "crew": "Crew_059",
+        "role_title": "Analyst of Security & Compliance",
+        "domain": "Security & Compliance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/8c29ddea"
+    },
+    {
+        "agent_id": "52b5fd5a",
+        "agent_name": "Josh Bersin",
+        "crew": "Crew_059",
+        "role_title": "Operator of Security & Compliance",
+        "domain": "Security & Compliance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/52b5fd5a"
+    },
+    {
+        "agent_id": "e839b0fd",
+        "agent_name": "Tom Peters",
+        "crew": "Crew_060",
+        "role_title": "Designer of Security & Compliance",
+        "domain": "Security & Compliance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/e839b0fd"
+    },
+    {
+        "agent_id": "1bcefad1",
+        "agent_name": "Marshall Goldsmith",
+        "crew": "Crew_060",
+        "role_title": "Director of Security & Compliance",
+        "domain": "Security & Compliance",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/1bcefad1"
+    },
+    {
+        "agent_id": "795ad6e3",
+        "agent_name": "James Gosling",
+        "crew": "Crew_061",
+        "role_title": "Lead of People & Culture",
+        "domain": "People & Culture",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/795ad6e3"
+    },
+    {
+        "agent_id": "7afc303b",
+        "agent_name": "Jony Ive",
+        "crew": "Crew_061",
+        "role_title": "Specialist of People & Culture",
+        "domain": "People & Culture",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/7afc303b"
+    },
+    {
+        "agent_id": "3a51b2b3",
+        "agent_name": "Nancy Duarte",
+        "crew": "Crew_062",
+        "role_title": "Architect of People & Culture",
+        "domain": "People & Culture",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/3a51b2b3"
+    },
+    {
+        "agent_id": "10e453b2",
+        "agent_name": "Ram Charan",
+        "crew": "Crew_062",
+        "role_title": "Strategist of People & Culture",
+        "domain": "People & Culture",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/10e453b2"
+    },
+    {
+        "agent_id": "930059b5",
+        "agent_name": "Diane Greene",
+        "crew": "Crew_063",
+        "role_title": "Engineer of People & Culture",
+        "domain": "People & Culture",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/930059b5"
+    },
+    {
+        "agent_id": "888fdbbd",
+        "agent_name": "Philip Crosby",
+        "crew": "Crew_063",
+        "role_title": "Coordinator of People & Culture",
+        "domain": "People & Culture",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/888fdbbd"
+    },
+    {
+        "agent_id": "a1c7ab9e",
+        "agent_name": "Linda Hill",
+        "crew": "Crew_064",
+        "role_title": "Observer of People & Culture",
+        "domain": "People & Culture",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a1c7ab9e"
+    },
+    {
+        "agent_id": "7c20550d",
+        "agent_name": "Brene Brown",
+        "crew": "Crew_064",
+        "role_title": "Commander of People & Culture",
+        "domain": "People & Culture",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/7c20550d"
+    },
+    {
+        "agent_id": "8b492e37",
+        "agent_name": "Jim Collins",
+        "crew": "Crew_065",
+        "role_title": "Validator of People & Culture",
+        "domain": "People & Culture",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/8b492e37"
+    },
+    {
+        "agent_id": "c56ebc30",
+        "agent_name": "Radia Perlman",
+        "crew": "Crew_065",
+        "role_title": "Trainer of People & Culture",
+        "domain": "People & Culture",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/c56ebc30"
+    },
+    {
+        "agent_id": "11e37f08",
+        "agent_name": "Ben Horowitz",
+        "crew": "Crew_066",
+        "role_title": "Planner of People & Culture",
+        "domain": "People & Culture",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/11e37f08"
+    },
+    {
+        "agent_id": "260116a2",
+        "agent_name": "David Allen",
+        "crew": "Crew_066",
+        "role_title": "Analyst of People & Culture",
+        "domain": "People & Culture",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/260116a2"
+    },
+    {
+        "agent_id": "56d9c89a",
+        "agent_name": "Kim Malone Scott",
+        "crew": "Crew_067",
+        "role_title": "Operator of People & Culture",
+        "domain": "People & Culture",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/56d9c89a"
+    },
+    {
+        "agent_id": "6ed248c3",
+        "agent_name": "Mary Parker Follett",
+        "crew": "Crew_067",
+        "role_title": "Designer of People & Culture",
+        "domain": "People & Culture",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/6ed248c3"
+    },
+    {
+        "agent_id": "ed4522bc",
+        "agent_name": "David Heinemeier Hansson",
+        "crew": "Crew_068",
+        "role_title": "Director of People & Culture",
+        "domain": "People & Culture",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/ed4522bc"
+    },
+    {
+        "agent_id": "173e6a6d",
+        "agent_name": "Anne Morriss",
+        "crew": "Crew_068",
+        "role_title": "Lead of Finance & Legal",
+        "domain": "Finance & Legal",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/173e6a6d"
+    },
+    {
+        "agent_id": "1e22e832",
+        "agent_name": "Andy Grove",
+        "crew": "Crew_069",
+        "role_title": "Specialist of Finance & Legal",
+        "domain": "Finance & Legal",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/1e22e832"
+    },
+    {
+        "agent_id": "346e560d",
+        "agent_name": "Herminia Ibarra",
+        "crew": "Crew_069",
+        "role_title": "Architect of Finance & Legal",
+        "domain": "Finance & Legal",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/346e560d"
+    },
+    {
+        "agent_id": "178fb9c7",
+        "agent_name": "Yoshua Bengio",
+        "crew": "Crew_070",
+        "role_title": "Strategist of Finance & Legal",
+        "domain": "Finance & Legal",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/178fb9c7"
+    },
+    {
+        "agent_id": "014e5e44",
+        "agent_name": "Liz Fosslien",
+        "crew": "Crew_070",
+        "role_title": "Engineer of Finance & Legal",
+        "domain": "Finance & Legal",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/014e5e44"
+    },
+    {
+        "agent_id": "5e901c03",
+        "agent_name": "Ilya Sutskever",
+        "crew": "Crew_071",
+        "role_title": "Coordinator of Finance & Legal",
+        "domain": "Finance & Legal",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/5e901c03"
+    },
+    {
+        "agent_id": "168524d3",
+        "agent_name": "Jennifer Dulski",
+        "crew": "Crew_071",
+        "role_title": "Observer of Finance & Legal",
+        "domain": "Finance & Legal",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/168524d3"
+    },
+    {
+        "agent_id": "017a6d53",
+        "agent_name": "Jeff Dean",
+        "crew": "Crew_072",
+        "role_title": "Commander of Finance & Legal",
+        "domain": "Finance & Legal",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/017a6d53"
+    },
+    {
+        "agent_id": "1794c9f7",
+        "agent_name": "Ram Charan",
+        "crew": "Crew_072",
+        "role_title": "Validator of Finance & Legal",
+        "domain": "Finance & Legal",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/1794c9f7"
+    },
+    {
+        "agent_id": "e6e0a766",
+        "agent_name": "Camille Ricketts",
+        "crew": "Crew_073",
+        "role_title": "Trainer of Finance & Legal",
+        "domain": "Finance & Legal",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/e6e0a766"
+    },
+    {
+        "agent_id": "457b804d",
+        "agent_name": "Laura Vanderkam",
+        "crew": "Crew_073",
+        "role_title": "Planner of Finance & Legal",
+        "domain": "Finance & Legal",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/457b804d"
+    },
+    {
+        "agent_id": "74ae5c9f",
+        "agent_name": "Whitney Wolfe Herd",
+        "crew": "Crew_074",
+        "role_title": "Analyst of Finance & Legal",
+        "domain": "Finance & Legal",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/74ae5c9f"
+    },
+    {
+        "agent_id": "c011accc",
+        "agent_name": "Angela Duckworth",
+        "crew": "Crew_074",
+        "role_title": "Operator of Finance & Legal",
+        "domain": "Finance & Legal",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/c011accc"
+    },
+    {
+        "agent_id": "91530e4a",
+        "agent_name": "John Maeda",
+        "crew": "Crew_075",
+        "role_title": "Designer of Finance & Legal",
+        "domain": "Finance & Legal",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/91530e4a"
+    },
+    {
+        "agent_id": "02c4e64c",
+        "agent_name": "Drew Houston",
+        "crew": "Crew_075",
+        "role_title": "Director of Finance & Legal",
+        "domain": "Finance & Legal",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/02c4e64c"
+    },
+    {
+        "agent_id": "398752f4",
+        "agent_name": "Hirotaka Takeuchi",
+        "crew": "Crew_076",
+        "role_title": "Lead of Sales & Partnerships",
+        "domain": "Sales & Partnerships",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/398752f4"
+    },
+    {
+        "agent_id": "2328296a",
+        "agent_name": "Grace Hopper",
+        "crew": "Crew_076",
+        "role_title": "Specialist of Sales & Partnerships",
+        "domain": "Sales & Partnerships",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/2328296a"
+    },
+    {
+        "agent_id": "b462b860",
+        "agent_name": "Dharmesh Shah",
+        "crew": "Crew_077",
+        "role_title": "Architect of Sales & Partnerships",
+        "domain": "Sales & Partnerships",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/b462b860"
+    },
+    {
+        "agent_id": "1c19cc17",
+        "agent_name": "Daniel Kahneman",
+        "crew": "Crew_077",
+        "role_title": "Strategist of Sales & Partnerships",
+        "domain": "Sales & Partnerships",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/1c19cc17"
+    },
+    {
+        "agent_id": "74762f3d",
+        "agent_name": "Stephen Bungay",
+        "crew": "Crew_078",
+        "role_title": "Engineer of Sales & Partnerships",
+        "domain": "Sales & Partnerships",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/74762f3d"
+    },
+    {
+        "agent_id": "88945031",
+        "agent_name": "Daniel Ek",
+        "crew": "Crew_078",
+        "role_title": "Coordinator of Sales & Partnerships",
+        "domain": "Sales & Partnerships",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/88945031"
+    },
+    {
+        "agent_id": "b3d429c5",
+        "agent_name": "Carol Dweck",
+        "crew": "Crew_079",
+        "role_title": "Observer of Sales & Partnerships",
+        "domain": "Sales & Partnerships",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/b3d429c5"
+    },
+    {
+        "agent_id": "20a4de38",
+        "agent_name": "Ben Horowitz",
+        "crew": "Crew_079",
+        "role_title": "Commander of Sales & Partnerships",
+        "domain": "Sales & Partnerships",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/20a4de38"
+    },
+    {
+        "agent_id": "e6d80ab4",
+        "agent_name": "Melanie Mitchell",
+        "crew": "Crew_080",
+        "role_title": "Validator of Sales & Partnerships",
+        "domain": "Sales & Partnerships",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/e6d80ab4"
+    },
+    {
+        "agent_id": "6ed48196",
+        "agent_name": "Rob Cross",
+        "crew": "Crew_080",
+        "role_title": "Trainer of Sales & Partnerships",
+        "domain": "Sales & Partnerships",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/6ed48196"
+    },
+    {
+        "agent_id": "0dd93a16",
+        "agent_name": "Mary Jo Foley",
+        "crew": "Crew_081",
+        "role_title": "Planner of Sales & Partnerships",
+        "domain": "Sales & Partnerships",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/0dd93a16"
+    },
+    {
+        "agent_id": "8a52a994",
+        "agent_name": "Peter Senge",
+        "crew": "Crew_081",
+        "role_title": "Analyst of Sales & Partnerships",
+        "domain": "Sales & Partnerships",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/8a52a994"
+    },
+    {
+        "agent_id": "f3d6d1c9",
+        "agent_name": "Patrick Collison",
+        "crew": "Crew_082",
+        "role_title": "Operator of Sales & Partnerships",
+        "domain": "Sales & Partnerships",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/f3d6d1c9"
+    },
+    {
+        "agent_id": "b2eade8b",
+        "agent_name": "Michael Porter",
+        "crew": "Crew_082",
+        "role_title": "Designer of Sales & Partnerships",
+        "domain": "Sales & Partnerships",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/b2eade8b"
+    },
+    {
+        "agent_id": "51f3eced",
+        "agent_name": "Patty McCord",
+        "crew": "Crew_083",
+        "role_title": "Director of Sales & Partnerships",
+        "domain": "Sales & Partnerships",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/51f3eced"
+    },
+    {
+        "agent_id": "a5c2b6cc",
+        "agent_name": "Dan Pink",
+        "crew": "Crew_083",
+        "role_title": "Lead of Marketing & Growth",
+        "domain": "Marketing & Growth",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a5c2b6cc"
+    },
+    {
+        "agent_id": "a9e279d6",
+        "agent_name": "David Marquet",
+        "crew": "Crew_084",
+        "role_title": "Specialist of Marketing & Growth",
+        "domain": "Marketing & Growth",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a9e279d6"
+    },
+    {
+        "agent_id": "ea7404c8",
+        "agent_name": "Tasha Eurich",
+        "crew": "Crew_084",
+        "role_title": "Architect of Marketing & Growth",
+        "domain": "Marketing & Growth",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/ea7404c8"
+    },
+    {
+        "agent_id": "28f2eccc",
+        "agent_name": "Ranjay Gulati",
+        "crew": "Crew_085",
+        "role_title": "Strategist of Marketing & Growth",
+        "domain": "Marketing & Growth",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/28f2eccc"
+    },
+    {
+        "agent_id": "d6cd77cb",
+        "agent_name": "Theresa M. Payton",
+        "crew": "Crew_085",
+        "role_title": "Engineer of Marketing & Growth",
+        "domain": "Marketing & Growth",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/d6cd77cb"
+    },
+    {
+        "agent_id": "a32539c4",
+        "agent_name": "Cal Newport",
+        "crew": "Crew_086",
+        "role_title": "Coordinator of Marketing & Growth",
+        "domain": "Marketing & Growth",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a32539c4"
+    },
+    {
+        "agent_id": "6db83aa9",
+        "agent_name": "Herminia Ibarra",
+        "crew": "Crew_086",
+        "role_title": "Observer of Marketing & Growth",
+        "domain": "Marketing & Growth",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/6db83aa9"
+    },
+    {
+        "agent_id": "4bd16f35",
+        "agent_name": "Patti Sanchez",
+        "crew": "Crew_087",
+        "role_title": "Commander of Marketing & Growth",
+        "domain": "Marketing & Growth",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/4bd16f35"
+    },
+    {
+        "agent_id": "c91eff37",
+        "agent_name": "Dan Roam",
+        "crew": "Crew_087",
+        "role_title": "Validator of Marketing & Growth",
+        "domain": "Marketing & Growth",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/c91eff37"
+    },
+    {
+        "agent_id": "80fe68e5",
+        "agent_name": "Neil Gunther",
+        "crew": "Crew_088",
+        "role_title": "Trainer of Marketing & Growth",
+        "domain": "Marketing & Growth",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/80fe68e5"
+    },
+    {
+        "agent_id": "9b4b26c1",
+        "agent_name": "Martin Casado",
+        "crew": "Crew_088",
+        "role_title": "Planner of Marketing & Growth",
+        "domain": "Marketing & Growth",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/9b4b26c1"
+    },
+    {
+        "agent_id": "5c24b911",
+        "agent_name": "Whitney Johnson",
+        "crew": "Crew_089",
+        "role_title": "Analyst of Marketing & Growth",
+        "domain": "Marketing & Growth",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/5c24b911"
+    },
+    {
+        "agent_id": "df722aee",
+        "agent_name": "Liz Wiseman",
+        "crew": "Crew_089",
+        "role_title": "Operator of Marketing & Growth",
+        "domain": "Marketing & Growth",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/df722aee"
+    },
+    {
+        "agent_id": "18cf29d5",
+        "agent_name": "Brian Chesky",
+        "crew": "Crew_090",
+        "role_title": "Designer of Marketing & Growth",
+        "domain": "Marketing & Growth",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/18cf29d5"
+    },
+    {
+        "agent_id": "79ea7105",
+        "agent_name": "Ben Silbermann",
+        "crew": "Crew_090",
+        "role_title": "Director of Marketing & Growth",
+        "domain": "Marketing & Growth",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/79ea7105"
+    },
+    {
+        "agent_id": "1e871c02",
+        "agent_name": "Marty Cagan",
+        "crew": "Crew_091",
+        "role_title": "Lead of Simulation Ops",
+        "domain": "Simulation Ops",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/1e871c02"
+    },
+    {
+        "agent_id": "0fa747d8",
+        "agent_name": "Geoffrey Hinton",
+        "crew": "Crew_091",
+        "role_title": "Specialist of Simulation Ops",
+        "domain": "Simulation Ops",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/0fa747d8"
+    },
+    {
+        "agent_id": "67e5bf00",
+        "agent_name": "Patty McCord",
+        "crew": "Crew_092",
+        "role_title": "Architect of Simulation Ops",
+        "domain": "Simulation Ops",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/67e5bf00"
+    },
+    {
+        "agent_id": "45803e8c",
+        "agent_name": "Michael Lopp",
+        "crew": "Crew_092",
+        "role_title": "Strategist of Simulation Ops",
+        "domain": "Simulation Ops",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/45803e8c"
+    },
+    {
+        "agent_id": "3f0869de",
+        "agent_name": "Steve Jobs",
+        "crew": "Crew_093",
+        "role_title": "Engineer of Simulation Ops",
+        "domain": "Simulation Ops",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/3f0869de"
+    },
+    {
+        "agent_id": "13256bfc",
+        "agent_name": "Sundar Pichai",
+        "crew": "Crew_093",
+        "role_title": "Coordinator of Simulation Ops",
+        "domain": "Simulation Ops",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/13256bfc"
+    },
+    {
+        "agent_id": "2d84a907",
+        "agent_name": "Navi Radjou",
+        "crew": "Crew_094",
+        "role_title": "Observer of Simulation Ops",
+        "domain": "Simulation Ops",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/2d84a907"
+    },
+    {
+        "agent_id": "51e9a97e",
+        "agent_name": "Tom Peters",
+        "crew": "Crew_094",
+        "role_title": "Commander of Simulation Ops",
+        "domain": "Simulation Ops",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/51e9a97e"
+    },
+    {
+        "agent_id": "4f2c2d3a",
+        "agent_name": "Gina Bianchini",
+        "crew": "Crew_095",
+        "role_title": "Validator of Simulation Ops",
+        "domain": "Simulation Ops",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/4f2c2d3a"
+    },
+    {
+        "agent_id": "d3fb0149",
+        "agent_name": "Gary Hamel",
+        "crew": "Crew_095",
+        "role_title": "Trainer of Simulation Ops",
+        "domain": "Simulation Ops",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/d3fb0149"
+    },
+    {
+        "agent_id": "22696ccd",
+        "agent_name": "Steve Browne",
+        "crew": "Crew_096",
+        "role_title": "Planner of Simulation Ops",
+        "domain": "Simulation Ops",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/22696ccd"
+    },
+    {
+        "agent_id": "19c3a257",
+        "agent_name": "Tristan Harris",
+        "crew": "Crew_096",
+        "role_title": "Analyst of Simulation Ops",
+        "domain": "Simulation Ops",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/19c3a257"
+    },
+    {
+        "agent_id": "6186913e",
+        "agent_name": "Donella Meadows",
+        "crew": "Crew_097",
+        "role_title": "Operator of Simulation Ops",
+        "domain": "Simulation Ops",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/6186913e"
+    },
+    {
+        "agent_id": "fd2c3a06",
+        "agent_name": "Susan Heathfield",
+        "crew": "Crew_097",
+        "role_title": "Designer of Simulation Ops",
+        "domain": "Simulation Ops",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/fd2c3a06"
+    },
+    {
+        "agent_id": "5efd6b41",
+        "agent_name": "Michael Krigsman",
+        "crew": "Crew_098",
+        "role_title": "Director of Simulation Ops",
+        "domain": "Simulation Ops",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/5efd6b41"
+    },
+    {
+        "agent_id": "fe2a78b9",
+        "agent_name": "Jeffrey Pfeffer",
+        "crew": "Crew_098",
+        "role_title": "Lead of Fallback Systems",
+        "domain": "Fallback Systems",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/fe2a78b9"
+    },
+    {
+        "agent_id": "bda128f2",
+        "agent_name": "Ram Charan",
+        "crew": "Crew_099",
+        "role_title": "Specialist of Fallback Systems",
+        "domain": "Fallback Systems",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/bda128f2"
+    },
+    {
+        "agent_id": "abd37dcf",
+        "agent_name": "Kim Scott",
+        "crew": "Crew_099",
+        "role_title": "Architect of Fallback Systems",
+        "domain": "Fallback Systems",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/abd37dcf"
+    },
+    {
+        "agent_id": "e21c4d1b",
+        "agent_name": "Richard Branson",
+        "crew": "Crew_100",
+        "role_title": "Strategist of Fallback Systems",
+        "domain": "Fallback Systems",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/e21c4d1b"
+    },
+    {
+        "agent_id": "83777171",
+        "agent_name": "Bjarne Stroustrup",
+        "crew": "Crew_100",
+        "role_title": "Engineer of Fallback Systems",
+        "domain": "Fallback Systems",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/83777171"
+    },
+    {
+        "agent_id": "91c81a38",
+        "agent_name": "Seth Godin",
+        "crew": "Crew_101",
+        "role_title": "Coordinator of Fallback Systems",
+        "domain": "Fallback Systems",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/91c81a38"
+    },
+    {
+        "agent_id": "12ea53fc",
+        "agent_name": "Stewart Butterfield",
+        "crew": "Crew_101",
+        "role_title": "Observer of Fallback Systems",
+        "domain": "Fallback Systems",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/12ea53fc"
+    },
+    {
+        "agent_id": "18e6b39f",
+        "agent_name": "Tim Berners-Lee",
+        "crew": "Crew_102",
+        "role_title": "Commander of Fallback Systems",
+        "domain": "Fallback Systems",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/18e6b39f"
+    },
+    {
+        "agent_id": "e21a2b2e",
+        "agent_name": "Barbara Minto",
+        "crew": "Crew_102",
+        "role_title": "Validator of Fallback Systems",
+        "domain": "Fallback Systems",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/e21a2b2e"
+    },
+    {
+        "agent_id": "2691a580",
+        "agent_name": "Don Norman",
+        "crew": "Crew_103",
+        "role_title": "Trainer of Fallback Systems",
+        "domain": "Fallback Systems",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/2691a580"
+    },
+    {
+        "agent_id": "318203c8",
+        "agent_name": "Frederick Taylor",
+        "crew": "Crew_103",
+        "role_title": "Planner of Fallback Systems",
+        "domain": "Fallback Systems",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/318203c8"
+    },
+    {
+        "agent_id": "0059774c",
+        "agent_name": "Brene Brown",
+        "crew": "Crew_104",
+        "role_title": "Analyst of Fallback Systems",
+        "domain": "Fallback Systems",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/0059774c"
+    },
+    {
+        "agent_id": "0d54e457",
+        "agent_name": "Oliver Burkeman",
+        "crew": "Crew_104",
+        "role_title": "Operator of Fallback Systems",
+        "domain": "Fallback Systems",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/0d54e457"
+    },
+    {
+        "agent_id": "21cc2165",
+        "agent_name": "David Ulrich",
+        "crew": "Crew_105",
+        "role_title": "Designer of Fallback Systems",
+        "domain": "Fallback Systems",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/21cc2165"
+    },
+    {
+        "agent_id": "c8750e03",
+        "agent_name": "Geary Rummler",
+        "crew": "Crew_105",
+        "role_title": "Director of Fallback Systems",
+        "domain": "Fallback Systems",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/c8750e03"
+    },
+    {
+        "agent_id": "8c9c2632",
+        "agent_name": "Chris Argyris",
+        "crew": "Crew_106",
+        "role_title": "Lead of Tool Validation",
+        "domain": "Tool Validation",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/8c9c2632"
+    },
+    {
+        "agent_id": "1449e2be",
+        "agent_name": "Martin Fowler",
+        "crew": "Crew_106",
+        "role_title": "Specialist of Tool Validation",
+        "domain": "Tool Validation",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/1449e2be"
+    },
+    {
+        "agent_id": "afdc4f3b",
+        "agent_name": "Lillian Gilbreth",
+        "crew": "Crew_107",
+        "role_title": "Architect of Tool Validation",
+        "domain": "Tool Validation",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/afdc4f3b"
+    },
+    {
+        "agent_id": "d4e8f282",
+        "agent_name": "Henry Gantt",
+        "crew": "Crew_107",
+        "role_title": "Strategist of Tool Validation",
+        "domain": "Tool Validation",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/d4e8f282"
+    },
+    {
+        "agent_id": "162506f6",
+        "agent_name": "Safra Catz",
+        "crew": "Crew_108",
+        "role_title": "Engineer of Tool Validation",
+        "domain": "Tool Validation",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/162506f6"
+    },
+    {
+        "agent_id": "eed6bf84",
+        "agent_name": "Reid Hoffman",
+        "crew": "Crew_108",
+        "role_title": "Coordinator of Tool Validation",
+        "domain": "Tool Validation",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/eed6bf84"
+    },
+    {
+        "agent_id": "77b749fe",
+        "agent_name": "Jez Humble",
+        "crew": "Crew_109",
+        "role_title": "Observer of Tool Validation",
+        "domain": "Tool Validation",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/77b749fe"
+    },
+    {
+        "agent_id": "b1888d16",
+        "agent_name": "Julie Zhuo",
+        "crew": "Crew_109",
+        "role_title": "Commander of Tool Validation",
+        "domain": "Tool Validation",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/b1888d16"
+    },
+    {
+        "agent_id": "f3a4197d",
+        "agent_name": "Chris Fussell",
+        "crew": "Crew_110",
+        "role_title": "Validator of Tool Validation",
+        "domain": "Tool Validation",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/f3a4197d"
+    },
+    {
+        "agent_id": "61685c0a",
+        "agent_name": "Anne Wojcicki",
+        "crew": "Crew_110",
+        "role_title": "Trainer of Tool Validation",
+        "domain": "Tool Validation",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/61685c0a"
+    },
+    {
+        "agent_id": "0f9089b4",
+        "agent_name": "Grady Booch",
+        "crew": "Crew_111",
+        "role_title": "Planner of Tool Validation",
+        "domain": "Tool Validation",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/0f9089b4"
+    },
+    {
+        "agent_id": "56fd3810",
+        "agent_name": "Tasha Eurich",
+        "crew": "Crew_111",
+        "role_title": "Analyst of Tool Validation",
+        "domain": "Tool Validation",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/56fd3810"
+    },
+    {
+        "agent_id": "373aa568",
+        "agent_name": "John P. Kotter",
+        "crew": "Crew_112",
+        "role_title": "Operator of Tool Validation",
+        "domain": "Tool Validation",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/373aa568"
+    },
+    {
+        "agent_id": "91636702",
+        "agent_name": "Joan Woodward",
+        "crew": "Crew_112",
+        "role_title": "Designer of Tool Validation",
+        "domain": "Tool Validation",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/91636702"
+    },
+    {
+        "agent_id": "412f8a2b",
+        "agent_name": "Marc Andreessen",
+        "crew": "Crew_113",
+        "role_title": "Director of Tool Validation",
+        "domain": "Tool Validation",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/412f8a2b"
+    },
+    {
+        "agent_id": "bd66d005",
+        "agent_name": "Edgar Schein",
+        "crew": "Crew_113",
+        "role_title": "Lead of Persona Fusion",
+        "domain": "Persona Fusion",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/bd66d005"
+    },
+    {
+        "agent_id": "cb2fabe4",
+        "agent_name": "Clay Shirky",
+        "crew": "Crew_114",
+        "role_title": "Specialist of Persona Fusion",
+        "domain": "Persona Fusion",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/cb2fabe4"
+    },
+    {
+        "agent_id": "bc4d9658",
+        "agent_name": "Daniel Goleman",
+        "crew": "Crew_114",
+        "role_title": "Architect of Persona Fusion",
+        "domain": "Persona Fusion",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/bc4d9658"
+    },
+    {
+        "agent_id": "98dc78b3",
+        "agent_name": "Amy C. Edmondson",
+        "crew": "Crew_115",
+        "role_title": "Strategist of Persona Fusion",
+        "domain": "Persona Fusion",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/98dc78b3"
+    },
+    {
+        "agent_id": "4a6e0b32",
+        "agent_name": "Simon Sinek",
+        "crew": "Crew_115",
+        "role_title": "Engineer of Persona Fusion",
+        "domain": "Persona Fusion",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/4a6e0b32"
+    },
+    {
+        "agent_id": "84b752ff",
+        "agent_name": "Taiichi Ohno",
+        "crew": "Crew_116",
+        "role_title": "Coordinator of Persona Fusion",
+        "domain": "Persona Fusion",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/84b752ff"
+    },
+    {
+        "agent_id": "308f2d84",
+        "agent_name": "Jim Rohn",
+        "crew": "Crew_116",
+        "role_title": "Observer of Persona Fusion",
+        "domain": "Persona Fusion",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/308f2d84"
+    },
+    {
+        "agent_id": "25e0bcd1",
+        "agent_name": "Meredith Whittaker",
+        "crew": "Crew_117",
+        "role_title": "Commander of Persona Fusion",
+        "domain": "Persona Fusion",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/25e0bcd1"
+    },
+    {
+        "agent_id": "ff896af1",
+        "agent_name": "Clayton Christensen",
+        "crew": "Crew_117",
+        "role_title": "Validator of Persona Fusion",
+        "domain": "Persona Fusion",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/ff896af1"
+    },
+    {
+        "agent_id": "950d395f",
+        "agent_name": "Rosabeth Moss Kanter",
+        "crew": "Crew_118",
+        "role_title": "Trainer of Persona Fusion",
+        "domain": "Persona Fusion",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/950d395f"
+    },
+    {
+        "agent_id": "49f5305a",
+        "agent_name": "Claude Silver",
+        "crew": "Crew_118",
+        "role_title": "Planner of Persona Fusion",
+        "domain": "Persona Fusion",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/49f5305a"
+    },
+    {
+        "agent_id": "b33d50fd",
+        "agent_name": "Roger Martin",
+        "crew": "Crew_119",
+        "role_title": "Analyst of Persona Fusion",
+        "domain": "Persona Fusion",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/b33d50fd"
+    },
+    {
+        "agent_id": "17fc0178",
+        "agent_name": "Leah Buley",
+        "crew": "Crew_119",
+        "role_title": "Operator of Persona Fusion",
+        "domain": "Persona Fusion",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/17fc0178"
+    },
+    {
+        "agent_id": "40c3dda2",
+        "agent_name": "Tony Robbins",
+        "crew": "Crew_120",
+        "role_title": "Designer of Persona Fusion",
+        "domain": "Persona Fusion",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/40c3dda2"
+    },
+    {
+        "agent_id": "a084631e",
+        "agent_name": "Linda Hill",
+        "crew": "Crew_120",
+        "role_title": "Director of Persona Fusion",
+        "domain": "Persona Fusion",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a084631e"
+    },
+    {
+        "agent_id": "9951126e",
+        "agent_name": "Gerald Weinberg",
+        "crew": "Crew_121",
+        "role_title": "Lead of Agent Training",
+        "domain": "Agent Training",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/9951126e"
+    },
+    {
+        "agent_id": "d6823e1a",
+        "agent_name": "Rosabeth Moss Kanter",
+        "crew": "Crew_121",
+        "role_title": "Specialist of Agent Training",
+        "domain": "Agent Training",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/d6823e1a"
+    },
+    {
+        "agent_id": "394a62ed",
+        "agent_name": "Lyndall Urwick",
+        "crew": "Crew_122",
+        "role_title": "Architect of Agent Training",
+        "domain": "Agent Training",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/394a62ed"
+    },
+    {
+        "agent_id": "be9d91e1",
+        "agent_name": "Richard Hackman",
+        "crew": "Crew_122",
+        "role_title": "Strategist of Agent Training",
+        "domain": "Agent Training",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/be9d91e1"
+    },
+    {
+        "agent_id": "e66e8153",
+        "agent_name": "Susan Wojcicki",
+        "crew": "Crew_123",
+        "role_title": "Engineer of Agent Training",
+        "domain": "Agent Training",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/e66e8153"
+    },
+    {
+        "agent_id": "74f7535b",
+        "agent_name": "Shigeo Shingo",
+        "crew": "Crew_123",
+        "role_title": "Coordinator of Agent Training",
+        "domain": "Agent Training",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/74f7535b"
+    },
+    {
+        "agent_id": "a6d4cf8b",
+        "agent_name": "Lex Fridman",
+        "crew": "Crew_124",
+        "role_title": "Observer of Agent Training",
+        "domain": "Agent Training",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a6d4cf8b"
+    },
+    {
+        "agent_id": "898fa352",
+        "agent_name": "Guido van Rossum",
+        "crew": "Crew_124",
+        "role_title": "Commander of Agent Training",
+        "domain": "Agent Training",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/898fa352"
+    },
+    {
+        "agent_id": "7ced6c1f",
+        "agent_name": "John Collison",
+        "crew": "Crew_125",
+        "role_title": "Validator of Agent Training",
+        "domain": "Agent Training",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/7ced6c1f"
+    },
+    {
+        "agent_id": "254536a3",
+        "agent_name": "Mary Barra",
+        "crew": "Crew_125",
+        "role_title": "Trainer of Agent Training",
+        "domain": "Agent Training",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/254536a3"
+    },
+    {
+        "agent_id": "7ee8de5e",
+        "agent_name": "Barry Boehm",
+        "crew": "Crew_126",
+        "role_title": "Planner of Agent Training",
+        "domain": "Agent Training",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/7ee8de5e"
+    },
+    {
+        "agent_id": "80bf25f8",
+        "agent_name": "Kim Scott",
+        "crew": "Crew_126",
+        "role_title": "Analyst of Agent Training",
+        "domain": "Agent Training",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/80bf25f8"
+    },
+    {
+        "agent_id": "a408992a",
+        "agent_name": "John Boyd",
+        "crew": "Crew_127",
+        "role_title": "Operator of Agent Training",
+        "domain": "Agent Training",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a408992a"
+    },
+    {
+        "agent_id": "63fe2334",
+        "agent_name": "Margaret Hamilton",
+        "crew": "Crew_127",
+        "role_title": "Designer of Agent Training",
+        "domain": "Agent Training",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/63fe2334"
+    },
+    {
+        "agent_id": "86b9e233",
+        "agent_name": "Susan David",
+        "crew": "Crew_128",
+        "role_title": "Director of Agent Training",
+        "domain": "Agent Training",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/86b9e233"
+    },
+    {
+        "agent_id": "5c67a712",
+        "agent_name": "Lisa Feldman Barrett",
+        "crew": "Crew_128",
+        "role_title": "Lead of Mission Planning",
+        "domain": "Mission Planning",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/5c67a712"
+    },
+    {
+        "agent_id": "4cb5df95",
+        "agent_name": "Roy Baumeister",
+        "crew": "Crew_129",
+        "role_title": "Specialist of Mission Planning",
+        "domain": "Mission Planning",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/4cb5df95"
+    },
+    {
+        "agent_id": "2d634e0c",
+        "agent_name": "Tony Robbins",
+        "crew": "Crew_129",
+        "role_title": "Architect of Mission Planning",
+        "domain": "Mission Planning",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/2d634e0c"
+    },
+    {
+        "agent_id": "a30f0bbf",
+        "agent_name": "Chris Lattner",
+        "crew": "Crew_130",
+        "role_title": "Strategist of Mission Planning",
+        "domain": "Mission Planning",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a30f0bbf"
+    },
+    {
+        "agent_id": "6ecdc351",
+        "agent_name": "Frances Hesselbein",
+        "crew": "Crew_130",
+        "role_title": "Engineer of Mission Planning",
+        "domain": "Mission Planning",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/6ecdc351"
+    },
+    {
+        "agent_id": "3a0fd77a",
+        "agent_name": "Ann Handley",
+        "crew": "Crew_131",
+        "role_title": "Coordinator of Mission Planning",
+        "domain": "Mission Planning",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/3a0fd77a"
+    },
+    {
+        "agent_id": "89063e02",
+        "agent_name": "Simon Sinek",
+        "crew": "Crew_131",
+        "role_title": "Observer of Mission Planning",
+        "domain": "Mission Planning",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/89063e02"
+    },
+    {
+        "agent_id": "0df60eb4",
+        "agent_name": "Peter Drucker",
+        "crew": "Crew_132",
+        "role_title": "Commander of Mission Planning",
+        "domain": "Mission Planning",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/0df60eb4"
+    },
+    {
+        "agent_id": "a24733ee",
+        "agent_name": "Zeynep Ton",
+        "crew": "Crew_132",
+        "role_title": "Validator of Mission Planning",
+        "domain": "Mission Planning",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a24733ee"
+    },
+    {
+        "agent_id": "0906dafd",
+        "agent_name": "John Kotter",
+        "crew": "Crew_133",
+        "role_title": "Trainer of Mission Planning",
+        "domain": "Mission Planning",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/0906dafd"
+    },
+    {
+        "agent_id": "34cdcd40",
+        "agent_name": "Camille Fournier",
+        "crew": "Crew_133",
+        "role_title": "Planner of Mission Planning",
+        "domain": "Mission Planning",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/34cdcd40"
+    },
+    {
+        "agent_id": "eb011287",
+        "agent_name": "Julia Galef",
+        "crew": "Crew_134",
+        "role_title": "Analyst of Mission Planning",
+        "domain": "Mission Planning",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/eb011287"
+    },
+    {
+        "agent_id": "2a63babf",
+        "agent_name": "Anders Hejlsberg",
+        "crew": "Crew_134",
+        "role_title": "Operator of Mission Planning",
+        "domain": "Mission Planning",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/2a63babf"
+    },
+    {
+        "agent_id": "5f07df18",
+        "agent_name": "Robert Sutton",
+        "crew": "Crew_135",
+        "role_title": "Designer of Mission Planning",
+        "domain": "Mission Planning",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/5f07df18"
+    },
+    {
+        "agent_id": "92d2ed13",
+        "agent_name": "Peter Drucker",
+        "crew": "Crew_135",
+        "role_title": "Director of Mission Planning",
+        "domain": "Mission Planning",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/92d2ed13"
+    },
+    {
+        "agent_id": "34a3efc8",
+        "agent_name": "Rand Fishkin",
+        "crew": "Crew_136",
+        "role_title": "Lead of Emergency Response",
+        "domain": "Emergency Response",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/34a3efc8"
+    },
+    {
+        "agent_id": "c7a37303",
+        "agent_name": "Herminia Ibarra",
+        "crew": "Crew_136",
+        "role_title": "Specialist of Emergency Response",
+        "domain": "Emergency Response",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/c7a37303"
+    },
+    {
+        "agent_id": "ba4a76de",
+        "agent_name": "Brian Halligan",
+        "crew": "Crew_137",
+        "role_title": "Architect of Emergency Response",
+        "domain": "Emergency Response",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/ba4a76de"
+    },
+    {
+        "agent_id": "e63a0a26",
+        "agent_name": "John Doerr",
+        "crew": "Crew_137",
+        "role_title": "Strategist of Emergency Response",
+        "domain": "Emergency Response",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/e63a0a26"
+    },
+    {
+        "agent_id": "cf0a5287",
+        "agent_name": "Donald Knuth",
+        "crew": "Crew_138",
+        "role_title": "Engineer of Emergency Response",
+        "domain": "Emergency Response",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/cf0a5287"
+    },
+    {
+        "agent_id": "19791439",
+        "agent_name": "Shantanu Narayen",
+        "crew": "Crew_138",
+        "role_title": "Coordinator of Emergency Response",
+        "domain": "Emergency Response",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/19791439"
+    },
+    {
+        "agent_id": "103e96d3",
+        "agent_name": "Claire Hughes Johnson",
+        "crew": "Crew_139",
+        "role_title": "Observer of Emergency Response",
+        "domain": "Emergency Response",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/103e96d3"
+    },
+    {
+        "agent_id": "c1c40d88",
+        "agent_name": "Kate Rutter",
+        "crew": "Crew_139",
+        "role_title": "Commander of Emergency Response",
+        "domain": "Emergency Response",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/c1c40d88"
+    },
+    {
+        "agent_id": "c133f3cb",
+        "agent_name": "Fei-Fei Li",
+        "crew": "Crew_140",
+        "role_title": "Validator of Emergency Response",
+        "domain": "Emergency Response",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/c133f3cb"
+    },
+    {
+        "agent_id": "52b2c981",
+        "agent_name": "Russell Ackoff",
+        "crew": "Crew_140",
+        "role_title": "Trainer of Emergency Response",
+        "domain": "Emergency Response",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/52b2c981"
+    },
+    {
+        "agent_id": "6ca08bca",
+        "agent_name": "Sal Khan",
+        "crew": "Crew_141",
+        "role_title": "Planner of Emergency Response",
+        "domain": "Emergency Response",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/6ca08bca"
+    },
+    {
+        "agent_id": "df1f75c0",
+        "agent_name": "Frederic Laloux",
+        "crew": "Crew_141",
+        "role_title": "Analyst of Emergency Response",
+        "domain": "Emergency Response",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/df1f75c0"
+    },
+    {
+        "agent_id": "8a0340a4",
+        "agent_name": "Jay Galbraith",
+        "crew": "Crew_142",
+        "role_title": "Operator of Emergency Response",
+        "domain": "Emergency Response",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/8a0340a4"
+    },
+    {
+        "agent_id": "7b48a4be",
+        "agent_name": "Margaret Heffernan",
+        "crew": "Crew_142",
+        "role_title": "Designer of Emergency Response",
+        "domain": "Emergency Response",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/7b48a4be"
+    },
+    {
+        "agent_id": "bbbe05ba",
+        "agent_name": "Frances Frei",
+        "crew": "Crew_143",
+        "role_title": "Director of Emergency Response",
+        "domain": "Emergency Response",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/bbbe05ba"
+    },
+    {
+        "agent_id": "86e66767",
+        "agent_name": "Ada Lovelace",
+        "crew": "Crew_143",
+        "role_title": "Lead of Recursive Scaling",
+        "domain": "Recursive Scaling",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/86e66767"
+    },
+    {
+        "agent_id": "54176a6b",
+        "agent_name": "Padmasree Warrior",
+        "crew": "Crew_144",
+        "role_title": "Specialist of Recursive Scaling",
+        "domain": "Recursive Scaling",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/54176a6b"
+    },
+    {
+        "agent_id": "8f173a4a",
+        "agent_name": "Kelsey Hightower",
+        "crew": "Crew_144",
+        "role_title": "Architect of Recursive Scaling",
+        "domain": "Recursive Scaling",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/8f173a4a"
+    },
+    {
+        "agent_id": "bc0d0212",
+        "agent_name": "Frances Frei",
+        "crew": "Crew_145",
+        "role_title": "Strategist of Recursive Scaling",
+        "domain": "Recursive Scaling",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/bc0d0212"
+    },
+    {
+        "agent_id": "b8df47ca",
+        "agent_name": "Erika Hall",
+        "crew": "Crew_145",
+        "role_title": "Engineer of Recursive Scaling",
+        "domain": "Recursive Scaling",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/b8df47ca"
+    },
+    {
+        "agent_id": "2778a69a",
+        "agent_name": "Satya Nadella",
+        "crew": "Crew_146",
+        "role_title": "Coordinator of Recursive Scaling",
+        "domain": "Recursive Scaling",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/2778a69a"
+    },
+    {
+        "agent_id": "fbd40832",
+        "agent_name": "Ed Batista",
+        "crew": "Crew_146",
+        "role_title": "Observer of Recursive Scaling",
+        "domain": "Recursive Scaling",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/fbd40832"
+    },
+    {
+        "agent_id": "38548e67",
+        "agent_name": "Frank Gilbreth",
+        "crew": "Crew_147",
+        "role_title": "Commander of Recursive Scaling",
+        "domain": "Recursive Scaling",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/38548e67"
+    },
+    {
+        "agent_id": "a8c117ca",
+        "agent_name": "Alistair Cockburn",
+        "crew": "Crew_147",
+        "role_title": "Validator of Recursive Scaling",
+        "domain": "Recursive Scaling",
+        "status": "assigned",
+        "simulation_ready": true,
+        "profile_url": "https://realms.ai/agents/a8c117ca"
+    }
+]

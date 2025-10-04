@@ -1,0 +1,1367 @@
+[
+    {
+        "name": "Ada Lovelace",
+        "source": "https://www.ted.com/search?q=Ada%20Lovelace",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Alan Turing",
+        "source": "https://www.ted.com/search?q=Alan%20Turing",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Claude Shannon",
+        "source": "https://www.ted.com/search?q=Claude%20Shannon",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Grace Hopper",
+        "source": "https://www.ted.com/search?q=Grace%20Hopper",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Steve Jobs",
+        "source": "https://www.ted.com/search?q=Steve%20Jobs",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Tim Berners-Lee",
+        "source": "https://www.ted.com/search?q=Tim%20Berners-Lee",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Linus Torvalds",
+        "source": "https://www.ted.com/search?q=Linus%20Torvalds",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Barbara Liskov",
+        "source": "https://www.ted.com/search?q=Barbara%20Liskov",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Donald Knuth",
+        "source": "https://www.ted.com/search?q=Donald%20Knuth",
+        "bio": "Looks like there weren't any results matching your search criteria. Try using a more general term, adjusting the spelling or searching with fewer filters. TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Radia Perlman",
+        "source": "https://www.ted.com/search?q=Radia%20Perlman",
+        "bio": "Looks like there weren't any results matching your search criteria. Try using a more general term, adjusting the spelling or searching with fewer filters. TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Fei-Fei Li",
+        "source": "https://www.ted.com/search?q=Fei-Fei%20Li",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Anne Wojcicki",
+        "source": "https://www.ted.com/search?q=Anne%20Wojcicki",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Ben Silbermann",
+        "source": "https://www.ted.com/search?q=Ben%20Silbermann",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Kara Swisher",
+        "source": "https://www.ted.com/search?q=Kara%20Swisher",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Michael Krigsman",
+        "source": "https://www.ted.com/search?q=Michael%20Krigsman",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Hamilton Mann",
+        "source": "https://www.ted.com/search?q=Hamilton%20Mann",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Sam Altman",
+        "source": "https://www.ted.com/search?q=Sam%20Altman",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Ilya Sutskever",
+        "source": "https://www.ted.com/search?q=Ilya%20Sutskever",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Geoffrey Hinton",
+        "source": "https://www.ted.com/search?q=Geoffrey%20Hinton",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Yoshua Bengio",
+        "source": "https://www.ted.com/search?q=Yoshua%20Bengio",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Marissa Mayer",
+        "source": "https://www.ted.com/search?q=Marissa%20Mayer",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Mitchell Baker",
+        "source": "https://www.ted.com/search?q=Mitchell%20Baker",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Kent Beck",
+        "source": "https://www.ted.com/search?q=Kent%20Beck",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Martin Fowler",
+        "source": "https://www.ted.com/search?q=Martin%20Fowler",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "James Gosling",
+        "source": "https://www.ted.com/search?q=James%20Gosling",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Guido Van Rossum",
+        "source": "https://www.ted.com/search?q=Guido%20van%20Rossum",
+        "bio": "Looks like there weren't any results matching your search criteria. Try using a more general term, adjusting the spelling or searching with fewer filters. TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Brendan Eich",
+        "source": "https://www.ted.com/search?q=Brendan%20Eich",
+        "bio": "Looks like there weren't any results matching your search criteria. Try using a more general term, adjusting the spelling or searching with fewer filters. TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Bjarne Stroustrup",
+        "source": "https://www.ted.com/search?q=Bjarne%20Stroustrup",
+        "bio": "Looks like there weren't any results matching your search criteria. Try using a more general term, adjusting the spelling or searching with fewer filters. TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Yukihiro Matsumoto",
+        "source": "https://www.ted.com/search?q=Yukihiro%20Matsumoto",
+        "bio": "Looks like there weren't any results matching your search criteria. Try using a more general term, adjusting the spelling or searching with fewer filters. TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Anders Hejlsberg",
+        "source": "https://www.ted.com/search?q=Anders%20Hejlsberg",
+        "bio": "Looks like there weren't any results matching your search criteria. Try using a more general term, adjusting the spelling or searching with fewer filters. TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Jeff Dean",
+        "source": "https://www.ted.com/search?q=Jeff%20Dean",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Ian Goodfellow",
+        "source": "https://www.ted.com/search?q=Ian%20Goodfellow",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "John Carmack",
+        "source": "https://www.ted.com/search?q=John%20Carmack",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Sal Khan",
+        "source": "https://www.ted.com/search?q=Sal%20Khan",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Susan Wojcicki",
+        "source": "https://www.ted.com/search?q=Susan%20Wojcicki",
+        "bio": "Rate Limited too many requests. XID: 833435959 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Melanie Mitchell",
+        "source": "https://www.ted.com/search?q=Melanie%20Mitchell",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Lex Fridman",
+        "source": "https://www.ted.com/search?q=Lex%20Fridman",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Sebastian Thrun",
+        "source": "https://www.ted.com/search?q=Sebastian%20Thrun",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Antonio Neri",
+        "source": "https://www.ted.com/search?q=Antonio%20Neri",
+        "bio": "Rate Limited too many requests. XID: 833436050 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Neil Gunther",
+        "source": "https://github.com/search?q=Neil%20Gunther",
+        "bio": "We read every piece of feedback, and take your input very seriously. To see all available qualifiers, see our documentation. Try one of the tips below to find more code",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Sundar Pichai",
+        "source": "https://github.com/search?q=Sundar%20Pichai",
+        "bio": "We read every piece of feedback, and take your input very seriously. To see all available qualifiers, see our documentation.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Brian Chesky",
+        "source": "https://github.com/search?q=Brian%20Chesky",
+        "bio": "We read every piece of feedback, and take your input very seriously. To see all available qualifiers, see our documentation.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Drew Houston",
+        "source": "https://github.com/search?q=Drew%20Houston",
+        "bio": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again; in some cases this may take up to an hour. Signing in may provide a higher rate limit if you are not already signed in.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Daniel Ek",
+        "source": "https://github.com/search?q=Daniel%20Ek",
+        "bio": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again; in some cases this may take up to an hour. Signing in may provide a higher rate limit if you are not already signed in.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Whitney Wolfe Herd",
+        "source": "https://www.ted.com/search?q=Whitney%20Wolfe%20Herd",
+        "bio": "Rate Limited too many requests. XID: 833436129 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Reshma Saujani",
+        "source": "https://www.ted.com/search?q=Reshma%20Saujani",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Melinda French Gates",
+        "source": "https://www.ted.com/search?q=Melinda%20French%20Gates",
+        "bio": "Rate Limited too many requests. XID: 833436163 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Reed Hastings",
+        "source": "https://www.ted.com/search?q=Reed%20Hastings",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Marc Andreessen",
+        "source": "https://www.ted.com/search?q=Marc%20Andreessen",
+        "bio": "Rate Limited too many requests. XID: 677709977 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Ben Horowitz",
+        "source": "https://www.ted.com/search?q=Ben%20Horowitz",
+        "bio": "Rate Limited too many requests. XID: 677709984 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Naval Ravikant",
+        "source": "https://www.ted.com/search?q=Naval%20Ravikant",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Patrick Collison",
+        "source": "https://www.ted.com/search?q=Patrick%20Collison",
+        "bio": "Rate Limited too many requests. XID: 2134195069 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "John Collison",
+        "source": "https://www.ted.com/search?q=John%20Collison",
+        "bio": "Rate Limited too many requests. XID: 677710007 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Diane Greene",
+        "source": "https://www.ted.com/search?q=Diane%20Greene",
+        "bio": "Rate Limited too many requests. XID: 1983793669 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Safra Catz",
+        "source": "https://www.ted.com/search?q=Safra%20Catz",
+        "bio": "Rate Limited too many requests. XID: 833436235 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Ginni Rometty",
+        "source": "https://www.ted.com/search?q=Ginni%20Rometty",
+        "bio": "Rate Limited too many requests. XID: 677710024 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Meg Whitman",
+        "source": "https://www.ted.com/search?q=Meg%20Whitman",
+        "bio": "Rate Limited too many requests. XID: 2134195100 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Tristan Harris",
+        "source": "https://www.ted.com/search?q=Tristan%20Harris",
+        "bio": "Rate Limited too many requests. XID: 833436260 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Don Norman",
+        "source": "https://www.ted.com/search?q=Don%20Norman",
+        "bio": "Rate Limited too many requests. XID: 2134195135 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Mary Jo Foley",
+        "source": "https://www.ted.com/search?q=Mary%20Jo%20Foley",
+        "bio": "Rate Limited too many requests. XID: 833436287 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Marty Cagan",
+        "source": "https://www.ted.com/search?q=Marty%20Cagan",
+        "bio": "Rate Limited too many requests. XID: 2134195144 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Martin Casado",
+        "source": "https://www.ted.com/search?q=Martin%20Casado",
+        "bio": "Rate Limited too many requests. XID: 833436299 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Shantanu Narayen",
+        "source": "https://www.ted.com/search?q=Shantanu%20Narayen",
+        "bio": "Rate Limited too many requests. XID: 2134195159 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Julie Zhuo",
+        "source": "https://www.ted.com/search?q=Julie%20Zhuo",
+        "bio": "Rate Limited too many requests. XID: 1983793758 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Laszlo Bock",
+        "source": "https://www.ted.com/search?q=Laszlo%20Bock",
+        "bio": "Rate Limited too many requests. XID: 677710116 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Patty Mccord",
+        "source": "https://www.ted.com/search?q=Patty%20McCord",
+        "bio": "Rate Limited too many requests. XID: 2134195188 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Josh Bersin",
+        "source": "https://www.ted.com/search?q=Josh%20Bersin",
+        "bio": "Rate Limited too many requests. XID: 833436343 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Hubert Joly",
+        "source": "https://www.ted.com/search?q=Hubert%20Joly",
+        "bio": "Rate Limited too many requests. XID: 2134195201 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Simon Sinek",
+        "source": "https://www.ted.com/search?q=Simon%20Sinek",
+        "bio": "Rate Limited too many requests. XID: 1983793791 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Ann Handley",
+        "source": "https://www.ted.com/search?q=Ann%20Handley",
+        "bio": "Rate Limited too many requests. XID: 677710149 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Rand Fishkin",
+        "source": "https://www.ted.com/search?q=Rand%20Fishkin",
+        "bio": "Rate Limited too many requests. XID: 1983793808 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "April Dunford",
+        "source": "https://www.ted.com/search?q=April%20Dunford",
+        "bio": "Rate Limited too many requests. XID: 677710163 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Brian Halligan",
+        "source": "https://www.ted.com/search?q=Brian%20Halligan",
+        "bio": "Rate Limited too many requests. XID: 1983793823 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Dharmesh Shah",
+        "source": "https://www.ted.com/search?q=Dharmesh%20Shah",
+        "bio": "Rate Limited too many requests. XID: 677710176 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Mary Barra",
+        "source": "https://www.ted.com/search?q=Mary%20Barra",
+        "bio": "Rate Limited too many requests. XID: 677710184 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Satya Nadella",
+        "source": "https://www.ted.com/search?q=Satya%20Nadella",
+        "bio": "Rate Limited too many requests. XID: 1983793845 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Indra Nooyi",
+        "source": "https://www.ted.com/search?q=Indra%20Nooyi",
+        "bio": "Rate Limited too many requests. XID: 677710196 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Tony Robbins",
+        "source": "https://www.ted.com/search?q=Tony%20Robbins",
+        "bio": "Rate Limited too many requests. XID: 833436417 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Marc Benioff",
+        "source": "https://www.ted.com/search?q=Marc%20Benioff",
+        "bio": "Rate Limited too many requests. XID: 833436424 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Tobi L\u00fctke",
+        "source": "https://www.ted.com/search?q=Tobi%20L%C3%BCtke",
+        "bio": "Rate Limited too many requests. XID: 1983793880 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Stewart Butterfield",
+        "source": "https://www.ted.com/search?q=Stewart%20Butterfield",
+        "bio": "Rate Limited too many requests. XID: 677710231 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Henry Gantt",
+        "source": "https://www.ted.com/search?q=Henry%20Gantt",
+        "bio": "Rate Limited too many requests. XID: 1983793894 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Peter Drucker",
+        "source": "https://www.ted.com/search?q=Peter%20Drucker",
+        "bio": "Rate Limited too many requests. XID: 833436459 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Rita Mulcahy",
+        "source": "https://github.com/search?q=Rita%20Mulcahy",
+        "bio": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again; in some cases this may take up to an hour. Signing in may provide a higher rate limit if you are not already signed in.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Margaret Hamilton",
+        "source": "https://www.ted.com/search?q=Margaret%20Hamilton",
+        "bio": "Rate Limited too many requests. XID: 1983793923 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "W. Edwards Deming",
+        "source": "https://www.ted.com/search?q=W.%20Edwards%20Deming",
+        "bio": "Rate Limited too many requests. XID: 1983793929 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Steve Browne",
+        "source": "https://www.ted.com/search?q=Steve%20Browne",
+        "bio": "Rate Limited too many requests. XID: 677710285 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Ann Mei Chang",
+        "source": "https://www.ted.com/search?q=Ann%20Mei%20Chang",
+        "bio": "Rate Limited too many requests. XID: 1983793958 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "John Kotter",
+        "source": "https://www.ted.com/search?q=John%20Kotter",
+        "bio": "Rate Limited too many requests. XID: 833436523 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Amy Edmondson",
+        "source": "https://github.com/search?q=Amy%20Edmondson",
+        "bio": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again; in some cases this may take up to an hour. Signing in may provide a higher rate limit if you are not already signed in.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Linda Hill",
+        "source": "https://www.ted.com/search?q=Linda%20Hill",
+        "bio": "Rate Limited too many requests. XID: 1983793975 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Rosabeth Moss Kanter",
+        "source": "https://www.ted.com/search?q=Rosabeth%20Moss%20Kanter",
+        "bio": "Rate Limited too many requests. XID: 2134195397 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Michael Porter",
+        "source": "https://www.ted.com/search?q=Michael%20Porter",
+        "bio": "Rate Limited too many requests. XID: 1983793988 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Clayton Christensen",
+        "source": "https://www.ted.com/search?q=Clayton%20Christensen",
+        "bio": "Rate Limited too many requests. XID: 1983793994 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Theresa M. Payton",
+        "source": "https://www.ted.com/search?q=Theresa%20M.%20Payton",
+        "bio": "Rate Limited too many requests. XID: 2134195415 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Nicole Forsgren",
+        "source": "https://www.ted.com/search?q=Nicole%20Forsgren",
+        "bio": "Rate Limited too many requests. XID: 1983794006 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Kim Scott",
+        "source": "https://www.ted.com/search?q=Kim%20Scott",
+        "bio": "Rate Limited too many requests. XID: 833436571 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Liz Wiseman",
+        "source": "https://www.ted.com/search?q=Liz%20Wiseman",
+        "bio": "Rate Limited too many requests. XID: 833436585 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Frances Frei",
+        "source": "https://www.ted.com/search?q=Frances%20Frei",
+        "bio": "Rate Limited too many requests. XID: 833436592 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Tasha Eurich",
+        "source": "https://www.ted.com/search?q=Tasha%20Eurich",
+        "bio": "Rate Limited too many requests. XID: 1983794036 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Herminia Ibarra",
+        "source": "https://www.ted.com/search?q=Herminia%20Ibarra",
+        "bio": "Rate Limited too many requests. XID: 677710386 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Whitney Johnson",
+        "source": "https://www.ted.com/search?q=Whitney%20Johnson",
+        "bio": "Rate Limited too many requests. XID: 2134195461 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Brene Brown",
+        "source": "https://www.ted.com/search?q=Brene%20Brown",
+        "bio": "Rate Limited too many requests. XID: 677710407 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Marshall Goldsmith",
+        "source": "https://www.ted.com/search?q=Marshall%20Goldsmith",
+        "bio": "Rate Limited too many requests. XID: 833436627 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Daniel Goleman",
+        "source": "https://www.ted.com/search?q=Daniel%20Goleman",
+        "bio": "Rate Limited too many requests. XID: 833436634 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Adam Grant",
+        "source": "https://www.ted.com/search?q=Adam%20Grant",
+        "bio": "Rate Limited too many requests. XID: 1983794078 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Angela Duckworth",
+        "source": "https://www.ted.com/search?q=Angela%20Duckworth",
+        "bio": "Rate Limited too many requests. XID: 2134195499 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Jeffrey Pfeffer",
+        "source": "https://www.ted.com/search?q=Jeffrey%20Pfeffer",
+        "bio": "Rate Limited too many requests. XID: 677710434 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Ranjay Gulati",
+        "source": "https://www.ted.com/search?q=Ranjay%20Gulati",
+        "bio": "Rate Limited too many requests. XID: 833436662 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Mary Parker Follett",
+        "source": "https://www.ted.com/search?q=Mary%20Parker%20Follett",
+        "bio": "Rate Limited too many requests. XID: 2134195522 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Lyndall Urwick",
+        "source": "https://www.ted.com/search?q=Lyndall%20Urwick",
+        "bio": "Rate Limited too many requests. XID: 2134195529 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Henri Fayol",
+        "source": "https://www.ted.com/search?q=Henri%20Fayol",
+        "bio": "Rate Limited too many requests. XID: 1983794118 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Peter Senge",
+        "source": "https://www.ted.com/search?q=Peter%20Senge",
+        "bio": "Rate Limited too many requests. XID: 1983794124 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Warren Bennis",
+        "source": "https://www.ted.com/search?q=Warren%20Bennis",
+        "bio": "Rate Limited too many requests. XID: 833436695 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Jay Galbraith",
+        "source": "https://www.ted.com/search?q=Jay%20Galbraith",
+        "bio": "Rate Limited too many requests. XID: 833436700 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Mintzberg",
+        "source": "https://www.ted.com/search?q=Mintzberg",
+        "bio": "Rate Limited too many requests. XID: 1983794142 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Joan Woodward",
+        "source": "https://github.com/search?q=Joan%20Woodward",
+        "bio": "You have exceeded a secondary rate limit. Please wait a few minutes before you try again; in some cases this may take up to an hour. Signing in may provide a higher rate limit if you are not already signed in.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Susan Heathfield",
+        "source": "https://www.ted.com/search?q=Susan%20Heathfield",
+        "bio": "Rate Limited too many requests. XID: 677710510 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Jac Fitz-Enz",
+        "source": "https://www.ted.com/search?q=Jac%20Fitz-enz",
+        "bio": "Rate Limited too many requests. XID: 1983794170 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "John P. Kotter",
+        "source": "https://www.ted.com/search?q=John%20P.%20Kotter",
+        "bio": "Rate Limited too many requests. XID: 833436737 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Joseph Juran",
+        "source": "https://www.ted.com/search?q=Joseph%20Juran",
+        "bio": "Rate Limited too many requests. XID: 833436744 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Taiichi Ohno",
+        "source": "https://www.ted.com/search?q=Taiichi%20Ohno",
+        "bio": "Rate Limited too many requests. XID: 1983794188 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Frank Gilbreth",
+        "source": "https://www.ted.com/search?q=Frank%20Gilbreth",
+        "bio": "Rate Limited too many requests. XID: 833436755 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Lillian Gilbreth",
+        "source": "https://www.ted.com/search?q=Lillian%20Gilbreth",
+        "bio": "Rate Limited too many requests. XID: 833436760 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Jim Collins",
+        "source": "https://www.ted.com/search?q=Jim%20Collins",
+        "bio": "Rate Limited too many requests. XID: 833436779 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Eliyahu Goldratt",
+        "source": "https://www.ted.com/search?q=Eliyahu%20Goldratt",
+        "bio": "Rate Limited too many requests. XID: 1983794222 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Philip Crosby",
+        "source": "https://www.ted.com/search?q=Philip%20Crosby",
+        "bio": "Rate Limited too many requests. XID: 2134195643 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "John Doerr",
+        "source": "https://www.ted.com/search?q=John%20Doerr",
+        "bio": "Rate Limited too many requests. XID: 677710583 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Andy Grove",
+        "source": "https://www.ted.com/search?q=Andy%20Grove",
+        "bio": "Rate Limited too many requests. XID: 833436801 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Jeff Sutherland",
+        "source": "https://www.ted.com/search?q=Jeff%20Sutherland",
+        "bio": "Rate Limited too many requests. XID: 833436808 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Mike Cohn",
+        "source": "https://www.ted.com/search?q=Mike%20Cohn",
+        "bio": "Rate Limited too many requests. XID: 833436819 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Alistair Cockburn",
+        "source": "https://www.ted.com/search?q=Alistair%20Cockburn",
+        "bio": "Rate Limited too many requests. XID: 833436829 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Frederick Taylor",
+        "source": "https://www.ted.com/search?q=Frederick%20Taylor",
+        "bio": "Rate Limited too many requests. XID: 677710622 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Rensis Likert",
+        "source": "https://www.ted.com/search?q=Rensis%20Likert",
+        "bio": "Rate Limited too many requests. XID: 677710630 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Barbara Kellerman",
+        "source": "https://www.ted.com/search?q=Barbara%20Kellerman",
+        "bio": "Rate Limited too many requests. XID: 1983794293 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Richard Hackman",
+        "source": "https://www.ted.com/search?q=Richard%20Hackman",
+        "bio": "Rate Limited too many requests. XID: 677710652 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Donella Meadows",
+        "source": "https://www.ted.com/search?q=Donella%20Meadows",
+        "bio": "Rate Limited too many requests. XID: 1983794318 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Russell Ackoff",
+        "source": "https://www.ted.com/search?q=Russell%20Ackoff",
+        "bio": "Rate Limited too many requests. XID: 2134195741 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Gerald Weinberg",
+        "source": "https://www.ted.com/search?q=Gerald%20Weinberg",
+        "bio": "Rate Limited too many requests. XID: 2134195766 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Grady Booch",
+        "source": "https://www.ted.com/search?q=Grady%20Booch",
+        "bio": "Rate Limited too many requests. XID: 2134195776 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Ikujiro Nonaka",
+        "source": "https://www.ted.com/search?q=Ikujiro%20Nonaka",
+        "bio": "Rate Limited too many requests. XID: 2134195782 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Hirotaka Takeuchi",
+        "source": "https://www.ted.com/search?q=Hirotaka%20Takeuchi",
+        "bio": "Rate Limited too many requests. XID: 1983794375 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Edgar Schein",
+        "source": "https://www.ted.com/search?q=Edgar%20Schein",
+        "bio": "Rate Limited too many requests. XID: 677710726 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Karl Weick",
+        "source": "https://www.ted.com/search?q=Karl%20Weick",
+        "bio": "Rate Limited too many requests. XID: 2134195800 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Robert Sutton",
+        "source": "https://www.ted.com/search?q=Robert%20Sutton",
+        "bio": "Rate Limited too many requests. XID: 677710739 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Richard Branson",
+        "source": "https://www.ted.com/search?q=Richard%20Branson",
+        "bio": "Rate Limited too many requests. XID: 677710746 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Tony Hsieh",
+        "source": "https://www.ted.com/search?q=Tony%20Hsieh",
+        "bio": "Rate Limited too many requests. XID: 1983794408 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "John Boyd",
+        "source": "https://www.ted.com/search?q=John%20Boyd",
+        "bio": "Rate Limited too many requests. XID: 833436975 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Gifford Pinchot Iii",
+        "source": "https://www.ted.com/search?q=Gifford%20Pinchot%20III",
+        "bio": "Rate Limited too many requests. XID: 2134195840 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Clay Shirky",
+        "source": "https://www.ted.com/search?q=Clay%20Shirky",
+        "bio": "Rate Limited too many requests. XID: 1983794432 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Yves Morieux",
+        "source": "https://www.ted.com/search?q=Yves%20Morieux",
+        "bio": "Rate Limited too many requests. XID: 833437004 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Nilofer Merchant",
+        "source": "https://www.ted.com/search?q=Nilofer%20Merchant",
+        "bio": "Rate Limited too many requests. XID: 677710797 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Gene Kim",
+        "source": "https://www.ted.com/search?q=Gene%20Kim",
+        "bio": "Rate Limited too many requests. XID: 833437031 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Jez Humble",
+        "source": "https://www.ted.com/search?q=Jez%20Humble",
+        "bio": "Rate Limited too many requests. XID: 677710822 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Kelsey Hightower",
+        "source": "https://www.ted.com/search?q=Kelsey%20Hightower",
+        "bio": "Rate Limited too many requests. XID: 1983794483 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Reid Hoffman",
+        "source": "https://www.ted.com/search?q=Reid%20Hoffman",
+        "bio": "Rate Limited too many requests. XID: 833437059 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Jason Fried",
+        "source": "https://www.ted.com/search?q=Jason%20Fried",
+        "bio": "Rate Limited too many requests. XID: 833437069 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Anil Dash",
+        "source": "https://www.ted.com/search?q=Anil%20Dash",
+        "bio": "Rate Limited too many requests. XID: 833437101 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Rita Mcgrath",
+        "source": "https://www.ted.com/search?q=Rita%20McGrath",
+        "bio": "Rate Limited too many requests. XID: 1983794560 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Molly Graham",
+        "source": "https://www.ted.com/search?q=Molly%20Graham",
+        "bio": "Rate Limited too many requests. XID: 2134196000 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Kim Malone Scott",
+        "source": "https://www.ted.com/search?q=Kim%20Malone%20Scott",
+        "bio": "Rate Limited too many requests. XID: 677710943 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Susan David",
+        "source": "https://www.ted.com/search?q=Susan%20David",
+        "bio": "Rate Limited too many requests. XID: 677710956 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Roger Martin",
+        "source": "https://www.ted.com/search?q=Roger%20Martin",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Michael Bungay Stanier",
+        "source": "https://www.ted.com/search?q=Michael%20Bungay%20Stanier",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Keith Ferrazzi",
+        "source": "https://www.ted.com/search?q=Keith%20Ferrazzi",
+        "bio": "Rate Limited too many requests. XID: 833437214 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Cal Newport",
+        "source": "https://www.ted.com/search?q=Cal%20Newport",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "David Allen",
+        "source": "https://www.ted.com/search?q=David%20Allen",
+        "bio": "Rate Limited too many requests. XID: 833437239 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Tiago Forte",
+        "source": "https://www.ted.com/search?q=Tiago%20Forte",
+        "bio": "Looks like there weren't any results matching your search criteria. Try using a more general term, adjusting the spelling or searching with fewer filters. TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Laura Vanderkam",
+        "source": "https://www.ted.com/search?q=Laura%20Vanderkam",
+        "bio": "Rate Limited too many requests. XID: 1983794700 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Oliver Burkeman",
+        "source": "https://www.ted.com/search?q=Oliver%20Burkeman",
+        "bio": "Rate Limited too many requests. XID: 1983794710 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Greg Mckeown",
+        "source": "https://www.ted.com/search?q=Greg%20McKeown",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "John Maeda",
+        "source": "https://www.ted.com/search?q=John%20Maeda",
+        "bio": "Rate Limited too many requests. XID: 1983794735 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Erika Hall",
+        "source": "https://www.ted.com/search?q=Erika%20Hall",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Leah Buley",
+        "source": "https://www.ted.com/search?q=Leah%20Buley",
+        "bio": "Rate Limited too many requests. XID: 2134196167 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Kate Rutter",
+        "source": "https://www.ted.com/search?q=Kate%20Rutter",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Jennifer Dulski",
+        "source": "https://www.ted.com/search?q=Jennifer%20Dulski",
+        "bio": "Rate Limited too many requests. XID: 1983794779 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Brian Robertson",
+        "source": "https://www.ted.com/search?q=Brian%20Robertson",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Frederic Laloux",
+        "source": "https://www.ted.com/search?q=Frederic%20Laloux",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Navi Radjou",
+        "source": "https://www.ted.com/search?q=Navi%20Radjou",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Linda Gratton",
+        "source": "https://www.ted.com/search?q=Linda%20Gratton",
+        "bio": "Rate Limited too many requests. XID: 1983794840 Varnish cache server",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Rob Cross",
+        "source": "https://www.ted.com/search?q=Rob%20Cross",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Teresa Amabile",
+        "source": "https://www.ted.com/search?q=Teresa%20Amabile",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Jennifer Garvey Berger",
+        "source": "https://www.ted.com/search?q=Jennifer%20Garvey%20Berger",
+        "bio": "Looks like there weren't any results matching your search criteria. Try using a more general term, adjusting the spelling or searching with fewer filters. TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Carol Dweck",
+        "source": "https://www.ted.com/search?q=Carol%20Dweck",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Ed Batista",
+        "source": "https://www.ted.com/search?q=Ed%20Batista",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Michael Lopp",
+        "source": "https://www.ted.com/search?q=Michael%20Lopp",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Camille Ricketts",
+        "source": "https://www.ted.com/search?q=Camille%20Ricketts",
+        "bio": "Looks like there weren't any results matching your search criteria. Try using a more general term, adjusting the spelling or searching with fewer filters. TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Annie Duke",
+        "source": "https://www.ted.com/search?q=Annie%20Duke",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Nancy Duarte",
+        "source": "https://www.ted.com/search?q=Nancy%20Duarte",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Dan Roam",
+        "source": "https://www.ted.com/search?q=Dan%20Roam",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Patti Sanchez",
+        "source": "https://www.ted.com/search?q=Patti%20Sanchez",
+        "bio": "Looks like there weren't any results matching your search criteria. Try using a more general term, adjusting the spelling or searching with fewer filters. TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Amy C. Edmondson",
+        "source": "https://www.ted.com/search?q=Amy%20C.%20Edmondson",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "David Rock",
+        "source": "https://www.ted.com/search?q=David%20Rock",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Lisa Feldman Barrett",
+        "source": "https://www.ted.com/search?q=Lisa%20Feldman%20Barrett",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    },
+    {
+        "name": "Daniel Kahneman",
+        "source": "https://www.ted.com/search?q=Daniel%20Kahneman",
+        "bio": "TED.com translations are made possible by volunteer translators. Learn more about the Open Translation Project. \u00a9 TED Conferences, LLC. All rights reserved.",
+        "quotes": [],
+        "role_context": []
+    }
+]

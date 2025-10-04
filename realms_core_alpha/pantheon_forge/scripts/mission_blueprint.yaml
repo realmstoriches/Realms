@@ -1,0 +1,10 @@
+mission:
+  constraints:
+  - Open source only
+  - Local deployable
+  - Confirmation-integrated
+  goal: Launch a modular agentic AI platform for enterprise use
+  milestones:
+  - MVP with 5 agents and RAG pipeline
+  - First customer onboarding
+  - Investor pitch deck and demo

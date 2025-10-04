@@ -1,0 +1,680 @@
+{
+    "crew_name": "Crew_Engineering_FrontendEngineer",
+    "mission_scope": "Real mission packet for Crew_Engineering_FrontendEngineer",
+    "agents": [
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Claude Shannon",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Tim Berners-Lee",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Anne Wojcicki",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Kara Swisher",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Sam Altman",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Mitchell Baker",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Brendan Eich",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Bjarne Stroustrup",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Ian Goodfellow",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Antonio Neri",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Reshma Saujani",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Naval Ravikant",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "John Collison",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Ginni Rometty",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Gina Bianchini",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Mary Jo Foley",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Marty Cagan",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Laszlo Bock",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Indra Nooyi",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Rosabeth Moss Kanter",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Clayton Christensen",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Lyndall Urwick",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Peter Senge",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Chris Argyris",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Warren Bennis",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Frederick Taylor",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Rensis Likert",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Richard Hackman",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Donella Meadows",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Gerald Weinberg",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Grady Booch",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Hirotaka Takeuchi",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Tony Hsieh",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Yves Morieux",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Anne Morriss",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Dan Pink",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Oliver Burkeman",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Frederic Laloux",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Linda Gratton",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Scott Eblin",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Nancy Duarte",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Stephen Bungay",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "David Marquet",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "agent_name": "Stanley McChrystal",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "precise",
+                "offline_safe": false
+            }
+        }
+    ],
+    "fallbacks": [
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Tim Berners-Lee"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Anne Wojcicki"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Kara Swisher"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Sam Altman"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Mitchell Baker"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Brendan Eich"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Bjarne Stroustrup"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Ian Goodfellow"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Antonio Neri"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Reshma Saujani"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Naval Ravikant"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "John Collison"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Ginni Rometty"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Gina Bianchini"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Mary Jo Foley"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Marty Cagan"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Laszlo Bock"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Indra Nooyi"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Rosabeth Moss Kanter"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Clayton Christensen"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Lyndall Urwick"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Peter Senge"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Chris Argyris"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Warren Bennis"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Frederick Taylor"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Rensis Likert"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Richard Hackman"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Donella Meadows"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Gerald Weinberg"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Grady Booch"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Hirotaka Takeuchi"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Tony Hsieh"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Yves Morieux"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Anne Morriss"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Dan Pink"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Oliver Burkeman"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Frederic Laloux"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Linda Gratton"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Scott Eblin"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Nancy Duarte"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Stephen Bungay"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "David Marquet"
+        },
+        {
+            "role_title": "Frontend Engineer",
+            "fallback_agent": "Stanley McChrystal"
+        }
+    ],
+    "domains": [
+        "General"
+    ],
+    "persona_overlay": {
+        "crew_style": "technical",
+        "tone": "precise"
+    },
+    "dispatch_logic": {
+        "primary": "Crew_Engineering_FrontendEngineer",
+        "fallback": [
+            "Tim Berners-Lee",
+            "Anne Wojcicki",
+            "Kara Swisher",
+            "Sam Altman",
+            "Mitchell Baker",
+            "Brendan Eich",
+            "Bjarne Stroustrup",
+            "Ian Goodfellow",
+            "Antonio Neri",
+            "Reshma Saujani",
+            "Naval Ravikant",
+            "John Collison",
+            "Ginni Rometty",
+            "Gina Bianchini",
+            "Mary Jo Foley",
+            "Marty Cagan",
+            "Laszlo Bock",
+            "Indra Nooyi",
+            "Rosabeth Moss Kanter",
+            "Clayton Christensen",
+            "Lyndall Urwick",
+            "Peter Senge",
+            "Chris Argyris",
+            "Warren Bennis",
+            "Frederick Taylor",
+            "Rensis Likert",
+            "Richard Hackman",
+            "Donella Meadows",
+            "Gerald Weinberg",
+            "Grady Booch",
+            "Hirotaka Takeuchi",
+            "Tony Hsieh",
+            "Yves Morieux",
+            "Anne Morriss",
+            "Dan Pink",
+            "Oliver Burkeman",
+            "Frederic Laloux",
+            "Linda Gratton",
+            "Scott Eblin",
+            "Nancy Duarte",
+            "Stephen Bungay",
+            "David Marquet",
+            "Stanley McChrystal"
+        ],
+        "twin_origin": "pantheon_twin/Crew_Engineering_FrontendEngineer",
+        "offline_safe": [
+            "Claude Shannon"
+        ]
+    },
+    "confirmation_chain": []
+}

@@ -1,0 +1,2 @@
+# Heartbeat monitor log
+# Format: timestamp | module status

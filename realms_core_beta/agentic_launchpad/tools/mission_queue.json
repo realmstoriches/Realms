@@ -1,0 +1,10 @@
+[
+  {
+    "mission_id": "launch_001",
+    "objective": "Build founder dashboard UI",
+    "assigned_crew": "Crew_Alpha_1",
+    "required_roles": ["Strategic PM", "UI Designer", "Frontend Engineer"],
+    "tools": ["React", "Mermaid"],
+    "deadline": "2025-10-01"
+  }
+]

@@ -1,0 +1,528 @@
+{
+    "crew_name": "Crew_Operations_OpsCoordinator",
+    "mission_scope": "Real mission packet for Crew_Operations_OpsCoordinator",
+    "agents": [
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Steve Jobs",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Fei-Fei Li",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Ilya Sutskever",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Yoshua Bengio",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Marissa Mayer",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Guido van Rossum",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Yukihiro Matsumoto",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Chris Lattner",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Neil Gunther",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Sundar Pichai",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Melinda French Gates",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Patrick Collison",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Jony Ive",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Shantanu Narayen",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Julie Zhuo",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Marc Benioff",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "W. Edwards Deming",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Frederick Winslow Taylor",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "John Kotter",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Liz Wiseman",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Tasha Eurich",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Jay Galbraith",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Joseph Juran",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Lillian Gilbreth",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Eliyahu Goldratt",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Alistair Cockburn",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Edgar Schein",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Gene Kim",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Reid Hoffman",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Anil Dash",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Brian Robertson",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Ed Batista",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Michael Lopp",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "agent_name": "Patti Sanchez",
+            "domain": "General",
+            "persona": {
+                "style": "adaptive",
+                "tone": "neutral",
+                "offline_safe": false
+            }
+        }
+    ],
+    "fallbacks": [
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Fei-Fei Li"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Ilya Sutskever"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Yoshua Bengio"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Marissa Mayer"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Guido van Rossum"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Yukihiro Matsumoto"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Chris Lattner"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Neil Gunther"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Sundar Pichai"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Melinda French Gates"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Patrick Collison"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Jony Ive"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Shantanu Narayen"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Julie Zhuo"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Marc Benioff"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "W. Edwards Deming"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Frederick Winslow Taylor"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "John Kotter"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Liz Wiseman"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Tasha Eurich"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Jay Galbraith"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Joseph Juran"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Lillian Gilbreth"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Eliyahu Goldratt"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Alistair Cockburn"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Edgar Schein"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Gene Kim"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Reid Hoffman"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Anil Dash"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Brian Robertson"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Ed Batista"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Michael Lopp"
+        },
+        {
+            "role_title": "Ops Coordinator",
+            "fallback_agent": "Patti Sanchez"
+        }
+    ],
+    "domains": [
+        "General"
+    ],
+    "persona_overlay": {
+        "crew_style": "adaptive",
+        "tone": "neutral"
+    },
+    "dispatch_logic": {
+        "primary": "Crew_Operations_OpsCoordinator",
+        "fallback": [
+            "Fei-Fei Li",
+            "Ilya Sutskever",
+            "Yoshua Bengio",
+            "Marissa Mayer",
+            "Guido van Rossum",
+            "Yukihiro Matsumoto",
+            "Chris Lattner",
+            "Neil Gunther",
+            "Sundar Pichai",
+            "Melinda French Gates",
+            "Patrick Collison",
+            "Jony Ive",
+            "Shantanu Narayen",
+            "Julie Zhuo",
+            "Marc Benioff",
+            "W. Edwards Deming",
+            "Frederick Winslow Taylor",
+            "John Kotter",
+            "Liz Wiseman",
+            "Tasha Eurich",
+            "Jay Galbraith",
+            "Joseph Juran",
+            "Lillian Gilbreth",
+            "Eliyahu Goldratt",
+            "Alistair Cockburn",
+            "Edgar Schein",
+            "Gene Kim",
+            "Reid Hoffman",
+            "Anil Dash",
+            "Brian Robertson",
+            "Ed Batista",
+            "Michael Lopp",
+            "Patti Sanchez"
+        ],
+        "twin_origin": "pantheon_twin/Crew_Operations_OpsCoordinator",
+        "offline_safe": []
+    },
+    "confirmation_chain": []
+}

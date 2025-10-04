@@ -1,0 +1,30 @@
+{
+    "Crew_Leadership_StrategicPM": {
+        "style": "visionary",
+        "tone": "inspiring"
+    },
+    "Crew_Engineering_FrontendEngineer": {
+        "style": "technical",
+        "tone": "precise"
+    },
+    "Crew_Operations_OpsCoordinator": {
+        "style": "adaptive",
+        "tone": "neutral"
+    },
+    "Crew_Engineering_SystemsArchitect": {
+        "style": "technical",
+        "tone": "precise"
+    },
+    "Crew_Product_ProductLead": {
+        "style": "adaptive",
+        "tone": "neutral"
+    },
+    "Crew_Quality_QAAnalyst": {
+        "style": "adaptive",
+        "tone": "neutral"
+    },
+    "Crew_Design_UIDesigner": {
+        "style": "creative",
+        "tone": "empathetic"
+    }
+}

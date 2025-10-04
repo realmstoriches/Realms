@@ -1,0 +1,632 @@
+{
+    "crew_name": "Crew_Engineering_SystemsArchitect",
+    "mission_scope": "Real mission packet for Crew_Engineering_SystemsArchitect",
+    "agents": [
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Linus Torvalds",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Barbara Liskov",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Radia Perlman",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Ben Silbermann",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Jeff Dean",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Melanie Mitchell",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Lex Fridman",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Jack Dorsey",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Padmasree Warrior",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Don Norman",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Martin Casado",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Hubert Joly",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Brian Halligan",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Dharmesh Shah",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Ann Mei Chang",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Theresa M. Payton",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Frances Frei",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Claude Silver",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Gary Hamel",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Taiichi Ohno",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "John Doerr",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Stephen Covey",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Karl Weick",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Nilofer Merchant",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Ron Westrum",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "David Heinemeier Hansson",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Kim Malone Scott",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Heidi Grant Halvorson",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Laura Vanderkam",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Greg McKeown",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Jake Knapp",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "John Maeda",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Navi Radjou",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Chris Fussell",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Lisa Feldman Barrett",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "Systems Architect",
+            "agent_name": "Roy Baumeister",
+            "domain": "General",
+            "persona": {
+                "style": "technical",
+                "tone": "precise",
+                "offline_safe": true
+            }
+        }
+    ],
+    "fallbacks": [
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Barbara Liskov"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Radia Perlman"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Ben Silbermann"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Jeff Dean"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Melanie Mitchell"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Lex Fridman"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Jack Dorsey"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Padmasree Warrior"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Don Norman"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Martin Casado"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Hubert Joly"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Brian Halligan"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Dharmesh Shah"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Ann Mei Chang"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Theresa M. Payton"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Frances Frei"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Claude Silver"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Gary Hamel"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Taiichi Ohno"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "John Doerr"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Stephen Covey"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Karl Weick"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Nilofer Merchant"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Ron Westrum"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "David Heinemeier Hansson"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Kim Malone Scott"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Heidi Grant Halvorson"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Laura Vanderkam"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Greg McKeown"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Jake Knapp"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "John Maeda"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Navi Radjou"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Chris Fussell"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Lisa Feldman Barrett"
+        },
+        {
+            "role_title": "Systems Architect",
+            "fallback_agent": "Roy Baumeister"
+        }
+    ],
+    "domains": [
+        "General"
+    ],
+    "persona_overlay": {
+        "crew_style": "technical",
+        "tone": "precise"
+    },
+    "dispatch_logic": {
+        "primary": "Crew_Engineering_SystemsArchitect",
+        "fallback": [
+            "Barbara Liskov",
+            "Radia Perlman",
+            "Ben Silbermann",
+            "Jeff Dean",
+            "Melanie Mitchell",
+            "Lex Fridman",
+            "Jack Dorsey",
+            "Padmasree Warrior",
+            "Don Norman",
+            "Martin Casado",
+            "Hubert Joly",
+            "Brian Halligan",
+            "Dharmesh Shah",
+            "Ann Mei Chang",
+            "Theresa M. Payton",
+            "Frances Frei",
+            "Claude Silver",
+            "Gary Hamel",
+            "Taiichi Ohno",
+            "John Doerr",
+            "Stephen Covey",
+            "Karl Weick",
+            "Nilofer Merchant",
+            "Ron Westrum",
+            "David Heinemeier Hansson",
+            "Kim Malone Scott",
+            "Heidi Grant Halvorson",
+            "Laura Vanderkam",
+            "Greg McKeown",
+            "Jake Knapp",
+            "John Maeda",
+            "Navi Radjou",
+            "Chris Fussell",
+            "Lisa Feldman Barrett",
+            "Roy Baumeister"
+        ],
+        "twin_origin": "pantheon_twin/Crew_Engineering_SystemsArchitect",
+        "offline_safe": [
+            "Linus Torvalds",
+            "Barbara Liskov",
+            "Radia Perlman",
+            "Ben Silbermann",
+            "Jeff Dean",
+            "Melanie Mitchell",
+            "Lex Fridman",
+            "Jack Dorsey",
+            "Padmasree Warrior",
+            "Don Norman",
+            "Martin Casado",
+            "Hubert Joly",
+            "Brian Halligan",
+            "Dharmesh Shah",
+            "Ann Mei Chang",
+            "Theresa M. Payton",
+            "Frances Frei",
+            "Claude Silver",
+            "Gary Hamel",
+            "Taiichi Ohno",
+            "John Doerr",
+            "Stephen Covey",
+            "Karl Weick",
+            "Nilofer Merchant",
+            "Ron Westrum",
+            "David Heinemeier Hansson",
+            "Kim Malone Scott",
+            "Heidi Grant Halvorson",
+            "Laura Vanderkam",
+            "Greg McKeown",
+            "Jake Knapp",
+            "John Maeda",
+            "Navi Radjou",
+            "Chris Fussell",
+            "Lisa Feldman Barrett",
+            "Roy Baumeister"
+        ]
+    },
+    "confirmation_chain": [
+        "Ann Mei Chang",
+        "Barbara Liskov",
+        "Ben Silbermann",
+        "Brian Halligan",
+        "Chris Fussell",
+        "Claude Silver",
+        "David Heinemeier Hansson",
+        "Dharmesh Shah",
+        "Don Norman",
+        "Frances Frei",
+        "Gary Hamel",
+        "Greg McKeown",
+        "Heidi Grant Halvorson",
+        "Hubert Joly",
+        "Jack Dorsey",
+        "Jake Knapp",
+        "Jeff Dean",
+        "John Doerr",
+        "John Maeda",
+        "Karl Weick",
+        "Kim Malone Scott",
+        "Laura Vanderkam",
+        "Lex Fridman",
+        "Linus Torvalds",
+        "Lisa Feldman Barrett",
+        "Martin Casado",
+        "Melanie Mitchell",
+        "Navi Radjou",
+        "Nilofer Merchant",
+        "Padmasree Warrior",
+        "Radia Perlman",
+        "Ron Westrum",
+        "Roy Baumeister",
+        "Stephen Covey",
+        "Taiichi Ohno",
+        "Theresa M. Payton"
+    ]
+}

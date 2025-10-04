@@ -1,0 +1,5 @@
+FROM python:3.10
+WORKDIR /dashboard
+COPY ./realms_core_alpha/agentic_launchpad/modules/dashboard_builder.py .
+RUN pip install flask
+CMD ["python", "dashboard_builder.py"]

@@ -1,0 +1,2225 @@
+[
+    {
+        "name": "Ada Lovelace",
+        "domain": "Computing Pioneer",
+        "contribution": "First algorithm intended for a machine",
+        "persona_description": "Ada Lovelace is known for First algorithm intended for a machine. Their work reflects a empathetic approach to computing pioneer, often emphasizing principle-based decision-making and command-control leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Alan Turing",
+        "domain": "Cryptography & AI",
+        "contribution": "Father of theoretical computer science and artificial intelligence",
+        "persona_description": "Alan Turing is known for Father of theoretical computer science and artificial intelligence. Their work reflects a analytical approach to cryptography & ai, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Claude Shannon",
+        "domain": "Information Theory",
+        "contribution": "Founded digital circuit design theory and information theory",
+        "persona_description": "Claude Shannon is known for Founded digital circuit design theory and information theory. Their work reflects a empathetic approach to information theory, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Grace Hopper",
+        "domain": "Programming Languages",
+        "contribution": "Invented the first compiler and helped develop COBOL",
+        "persona_description": "Grace Hopper is known for Invented the first compiler and helped develop COBOL. Their work reflects a visionary approach to programming languages, often emphasizing data-driven decision-making and adaptive leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Steve Jobs",
+        "domain": "Product Strategy & Design",
+        "contribution": "Co-founder of Apple, revolutionized consumer tech",
+        "persona_description": "Steve Jobs is known for Co-founder of Apple, revolutionized consumer tech. Their work reflects a empathetic approach to product strategy & design, often emphasizing principle-based decision-making and adaptive leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Tim Berners-Lee",
+        "domain": "Web Architecture",
+        "contribution": "Invented the World Wide Web",
+        "persona_description": "Tim Berners-Lee is known for Invented the World Wide Web. Their work reflects a analytical approach to web architecture, often emphasizing principle-based decision-making and command-control leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Linus Torvalds",
+        "domain": "Open Source Systems",
+        "contribution": "Created the Linux kernel and Git",
+        "persona_description": "Linus Torvalds is known for Created the Linux kernel and Git. Their work reflects a empathetic approach to open source systems, often emphasizing data-driven decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "data-driven",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Barbara Liskov",
+        "domain": "Software Engineering",
+        "contribution": "Developed Liskov Substitution Principle and CLU language",
+        "persona_description": "Barbara Liskov is known for Developed Liskov Substitution Principle and CLU language. Their work reflects a visionary approach to software engineering, often emphasizing principle-based decision-making and transformational leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Donald Knuth",
+        "domain": "Algorithms & Typography",
+        "contribution": "Author of The Art of Computer Programming and creator of TeX",
+        "persona_description": "Donald Knuth is known for Author of The Art of Computer Programming and creator of TeX. Their work reflects a analytical approach to algorithms & typography, often emphasizing data-driven decision-making and transformational leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Radia Perlman",
+        "domain": "Networking",
+        "contribution": "Invented the Spanning Tree Protocol",
+        "persona_description": "Radia Perlman is known for Invented the Spanning Tree Protocol. Their work reflects a direct approach to networking, often emphasizing principle-based decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "data-driven",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Fei-Fei Li",
+        "domain": "Artificial Intelligence",
+        "contribution": "Invented ImageNet, advanced human-centered AI",
+        "persona_description": "Fei-Fei Li is known for Invented ImageNet, advanced human-centered AI. Their work reflects a direct approach to artificial intelligence, often emphasizing principle-based decision-making and servant leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Anne Wojcicki",
+        "domain": "Genomics & Health Tech",
+        "contribution": "Co-founder of 23andMe, democratized consumer genetics",
+        "persona_description": "Anne Wojcicki is known for Co-founder of 23andMe, democratized consumer genetics. Their work reflects a analytical approach to genomics & health tech, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Ben Silbermann",
+        "domain": "Social Discovery Platforms",
+        "contribution": "Co-founder of Pinterest, redefined visual inspiration",
+        "persona_description": "Ben Silbermann is known for Co-founder of Pinterest, redefined visual inspiration. Their work reflects a analytical approach to social discovery platforms, often emphasizing intuitive decision-making and command-control leadership.",
+        "communication_style": "direct",
+        "decision_bias": "data-driven",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Kara Swisher",
+        "domain": "Tech Journalism",
+        "contribution": "Influential journalist covering Silicon Valley since 1994",
+        "persona_description": "Kara Swisher is known for Influential journalist covering Silicon Valley since 1994. Their work reflects a direct approach to tech journalism, often emphasizing data-driven decision-making and command-control leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "data-driven",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Michael Krigsman",
+        "domain": "Digital Strategy & Analysis",
+        "contribution": "Founder of CXOTalk, interviewed 1000+ tech leaders",
+        "persona_description": "Michael Krigsman is known for Founder of CXOTalk, interviewed 1000+ tech leaders. Their work reflects a analytical approach to digital strategy & analysis, often emphasizing principle-based decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Hamilton Mann",
+        "domain": "Digital Transformation",
+        "contribution": "Founder of The Hamilton Mann Conversation, global tech strategist",
+        "persona_description": "Hamilton Mann is known for Founder of The Hamilton Mann Conversation, global tech strategist. Their work reflects a visionary approach to digital transformation, often emphasizing principle-based decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Sam Altman",
+        "domain": "AI & Startup Leadership",
+        "contribution": "CEO of OpenAI, former president of Y Combinator",
+        "persona_description": "Sam Altman is known for CEO of OpenAI, former president of Y Combinator. Their work reflects a visionary approach to ai & startup leadership, often emphasizing consensus-seeking decision-making and command-control leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Ilya Sutskever",
+        "domain": "Deep Learning",
+        "contribution": "Co-founder of OpenAI, key architect of GPT models",
+        "persona_description": "Ilya Sutskever is known for Co-founder of OpenAI, key architect of GPT models. Their work reflects a direct approach to deep learning, often emphasizing principle-based decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Geoffrey Hinton",
+        "domain": "Neural Networks",
+        "contribution": "Pioneer of backpropagation and deep learning",
+        "persona_description": "Geoffrey Hinton is known for Pioneer of backpropagation and deep learning. Their work reflects a visionary approach to neural networks, often emphasizing intuitive decision-making and adaptive leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Yoshua Bengio",
+        "domain": "Machine Learning",
+        "contribution": "Co-inventor of deep learning, advocate for ethical AI",
+        "persona_description": "Yoshua Bengio is known for Co-inventor of deep learning, advocate for ethical AI. Their work reflects a analytical approach to machine learning, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Marissa Mayer",
+        "domain": "Product & UX Leadership",
+        "contribution": "First female engineer at Google, former CEO of Yahoo",
+        "persona_description": "Marissa Mayer is known for First female engineer at Google, former CEO of Yahoo. Their work reflects a direct approach to product & ux leadership, often emphasizing consensus-seeking decision-making and command-control leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Mitchell Baker",
+        "domain": "Open Source Governance",
+        "contribution": "Chairwoman of Mozilla Foundation, advocate for open web standards",
+        "persona_description": "Mitchell Baker is known for Chairwoman of Mozilla Foundation, advocate for open web standards. Their work reflects a analytical approach to open source governance, often emphasizing data-driven decision-making and adaptive leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Kent Beck",
+        "domain": "Agile Development",
+        "contribution": "Creator of Extreme Programming, key figure in Agile Manifesto",
+        "persona_description": "Kent Beck is known for Creator of Extreme Programming, key figure in Agile Manifesto. Their work reflects a analytical approach to agile development, often emphasizing intuitive decision-making and adaptive leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Martin Fowler",
+        "domain": "Software Architecture",
+        "contribution": "Thought leader in refactoring, microservices, and agile design",
+        "persona_description": "Martin Fowler is known for Thought leader in refactoring, microservices, and agile design. Their work reflects a direct approach to software architecture, often emphasizing data-driven decision-making and adaptive leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "James Gosling",
+        "domain": "Programming Languages",
+        "contribution": "Creator of the Java programming language",
+        "persona_description": "James Gosling is known for Creator of the Java programming language. Their work reflects a direct approach to programming languages, often emphasizing intuitive decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "principle-based",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Guido Van Rossum",
+        "domain": "Programming Languages",
+        "contribution": "Creator of Python, champion of readable code",
+        "persona_description": "Guido Van Rossum is known for Creator of Python, champion of readable code. Their work reflects a analytical approach to programming languages, often emphasizing data-driven decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Brendan Eich",
+        "domain": "Web Development",
+        "contribution": "Invented JavaScript, co-founded Mozilla and Brave",
+        "persona_description": "Brendan Eich is known for Invented JavaScript, co-founded Mozilla and Brave. Their work reflects a empathetic approach to web development, often emphasizing data-driven decision-making and transformational leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Bjarne Stroustrup",
+        "domain": "Programming Languages",
+        "contribution": "Inventor of C++, advanced systems programming",
+        "persona_description": "Bjarne Stroustrup is known for Inventor of C++, advanced systems programming. Their work reflects a empathetic approach to programming languages, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "data-driven",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Yukihiro Matsumoto",
+        "domain": "Programming Languages",
+        "contribution": "Creator of Ruby, focused on developer happiness",
+        "persona_description": "Yukihiro Matsumoto is known for Creator of Ruby, focused on developer happiness. Their work reflects a direct approach to programming languages, often emphasizing intuitive decision-making and adaptive leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Anders Hejlsberg",
+        "domain": "Programming Languages",
+        "contribution": "Architect of Turbo Pascal, Delphi, and TypeScript",
+        "persona_description": "Anders Hejlsberg is known for Architect of Turbo Pascal, Delphi, and TypeScript. Their work reflects a visionary approach to programming languages, often emphasizing principle-based decision-making and command-control leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Jeff Dean",
+        "domain": "Scalable Systems & AI",
+        "contribution": "Google Senior Fellow, co-creator of MapReduce and TensorFlow",
+        "persona_description": "Jeff Dean is known for Google Senior Fellow, co-creator of MapReduce and TensorFlow. Their work reflects a direct approach to scalable systems & ai, often emphasizing consensus-seeking decision-making and adaptive leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Ian Goodfellow",
+        "domain": "Machine Learning",
+        "contribution": "Inventor of GANs (Generative Adversarial Networks)",
+        "persona_description": "Ian Goodfellow is known for Inventor of GANs (Generative Adversarial Networks). Their work reflects a visionary approach to machine learning, often emphasizing principle-based decision-making and servant leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "John Carmack",
+        "domain": "Graphics & Game Engines",
+        "contribution": "Co-founder of id Software, architect of Doom and Quake engines",
+        "persona_description": "John Carmack is known for Co-founder of id Software, architect of Doom and Quake engines. Their work reflects a analytical approach to graphics & game engines, often emphasizing principle-based decision-making and adaptive leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Sal Khan",
+        "domain": "Education Technology",
+        "contribution": "Founder of Khan Academy, global free learning platform",
+        "persona_description": "Sal Khan is known for Founder of Khan Academy, global free learning platform. Their work reflects a analytical approach to education technology, often emphasizing intuitive decision-making and servant leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "intuitive",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Susan Wojcicki",
+        "domain": "Digital Media",
+        "contribution": "Former CEO of YouTube, early Google marketing leader",
+        "persona_description": "Susan Wojcicki is known for Former CEO of YouTube, early Google marketing leader. Their work reflects a direct approach to digital media, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "principle-based",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Melanie Mitchell",
+        "domain": "Complex Systems & AI",
+        "contribution": "Author of 'Artificial Intelligence: A Guide for Thinking Humans'",
+        "persona_description": "Melanie Mitchell is known for Author of 'Artificial Intelligence: A Guide for Thinking Humans'. Their work reflects a analytical approach to complex systems & ai, often emphasizing principle-based decision-making and adaptive leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "principle-based",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Lex Fridman",
+        "domain": "AI & Robotics",
+        "contribution": "MIT researcher and host of influential AI podcast",
+        "persona_description": "Lex Fridman is known for MIT researcher and host of influential AI podcast. Their work reflects a direct approach to ai & robotics, often emphasizing principle-based decision-making and servant leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Sebastian Thrun",
+        "domain": "Autonomous Systems",
+        "contribution": "Founder of Udacity, led Google\u2019s self-driving car project",
+        "persona_description": "Sebastian Thrun is known for Founder of Udacity, led Google\u2019s self-driving car project. Their work reflects a direct approach to autonomous systems, often emphasizing intuitive decision-making and adaptive leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Antonio Neri",
+        "domain": "Enterprise IT",
+        "contribution": "CEO of HPE, led shift to Everything-as-a-Service",
+        "persona_description": "Antonio Neri is known for CEO of HPE, led shift to Everything-as-a-Service. Their work reflects a direct approach to enterprise it, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Neil Gunther",
+        "domain": "Computational Scalability",
+        "contribution": "Developed universal law of computational scalability",
+        "persona_description": "Neil Gunther is known for Developed universal law of computational scalability. Their work reflects a analytical approach to computational scalability, often emphasizing data-driven decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "principle-based",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Sundar Pichai",
+        "domain": "Search & Cloud Platforms",
+        "contribution": "CEO of Google and Alphabet, scaled global AI infrastructure",
+        "persona_description": "Sundar Pichai is known for CEO of Google and Alphabet, scaled global AI infrastructure. Their work reflects a empathetic approach to search & cloud platforms, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Brian Chesky",
+        "domain": "Platform Economy",
+        "contribution": "Co-founder and CEO of Airbnb",
+        "persona_description": "Brian Chesky is known for Co-founder and CEO of Airbnb. Their work reflects a direct approach to platform economy, often emphasizing consensus-seeking decision-making and adaptive leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "data-driven",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Drew Houston",
+        "domain": "Cloud Storage",
+        "contribution": "Co-founder and CEO of Dropbox",
+        "persona_description": "Drew Houston is known for Co-founder and CEO of Dropbox. Their work reflects a empathetic approach to cloud storage, often emphasizing intuitive decision-making and adaptive leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Daniel Ek",
+        "domain": "Streaming Media",
+        "contribution": "Co-founder and CEO of Spotify",
+        "persona_description": "Daniel Ek is known for Co-founder and CEO of Spotify. Their work reflects a empathetic approach to streaming media, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Whitney Wolfe Herd",
+        "domain": "Social Platforms",
+        "contribution": "Founder of Bumble, redefined dating app dynamics",
+        "persona_description": "Whitney Wolfe Herd is known for Founder of Bumble, redefined dating app dynamics. Their work reflects a visionary approach to social platforms, often emphasizing intuitive decision-making and servant leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Reshma Saujani",
+        "domain": "Tech Education",
+        "contribution": "Founder of Girls Who Code",
+        "persona_description": "Reshma Saujani is known for Founder of Girls Who Code. Their work reflects a empathetic approach to tech education, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Melinda French Gates",
+        "domain": "Philanthropy & Tech Equity",
+        "contribution": "Co-chair of Gates Foundation, advocate for women in tech",
+        "persona_description": "Melinda French Gates is known for Co-chair of Gates Foundation, advocate for women in tech. Their work reflects a direct approach to philanthropy & tech equity, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Reed Hastings",
+        "domain": "Streaming & Media",
+        "contribution": "Co-founder and former CEO of Netflix",
+        "persona_description": "Reed Hastings is known for Co-founder and former CEO of Netflix. Their work reflects a visionary approach to streaming & media, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Marc Andreessen",
+        "domain": "Venture Capital & Browsers",
+        "contribution": "Co-founder of Netscape and Andreessen Horowitz",
+        "persona_description": "Marc Andreessen is known for Co-founder of Netscape and Andreessen Horowitz. Their work reflects a visionary approach to venture capital & browsers, often emphasizing consensus-seeking decision-making and adaptive leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Ben Horowitz",
+        "domain": "HR leadership",
+        "contribution": "Authored 'The Hard Thing About Hard Things' and built Andreessen Horowitz.",
+        "persona_description": "Ben Horowitz is known for Authored 'The Hard Thing About Hard Things' and built Andreessen Horowitz.. Their work reflects a analytical approach to hr leadership, often emphasizing consensus-seeking decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Naval Ravikant",
+        "domain": "Angel Investing & Philosophy",
+        "contribution": "Founder of AngelList, advocate for founder independence",
+        "persona_description": "Naval Ravikant is known for Founder of AngelList, advocate for founder independence. Their work reflects a empathetic approach to angel investing & philosophy, often emphasizing principle-based decision-making and adaptive leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Patrick Collison",
+        "domain": "Fintech Infrastructure",
+        "contribution": "Co-founder and CEO of Stripe",
+        "persona_description": "Patrick Collison is known for Co-founder and CEO of Stripe. Their work reflects a analytical approach to fintech infrastructure, often emphasizing data-driven decision-making and adaptive leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "John Collison",
+        "domain": "Fintech Infrastructure",
+        "contribution": "Co-founder of Stripe, youngest self-made billionaire",
+        "persona_description": "John Collison is known for Co-founder of Stripe, youngest self-made billionaire. Their work reflects a direct approach to fintech infrastructure, often emphasizing intuitive decision-making and command-control leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Diane Greene",
+        "domain": "Cloud Computing",
+        "contribution": "Co-founder of VMware, former head of Google Cloud",
+        "persona_description": "Diane Greene is known for Co-founder of VMware, former head of Google Cloud. Their work reflects a analytical approach to cloud computing, often emphasizing consensus-seeking decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Safra Catz",
+        "domain": "Enterprise Software",
+        "contribution": "CEO of Oracle Corporation",
+        "persona_description": "Safra Catz is known for CEO of Oracle Corporation. Their work reflects a empathetic approach to enterprise software, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Ginni Rometty",
+        "domain": "Enterprise AI & Cloud",
+        "contribution": "Former CEO of IBM, led AI and hybrid cloud strategy",
+        "persona_description": "Ginni Rometty is known for Former CEO of IBM, led AI and hybrid cloud strategy. Their work reflects a analytical approach to enterprise ai & cloud, often emphasizing data-driven decision-making and adaptive leadership.",
+        "communication_style": "direct",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Meg Whitman",
+        "domain": "Tech Leadership",
+        "contribution": "Former CEO of eBay and HP, led major tech turnarounds",
+        "persona_description": "Meg Whitman is known for Former CEO of eBay and HP, led major tech turnarounds. Their work reflects a visionary approach to tech leadership, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Tristan Harris",
+        "domain": "organizational design",
+        "contribution": "Founded Center for Humane Technology and critiqued attention economics.",
+        "persona_description": "Tristan Harris is known for Founded Center for Humane Technology and critiqued attention economics.. Their work reflects a empathetic approach to organizational design, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Don Norman",
+        "domain": "operational excellence",
+        "contribution": "Advanced human-centered design and usability engineering.",
+        "persona_description": "Don Norman is known for Advanced human-centered design and usability engineering.. Their work reflects a visionary approach to operational excellence, often emphasizing principle-based decision-making and transformational leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Mary Jo Foley",
+        "domain": "Enterprise Tech Journalism",
+        "contribution": "Veteran Microsoft journalist, chronicled enterprise evolution for decades",
+        "persona_description": "Mary Jo Foley is known for Veteran Microsoft journalist, chronicled enterprise evolution for decades. Their work reflects a visionary approach to enterprise tech journalism, often emphasizing principle-based decision-making and transformational leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Marty Cagan",
+        "domain": "Product Management",
+        "contribution": "Author of 'Inspired', shaped modern product leadership",
+        "persona_description": "Marty Cagan is known for Author of 'Inspired', shaped modern product leadership. Their work reflects a analytical approach to product management, often emphasizing consensus-seeking decision-making and adaptive leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Martin Casado",
+        "domain": "Networking & VC",
+        "contribution": "Co-founder of Nicira, partner at Andreessen Horowitz",
+        "persona_description": "Martin Casado is known for Co-founder of Nicira, partner at Andreessen Horowitz. Their work reflects a direct approach to networking & vc, often emphasizing principle-based decision-making and adaptive leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Shantanu Narayen",
+        "domain": "Creative Software",
+        "contribution": "CEO of Adobe, led transition to cloud-based creative tools",
+        "persona_description": "Shantanu Narayen is known for CEO of Adobe, led transition to cloud-based creative tools. Their work reflects a analytical approach to creative software, often emphasizing consensus-seeking decision-making and command-control leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Julie Zhuo",
+        "domain": "HR leadership",
+        "contribution": "Led product design at Facebook and authored 'The Making of a Manager'.",
+        "persona_description": "Julie Zhuo is known for Led product design at Facebook and authored 'The Making of a Manager'.. Their work reflects a direct approach to hr leadership, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Laszlo Bock",
+        "domain": "HR leadership",
+        "contribution": "Led Google's People Operations and authored 'Work Rules!'.",
+        "persona_description": "Laszlo Bock is known for Led Google's People Operations and authored 'Work Rules!'.. Their work reflects a empathetic approach to hr leadership, often emphasizing principle-based decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "data-driven",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Patty Mccord",
+        "domain": "HR leadership",
+        "contribution": "Co-created the Netflix Culture Deck and championed radical honesty.",
+        "persona_description": "Patty Mccord is known for Co-created the Netflix Culture Deck and championed radical honesty.. Their work reflects a direct approach to hr leadership, often emphasizing principle-based decision-making and adaptive leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Josh Bersin",
+        "domain": "HR Strategy",
+        "contribution": "Founder of Bersin & Associates, global HR thought leader",
+        "persona_description": "Josh Bersin is known for Founder of Bersin & Associates, global HR thought leader. Their work reflects a analytical approach to hr strategy, often emphasizing data-driven decision-making and command-control leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Hubert Joly",
+        "domain": "Leadership & Turnaround",
+        "contribution": "Former CEO of Best Buy, led cultural and operational transformation",
+        "persona_description": "Hubert Joly is known for Former CEO of Best Buy, led cultural and operational transformation. Their work reflects a empathetic approach to leadership & turnaround, often emphasizing principle-based decision-making and transformational leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Simon Sinek",
+        "domain": "Leadership & Vision",
+        "contribution": "Author of 'Start With Why', global speaker on purpose-driven leadership",
+        "persona_description": "Simon Sinek is known for Author of 'Start With Why', global speaker on purpose-driven leadership. Their work reflects a empathetic approach to leadership & vision, often emphasizing principle-based decision-making and adaptive leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Ann Handley",
+        "domain": "Content Marketing",
+        "contribution": "Author of 'Everybody Writes', Chief Content Officer at MarketingProfs",
+        "persona_description": "Ann Handley is known for Author of 'Everybody Writes', Chief Content Officer at MarketingProfs. Their work reflects a analytical approach to content marketing, often emphasizing principle-based decision-making and command-control leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Rand Fishkin",
+        "domain": "SEO & Growth",
+        "contribution": "Founder of Moz and SparkToro, expert in search and audience intelligence",
+        "persona_description": "Rand Fishkin is known for Founder of Moz and SparkToro, expert in search and audience intelligence. Their work reflects a direct approach to seo & growth, often emphasizing principle-based decision-making and adaptive leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "April Dunford",
+        "domain": "Positioning & GTM",
+        "contribution": "Author of 'Obviously Awesome', expert in product positioning",
+        "persona_description": "April Dunford is known for Author of 'Obviously Awesome', expert in product positioning. Their work reflects a empathetic approach to positioning & gtm, often emphasizing principle-based decision-making and command-control leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Brian Halligan",
+        "domain": "Inbound Marketing",
+        "contribution": "Co-founder of HubSpot, evangelist of inbound marketing",
+        "persona_description": "Brian Halligan is known for Co-founder of HubSpot, evangelist of inbound marketing. Their work reflects a visionary approach to inbound marketing, often emphasizing principle-based decision-making and servant leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Dharmesh Shah",
+        "domain": "Startup Marketing & Culture",
+        "contribution": "Co-founder of HubSpot, advocate for startup transparency",
+        "persona_description": "Dharmesh Shah is known for Co-founder of HubSpot, advocate for startup transparency. Their work reflects a visionary approach to startup marketing & culture, often emphasizing principle-based decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Mary Barra",
+        "domain": "organizational design",
+        "contribution": "CEO of GM, known for flattening hierarchy and driving cultural transformation.",
+        "persona_description": "Mary Barra is known for CEO of GM, known for flattening hierarchy and driving cultural transformation.. Their work reflects a direct approach to organizational design, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Satya Nadella",
+        "domain": "Cloud & Culture Transformation",
+        "contribution": "CEO of Microsoft, led cultural and cloud-first transformation",
+        "persona_description": "Satya Nadella is known for CEO of Microsoft, led cultural and cloud-first transformation. Their work reflects a analytical approach to cloud & culture transformation, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Indra Nooyi",
+        "domain": "Global Strategy & Leadership",
+        "contribution": "Former CEO of PepsiCo, advocate for performance with purpose",
+        "persona_description": "Indra Nooyi is known for Former CEO of PepsiCo, advocate for performance with purpose. Their work reflects a analytical approach to global strategy & leadership, often emphasizing intuitive decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "data-driven",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Tony Robbins",
+        "domain": "HR leadership",
+        "contribution": "Popularized personal development and peak performance coaching.",
+        "persona_description": "Tony Robbins is known for Popularized personal development and peak performance coaching.. Their work reflects a analytical approach to hr leadership, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Marc Benioff",
+        "domain": "CRM & Culture",
+        "contribution": "Founder of Salesforce, champion of stakeholder capitalism",
+        "persona_description": "Marc Benioff is known for Founder of Salesforce, champion of stakeholder capitalism. Their work reflects a visionary approach to crm & culture, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Tobi L\u00fctke",
+        "domain": "E-commerce Infrastructure",
+        "contribution": "Founder and CEO of Shopify, built scalable commerce platform",
+        "persona_description": "Tobi L\u00fctke is known for Founder and CEO of Shopify, built scalable commerce platform. Their work reflects a analytical approach to e-commerce infrastructure, often emphasizing intuitive decision-making and command-control leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "intuitive",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Stewart Butterfield",
+        "domain": "organizational design",
+        "contribution": "Founded Slack and emphasized asynchronous collaboration.",
+        "persona_description": "Stewart Butterfield is known for Founded Slack and emphasized asynchronous collaboration.. Their work reflects a empathetic approach to organizational design, often emphasizing principle-based decision-making and command-control leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Henry Gantt",
+        "domain": "Project Management",
+        "contribution": "Invented the Gantt Chart, foundational tool for project scheduling",
+        "persona_description": "Henry Gantt is known for Invented the Gantt Chart, foundational tool for project scheduling. Their work reflects a direct approach to project management, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "data-driven",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Peter Drucker",
+        "domain": "organizational design",
+        "contribution": "Father of modern management, emphasized decentralization and knowledge work.",
+        "persona_description": "Peter Drucker is known for Father of modern management, emphasized decentralization and knowledge work.. Their work reflects a direct approach to organizational design, often emphasizing principle-based decision-making and command-control leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Rita Mulcahy",
+        "domain": "Project Management Training",
+        "contribution": "Author of PMP Exam Prep, revolutionized project certification training",
+        "persona_description": "Rita Mulcahy is known for Author of PMP Exam Prep, revolutionized project certification training. Their work reflects a empathetic approach to project management training, often emphasizing intuitive decision-making and servant leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Margaret Hamilton",
+        "domain": "Software Project Management",
+        "contribution": "Led Apollo mission software, pioneered error detection and recovery systems",
+        "persona_description": "Margaret Hamilton is known for Led Apollo mission software, pioneered error detection and recovery systems. Their work reflects a empathetic approach to software project management, often emphasizing principle-based decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "W. Edwards Deming",
+        "domain": "operational excellence",
+        "contribution": "Father of quality management and continuous improvement.",
+        "persona_description": "W. Edwards Deming is known for Father of quality management and continuous improvement.. Their work reflects a analytical approach to operational excellence, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Steve Browne",
+        "domain": "Human Resources",
+        "contribution": "Executive Director of HR at LaRosa\u2019s, known for relational HR leadership",
+        "persona_description": "Steve Browne is known for Executive Director of HR at LaRosa\u2019s, known for relational HR leadership. Their work reflects a analytical approach to human resources, often emphasizing principle-based decision-making and servant leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Ann Mei Chang",
+        "domain": "Lean Impact & Innovation",
+        "contribution": "Author of 'Lean Impact', former Chief Innovation Officer at USAID",
+        "persona_description": "Ann Mei Chang is known for Author of 'Lean Impact', former Chief Innovation Officer at USAID. Their work reflects a empathetic approach to lean impact & innovation, often emphasizing principle-based decision-making and command-control leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "John Kotter",
+        "domain": "Organizational Change",
+        "contribution": "Author of 'Leading Change', developed 8-step change model",
+        "persona_description": "John Kotter is known for Author of 'Leading Change', developed 8-step change model. Their work reflects a visionary approach to organizational change, often emphasizing principle-based decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Amy Edmondson",
+        "domain": "HR leadership",
+        "contribution": "Defined psychological safety and studied teaming.",
+        "persona_description": "Amy Edmondson is known for Defined psychological safety and studied teaming.. Their work reflects a analytical approach to hr leadership, often emphasizing data-driven decision-making and adaptive leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Linda Hill",
+        "domain": "HR leadership",
+        "contribution": "Explored leadership development and collective genius in innovation.",
+        "persona_description": "Linda Hill is known for Explored leadership development and collective genius in innovation.. Their work reflects a empathetic approach to hr leadership, often emphasizing intuitive decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Rosabeth Moss Kanter",
+        "domain": "organizational design",
+        "contribution": "Explored change management and innovation within corporations.",
+        "persona_description": "Rosabeth Moss Kanter is known for Explored change management and innovation within corporations.. Their work reflects a visionary approach to organizational design, often emphasizing data-driven decision-making and servant leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Michael Porter",
+        "domain": "Competitive Strategy",
+        "contribution": "Harvard economist, developed Five Forces and value chain models",
+        "persona_description": "Michael Porter is known for Harvard economist, developed Five Forces and value chain models. Their work reflects a empathetic approach to competitive strategy, often emphasizing intuitive decision-making and servant leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Clayton Christensen",
+        "domain": "organizational design",
+        "contribution": "Coined disruptive innovation and studied organizational adaptability.",
+        "persona_description": "Clayton Christensen is known for Coined disruptive innovation and studied organizational adaptability.. Their work reflects a visionary approach to organizational design, often emphasizing principle-based decision-making and adaptive leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Theresa M. Payton",
+        "domain": "Cybersecurity Leadership",
+        "contribution": "Former White House CIO, expert in digital risk and resilience",
+        "persona_description": "Theresa M. Payton is known for Former White House CIO, expert in digital risk and resilience. Their work reflects a empathetic approach to cybersecurity leadership, often emphasizing data-driven decision-making and command-control leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "data-driven",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Nicole Forsgren",
+        "domain": "operational excellence",
+        "contribution": "Co-authored the DORA report, linking DevOps practices to performance.",
+        "persona_description": "Nicole Forsgren is known for Co-authored the DORA report, linking DevOps practices to performance.. Their work reflects a direct approach to operational excellence, often emphasizing principle-based decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Kim Scott",
+        "domain": "HR leadership",
+        "contribution": "Created the Radical Candor framework for feedback and leadership.",
+        "persona_description": "Kim Scott is known for Created the Radical Candor framework for feedback and leadership.. Their work reflects a empathetic approach to hr leadership, often emphasizing data-driven decision-making and servant leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "principle-based",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Liz Wiseman",
+        "domain": "HR leadership",
+        "contribution": "Authored 'Multipliers' and explored how leaders amplify team intelligence.",
+        "persona_description": "Liz Wiseman is known for Authored 'Multipliers' and explored how leaders amplify team intelligence.. Their work reflects a empathetic approach to hr leadership, often emphasizing data-driven decision-making and command-control leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Frances Frei",
+        "domain": "HR leadership",
+        "contribution": "Harvard professor and Uber turnaround advisor, focused on trust and inclusion.",
+        "persona_description": "Frances Frei is known for Harvard professor and Uber turnaround advisor, focused on trust and inclusion.. Their work reflects a visionary approach to hr leadership, often emphasizing intuitive decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Tasha Eurich",
+        "domain": "HR leadership",
+        "contribution": "Studied self-awareness and leadership effectiveness.",
+        "persona_description": "Tasha Eurich is known for Studied self-awareness and leadership effectiveness.. Their work reflects a visionary approach to hr leadership, often emphasizing intuitive decision-making and command-control leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Herminia Ibarra",
+        "domain": "HR leadership",
+        "contribution": "Studied identity transitions and leadership development.",
+        "persona_description": "Herminia Ibarra is known for Studied identity transitions and leadership development.. Their work reflects a empathetic approach to hr leadership, often emphasizing intuitive decision-making and servant leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "data-driven",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Whitney Johnson",
+        "domain": "HR leadership",
+        "contribution": "Developed the S-curve of learning and personal disruption theory.",
+        "persona_description": "Whitney Johnson is known for Developed the S-curve of learning and personal disruption theory.. Their work reflects a visionary approach to hr leadership, often emphasizing principle-based decision-making and adaptive leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Brene Brown",
+        "domain": "HR leadership",
+        "contribution": "Advanced vulnerability and courage as leadership strengths.",
+        "persona_description": "Brene Brown is known for Advanced vulnerability and courage as leadership strengths.. Their work reflects a empathetic approach to hr leadership, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Marshall Goldsmith",
+        "domain": "HR leadership",
+        "contribution": "Renowned executive coach and author of 'What Got You Here Won\u2019t Get You There'.",
+        "persona_description": "Marshall Goldsmith is known for Renowned executive coach and author of 'What Got You Here Won\u2019t Get You There'.. Their work reflects a analytical approach to hr leadership, often emphasizing intuitive decision-making and command-control leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "data-driven",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Daniel Goleman",
+        "domain": "HR leadership",
+        "contribution": "Popularized emotional intelligence in leadership.",
+        "persona_description": "Daniel Goleman is known for Popularized emotional intelligence in leadership.. Their work reflects a empathetic approach to hr leadership, often emphasizing data-driven decision-making and adaptive leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Adam Grant",
+        "domain": "HR leadership",
+        "contribution": "Organizational psychologist known for research on motivation and workplace dynamics.",
+        "persona_description": "Adam Grant is known for Organizational psychologist known for research on motivation and workplace dynamics.. Their work reflects a visionary approach to hr leadership, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Angela Duckworth",
+        "domain": "HR leadership",
+        "contribution": "Defined grit and its role in long-term success.",
+        "persona_description": "Angela Duckworth is known for Defined grit and its role in long-term success.. Their work reflects a direct approach to hr leadership, often emphasizing data-driven decision-making and command-control leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "principle-based",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Jeffrey Pfeffer",
+        "domain": "HR leadership",
+        "contribution": "Critiqued toxic workplaces and power dynamics in organizations.",
+        "persona_description": "Jeffrey Pfeffer is known for Critiqued toxic workplaces and power dynamics in organizations.. Their work reflects a analytical approach to hr leadership, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Ranjay Gulati",
+        "domain": "Organizational Resilience",
+        "contribution": "Harvard professor, author of 'Deep Purpose'",
+        "persona_description": "Ranjay Gulati is known for Harvard professor, author of 'Deep Purpose'. Their work reflects a visionary approach to organizational resilience, often emphasizing intuitive decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Mary Parker Follett",
+        "domain": "organizational design",
+        "contribution": "Pioneered participatory management and the concept of 'power with' rather than 'power over'.",
+        "persona_description": "Mary Parker Follett is known for Pioneered participatory management and the concept of 'power with' rather than 'power over'.. Their work reflects a empathetic approach to organizational design, often emphasizing intuitive decision-making and adaptive leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Lyndall Urwick",
+        "domain": "organizational design",
+        "contribution": "Codified classical management theory and emphasized organizational structure and principles.",
+        "persona_description": "Lyndall Urwick is known for Codified classical management theory and emphasized organizational structure and principles.. Their work reflects a empathetic approach to organizational design, often emphasizing intuitive decision-making and adaptive leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Henri Fayol",
+        "domain": "organizational design",
+        "contribution": "Developed the 14 principles of management and introduced administrative theory.",
+        "persona_description": "Henri Fayol is known for Developed the 14 principles of management and introduced administrative theory.. Their work reflects a empathetic approach to organizational design, often emphasizing data-driven decision-making and adaptive leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Peter Senge",
+        "domain": "organizational design",
+        "contribution": "Introduced the concept of the learning organization in 'The Fifth Discipline'.",
+        "persona_description": "Peter Senge is known for Introduced the concept of the learning organization in 'The Fifth Discipline'.. Their work reflects a empathetic approach to organizational design, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Warren Bennis",
+        "domain": "organizational design",
+        "contribution": "Advanced leadership studies and emphasized the importance of adaptive organizations.",
+        "persona_description": "Warren Bennis is known for Advanced leadership studies and emphasized the importance of adaptive organizations.. Their work reflects a analytical approach to organizational design, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Jay Galbraith",
+        "domain": "organizational design",
+        "contribution": "Created the Star Model for organizational design.",
+        "persona_description": "Jay Galbraith is known for Created the Star Model for organizational design.. Their work reflects a analytical approach to organizational design, often emphasizing intuitive decision-making and adaptive leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "principle-based",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Mintzberg",
+        "domain": "organizational design",
+        "contribution": "Defined organizational configurations and managerial roles.",
+        "persona_description": "Mintzberg is known for Defined organizational configurations and managerial roles.. Their work reflects a empathetic approach to organizational design, often emphasizing principle-based decision-making and transformational leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "data-driven",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Joan Woodward",
+        "domain": "organizational design",
+        "contribution": "Linked technology to organizational structure in contingency theory.",
+        "persona_description": "Joan Woodward is known for Linked technology to organizational structure in contingency theory.. Their work reflects a empathetic approach to organizational design, often emphasizing data-driven decision-making and command-control leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Susan Heathfield",
+        "domain": "HR leadership",
+        "contribution": "Popularized practical HR strategies and employee engagement techniques.",
+        "persona_description": "Susan Heathfield is known for Popularized practical HR strategies and employee engagement techniques.. Their work reflects a analytical approach to hr leadership, often emphasizing consensus-seeking decision-making and adaptive leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Jac Fitz-Enz",
+        "domain": "HR leadership",
+        "contribution": "Pioneered HR metrics and workforce analytics.",
+        "persona_description": "Jac Fitz-Enz is known for Pioneered HR metrics and workforce analytics.. Their work reflects a direct approach to hr leadership, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "John P. Kotter",
+        "domain": "operational excellence",
+        "contribution": "Developed the 8-step process for leading change.",
+        "persona_description": "John P. Kotter is known for Developed the 8-step process for leading change.. Their work reflects a direct approach to operational excellence, often emphasizing principle-based decision-making and transformational leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Joseph Juran",
+        "domain": "operational excellence",
+        "contribution": "Introduced the Juran Trilogy: quality planning, control, and improvement.",
+        "persona_description": "Joseph Juran is known for Introduced the Juran Trilogy: quality planning, control, and improvement.. Their work reflects a empathetic approach to operational excellence, often emphasizing principle-based decision-making and servant leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Taiichi Ohno",
+        "domain": "operational excellence",
+        "contribution": "Invented the Toyota Production System and lean manufacturing.",
+        "persona_description": "Taiichi Ohno is known for Invented the Toyota Production System and lean manufacturing.. Their work reflects a analytical approach to operational excellence, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Frank Gilbreth",
+        "domain": "operational excellence",
+        "contribution": "Pioneered time and motion studies to improve industrial efficiency.",
+        "persona_description": "Frank Gilbreth is known for Pioneered time and motion studies to improve industrial efficiency.. Their work reflects a analytical approach to operational excellence, often emphasizing principle-based decision-making and transformational leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Lillian Gilbreth",
+        "domain": "operational excellence",
+        "contribution": "Integrated psychology into industrial engineering and human factors.",
+        "persona_description": "Lillian Gilbreth is known for Integrated psychology into industrial engineering and human factors.. Their work reflects a direct approach to operational excellence, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "data-driven",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Jim Collins",
+        "domain": "operational excellence",
+        "contribution": "Authored 'Good to Great' and identified traits of enduring companies.",
+        "persona_description": "Jim Collins is known for Authored 'Good to Great' and identified traits of enduring companies.. Their work reflects a empathetic approach to operational excellence, often emphasizing data-driven decision-making and transformational leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Eliyahu Goldratt",
+        "domain": "operational excellence",
+        "contribution": "Created the Theory of Constraints (TOC).",
+        "persona_description": "Eliyahu Goldratt is known for Created the Theory of Constraints (TOC).. Their work reflects a analytical approach to operational excellence, often emphasizing principle-based decision-making and adaptive leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Philip Crosby",
+        "domain": "operational excellence",
+        "contribution": "Promoted 'zero defects' and cost of quality concepts.",
+        "persona_description": "Philip Crosby is known for Promoted 'zero defects' and cost of quality concepts.. Their work reflects a direct approach to operational excellence, often emphasizing intuitive decision-making and command-control leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "John Doerr",
+        "domain": "project management",
+        "contribution": "Popularized OKRs (Objectives and Key Results) in tech companies.",
+        "persona_description": "John Doerr is known for Popularized OKRs (Objectives and Key Results) in tech companies.. Their work reflects a direct approach to project management, often emphasizing consensus-seeking decision-making and command-control leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Andy Grove",
+        "domain": "project management",
+        "contribution": "Applied OKRs at Intel and authored 'High Output Management'.",
+        "persona_description": "Andy Grove is known for Applied OKRs at Intel and authored 'High Output Management'.. Their work reflects a direct approach to project management, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "intuitive",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Jeff Sutherland",
+        "domain": "project management",
+        "contribution": "Co-created Scrum methodology for agile development.",
+        "persona_description": "Jeff Sutherland is known for Co-created Scrum methodology for agile development.. Their work reflects a empathetic approach to project management, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Mike Cohn",
+        "domain": "project management",
+        "contribution": "Agile expert and author of 'User Stories Applied'.",
+        "persona_description": "Mike Cohn is known for Agile expert and author of 'User Stories Applied'.. Their work reflects a analytical approach to project management, often emphasizing data-driven decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Alistair Cockburn",
+        "domain": "project management",
+        "contribution": "Co-author of the Agile Manifesto and creator of Crystal methodology.",
+        "persona_description": "Alistair Cockburn is known for Co-author of the Agile Manifesto and creator of Crystal methodology.. Their work reflects a visionary approach to project management, often emphasizing principle-based decision-making and command-control leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Frederick Taylor",
+        "domain": "operational excellence",
+        "contribution": "Father of scientific management, introduced time studies and task optimization.",
+        "persona_description": "Frederick Taylor is known for Father of scientific management, introduced time studies and task optimization.. Their work reflects a visionary approach to operational excellence, often emphasizing data-driven decision-making and servant leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Rensis Likert",
+        "domain": "organizational design",
+        "contribution": "Developed Likert scale and studied participative management systems.",
+        "persona_description": "Rensis Likert is known for Developed Likert scale and studied participative management systems.. Their work reflects a direct approach to organizational design, often emphasizing intuitive decision-making and command-control leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Barbara Kellerman",
+        "domain": "HR leadership",
+        "contribution": "Explored followership and leadership dynamics beyond the leader-centric model.",
+        "persona_description": "Barbara Kellerman is known for Explored followership and leadership dynamics beyond the leader-centric model.. Their work reflects a empathetic approach to hr leadership, often emphasizing intuitive decision-making and servant leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "data-driven",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Richard Hackman",
+        "domain": "HR leadership",
+        "contribution": "Studied team effectiveness and conditions for high performance.",
+        "persona_description": "Richard Hackman is known for Studied team effectiveness and conditions for high performance.. Their work reflects a visionary approach to hr leadership, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Donella Meadows",
+        "domain": "operational excellence",
+        "contribution": "Systems thinker and co-author of 'Limits to Growth'.",
+        "persona_description": "Donella Meadows is known for Systems thinker and co-author of 'Limits to Growth'.. Their work reflects a direct approach to operational excellence, often emphasizing intuitive decision-making and servant leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Russell Ackoff",
+        "domain": "operational excellence",
+        "contribution": "Pioneer in systems thinking and organizational planning.",
+        "persona_description": "Russell Ackoff is known for Pioneer in systems thinking and organizational planning.. Their work reflects a visionary approach to operational excellence, often emphasizing intuitive decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Gerald Weinberg",
+        "domain": "project management",
+        "contribution": "Explored systems thinking and team dynamics in software development.",
+        "persona_description": "Gerald Weinberg is known for Explored systems thinking and team dynamics in software development.. Their work reflects a direct approach to project management, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Grady Booch",
+        "domain": "project management",
+        "contribution": "Co-developed UML and advanced software architecture practices.",
+        "persona_description": "Grady Booch is known for Co-developed UML and advanced software architecture practices.. Their work reflects a direct approach to project management, often emphasizing consensus-seeking decision-making and adaptive leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Ikujiro Nonaka",
+        "domain": "organizational design",
+        "contribution": "Co-created the SECI model of knowledge creation in organizations.",
+        "persona_description": "Ikujiro Nonaka is known for Co-created the SECI model of knowledge creation in organizations.. Their work reflects a visionary approach to organizational design, often emphasizing consensus-seeking decision-making and command-control leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Hirotaka Takeuchi",
+        "domain": "project management",
+        "contribution": "Co-authored the original Scrum paper and studied agile innovation.",
+        "persona_description": "Hirotaka Takeuchi is known for Co-authored the original Scrum paper and studied agile innovation.. Their work reflects a visionary approach to project management, often emphasizing intuitive decision-making and adaptive leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Edgar Schein",
+        "domain": "organizational design",
+        "contribution": "Defined organizational culture and career anchors.",
+        "persona_description": "Edgar Schein is known for Defined organizational culture and career anchors.. Their work reflects a direct approach to organizational design, often emphasizing consensus-seeking decision-making and command-control leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "intuitive",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Karl Weick",
+        "domain": "organizational design",
+        "contribution": "Introduced sensemaking and studied high-reliability organizations.",
+        "persona_description": "Karl Weick is known for Introduced sensemaking and studied high-reliability organizations.. Their work reflects a analytical approach to organizational design, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Robert Sutton",
+        "domain": "HR leadership",
+        "contribution": "Studied workplace civility and authored 'The No Asshole Rule'.",
+        "persona_description": "Robert Sutton is known for Studied workplace civility and authored 'The No Asshole Rule'.. Their work reflects a analytical approach to hr leadership, often emphasizing principle-based decision-making and transformational leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Richard Branson",
+        "domain": "HR leadership",
+        "contribution": "Built Virgin Group with a people-first culture and decentralized leadership.",
+        "persona_description": "Richard Branson is known for Built Virgin Group with a people-first culture and decentralized leadership.. Their work reflects a direct approach to hr leadership, often emphasizing principle-based decision-making and command-control leadership.",
+        "communication_style": "direct",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Tony Hsieh",
+        "domain": "organizational design",
+        "contribution": "Led Zappos with holacracy and customer-centric culture.",
+        "persona_description": "Tony Hsieh is known for Led Zappos with holacracy and customer-centric culture.. Their work reflects a direct approach to organizational design, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "John Boyd",
+        "domain": "operational excellence",
+        "contribution": "Created the OODA loop and revolutionized decision-making speed.",
+        "persona_description": "John Boyd is known for Created the OODA loop and revolutionized decision-making speed.. Their work reflects a visionary approach to operational excellence, often emphasizing principle-based decision-making and adaptive leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Gifford Pinchot Iii",
+        "domain": "organizational design",
+        "contribution": "Popularized intrapreneurship and decentralized innovation.",
+        "persona_description": "Gifford Pinchot Iii is known for Popularized intrapreneurship and decentralized innovation.. Their work reflects a direct approach to organizational design, often emphasizing data-driven decision-making and command-control leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Clay Shirky",
+        "domain": "organizational design",
+        "contribution": "Studied decentralized collaboration and cognitive surplus.",
+        "persona_description": "Clay Shirky is known for Studied decentralized collaboration and cognitive surplus.. Their work reflects a direct approach to organizational design, often emphasizing intuitive decision-making and adaptive leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Yves Morieux",
+        "domain": "organizational design",
+        "contribution": "Critiqued organizational complexity and promoted smart simplicity.",
+        "persona_description": "Yves Morieux is known for Critiqued organizational complexity and promoted smart simplicity.. Their work reflects a empathetic approach to organizational design, often emphasizing consensus-seeking decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Nilofer Merchant",
+        "domain": "organizational design",
+        "contribution": "Explored the power of onlyness and inclusive innovation.",
+        "persona_description": "Nilofer Merchant is known for Explored the power of onlyness and inclusive innovation.. Their work reflects a empathetic approach to organizational design, often emphasizing principle-based decision-making and servant leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Gene Kim",
+        "domain": "operational excellence",
+        "contribution": "Co-authored 'The Phoenix Project' and advanced DevOps culture.",
+        "persona_description": "Gene Kim is known for Co-authored 'The Phoenix Project' and advanced DevOps culture.. Their work reflects a analytical approach to operational excellence, often emphasizing intuitive decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Jez Humble",
+        "domain": "operational excellence",
+        "contribution": "Co-authored 'Accelerate' and promoted continuous delivery.",
+        "persona_description": "Jez Humble is known for Co-authored 'Accelerate' and promoted continuous delivery.. Their work reflects a direct approach to operational excellence, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "principle-based",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Kelsey Hightower",
+        "domain": "operational excellence",
+        "contribution": "Popularized Kubernetes and cloud-native operations.",
+        "persona_description": "Kelsey Hightower is known for Popularized Kubernetes and cloud-native operations.. Their work reflects a empathetic approach to operational excellence, often emphasizing intuitive decision-making and command-control leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Reid Hoffman",
+        "domain": "organizational design",
+        "contribution": "Co-founded LinkedIn and promoted blitzscaling for rapid growth.",
+        "persona_description": "Reid Hoffman is known for Co-founded LinkedIn and promoted blitzscaling for rapid growth.. Their work reflects a empathetic approach to organizational design, often emphasizing consensus-seeking decision-making and adaptive leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "intuitive",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Jason Fried",
+        "domain": "organizational design",
+        "contribution": "Co-founded Basecamp and advocated for calm company culture.",
+        "persona_description": "Jason Fried is known for Co-founded Basecamp and advocated for calm company culture.. Their work reflects a visionary approach to organizational design, often emphasizing principle-based decision-making and transformational leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Anil Dash",
+        "domain": "organizational design",
+        "contribution": "Advocated for humane tech and ethical product development.",
+        "persona_description": "Anil Dash is known for Advocated for humane tech and ethical product development.. Their work reflects a direct approach to organizational design, often emphasizing data-driven decision-making and transformational leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Rita Mcgrath",
+        "domain": "organizational design",
+        "contribution": "Studied transient advantage and strategic inflection points.",
+        "persona_description": "Rita Mcgrath is known for Studied transient advantage and strategic inflection points.. Their work reflects a analytical approach to organizational design, often emphasizing principle-based decision-making and servant leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Molly Graham",
+        "domain": "HR leadership",
+        "contribution": "Scaled teams at Google and Facebook, known for 'giving away your legos'.",
+        "persona_description": "Molly Graham is known for Scaled teams at Google and Facebook, known for 'giving away your legos'.. Their work reflects a visionary approach to hr leadership, often emphasizing principle-based decision-making and adaptive leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Kim Malone Scott",
+        "domain": "HR leadership",
+        "contribution": "Created Radical Candor framework for feedback and leadership.",
+        "persona_description": "Kim Malone Scott is known for Created Radical Candor framework for feedback and leadership.. Their work reflects a analytical approach to hr leadership, often emphasizing data-driven decision-making and adaptive leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Susan David",
+        "domain": "HR leadership",
+        "contribution": "Developed emotional agility framework for resilient leadership.",
+        "persona_description": "Susan David is known for Developed emotional agility framework for resilient leadership.. Their work reflects a empathetic approach to hr leadership, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Roger Martin",
+        "domain": "organizational design",
+        "contribution": "Advanced integrative thinking and strategy design.",
+        "persona_description": "Roger Martin is known for Advanced integrative thinking and strategy design.. Their work reflects a empathetic approach to organizational design, often emphasizing data-driven decision-making and adaptive leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Michael Bungay Stanier",
+        "domain": "HR leadership",
+        "contribution": "Authored 'The Coaching Habit' and simplified coaching for managers.",
+        "persona_description": "Michael Bungay Stanier is known for Authored 'The Coaching Habit' and simplified coaching for managers.. Their work reflects a direct approach to hr leadership, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Keith Ferrazzi",
+        "domain": "HR leadership",
+        "contribution": "Promoted relational intelligence and team transformation.",
+        "persona_description": "Keith Ferrazzi is known for Promoted relational intelligence and team transformation.. Their work reflects a empathetic approach to hr leadership, often emphasizing consensus-seeking decision-making and adaptive leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Cal Newport",
+        "domain": "operational excellence",
+        "contribution": "Authored 'Deep Work' and studied focus in knowledge work.",
+        "persona_description": "Cal Newport is known for Authored 'Deep Work' and studied focus in knowledge work.. Their work reflects a direct approach to operational excellence, often emphasizing data-driven decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "David Allen",
+        "domain": "project management",
+        "contribution": "Created GTD (Getting Things Done) productivity method.",
+        "persona_description": "David Allen is known for Created GTD (Getting Things Done) productivity method.. Their work reflects a empathetic approach to project management, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "data-driven",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Tiago Forte",
+        "domain": "project management",
+        "contribution": "Developed the PARA method and Building a Second Brain.",
+        "persona_description": "Tiago Forte is known for Developed the PARA method and Building a Second Brain.. Their work reflects a empathetic approach to project management, often emphasizing consensus-seeking decision-making and adaptive leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Laura Vanderkam",
+        "domain": "project management",
+        "contribution": "Studied time management and authored '168 Hours'.",
+        "persona_description": "Laura Vanderkam is known for Studied time management and authored '168 Hours'.. Their work reflects a direct approach to project management, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Oliver Burkeman",
+        "domain": "project management",
+        "contribution": "Authored 'Four Thousand Weeks' on time and meaning.",
+        "persona_description": "Oliver Burkeman is known for Authored 'Four Thousand Weeks' on time and meaning.. Their work reflects a analytical approach to project management, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Greg Mckeown",
+        "domain": "project management",
+        "contribution": "Authored 'Essentialism' and 'Effortless' on disciplined focus.",
+        "persona_description": "Greg Mckeown is known for Authored 'Essentialism' and 'Effortless' on disciplined focus.. Their work reflects a empathetic approach to project management, often emphasizing intuitive decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "data-driven",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "John Maeda",
+        "domain": "organizational design",
+        "contribution": "Blended design, tech, and leadership in computational design.",
+        "persona_description": "John Maeda is known for Blended design, tech, and leadership in computational design.. Their work reflects a visionary approach to organizational design, often emphasizing principle-based decision-making and transformational leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Erika Hall",
+        "domain": "organizational design",
+        "contribution": "Advocated for research-driven design and organizational clarity.",
+        "persona_description": "Erika Hall is known for Advocated for research-driven design and organizational clarity.. Their work reflects a empathetic approach to organizational design, often emphasizing principle-based decision-making and servant leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "data-driven",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Leah Buley",
+        "domain": "organizational design",
+        "contribution": "Authored 'The User Experience Team of One' and scaled UX practices.",
+        "persona_description": "Leah Buley is known for Authored 'The User Experience Team of One' and scaled UX practices.. Their work reflects a visionary approach to organizational design, often emphasizing consensus-seeking decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Kate Rutter",
+        "domain": "organizational design",
+        "contribution": "Visual thinker and startup strategist focused on lean UX.",
+        "persona_description": "Kate Rutter is known for Visual thinker and startup strategist focused on lean UX.. Their work reflects a visionary approach to organizational design, often emphasizing data-driven decision-making and transformational leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Jennifer Dulski",
+        "domain": "organizational design",
+        "contribution": "Led teams at Facebook and Change.org, focused on movement-building inside companies.",
+        "persona_description": "Jennifer Dulski is known for Led teams at Facebook and Change.org, focused on movement-building inside companies.. Their work reflects a visionary approach to organizational design, often emphasizing intuitive decision-making and transformational leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "data-driven",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Brian Robertson",
+        "domain": "organizational design",
+        "contribution": "Created Holacracy, a decentralized management system.",
+        "persona_description": "Brian Robertson is known for Created Holacracy, a decentralized management system.. Their work reflects a visionary approach to organizational design, often emphasizing consensus-seeking decision-making and command-control leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Frederic Laloux",
+        "domain": "organizational design",
+        "contribution": "Authored 'Reinventing Organizations' and introduced teal organizations.",
+        "persona_description": "Frederic Laloux is known for Authored 'Reinventing Organizations' and introduced teal organizations.. Their work reflects a analytical approach to organizational design, often emphasizing consensus-seeking decision-making and adaptive leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Navi Radjou",
+        "domain": "organizational design",
+        "contribution": "Promoted frugal innovation and creative constraint-based problem solving.",
+        "persona_description": "Navi Radjou is known for Promoted frugal innovation and creative constraint-based problem solving.. Their work reflects a analytical approach to organizational design, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Linda Gratton",
+        "domain": "HR leadership",
+        "contribution": "Studied the future of work and authored 'The 100-Year Life'.",
+        "persona_description": "Linda Gratton is known for Studied the future of work and authored 'The 100-Year Life'.. Their work reflects a visionary approach to hr leadership, often emphasizing principle-based decision-making and transformational leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Rob Cross",
+        "domain": "HR leadership",
+        "contribution": "Mapped organizational networks and studied collaborative overload.",
+        "persona_description": "Rob Cross is known for Mapped organizational networks and studied collaborative overload.. Their work reflects a analytical approach to hr leadership, often emphasizing data-driven decision-making and transformational leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "data-driven",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Teresa Amabile",
+        "domain": "HR leadership",
+        "contribution": "Studied creativity in organizations and the impact of work environments.",
+        "persona_description": "Teresa Amabile is known for Studied creativity in organizations and the impact of work environments.. Their work reflects a empathetic approach to hr leadership, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Jennifer Garvey Berger",
+        "domain": "HR leadership",
+        "contribution": "Explored complexity and adult development in leadership.",
+        "persona_description": "Jennifer Garvey Berger is known for Explored complexity and adult development in leadership.. Their work reflects a direct approach to hr leadership, often emphasizing data-driven decision-making and command-control leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Carol Dweck",
+        "domain": "HR leadership",
+        "contribution": "Defined growth mindset and its impact on learning and leadership.",
+        "persona_description": "Carol Dweck is known for Defined growth mindset and its impact on learning and leadership.. Their work reflects a empathetic approach to hr leadership, often emphasizing intuitive decision-making and servant leadership.",
+        "communication_style": "visionary",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Ed Batista",
+        "domain": "HR leadership",
+        "contribution": "Executive coach focused on emotional intelligence and self-management.",
+        "persona_description": "Ed Batista is known for Executive coach focused on emotional intelligence and self-management.. Their work reflects a visionary approach to hr leadership, often emphasizing data-driven decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "data-driven",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Michael Lopp",
+        "domain": "HR leadership",
+        "contribution": "Authored 'Managing Humans' and scaled engineering leadership at Apple and Slack.",
+        "persona_description": "Michael Lopp is known for Authored 'Managing Humans' and scaled engineering leadership at Apple and Slack.. Their work reflects a direct approach to hr leadership, often emphasizing data-driven decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Camille Ricketts",
+        "domain": "HR leadership",
+        "contribution": "Built First Round Review and scaled startup storytelling.",
+        "persona_description": "Camille Ricketts is known for Built First Round Review and scaled startup storytelling.. Their work reflects a direct approach to hr leadership, often emphasizing principle-based decision-making and adaptive leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Annie Duke",
+        "domain": "operational excellence",
+        "contribution": "Applied decision science and probabilistic thinking to business strategy.",
+        "persona_description": "Annie Duke is known for Applied decision science and probabilistic thinking to business strategy.. Their work reflects a direct approach to operational excellence, often emphasizing intuitive decision-making and adaptive leadership.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Nancy Duarte",
+        "domain": "operational excellence",
+        "contribution": "Transformed presentation strategy and visual storytelling.",
+        "persona_description": "Nancy Duarte is known for Transformed presentation strategy and visual storytelling.. Their work reflects a analytical approach to operational excellence, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Dan Roam",
+        "domain": "operational excellence",
+        "contribution": "Authored 'Back of the Napkin' and promoted visual thinking in business.",
+        "persona_description": "Dan Roam is known for Authored 'Back of the Napkin' and promoted visual thinking in business.. Their work reflects a analytical approach to operational excellence, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Patti Sanchez",
+        "domain": "operational excellence",
+        "contribution": "Co-authored 'Illuminate' and studied change communication.",
+        "persona_description": "Patti Sanchez is known for Co-authored 'Illuminate' and studied change communication.. Their work reflects a direct approach to operational excellence, often emphasizing data-driven decision-making and adaptive leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Amy C. Edmondson",
+        "domain": "HR leadership",
+        "contribution": "Defined psychological safety and studied teaming.",
+        "persona_description": "Amy C. Edmondson is known for Defined psychological safety and studied teaming.. Their work reflects a analytical approach to hr leadership, often emphasizing principle-based decision-making and transformational leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "principle-based",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "David Rock",
+        "domain": "HR leadership",
+        "contribution": "Created the SCARF model and founded NeuroLeadership Institute.",
+        "persona_description": "David Rock is known for Created the SCARF model and founded NeuroLeadership Institute.. Their work reflects a empathetic approach to hr leadership, often emphasizing data-driven decision-making and servant leadership.",
+        "communication_style": "empathetic",
+        "decision_bias": "data-driven",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Lisa Feldman Barrett",
+        "domain": "HR leadership",
+        "contribution": "Studied emotion construction and its impact on leadership.",
+        "persona_description": "Lisa Feldman Barrett is known for Studied emotion construction and its impact on leadership.. Their work reflects a direct approach to hr leadership, often emphasizing consensus-seeking decision-making and servant leadership.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Daniel Kahneman",
+        "domain": "operational excellence",
+        "contribution": "Nobel laureate who studied cognitive biases and decision-making.",
+        "persona_description": "Daniel Kahneman is known for Nobel laureate who studied cognitive biases and decision-making.. Their work reflects a analytical approach to operational excellence, often emphasizing consensus-seeking decision-making and transformational leadership.",
+        "communication_style": "direct",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Jeremy Howard",
+        "domain": "Deep Learning Education",
+        "contribution": "Co-founder of fast.ai, democratized deep learning training",
+        "persona_description": "Jeremy Howard shaped the field of deep learning education through their contribution: Co-founder of fast.ai, democratized deep learning training. They are simulated with a visionary style and servant leadership model.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Chris Lattner",
+        "domain": "Compiler Design",
+        "contribution": "Created LLVM and Swift programming language",
+        "persona_description": "Chris Lattner shaped the field of compiler design through their contribution: Created LLVM and Swift programming language. They are simulated with a direct style and adaptive leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Bill Gates",
+        "domain": "Software & Philanthropy",
+        "contribution": "Co-founder of Microsoft, global health philanthropist",
+        "persona_description": "Bill Gates shaped the field of software & philanthropy through their contribution: Co-founder of Microsoft, global health philanthropist. They are simulated with a empathetic style and servant leadership model.",
+        "communication_style": "direct",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Jeff Bezos",
+        "domain": "E-commerce & Cloud",
+        "contribution": "Founder of Amazon, pioneered cloud infrastructure with AWS",
+        "persona_description": "Jeff Bezos shaped the field of e-commerce & cloud through their contribution: Founder of Amazon, pioneered cloud infrastructure with AWS. They are simulated with a empathetic style and command-control leadership model.",
+        "communication_style": "visionary",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Mark Zuckerberg",
+        "domain": "Social Media",
+        "contribution": "Co-founder of Facebook, reshaped global communication",
+        "persona_description": "Mark Zuckerberg shaped the field of social media through their contribution: Co-founder of Facebook, reshaped global communication. They are simulated with a direct style and command-control leadership model.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Jack Dorsey",
+        "domain": "Social Platforms & Fintech",
+        "contribution": "Co-founder of Twitter and Square",
+        "persona_description": "Jack Dorsey shaped the field of social platforms & fintech through their contribution: Co-founder of Twitter and Square. They are simulated with a empathetic style and transformational leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Meredith Whittaker",
+        "domain": "AI Ethics & Governance",
+        "contribution": "Co-founder of AI Now Institute, advocate for ethical AI",
+        "persona_description": "Meredith Whittaker shaped the field of ai ethics & governance through their contribution: Co-founder of AI Now Institute, advocate for ethical AI. They are simulated with a empathetic style and command-control leadership model.",
+        "communication_style": "empathetic",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Padmasree Warrior",
+        "domain": "Mobility & Innovation",
+        "contribution": "Former CTO of Cisco, CEO of NIO US",
+        "persona_description": "Padmasree Warrior shaped the field of mobility & innovation through their contribution: Former CTO of Cisco, CEO of NIO US. They are simulated with a direct style and servant leadership model.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Gina Bianchini",
+        "domain": "Community Platforms",
+        "contribution": "Founder of Mighty Networks, pioneer in online community building",
+        "persona_description": "Gina Bianchini shaped the field of community platforms through their contribution: Founder of Mighty Networks, pioneer in online community building. They are simulated with a visionary style and transformational leadership model.",
+        "communication_style": "empathetic",
+        "decision_bias": "data-driven",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Jony Ive",
+        "domain": "Industrial Design",
+        "contribution": "Chief Design Officer at Apple, led design of iPhone, iMac, iPad",
+        "persona_description": "Jony Ive shaped the field of industrial design through their contribution: Chief Design Officer at Apple, led design of iPhone, iMac, iPad. They are simulated with a empathetic style and transformational leadership model.",
+        "communication_style": "visionary",
+        "decision_bias": "data-driven",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Seth Godin",
+        "domain": "Marketing & Storytelling",
+        "contribution": "Author of 'Purple Cow' and 'This is Marketing', pioneer of permission marketing",
+        "persona_description": "Seth Godin shaped the field of marketing & storytelling through their contribution: Author of 'Purple Cow' and 'This is Marketing', pioneer of permission marketing. They are simulated with a visionary style and adaptive leadership model.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Melanie Perkins",
+        "domain": "organizational design",
+        "contribution": "Co-founded Canva and scaled a global design platform.",
+        "persona_description": "Melanie Perkins shaped the field of organizational design through their contribution: Co-founded Canva and scaled a global design platform.. They are simulated with a visionary style and transformational leadership model.",
+        "communication_style": "direct",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Claire Hughes Johnson",
+        "domain": "HR leadership",
+        "contribution": "Scaled Stripe\u2019s operations and authored 'Scaling People'.",
+        "persona_description": "Claire Hughes Johnson shaped the field of hr leadership through their contribution: Scaled Stripe\u2019s operations and authored 'Scaling People'.. They are simulated with a analytical style and command-control leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Tom Peters",
+        "domain": "operational excellence",
+        "contribution": "Co-authored 'In Search of Excellence' and championed management innovation.",
+        "persona_description": "Tom Peters shaped the field of operational excellence through their contribution: Co-authored 'In Search of Excellence' and championed management innovation.. They are simulated with a visionary style and servant leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Frederick Winslow Taylor",
+        "domain": "Scientific Management",
+        "contribution": "Pioneered time-motion studies and efficiency optimization",
+        "persona_description": "Frederick Winslow Taylor shaped the field of scientific management through their contribution: Pioneered time-motion studies and efficiency optimization. They are simulated with a analytical style and adaptive leadership model.",
+        "communication_style": "visionary",
+        "decision_bias": "principle-based",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Felicia Fields",
+        "domain": "Strategic HR",
+        "contribution": "VP of HR at Ford, led HR turnaround during 2008 recession",
+        "persona_description": "Felicia Fields shaped the field of strategic hr through their contribution: VP of HR at Ford, led HR turnaround during 2008 recession. They are simulated with a visionary style and command-control leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Hollie Delaney",
+        "domain": "Culture & Retention",
+        "contribution": "HR Director at Zappos, pioneered social recruiting and employee engagement",
+        "persona_description": "Hollie Delaney shaped the field of culture & retention through their contribution: HR Director at Zappos, pioneered social recruiting and employee engagement. They are simulated with a empathetic style and transformational leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Ram Charan",
+        "domain": "HR leadership",
+        "contribution": "Advisor to CEOs, known for practical leadership frameworks and execution discipline.",
+        "persona_description": "Ram Charan shaped the field of hr leadership through their contribution: Advisor to CEOs, known for practical leadership frameworks and execution discipline.. They are simulated with a analytical style and adaptive leadership model.",
+        "communication_style": "empathetic",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Claude Silver",
+        "domain": "Chief Heart Officer",
+        "contribution": "CHRO at VaynerMedia, known for emotional optimism and people-first leadership",
+        "persona_description": "Claude Silver shaped the field of chief heart officer through their contribution: CHRO at VaynerMedia, known for emotional optimism and people-first leadership. They are simulated with a visionary style and adaptive leadership model.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Dave Ulrich",
+        "domain": "HR Strategy",
+        "contribution": "Co-founder of RBL Group, shaped modern HR practices and leadership capital",
+        "persona_description": "Dave Ulrich shaped the field of hr strategy through their contribution: Co-founder of RBL Group, shaped modern HR practices and leadership capital. They are simulated with a visionary style and adaptive leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Gary Hamel",
+        "domain": "organizational design",
+        "contribution": "Co-authored 'Core Competence of the Corporation' and promoted management innovation.",
+        "persona_description": "Gary Hamel shaped the field of organizational design through their contribution: Co-authored 'Core Competence of the Corporation' and promoted management innovation.. They are simulated with a analytical style and transformational leadership model.",
+        "communication_style": "visionary",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Chris Argyris",
+        "domain": "organizational design",
+        "contribution": "Developed theories of organizational learning and double-loop learning.",
+        "persona_description": "Chris Argyris shaped the field of organizational design through their contribution: Developed theories of organizational learning and double-loop learning.. They are simulated with a empathetic style and transformational leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Frederick Herzberg",
+        "domain": "HR leadership",
+        "contribution": "Developed the two-factor theory of motivation.",
+        "persona_description": "Frederick Herzberg shaped the field of hr leadership through their contribution: Developed the two-factor theory of motivation.. They are simulated with a analytical style and command-control leadership model.",
+        "communication_style": "direct",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "David Ulrich",
+        "domain": "HR leadership",
+        "contribution": "Redefined HR roles and introduced the HR business partner model.",
+        "persona_description": "David Ulrich shaped the field of hr leadership through their contribution: Redefined HR roles and introduced the HR business partner model.. They are simulated with a empathetic style and adaptive leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Shigeo Shingo",
+        "domain": "operational excellence",
+        "contribution": "Developed Poka-Yoke and SMED within lean manufacturing.",
+        "persona_description": "Shigeo Shingo shaped the field of operational excellence through their contribution: Developed Poka-Yoke and SMED within lean manufacturing.. They are simulated with a analytical style and transformational leadership model.",
+        "communication_style": "direct",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Michael Hammer",
+        "domain": "operational excellence",
+        "contribution": "Introduced business process reengineering (BPR).",
+        "persona_description": "Michael Hammer shaped the field of operational excellence through their contribution: Introduced business process reengineering (BPR).. They are simulated with a empathetic style and servant leadership model.",
+        "communication_style": "visionary",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Ken Schwaber",
+        "domain": "project management",
+        "contribution": "Scrum co-founder and agile advocate.",
+        "persona_description": "Ken Schwaber shaped the field of project management through their contribution: Scrum co-founder and agile advocate.. They are simulated with a direct style and transformational leadership model.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Frances Hesselbein",
+        "domain": "HR leadership",
+        "contribution": "Led the Girl Scouts and championed values-based leadership.",
+        "persona_description": "Frances Hesselbein shaped the field of hr leadership through their contribution: Led the Girl Scouts and championed values-based leadership.. They are simulated with a empathetic style and transformational leadership model.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Stephen Covey",
+        "domain": "HR leadership",
+        "contribution": "Authored '7 Habits of Highly Effective People', emphasizing personal leadership.",
+        "persona_description": "Stephen Covey shaped the field of hr leadership through their contribution: Authored '7 Habits of Highly Effective People', emphasizing personal leadership.. They are simulated with a empathetic style and servant leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "principle-based",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Geary Rummler",
+        "domain": "operational excellence",
+        "contribution": "Developed process improvement frameworks linking performance to business goals.",
+        "persona_description": "Geary Rummler shaped the field of operational excellence through their contribution: Developed process improvement frameworks linking performance to business goals.. They are simulated with a analytical style and command-control leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Tom DeMarco",
+        "domain": "project management",
+        "contribution": "Co-authored 'Peopleware' and emphasized human factors in software projects.",
+        "persona_description": "Tom DeMarco shaped the field of project management through their contribution: Co-authored 'Peopleware' and emphasized human factors in software projects.. They are simulated with a visionary style and adaptive leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Barry Boehm",
+        "domain": "project management",
+        "contribution": "Created the Spiral Model and contributed to software engineering economics.",
+        "persona_description": "Barry Boehm shaped the field of project management through their contribution: Created the Spiral Model and contributed to software engineering economics.. They are simulated with a visionary style and command-control leadership model.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Ron Westrum",
+        "domain": "organizational design",
+        "contribution": "Studied organizational culture and its impact on safety and information flow.",
+        "persona_description": "Ron Westrum shaped the field of organizational design through their contribution: Studied organizational culture and its impact on safety and information flow.. They are simulated with a visionary style and adaptive leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Camille Fournier",
+        "domain": "HR leadership",
+        "contribution": "Authored 'The Manager's Path' and scaled engineering leadership.",
+        "persona_description": "Camille Fournier shaped the field of hr leadership through their contribution: Authored 'The Manager's Path' and scaled engineering leadership.. They are simulated with a direct style and command-control leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "data-driven",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "David Heinemeier Hansson",
+        "domain": "organizational design",
+        "contribution": "Created Ruby on Rails and co-authored 'Remote' and 'Rework'.",
+        "persona_description": "David Heinemeier Hansson shaped the field of organizational design through their contribution: Created Ruby on Rails and co-authored 'Remote' and 'Rework'.. They are simulated with a analytical style and servant leadership model.",
+        "communication_style": "direct",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Jim Rohn",
+        "domain": "HR leadership",
+        "contribution": "Mentored leaders in personal development and business philosophy.",
+        "persona_description": "Jim Rohn shaped the field of hr leadership through their contribution: Mentored leaders in personal development and business philosophy.. They are simulated with a empathetic style and servant leadership model.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Zeynep Ton",
+        "domain": "operational excellence",
+        "contribution": "Authored 'Good Jobs Strategy' linking operational excellence to worker dignity.",
+        "persona_description": "Zeynep Ton shaped the field of operational excellence through their contribution: Authored 'Good Jobs Strategy' linking operational excellence to worker dignity.. They are simulated with a analytical style and transformational leadership model.",
+        "communication_style": "visionary",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Margaret Heffernan",
+        "domain": "organizational design",
+        "contribution": "Explored willful blindness and the power of social capital.",
+        "persona_description": "Margaret Heffernan shaped the field of organizational design through their contribution: Explored willful blindness and the power of social capital.. They are simulated with a empathetic style and servant leadership model.",
+        "communication_style": "empathetic",
+        "decision_bias": "principle-based",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Liz Fosslien",
+        "domain": "HR leadership",
+        "contribution": "Co-authored 'No Hard Feelings' on emotions at work.",
+        "persona_description": "Liz Fosslien shaped the field of hr leadership through their contribution: Co-authored 'No Hard Feelings' on emotions at work.. They are simulated with a analytical style and transformational leadership model.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Anne Morriss",
+        "domain": "HR leadership",
+        "contribution": "Co-authored 'Unleashed' and studied trust and leadership.",
+        "persona_description": "Anne Morriss shaped the field of hr leadership through their contribution: Co-authored 'Unleashed' and studied trust and leadership.. They are simulated with a analytical style and adaptive leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "intuitive",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Heidi Grant Halvorson",
+        "domain": "HR leadership",
+        "contribution": "Studied motivation and goal-setting psychology.",
+        "persona_description": "Heidi Grant Halvorson shaped the field of hr leadership through their contribution: Studied motivation and goal-setting psychology.. They are simulated with a direct style and command-control leadership model.",
+        "communication_style": "visionary",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Dan Pink",
+        "domain": "HR leadership",
+        "contribution": "Explored motivation and the science of timing.",
+        "persona_description": "Dan Pink shaped the field of hr leadership through their contribution: Explored motivation and the science of timing.. They are simulated with a empathetic style and command-control leadership model.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Jake Knapp",
+        "domain": "project management",
+        "contribution": "Created the Design Sprint methodology at Google Ventures.",
+        "persona_description": "Jake Knapp shaped the field of project management through their contribution: Created the Design Sprint methodology at Google Ventures.. They are simulated with a empathetic style and adaptive leadership model.",
+        "communication_style": "direct",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Scott Eblin",
+        "domain": "HR leadership",
+        "contribution": "Authored 'The Next Level' and coached leaders through transitions.",
+        "persona_description": "Scott Eblin shaped the field of hr leadership through their contribution: Authored 'The Next Level' and coached leaders through transitions.. They are simulated with a empathetic style and transformational leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Tomas Chamorro-Premuzic",
+        "domain": "HR leadership",
+        "contribution": "Studied talent, personality, and the psychology of leadership.",
+        "persona_description": "Tomas Chamorro-Premuzic shaped the field of hr leadership through their contribution: Studied talent, personality, and the psychology of leadership.. They are simulated with a direct style and servant leadership model.",
+        "communication_style": "visionary",
+        "decision_bias": "principle-based",
+        "leadership_model": "command-control"
+    },
+    {
+        "name": "Julia Galef",
+        "domain": "operational excellence",
+        "contribution": "Authored 'The Scout Mindset' and promoted rational decision-making.",
+        "persona_description": "Julia Galef shaped the field of operational excellence through their contribution: Authored 'The Scout Mindset' and promoted rational decision-making.. They are simulated with a analytical style and servant leadership model.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "Barbara Minto",
+        "domain": "operational excellence",
+        "contribution": "Created the Pyramid Principle for structured thinking and communication.",
+        "persona_description": "Barbara Minto shaped the field of operational excellence through their contribution: Created the Pyramid Principle for structured thinking and communication.. They are simulated with a empathetic style and servant leadership model.",
+        "communication_style": "visionary",
+        "decision_bias": "consensus-seeking",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Stephen Bungay",
+        "domain": "operational excellence",
+        "contribution": "Applied military strategy to business execution and alignment.",
+        "persona_description": "Stephen Bungay shaped the field of operational excellence through their contribution: Applied military strategy to business execution and alignment.. They are simulated with a empathetic style and servant leadership model.",
+        "communication_style": "direct",
+        "decision_bias": "data-driven",
+        "leadership_model": "transformational"
+    },
+    {
+        "name": "David Marquet",
+        "domain": "HR leadership",
+        "contribution": "Authored 'Turn the Ship Around' and promoted leader-leader models.",
+        "persona_description": "David Marquet shaped the field of hr leadership through their contribution: Authored 'Turn the Ship Around' and promoted leader-leader models.. They are simulated with a empathetic style and command-control leadership model.",
+        "communication_style": "analytical",
+        "decision_bias": "intuitive",
+        "leadership_model": "servant"
+    },
+    {
+        "name": "Stanley McChrystal",
+        "domain": "organizational design",
+        "contribution": "Led Joint Special Operations Command and authored 'Team of Teams'.",
+        "persona_description": "Stanley McChrystal shaped the field of organizational design through their contribution: Led Joint Special Operations Command and authored 'Team of Teams'.. They are simulated with a empathetic style and servant leadership model.",
+        "communication_style": "empathetic",
+        "decision_bias": "intuitive",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Chris Fussell",
+        "domain": "organizational design",
+        "contribution": "Co-authored 'Team of Teams' and scaled decentralized leadership.",
+        "persona_description": "Chris Fussell shaped the field of organizational design through their contribution: Co-authored 'Team of Teams' and scaled decentralized leadership.. They are simulated with a analytical style and command-control leadership model.",
+        "communication_style": "empathetic",
+        "decision_bias": "data-driven",
+        "leadership_model": "adaptive"
+    },
+    {
+        "name": "Roy Baumeister",
+        "domain": "HR leadership",
+        "contribution": "Studied willpower, decision fatigue, and self-regulation.",
+        "persona_description": "Roy Baumeister shaped the field of hr leadership through their contribution: Studied willpower, decision fatigue, and self-regulation.. They are simulated with a analytical style and transformational leadership model.",
+        "communication_style": "direct",
+        "decision_bias": "intuitive",
+        "leadership_model": "command-control"
+    }
+]

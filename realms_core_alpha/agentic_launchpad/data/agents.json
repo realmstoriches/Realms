@@ -1,0 +1,1978 @@
+[
+    {
+        "name": "Ada Lovelace",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Alan Turing",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Claude Shannon",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Grace Hopper",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Steve Jobs",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Tim Berners-Lee",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Linus Torvalds",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Barbara Liskov",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Donald Knuth",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Radia Perlman",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Fei-Fei Li",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Anne Wojcicki",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Ben Silbermann",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Kara Swisher",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Michael Krigsman",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Hamilton Mann",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Sam Altman",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Ilya Sutskever",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Geoffrey Hinton",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Yoshua Bengio",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Marissa Mayer",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Mitchell Baker",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Kent Beck",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Martin Fowler",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "James Gosling",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Guido van Rossum",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Brendan Eich",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Bjarne Stroustrup",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Yukihiro Matsumoto",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Anders Hejlsberg",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Jeff Dean",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Ian Goodfellow",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Jeremy Howard",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Chris Lattner",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "John Carmack",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Sal Khan",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Susan Wojcicki",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Melanie Mitchell",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Lex Fridman",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Sebastian Thrun",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Bill Gates",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Jeff Bezos",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Mark Zuckerberg",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Jack Dorsey",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Antonio Neri",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Neil Gunther",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Meredith Whittaker",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Sundar Pichai",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Brian Chesky",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Drew Houston",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Daniel Ek",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Whitney Wolfe Herd",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Reshma Saujani",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Melinda French Gates",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Reed Hastings",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Marc Andreessen",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Ben Horowitz",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Naval Ravikant",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Patrick Collison",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "John Collison",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Diane Greene",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Safra Catz",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Ginni Rometty",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Meg Whitman",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Padmasree Warrior",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Tristan Harris",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Gina Bianchini",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Jony Ive",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Don Norman",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Mary Jo Foley",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Marty Cagan",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Martin Casado",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Shantanu Narayen",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Julie Zhuo",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Laszlo Bock",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Patty McCord",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Josh Bersin",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Hubert Joly",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Simon Sinek",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Seth Godin",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Ann Handley",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Rand Fishkin",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "April Dunford",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Brian Halligan",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Dharmesh Shah",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Mary Barra",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Satya Nadella",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Indra Nooyi",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Tony Robbins",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Marc Benioff",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Melanie Perkins",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Tobi L\u00fctke",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Stewart Butterfield",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Claire Hughes Johnson",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Henry Gantt",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Peter Drucker",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Rita Mulcahy",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Tom Peters",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Margaret Hamilton",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "W. Edwards Deming",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Frederick Winslow Taylor",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Steve Browne",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Felicia Fields",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Hollie Delaney",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Ann Mei Chang",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "John Kotter",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Amy Edmondson",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Linda Hill",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Rosabeth Moss Kanter",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Michael Porter",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Clayton Christensen",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Theresa M. Payton",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Nicole Forsgren",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Kim Scott",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Ram Charan",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Liz Wiseman",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Frances Frei",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Tasha Eurich",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Herminia Ibarra",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Whitney Johnson",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Claude Silver",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Dave Ulrich",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Brene Brown",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Marshall Goldsmith",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Daniel Goleman",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Adam Grant",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Angela Duckworth",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Jeffrey Pfeffer",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Gary Hamel",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Ranjay Gulati",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Mary Parker Follett",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Lyndall Urwick",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Henri Fayol",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Peter Senge",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Chris Argyris",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Warren Bennis",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Jay Galbraith",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Mintzberg",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Joan Woodward",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Frederick Herzberg",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "David Ulrich",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Susan Heathfield",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Jac Fitz-enz",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "John P. Kotter",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Joseph Juran",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Taiichi Ohno",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Frank Gilbreth",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Lillian Gilbreth",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Shigeo Shingo",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Michael Hammer",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Jim Collins",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Eliyahu Goldratt",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Philip Crosby",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "John Doerr",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Andy Grove",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Jeff Sutherland",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Ken Schwaber",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Mike Cohn",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Alistair Cockburn",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Frederick Taylor",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Rensis Likert",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Barbara Kellerman",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Frances Hesselbein",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Richard Hackman",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Stephen Covey",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Donella Meadows",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Russell Ackoff",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Geary Rummler",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Tom DeMarco",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Barry Boehm",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Gerald Weinberg",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Grady Booch",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Ikujiro Nonaka",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Hirotaka Takeuchi",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Edgar Schein",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Karl Weick",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Robert Sutton",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Richard Branson",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Tony Hsieh",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "John Boyd",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Gifford Pinchot III",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Clay Shirky",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Yves Morieux",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Nilofer Merchant",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Ron Westrum",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Gene Kim",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Jez Humble",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Kelsey Hightower",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Camille Fournier",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Reid Hoffman",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Jason Fried",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "David Heinemeier Hansson",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Jim Rohn",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Zeynep Ton",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Anil Dash",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Margaret Heffernan",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Rita McGrath",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Liz Fosslien",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Molly Graham",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Anne Morriss",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Kim Malone Scott",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Heidi Grant Halvorson",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Susan David",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Roger Martin",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Michael Bungay Stanier",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Keith Ferrazzi",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Dan Pink",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Cal Newport",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "David Allen",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Tiago Forte",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Laura Vanderkam",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Oliver Burkeman",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Greg McKeown",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Jake Knapp",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "John Maeda",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Erika Hall",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Leah Buley",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Kate Rutter",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Jennifer Dulski",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Brian Robertson",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Frederic Laloux",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Navi Radjou",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Linda Gratton",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Rob Cross",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Teresa Amabile",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Scott Eblin",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Jennifer Garvey Berger",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Carol Dweck",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Ed Batista",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Michael Lopp",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Camille Ricketts",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    },
+    {
+        "name": "Tomas Chamorro-Premuzic",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Annie Duke",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Julia Galef",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Barbara Minto",
+        "role_title": "UI Designer",
+        "crew": "Crew_Design_UIDesigner",
+        "team": "Design",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Nancy Duarte",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Dan Roam",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "Patti Sanchez",
+        "role_title": "Ops Coordinator",
+        "crew": "Crew_Operations_OpsCoordinator",
+        "team": "Operations",
+        "department": "Execution",
+        "fallback_for": []
+    },
+    {
+        "name": "Stephen Bungay",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "David Marquet",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Stanley McChrystal",
+        "role_title": "Frontend Engineer",
+        "crew": "Crew_Engineering_FrontendEngineer",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Chris Fussell",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Amy C. Edmondson",
+        "role_title": "Product Lead",
+        "crew": "Crew_Product_ProductLead",
+        "team": "Product",
+        "department": "Product",
+        "fallback_for": []
+    },
+    {
+        "name": "David Rock",
+        "role_title": "QA Analyst",
+        "crew": "Crew_Quality_QAAnalyst",
+        "team": "Quality",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Lisa Feldman Barrett",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Roy Baumeister",
+        "role_title": "Systems Architect",
+        "crew": "Crew_Engineering_SystemsArchitect",
+        "team": "Engineering",
+        "department": "Technology",
+        "fallback_for": []
+    },
+    {
+        "name": "Daniel Kahneman",
+        "role_title": "Strategic PM",
+        "crew": "Crew_Leadership_StrategicPM",
+        "team": "Leadership",
+        "department": "Strategy",
+        "fallback_for": []
+    }
+]

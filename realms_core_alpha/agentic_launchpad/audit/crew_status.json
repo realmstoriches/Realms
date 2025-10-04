@@ -1,0 +1,6 @@
+{
+  "crew": "Crew_Alpha_001",
+  "agents": ["Ada Lovelace", "Alan Turing", "Grace Hopper"],
+  "mission_id": "launch_001",
+  "status": "active"
+}

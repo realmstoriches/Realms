@@ -1,0 +1,30 @@
+{
+  "brand": "Realms to Riches",
+  "mission": "Build a sovereign, operationally independent outreach and monetization engine that scales globally and preserves founder sovereignty.",
+  "content_strategy": {
+    "frequency": "5 posts per day",
+    "channels": ["WordPress blog", "LinkedIn", "Facebook"],
+    "themes": [
+      "founder independence",
+      "agentic automation",
+      "financial sovereignty",
+      "AI-powered workflows",
+      "modular business systems"
+    ]
+  },
+  "monetization": {
+    "methods": ["affiliate links", "lead magnets", "consulting funnels", "premium content"],
+    "cta": "Join the Realms movement. Build your own cognitive empire."
+  },
+  "infrastructure": {
+    "blog_subdomain": "https://blog.realmstoriches.xyz",
+    "host": "Vercel",
+    "content_repo": "https://github.com/realmstoriches/realms-content-engine"
+  },
+  "automation": {
+    "platform": "Make.com",
+    "trigger": "Webhook",
+    "fallbacks": true,
+    "maintenance": "daily audit and refresh"
+  }
+}

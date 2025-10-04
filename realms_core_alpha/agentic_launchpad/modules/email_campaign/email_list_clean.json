@@ -1,0 +1,12 @@
+[
+  {
+    "email": "founder@example.com",
+    "source": "startup directory",
+    "consent": true
+  },
+  {
+    "email": "ceo@techhub.com",
+    "source": "public profile",
+    "consent": true
+  }
+]

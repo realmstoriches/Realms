@@ -1,0 +1,344 @@
+[
+    {
+        "department": "Executive Leadership",
+        "role": "CEO",
+        "agent_id": "254536a3",
+        "agent_name": "Mary Barra",
+        "crew": "Unassigned",
+        "status": "active",
+        "profile_url": "https://realms.ai/agents/254536a3"
+    },
+    {
+        "department": "Executive Leadership",
+        "role": "CTO",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Executive Leadership",
+        "role": "COO",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Engineering",
+        "role": "Frontend Engineer",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Engineering",
+        "role": "Backend Engineer",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Engineering",
+        "role": "API Architect",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Engineering",
+        "role": "AI Integration Engineer",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Data Science & ML",
+        "role": "ML Engineer",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Data Science & ML",
+        "role": "Data Scientist",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Data Science & ML",
+        "role": "NLP Specialist",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Data Science & ML",
+        "role": "Computer Vision Lead",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Product Management",
+        "role": "Head of Product",
+        "agent_id": "1e871c02",
+        "agent_name": "Marty Cagan",
+        "crew": "Unassigned",
+        "status": "active",
+        "profile_url": "https://realms.ai/agents/1e871c02"
+    },
+    {
+        "department": "Product Management",
+        "role": "Technical PM",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Product Management",
+        "role": "Strategic PM",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Design & UX",
+        "role": "UX Director",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Design & UX",
+        "role": "UI Designer",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Design & UX",
+        "role": "User Researcher",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Quality Assurance",
+        "role": "QA Lead",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Quality Assurance",
+        "role": "Automation Tester",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Quality Assurance",
+        "role": "Manual Tester",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "DevOps & Infrastructure",
+        "role": "DevOps Lead",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "DevOps & Infrastructure",
+        "role": "Cloud Engineer",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "DevOps & Infrastructure",
+        "role": "CI/CD Specialist",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Security & Compliance",
+        "role": "CISO",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Security & Compliance",
+        "role": "Security Engineer",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Security & Compliance",
+        "role": "Risk Analyst",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "People & Culture",
+        "role": "HR Director",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "People & Culture",
+        "role": "Recruiter",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "People & Culture",
+        "role": "Culture Ops",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Finance & Legal",
+        "role": "CFO",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Finance & Legal",
+        "role": "Legal Counsel",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Finance & Legal",
+        "role": "Compliance Officer",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Sales & Partnerships",
+        "role": "CRO",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Sales & Partnerships",
+        "role": "Account Exec",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Sales & Partnerships",
+        "role": "Business Dev Manager",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Marketing & Growth",
+        "role": "CMO",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Marketing & Growth",
+        "role": "Growth Hacker",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    },
+    {
+        "department": "Marketing & Growth",
+        "role": "Content Strategist",
+        "agent_id": "null",
+        "agent_name": "Unassigned",
+        "crew": "Unassigned",
+        "status": "unassigned",
+        "profile_url": "https://realms.ai/agents/null"
+    }
+]

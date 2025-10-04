@@ -1,0 +1,17 @@
+pantheon_env/
+__pycache__/
+*.log
+*.tmp
+*.pyc
+*.DS_Store
+node_modules/
+*.lnk
+*.env
+*.env.txt
+*AGENTIC_API_KEY=realms_live_key_100.txt
+
+*.env.*
+*.txt
+*.env
+*.env.*
+*.txt

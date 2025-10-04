@@ -1,0 +1,4 @@
+{
+  "data": ["agents.json", "crews.json", "fallbacks.json", "personas.json", "domains.json"],
+  "output/real_packets": ["real_packet_*.json"]
+}

@@ -1,0 +1,25 @@
+{
+  "payment_links": {
+    "count": 18,
+    "latest": "https://buy.stripe.com/28E3cvdFk1Dbgvh3sigfu0f"
+  },
+  "cta_status": {
+    "posts_today": 3,
+    "cta_injected": 3
+  },
+  "agents": {
+    "manifest_loaded": true,
+    "active_roles": "Loaded"
+  },
+  "log_summary": {
+    "last_run": "master_log_20250929_2058.log",
+    "errors": 21,
+    "recoveries": 0,
+    "successes": 0
+  },
+  "forecast": {
+    "estimated_first_transaction": "Within 48 hours",
+    "syndication_triggered": "Pending",
+    "revenue_window": "2\u20137 days post-transaction"
+  }
+}

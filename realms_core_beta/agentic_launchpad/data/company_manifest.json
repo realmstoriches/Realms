@@ -1,0 +1,2483 @@
+{
+    "crews": [
+        {
+            "crew_name": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "crew_name": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "crew_name": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "crew_name": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "crew_name": "Crew_Product_ProductLead"
+        },
+        {
+            "crew_name": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "crew_name": "Crew_Design_UIDesigner"
+        },
+        {
+            "crew_name": "FallbackCrew_StrategicPM"
+        },
+        {
+            "crew_name": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "crew_name": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "crew_name": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "crew_name": "FallbackCrew_ProductLead"
+        },
+        {
+            "crew_name": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "crew_name": "FallbackCrew_UIDesigner"
+        }
+    ],
+    "expanded_roles": [
+        {
+            "agent_name": "Ada Lovelace",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Alan Turing",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Claude Shannon",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Grace Hopper",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Steve Jobs",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Tim Berners-Lee",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Linus Torvalds",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Barbara Liskov",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Donald Knuth",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Radia Perlman",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Fei-Fei Li",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Anne Wojcicki",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Ben Silbermann",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Kara Swisher",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Michael Krigsman",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Hamilton Mann",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Sam Altman",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Ilya Sutskever",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Geoffrey Hinton",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Yoshua Bengio",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Marissa Mayer",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Mitchell Baker",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Kent Beck",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Martin Fowler",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "James Gosling",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Guido van Rossum",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Brendan Eich",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Bjarne Stroustrup",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Yukihiro Matsumoto",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Anders Hejlsberg",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Jeff Dean",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Ian Goodfellow",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Jeremy Howard",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Chris Lattner",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "John Carmack",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Sal Khan",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Susan Wojcicki",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Melanie Mitchell",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Lex Fridman",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Sebastian Thrun",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Bill Gates",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Jeff Bezos",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Mark Zuckerberg",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Jack Dorsey",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Antonio Neri",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Neil Gunther",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Meredith Whittaker",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Sundar Pichai",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Brian Chesky",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Drew Houston",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Daniel Ek",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Whitney Wolfe Herd",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Reshma Saujani",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Melinda French Gates",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Reed Hastings",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Marc Andreessen",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Ben Horowitz",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Naval Ravikant",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Patrick Collison",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "John Collison",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Diane Greene",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Safra Catz",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Ginni Rometty",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Meg Whitman",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Padmasree Warrior",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Tristan Harris",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Gina Bianchini",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Jony Ive",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Don Norman",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Mary Jo Foley",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Marty Cagan",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Martin Casado",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Shantanu Narayen",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Julie Zhuo",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Laszlo Bock",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Patty McCord",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Josh Bersin",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Hubert Joly",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Simon Sinek",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Seth Godin",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Ann Handley",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Rand Fishkin",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "April Dunford",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Brian Halligan",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Dharmesh Shah",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Mary Barra",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Satya Nadella",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Indra Nooyi",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Tony Robbins",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Marc Benioff",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Melanie Perkins",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Tobi L\u00fctke",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Stewart Butterfield",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Claire Hughes Johnson",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Henry Gantt",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Peter Drucker",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Rita Mulcahy",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Tom Peters",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Margaret Hamilton",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "W. Edwards Deming",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Frederick Winslow Taylor",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Steve Browne",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Felicia Fields",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Hollie Delaney",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Ann Mei Chang",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "John Kotter",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Amy Edmondson",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Linda Hill",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Rosabeth Moss Kanter",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Michael Porter",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Clayton Christensen",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Theresa M. Payton",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Nicole Forsgren",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Kim Scott",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Ram Charan",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Liz Wiseman",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Frances Frei",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Tasha Eurich",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Herminia Ibarra",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Whitney Johnson",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Claude Silver",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Dave Ulrich",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Brene Brown",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Marshall Goldsmith",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Daniel Goleman",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Adam Grant",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Angela Duckworth",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Jeffrey Pfeffer",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Gary Hamel",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Ranjay Gulati",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Mary Parker Follett",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Lyndall Urwick",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Henri Fayol",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Peter Senge",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Chris Argyris",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Warren Bennis",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Jay Galbraith",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Mintzberg",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Joan Woodward",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Frederick Herzberg",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "David Ulrich",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Susan Heathfield",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Jac Fitz-enz",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "John P. Kotter",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Joseph Juran",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Taiichi Ohno",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Frank Gilbreth",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Lillian Gilbreth",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Shigeo Shingo",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Michael Hammer",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Jim Collins",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Eliyahu Goldratt",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Philip Crosby",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "John Doerr",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Andy Grove",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Jeff Sutherland",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Ken Schwaber",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Mike Cohn",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Alistair Cockburn",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Frederick Taylor",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Rensis Likert",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Barbara Kellerman",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Frances Hesselbein",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Richard Hackman",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Stephen Covey",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Donella Meadows",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Russell Ackoff",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Geary Rummler",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Tom DeMarco",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Barry Boehm",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Gerald Weinberg",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Grady Booch",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Ikujiro Nonaka",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Hirotaka Takeuchi",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Edgar Schein",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Karl Weick",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Robert Sutton",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Richard Branson",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Tony Hsieh",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "John Boyd",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Gifford Pinchot III",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Clay Shirky",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Yves Morieux",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Nilofer Merchant",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Ron Westrum",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Gene Kim",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Jez Humble",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Kelsey Hightower",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Camille Fournier",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Reid Hoffman",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Jason Fried",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "David Heinemeier Hansson",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Jim Rohn",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Zeynep Ton",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Anil Dash",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Margaret Heffernan",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Rita McGrath",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Liz Fosslien",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Molly Graham",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Anne Morriss",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Kim Malone Scott",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Heidi Grant Halvorson",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Susan David",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Roger Martin",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Michael Bungay Stanier",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Keith Ferrazzi",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Dan Pink",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Cal Newport",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "David Allen",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Tiago Forte",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Laura Vanderkam",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Oliver Burkeman",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Greg McKeown",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Jake Knapp",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "John Maeda",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Erika Hall",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Leah Buley",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Kate Rutter",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Jennifer Dulski",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Brian Robertson",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Frederic Laloux",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Navi Radjou",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Linda Gratton",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Rob Cross",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Teresa Amabile",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Scott Eblin",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Jennifer Garvey Berger",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Carol Dweck",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Ed Batista",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Michael Lopp",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Camille Ricketts",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Tomas Chamorro-Premuzic",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Annie Duke",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Julia Galef",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Barbara Minto",
+            "role_title": "UI Designer",
+            "crew": "Crew_Design_UIDesigner"
+        },
+        {
+            "agent_name": "Nancy Duarte",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Dan Roam",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "Patti Sanchez",
+            "role_title": "Ops Coordinator",
+            "crew": "Crew_Operations_OpsCoordinator"
+        },
+        {
+            "agent_name": "Stephen Bungay",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "David Marquet",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Stanley McChrystal",
+            "role_title": "Frontend Engineer",
+            "crew": "Crew_Engineering_FrontendEngineer"
+        },
+        {
+            "agent_name": "Chris Fussell",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Amy C. Edmondson",
+            "role_title": "Product Lead",
+            "crew": "Crew_Product_ProductLead"
+        },
+        {
+            "agent_name": "David Rock",
+            "role_title": "QA Analyst",
+            "crew": "Crew_Quality_QAAnalyst"
+        },
+        {
+            "agent_name": "Lisa Feldman Barrett",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Roy Baumeister",
+            "role_title": "Systems Architect",
+            "crew": "Crew_Engineering_SystemsArchitect"
+        },
+        {
+            "agent_name": "Daniel Kahneman",
+            "role_title": "Strategic PM",
+            "crew": "Crew_Leadership_StrategicPM"
+        },
+        {
+            "agent_name": "Alan Turing",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Grace Hopper",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Geoffrey Hinton",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Martin Fowler",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Jeff Bezos",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Meredith Whittaker",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Daniel Ek",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Whitney Wolfe Herd",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Marc Andreessen",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Ann Handley",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Rand Fishkin",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Satya Nadella",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Stewart Butterfield",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Margaret Hamilton",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Brene Brown",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Henri Fayol",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Mintzberg",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Jac Fitz-enz",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Jeff Sutherland",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Ken Schwaber",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Frances Hesselbein",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Kelsey Hightower",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Zeynep Ton",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Rita McGrath",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Molly Graham",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Susan David",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Michael Bungay Stanier",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Cal Newport",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Erika Hall",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Leah Buley",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Carol Dweck",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Camille Ricketts",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Daniel Kahneman",
+            "role_title": "Strategic PM",
+            "crew": "FallbackCrew_StrategicPM"
+        },
+        {
+            "agent_name": "Tim Berners-Lee",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Anne Wojcicki",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Kara Swisher",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Sam Altman",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Mitchell Baker",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Brendan Eich",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Bjarne Stroustrup",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Ian Goodfellow",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Antonio Neri",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Reshma Saujani",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Naval Ravikant",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "John Collison",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Ginni Rometty",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Gina Bianchini",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Mary Jo Foley",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Marty Cagan",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Laszlo Bock",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Indra Nooyi",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Rosabeth Moss Kanter",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Clayton Christensen",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Lyndall Urwick",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Peter Senge",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Chris Argyris",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Warren Bennis",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Frederick Taylor",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Rensis Likert",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Richard Hackman",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Donella Meadows",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Gerald Weinberg",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Grady Booch",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Hirotaka Takeuchi",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Tony Hsieh",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Yves Morieux",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Anne Morriss",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Dan Pink",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Oliver Burkeman",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Frederic Laloux",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Linda Gratton",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Scott Eblin",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Nancy Duarte",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Stephen Bungay",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "David Marquet",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Stanley McChrystal",
+            "role_title": "Frontend Engineer",
+            "crew": "FallbackCrew_FrontendEngineer"
+        },
+        {
+            "agent_name": "Fei-Fei Li",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Ilya Sutskever",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Yoshua Bengio",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Marissa Mayer",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Guido van Rossum",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Yukihiro Matsumoto",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Chris Lattner",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Neil Gunther",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Sundar Pichai",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Melinda French Gates",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Patrick Collison",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Jony Ive",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Shantanu Narayen",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Julie Zhuo",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Marc Benioff",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "W. Edwards Deming",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Frederick Winslow Taylor",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "John Kotter",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Liz Wiseman",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Tasha Eurich",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Jay Galbraith",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Joseph Juran",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Lillian Gilbreth",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Eliyahu Goldratt",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Alistair Cockburn",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Edgar Schein",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Gene Kim",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Reid Hoffman",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Anil Dash",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Brian Robertson",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Ed Batista",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Michael Lopp",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Patti Sanchez",
+            "role_title": "Ops Coordinator",
+            "crew": "FallbackCrew_OpsCoordinator"
+        },
+        {
+            "agent_name": "Barbara Liskov",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Radia Perlman",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Ben Silbermann",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Jeff Dean",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Melanie Mitchell",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Lex Fridman",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Jack Dorsey",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Padmasree Warrior",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Don Norman",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Martin Casado",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Hubert Joly",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Brian Halligan",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Dharmesh Shah",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Ann Mei Chang",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Theresa M. Payton",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Frances Frei",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Claude Silver",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Gary Hamel",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Taiichi Ohno",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "John Doerr",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Stephen Covey",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Karl Weick",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Nilofer Merchant",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Ron Westrum",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "David Heinemeier Hansson",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Kim Malone Scott",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Heidi Grant Halvorson",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Laura Vanderkam",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Greg McKeown",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Jake Knapp",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "John Maeda",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Navi Radjou",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Chris Fussell",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Lisa Feldman Barrett",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Roy Baumeister",
+            "role_title": "Systems Architect",
+            "crew": "FallbackCrew_SystemsArchitect"
+        },
+        {
+            "agent_name": "Anders Hejlsberg",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Jeremy Howard",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Susan Wojcicki",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Sebastian Thrun",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Bill Gates",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Brian Chesky",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Reed Hastings",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Seth Godin",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "April Dunford",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Tobi L\u00fctke",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Linda Hill",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Michael Porter",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Herminia Ibarra",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Whitney Johnson",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Dave Ulrich",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Marshall Goldsmith",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Daniel Goleman",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Adam Grant",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Angela Duckworth",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Joan Woodward",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "David Ulrich",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Shigeo Shingo",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Michael Hammer",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Philip Crosby",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Andy Grove",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Ikujiro Nonaka",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Robert Sutton",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "John Boyd",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Clay Shirky",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Jez Humble",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Roger Martin",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Keith Ferrazzi",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "David Allen",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Jennifer Garvey Berger",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Annie Duke",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Dan Roam",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Amy C. Edmondson",
+            "role_title": "Product Lead",
+            "crew": "FallbackCrew_ProductLead"
+        },
+        {
+            "agent_name": "Hamilton Mann",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Kent Beck",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "James Gosling",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Sal Khan",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Ben Horowitz",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Meg Whitman",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Mary Barra",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Tony Robbins",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Melanie Perkins",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Henry Gantt",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Peter Drucker",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Amy Edmondson",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Ranjay Gulati",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Mary Parker Follett",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Susan Heathfield",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "John P. Kotter",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Mike Cohn",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Barbara Kellerman",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Russell Ackoff",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Geary Rummler",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Tom DeMarco",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Barry Boehm",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Richard Branson",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Gifford Pinchot III",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Camille Fournier",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Jason Fried",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Jim Rohn",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Margaret Heffernan",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Liz Fosslien",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Kate Rutter",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Jennifer Dulski",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Rob Cross",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "David Rock",
+            "role_title": "QA Analyst",
+            "crew": "FallbackCrew_QAAnalyst"
+        },
+        {
+            "agent_name": "Mark Zuckerberg",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Drew Houston",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Diane Greene",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Safra Catz",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Tristan Harris",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Patty McCord",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Josh Bersin",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Simon Sinek",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Claire Hughes Johnson",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Rita Mulcahy",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Tom Peters",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Steve Browne",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Felicia Fields",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Hollie Delaney",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Nicole Forsgren",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Kim Scott",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Ram Charan",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Jeffrey Pfeffer",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Frederick Herzberg",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Frank Gilbreth",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Jim Collins",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Tiago Forte",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Teresa Amabile",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Tomas Chamorro-Premuzic",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Julia Galef",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        },
+        {
+            "agent_name": "Barbara Minto",
+            "role_title": "UI Designer",
+            "crew": "FallbackCrew_UIDesigner"
+        }
+    ]
+}

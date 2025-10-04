@@ -1,0 +1,22 @@
+[
+  {
+    "source": "LinkedIn",
+    "clicks": 42,
+    "leads": 8
+  },
+  {
+    "source": "Facebook",
+    "clicks": 67,
+    "leads": 12
+  },
+  {
+    "source": "Email",
+    "clicks": 31,
+    "leads": 5
+  },
+  {
+    "source": "Blog",
+    "clicks": 90,
+    "leads": 20
+  }
+]

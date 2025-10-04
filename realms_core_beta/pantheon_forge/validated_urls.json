@@ -1,0 +1,960 @@
+{
+    "ada_lovelace": [
+        "https://www.ted.com/search?q=Ada%20Lovelace",
+        "https://github.com/search?q=Ada%20Lovelace",
+        "https://www.google.com/search?q=Ada%20Lovelace"
+    ],
+    "alan_turing": [
+        "https://www.ted.com/search?q=Alan%20Turing",
+        "https://github.com/search?q=Alan%20Turing",
+        "https://www.google.com/search?q=Alan%20Turing"
+    ],
+    "claude_shannon": [
+        "https://www.ted.com/search?q=Claude%20Shannon",
+        "https://github.com/search?q=Claude%20Shannon",
+        "https://www.google.com/search?q=Claude%20Shannon"
+    ],
+    "grace_hopper": [
+        "https://www.ted.com/search?q=Grace%20Hopper",
+        "https://github.com/search?q=Grace%20Hopper",
+        "https://www.google.com/search?q=Grace%20Hopper"
+    ],
+    "steve_jobs": [
+        "https://www.ted.com/search?q=Steve%20Jobs",
+        "https://github.com/search?q=Steve%20Jobs",
+        "https://www.google.com/search?q=Steve%20Jobs"
+    ],
+    "tim_berners-lee": [
+        "https://www.ted.com/search?q=Tim%20Berners-Lee",
+        "https://github.com/search?q=Tim%20Berners-Lee",
+        "https://www.google.com/search?q=Tim%20Berners-Lee"
+    ],
+    "linus_torvalds": [
+        "https://www.ted.com/search?q=Linus%20Torvalds",
+        "https://www.google.com/search?q=Linus%20Torvalds"
+    ],
+    "barbara_liskov": [
+        "https://www.ted.com/search?q=Barbara%20Liskov",
+        "https://www.google.com/search?q=Barbara%20Liskov"
+    ],
+    "donald_knuth": [
+        "https://www.ted.com/search?q=Donald%20Knuth",
+        "https://www.google.com/search?q=Donald%20Knuth"
+    ],
+    "radia_perlman": [
+        "https://www.ted.com/search?q=Radia%20Perlman",
+        "https://www.google.com/search?q=Radia%20Perlman"
+    ],
+    "fei-fei_li": [
+        "https://www.ted.com/search?q=Fei-Fei%20Li",
+        "https://www.google.com/search?q=Fei-Fei%20Li"
+    ],
+    "anne_wojcicki": [
+        "https://www.ted.com/search?q=Anne%20Wojcicki",
+        "https://www.google.com/search?q=Anne%20Wojcicki"
+    ],
+    "ben_silbermann": [
+        "https://www.ted.com/search?q=Ben%20Silbermann",
+        "https://www.google.com/search?q=Ben%20Silbermann"
+    ],
+    "kara_swisher": [
+        "https://www.ted.com/search?q=Kara%20Swisher",
+        "https://www.google.com/search?q=Kara%20Swisher"
+    ],
+    "michael_krigsman": [
+        "https://www.ted.com/search?q=Michael%20Krigsman",
+        "https://www.google.com/search?q=Michael%20Krigsman"
+    ],
+    "hamilton_mann": [
+        "https://www.ted.com/search?q=Hamilton%20Mann",
+        "https://www.google.com/search?q=Hamilton%20Mann"
+    ],
+    "sam_altman": [
+        "https://www.ted.com/search?q=Sam%20Altman",
+        "https://www.google.com/search?q=Sam%20Altman"
+    ],
+    "ilya_sutskever": [
+        "https://www.ted.com/search?q=Ilya%20Sutskever",
+        "https://www.google.com/search?q=Ilya%20Sutskever"
+    ],
+    "geoffrey_hinton": [
+        "https://www.ted.com/search?q=Geoffrey%20Hinton",
+        "https://www.google.com/search?q=Geoffrey%20Hinton"
+    ],
+    "yoshua_bengio": [
+        "https://www.ted.com/search?q=Yoshua%20Bengio",
+        "https://www.google.com/search?q=Yoshua%20Bengio"
+    ],
+    "marissa_mayer": [
+        "https://www.ted.com/search?q=Marissa%20Mayer",
+        "https://www.google.com/search?q=Marissa%20Mayer"
+    ],
+    "mitchell_baker": [
+        "https://www.ted.com/search?q=Mitchell%20Baker",
+        "https://www.google.com/search?q=Mitchell%20Baker"
+    ],
+    "kent_beck": [
+        "https://www.ted.com/search?q=Kent%20Beck",
+        "https://www.google.com/search?q=Kent%20Beck"
+    ],
+    "martin_fowler": [
+        "https://www.ted.com/search?q=Martin%20Fowler",
+        "https://www.google.com/search?q=Martin%20Fowler"
+    ],
+    "james_gosling": [
+        "https://www.ted.com/search?q=James%20Gosling",
+        "https://www.google.com/search?q=James%20Gosling"
+    ],
+    "guido_van_rossum": [
+        "https://www.ted.com/search?q=Guido%20van%20Rossum",
+        "https://www.google.com/search?q=Guido%20van%20Rossum"
+    ],
+    "brendan_eich": [
+        "https://www.ted.com/search?q=Brendan%20Eich",
+        "https://www.google.com/search?q=Brendan%20Eich"
+    ],
+    "bjarne_stroustrup": [
+        "https://www.ted.com/search?q=Bjarne%20Stroustrup",
+        "https://www.google.com/search?q=Bjarne%20Stroustrup"
+    ],
+    "yukihiro_matsumoto": [
+        "https://www.ted.com/search?q=Yukihiro%20Matsumoto",
+        "https://www.google.com/search?q=Yukihiro%20Matsumoto"
+    ],
+    "anders_hejlsberg": [
+        "https://www.ted.com/search?q=Anders%20Hejlsberg",
+        "https://www.google.com/search?q=Anders%20Hejlsberg"
+    ],
+    "jeff_dean": [
+        "https://www.ted.com/search?q=Jeff%20Dean",
+        "https://www.google.com/search?q=Jeff%20Dean"
+    ],
+    "ian_goodfellow": [
+        "https://www.ted.com/search?q=Ian%20Goodfellow",
+        "https://www.google.com/search?q=Ian%20Goodfellow"
+    ],
+    "jeremy_howard": [
+        "https://www.google.com/search?q=Jeremy%20Howard"
+    ],
+    "chris_lattner": [
+        "https://www.google.com/search?q=Chris%20Lattner"
+    ],
+    "john_carmack": [
+        "https://www.ted.com/search?q=John%20Carmack",
+        "https://www.google.com/search?q=John%20Carmack"
+    ],
+    "sal_khan": [
+        "https://www.ted.com/search?q=Sal%20Khan",
+        "https://www.google.com/search?q=Sal%20Khan"
+    ],
+    "susan_wojcicki": [
+        "https://www.ted.com/search?q=Susan%20Wojcicki",
+        "https://www.google.com/search?q=Susan%20Wojcicki"
+    ],
+    "melanie_mitchell": [
+        "https://www.ted.com/search?q=Melanie%20Mitchell",
+        "https://www.google.com/search?q=Melanie%20Mitchell"
+    ],
+    "lex_fridman": [
+        "https://www.ted.com/search?q=Lex%20Fridman",
+        "https://www.google.com/search?q=Lex%20Fridman"
+    ],
+    "sebastian_thrun": [
+        "https://www.ted.com/search?q=Sebastian%20Thrun",
+        "https://www.google.com/search?q=Sebastian%20Thrun"
+    ],
+    "bill_gates": [
+        "https://www.google.com/search?q=Bill%20Gates"
+    ],
+    "jeff_bezos": [
+        "https://www.google.com/search?q=Jeff%20Bezos"
+    ],
+    "mark_zuckerberg": [
+        "https://www.google.com/search?q=Mark%20Zuckerberg"
+    ],
+    "jack_dorsey": [
+        "https://www.google.com/search?q=Jack%20Dorsey"
+    ],
+    "antonio_neri": [
+        "https://www.ted.com/search?q=Antonio%20Neri",
+        "https://www.google.com/search?q=Antonio%20Neri"
+    ],
+    "neil_gunther": [
+        "https://github.com/search?q=Neil%20Gunther",
+        "https://www.google.com/search?q=Neil%20Gunther"
+    ],
+    "meredith_whittaker": [
+        "https://www.google.com/search?q=Meredith%20Whittaker"
+    ],
+    "sundar_pichai": [
+        "https://github.com/search?q=Sundar%20Pichai",
+        "https://www.google.com/search?q=Sundar%20Pichai"
+    ],
+    "brian_chesky": [
+        "https://github.com/search?q=Brian%20Chesky",
+        "https://www.google.com/search?q=Brian%20Chesky"
+    ],
+    "drew_houston": [
+        "https://github.com/search?q=Drew%20Houston",
+        "https://www.google.com/search?q=Drew%20Houston"
+    ],
+    "daniel_ek": [
+        "https://github.com/search?q=Daniel%20Ek",
+        "https://www.google.com/search?q=Daniel%20Ek"
+    ],
+    "whitney_wolfe_herd": [
+        "https://www.ted.com/search?q=Whitney%20Wolfe%20Herd",
+        "https://github.com/search?q=Whitney%20Wolfe%20Herd",
+        "https://www.google.com/search?q=Whitney%20Wolfe%20Herd"
+    ],
+    "reshma_saujani": [
+        "https://www.ted.com/search?q=Reshma%20Saujani",
+        "https://github.com/search?q=Reshma%20Saujani",
+        "https://www.google.com/search?q=Reshma%20Saujani"
+    ],
+    "melinda_french_gates": [
+        "https://www.ted.com/search?q=Melinda%20French%20Gates",
+        "https://www.google.com/search?q=Melinda%20French%20Gates"
+    ],
+    "reed_hastings": [
+        "https://www.ted.com/search?q=Reed%20Hastings",
+        "https://www.google.com/search?q=Reed%20Hastings"
+    ],
+    "marc_andreessen": [
+        "https://www.ted.com/search?q=Marc%20Andreessen",
+        "https://www.google.com/search?q=Marc%20Andreessen"
+    ],
+    "ben_horowitz": [
+        "https://www.ted.com/search?q=Ben%20Horowitz",
+        "https://www.google.com/search?q=Ben%20Horowitz"
+    ],
+    "naval_ravikant": [
+        "https://www.ted.com/search?q=Naval%20Ravikant",
+        "https://www.google.com/search?q=Naval%20Ravikant"
+    ],
+    "patrick_collison": [
+        "https://www.ted.com/search?q=Patrick%20Collison",
+        "https://www.google.com/search?q=Patrick%20Collison"
+    ],
+    "john_collison": [
+        "https://www.ted.com/search?q=John%20Collison",
+        "https://www.google.com/search?q=John%20Collison"
+    ],
+    "diane_greene": [
+        "https://www.ted.com/search?q=Diane%20Greene",
+        "https://www.google.com/search?q=Diane%20Greene"
+    ],
+    "safra_catz": [
+        "https://www.ted.com/search?q=Safra%20Catz",
+        "https://www.google.com/search?q=Safra%20Catz"
+    ],
+    "ginni_rometty": [
+        "https://www.ted.com/search?q=Ginni%20Rometty",
+        "https://www.google.com/search?q=Ginni%20Rometty"
+    ],
+    "meg_whitman": [
+        "https://www.ted.com/search?q=Meg%20Whitman",
+        "https://www.google.com/search?q=Meg%20Whitman"
+    ],
+    "padmasree_warrior": [
+        "https://www.google.com/search?q=Padmasree%20Warrior"
+    ],
+    "tristan_harris": [
+        "https://www.ted.com/search?q=Tristan%20Harris",
+        "https://www.google.com/search?q=Tristan%20Harris"
+    ],
+    "gina_bianchini": [
+        "https://www.google.com/search?q=Gina%20Bianchini"
+    ],
+    "jony_ive": [
+        "https://www.google.com/search?q=Jony%20Ive"
+    ],
+    "don_norman": [
+        "https://www.ted.com/search?q=Don%20Norman",
+        "https://www.google.com/search?q=Don%20Norman"
+    ],
+    "mary_jo_foley": [
+        "https://www.ted.com/search?q=Mary%20Jo%20Foley",
+        "https://www.google.com/search?q=Mary%20Jo%20Foley"
+    ],
+    "marty_cagan": [
+        "https://www.ted.com/search?q=Marty%20Cagan",
+        "https://www.google.com/search?q=Marty%20Cagan"
+    ],
+    "martin_casado": [
+        "https://www.ted.com/search?q=Martin%20Casado",
+        "https://www.google.com/search?q=Martin%20Casado"
+    ],
+    "shantanu_narayen": [
+        "https://www.ted.com/search?q=Shantanu%20Narayen",
+        "https://www.google.com/search?q=Shantanu%20Narayen"
+    ],
+    "julie_zhuo": [
+        "https://www.ted.com/search?q=Julie%20Zhuo",
+        "https://www.google.com/search?q=Julie%20Zhuo"
+    ],
+    "laszlo_bock": [
+        "https://www.ted.com/search?q=Laszlo%20Bock",
+        "https://www.google.com/search?q=Laszlo%20Bock"
+    ],
+    "patty_mccord": [
+        "https://www.ted.com/search?q=Patty%20McCord",
+        "https://www.google.com/search?q=Patty%20McCord"
+    ],
+    "josh_bersin": [
+        "https://www.ted.com/search?q=Josh%20Bersin",
+        "https://www.google.com/search?q=Josh%20Bersin"
+    ],
+    "hubert_joly": [
+        "https://www.ted.com/search?q=Hubert%20Joly",
+        "https://www.google.com/search?q=Hubert%20Joly"
+    ],
+    "simon_sinek": [
+        "https://www.ted.com/search?q=Simon%20Sinek",
+        "https://www.google.com/search?q=Simon%20Sinek"
+    ],
+    "seth_godin": [
+        "https://www.google.com/search?q=Seth%20Godin"
+    ],
+    "ann_handley": [
+        "https://www.ted.com/search?q=Ann%20Handley",
+        "https://www.google.com/search?q=Ann%20Handley"
+    ],
+    "rand_fishkin": [
+        "https://www.ted.com/search?q=Rand%20Fishkin",
+        "https://www.google.com/search?q=Rand%20Fishkin"
+    ],
+    "april_dunford": [
+        "https://www.ted.com/search?q=April%20Dunford",
+        "https://www.google.com/search?q=April%20Dunford"
+    ],
+    "brian_halligan": [
+        "https://www.ted.com/search?q=Brian%20Halligan",
+        "https://www.google.com/search?q=Brian%20Halligan"
+    ],
+    "dharmesh_shah": [
+        "https://www.ted.com/search?q=Dharmesh%20Shah",
+        "https://www.google.com/search?q=Dharmesh%20Shah"
+    ],
+    "mary_barra": [
+        "https://www.ted.com/search?q=Mary%20Barra",
+        "https://www.google.com/search?q=Mary%20Barra"
+    ],
+    "satya_nadella": [
+        "https://www.ted.com/search?q=Satya%20Nadella",
+        "https://www.google.com/search?q=Satya%20Nadella"
+    ],
+    "indra_nooyi": [
+        "https://www.ted.com/search?q=Indra%20Nooyi",
+        "https://www.google.com/search?q=Indra%20Nooyi"
+    ],
+    "tony_robbins": [
+        "https://www.ted.com/search?q=Tony%20Robbins",
+        "https://www.google.com/search?q=Tony%20Robbins"
+    ],
+    "marc_benioff": [
+        "https://www.ted.com/search?q=Marc%20Benioff",
+        "https://www.google.com/search?q=Marc%20Benioff"
+    ],
+    "melanie_perkins": [
+        "https://www.google.com/search?q=Melanie%20Perkins"
+    ],
+    "tobi_l\u00fctke": [
+        "https://www.ted.com/search?q=Tobi%20L%C3%BCtke",
+        "https://www.google.com/search?q=Tobi%20L%C3%BCtke"
+    ],
+    "stewart_butterfield": [
+        "https://www.ted.com/search?q=Stewart%20Butterfield",
+        "https://www.google.com/search?q=Stewart%20Butterfield"
+    ],
+    "claire_hughes_johnson": [
+        "https://www.google.com/search?q=Claire%20Hughes%20Johnson"
+    ],
+    "henry_gantt": [
+        "https://www.ted.com/search?q=Henry%20Gantt",
+        "https://www.google.com/search?q=Henry%20Gantt"
+    ],
+    "peter_drucker": [
+        "https://www.ted.com/search?q=Peter%20Drucker",
+        "https://www.google.com/search?q=Peter%20Drucker"
+    ],
+    "rita_mulcahy": [
+        "https://github.com/search?q=Rita%20Mulcahy",
+        "https://www.google.com/search?q=Rita%20Mulcahy"
+    ],
+    "tom_peters": [
+        "https://www.google.com/search?q=Tom%20Peters"
+    ],
+    "margaret_hamilton": [
+        "https://www.ted.com/search?q=Margaret%20Hamilton",
+        "https://www.google.com/search?q=Margaret%20Hamilton"
+    ],
+    "w._edwards_deming": [
+        "https://www.ted.com/search?q=W.%20Edwards%20Deming",
+        "https://www.google.com/search?q=W.%20Edwards%20Deming"
+    ],
+    "frederick_winslow_taylor": [
+        "https://www.google.com/search?q=Frederick%20Winslow%20Taylor"
+    ],
+    "steve_browne": [
+        "https://www.ted.com/search?q=Steve%20Browne",
+        "https://www.google.com/search?q=Steve%20Browne"
+    ],
+    "felicia_fields": [
+        "https://www.google.com/search?q=Felicia%20Fields"
+    ],
+    "hollie_delaney": [
+        "https://www.google.com/search?q=Hollie%20Delaney"
+    ],
+    "ann_mei_chang": [
+        "https://www.ted.com/search?q=Ann%20Mei%20Chang",
+        "https://github.com/search?q=Ann%20Mei%20Chang",
+        "https://www.google.com/search?q=Ann%20Mei%20Chang"
+    ],
+    "john_kotter": [
+        "https://www.ted.com/search?q=John%20Kotter",
+        "https://www.google.com/search?q=John%20Kotter"
+    ],
+    "amy_edmondson": [
+        "https://github.com/search?q=Amy%20Edmondson",
+        "https://www.google.com/search?q=Amy%20Edmondson"
+    ],
+    "linda_hill": [
+        "https://www.ted.com/search?q=Linda%20Hill",
+        "https://www.google.com/search?q=Linda%20Hill"
+    ],
+    "rosabeth_moss_kanter": [
+        "https://www.ted.com/search?q=Rosabeth%20Moss%20Kanter",
+        "https://www.google.com/search?q=Rosabeth%20Moss%20Kanter"
+    ],
+    "michael_porter": [
+        "https://www.ted.com/search?q=Michael%20Porter",
+        "https://www.google.com/search?q=Michael%20Porter"
+    ],
+    "clayton_christensen": [
+        "https://www.ted.com/search?q=Clayton%20Christensen",
+        "https://www.google.com/search?q=Clayton%20Christensen"
+    ],
+    "theresa_m._payton": [
+        "https://www.ted.com/search?q=Theresa%20M.%20Payton",
+        "https://www.google.com/search?q=Theresa%20M.%20Payton"
+    ],
+    "nicole_forsgren": [
+        "https://www.ted.com/search?q=Nicole%20Forsgren",
+        "https://www.google.com/search?q=Nicole%20Forsgren"
+    ],
+    "kim_scott": [
+        "https://www.ted.com/search?q=Kim%20Scott",
+        "https://www.google.com/search?q=Kim%20Scott"
+    ],
+    "ram_charan": [
+        "https://www.google.com/search?q=Ram%20Charan"
+    ],
+    "liz_wiseman": [
+        "https://www.ted.com/search?q=Liz%20Wiseman",
+        "https://www.google.com/search?q=Liz%20Wiseman"
+    ],
+    "frances_frei": [
+        "https://www.ted.com/search?q=Frances%20Frei",
+        "https://www.google.com/search?q=Frances%20Frei"
+    ],
+    "tasha_eurich": [
+        "https://www.ted.com/search?q=Tasha%20Eurich",
+        "https://www.google.com/search?q=Tasha%20Eurich"
+    ],
+    "herminia_ibarra": [
+        "https://www.ted.com/search?q=Herminia%20Ibarra",
+        "https://www.google.com/search?q=Herminia%20Ibarra"
+    ],
+    "whitney_johnson": [
+        "https://www.ted.com/search?q=Whitney%20Johnson",
+        "https://www.google.com/search?q=Whitney%20Johnson"
+    ],
+    "claude_silver": [
+        "https://www.google.com/search?q=Claude%20Silver"
+    ],
+    "dave_ulrich": [
+        "https://www.google.com/search?q=Dave%20Ulrich"
+    ],
+    "brene_brown": [
+        "https://www.ted.com/search?q=Brene%20Brown",
+        "https://www.google.com/search?q=Brene%20Brown"
+    ],
+    "marshall_goldsmith": [
+        "https://www.ted.com/search?q=Marshall%20Goldsmith",
+        "https://www.google.com/search?q=Marshall%20Goldsmith"
+    ],
+    "daniel_goleman": [
+        "https://www.ted.com/search?q=Daniel%20Goleman",
+        "https://www.google.com/search?q=Daniel%20Goleman"
+    ],
+    "adam_grant": [
+        "https://www.ted.com/search?q=Adam%20Grant",
+        "https://www.google.com/search?q=Adam%20Grant"
+    ],
+    "angela_duckworth": [
+        "https://www.ted.com/search?q=Angela%20Duckworth",
+        "https://www.google.com/search?q=Angela%20Duckworth"
+    ],
+    "jeffrey_pfeffer": [
+        "https://www.ted.com/search?q=Jeffrey%20Pfeffer",
+        "https://www.google.com/search?q=Jeffrey%20Pfeffer"
+    ],
+    "gary_hamel": [
+        "https://www.google.com/search?q=Gary%20Hamel"
+    ],
+    "ranjay_gulati": [
+        "https://www.ted.com/search?q=Ranjay%20Gulati",
+        "https://www.google.com/search?q=Ranjay%20Gulati"
+    ],
+    "mary_parker_follett": [
+        "https://www.ted.com/search?q=Mary%20Parker%20Follett",
+        "https://www.google.com/search?q=Mary%20Parker%20Follett"
+    ],
+    "lyndall_urwick": [
+        "https://www.ted.com/search?q=Lyndall%20Urwick",
+        "https://www.google.com/search?q=Lyndall%20Urwick"
+    ],
+    "henri_fayol": [
+        "https://www.ted.com/search?q=Henri%20Fayol",
+        "https://www.google.com/search?q=Henri%20Fayol"
+    ],
+    "peter_senge": [
+        "https://www.ted.com/search?q=Peter%20Senge",
+        "https://www.google.com/search?q=Peter%20Senge"
+    ],
+    "chris_argyris": [
+        "https://www.google.com/search?q=Chris%20Argyris"
+    ],
+    "warren_bennis": [
+        "https://www.ted.com/search?q=Warren%20Bennis",
+        "https://www.google.com/search?q=Warren%20Bennis"
+    ],
+    "jay_galbraith": [
+        "https://www.ted.com/search?q=Jay%20Galbraith",
+        "https://github.com/search?q=Jay%20Galbraith",
+        "https://www.google.com/search?q=Jay%20Galbraith"
+    ],
+    "mintzberg": [
+        "https://www.ted.com/search?q=Mintzberg",
+        "https://www.google.com/search?q=Mintzberg"
+    ],
+    "joan_woodward": [
+        "https://github.com/search?q=Joan%20Woodward",
+        "https://www.google.com/search?q=Joan%20Woodward"
+    ],
+    "frederick_herzberg": [
+        "https://www.google.com/search?q=Frederick%20Herzberg"
+    ],
+    "david_ulrich": [
+        "https://www.google.com/search?q=David%20Ulrich"
+    ],
+    "susan_heathfield": [
+        "https://www.ted.com/search?q=Susan%20Heathfield",
+        "https://www.google.com/search?q=Susan%20Heathfield"
+    ],
+    "jac_fitz-enz": [
+        "https://www.ted.com/search?q=Jac%20Fitz-enz",
+        "https://github.com/search?q=Jac%20Fitz-enz",
+        "https://www.google.com/search?q=Jac%20Fitz-enz"
+    ],
+    "john_p._kotter": [
+        "https://www.ted.com/search?q=John%20P.%20Kotter",
+        "https://www.google.com/search?q=John%20P.%20Kotter"
+    ],
+    "joseph_juran": [
+        "https://www.ted.com/search?q=Joseph%20Juran",
+        "https://www.google.com/search?q=Joseph%20Juran"
+    ],
+    "taiichi_ohno": [
+        "https://www.ted.com/search?q=Taiichi%20Ohno",
+        "https://www.google.com/search?q=Taiichi%20Ohno"
+    ],
+    "frank_gilbreth": [
+        "https://www.ted.com/search?q=Frank%20Gilbreth",
+        "https://www.google.com/search?q=Frank%20Gilbreth"
+    ],
+    "lillian_gilbreth": [
+        "https://www.ted.com/search?q=Lillian%20Gilbreth",
+        "https://www.google.com/search?q=Lillian%20Gilbreth"
+    ],
+    "shigeo_shingo": [
+        "https://www.google.com/search?q=Shigeo%20Shingo"
+    ],
+    "michael_hammer": [
+        "https://www.google.com/search?q=Michael%20Hammer"
+    ],
+    "jim_collins": [
+        "https://www.ted.com/search?q=Jim%20Collins",
+        "https://www.google.com/search?q=Jim%20Collins"
+    ],
+    "eliyahu_goldratt": [
+        "https://www.ted.com/search?q=Eliyahu%20Goldratt",
+        "https://github.com/search?q=Eliyahu%20Goldratt",
+        "https://www.google.com/search?q=Eliyahu%20Goldratt"
+    ],
+    "philip_crosby": [
+        "https://www.ted.com/search?q=Philip%20Crosby",
+        "https://www.google.com/search?q=Philip%20Crosby"
+    ],
+    "john_doerr": [
+        "https://www.ted.com/search?q=John%20Doerr",
+        "https://www.google.com/search?q=John%20Doerr"
+    ],
+    "andy_grove": [
+        "https://www.ted.com/search?q=Andy%20Grove",
+        "https://www.google.com/search?q=Andy%20Grove"
+    ],
+    "jeff_sutherland": [
+        "https://www.ted.com/search?q=Jeff%20Sutherland",
+        "https://www.google.com/search?q=Jeff%20Sutherland"
+    ],
+    "ken_schwaber": [
+        "https://www.google.com/search?q=Ken%20Schwaber"
+    ],
+    "mike_cohn": [
+        "https://www.ted.com/search?q=Mike%20Cohn",
+        "https://www.google.com/search?q=Mike%20Cohn"
+    ],
+    "alistair_cockburn": [
+        "https://www.ted.com/search?q=Alistair%20Cockburn",
+        "https://www.google.com/search?q=Alistair%20Cockburn"
+    ],
+    "frederick_taylor": [
+        "https://www.ted.com/search?q=Frederick%20Taylor",
+        "https://www.google.com/search?q=Frederick%20Taylor"
+    ],
+    "rensis_likert": [
+        "https://www.ted.com/search?q=Rensis%20Likert",
+        "https://www.google.com/search?q=Rensis%20Likert"
+    ],
+    "barbara_kellerman": [
+        "https://www.ted.com/search?q=Barbara%20Kellerman",
+        "https://www.google.com/search?q=Barbara%20Kellerman"
+    ],
+    "frances_hesselbein": [
+        "https://www.google.com/search?q=Frances%20Hesselbein"
+    ],
+    "richard_hackman": [
+        "https://www.ted.com/search?q=Richard%20Hackman",
+        "https://www.google.com/search?q=Richard%20Hackman"
+    ],
+    "stephen_covey": [
+        "https://www.google.com/search?q=Stephen%20Covey"
+    ],
+    "donella_meadows": [
+        "https://www.ted.com/search?q=Donella%20Meadows",
+        "https://www.google.com/search?q=Donella%20Meadows"
+    ],
+    "russell_ackoff": [
+        "https://www.ted.com/search?q=Russell%20Ackoff",
+        "https://www.google.com/search?q=Russell%20Ackoff"
+    ],
+    "geary_rummler": [
+        "https://www.google.com/search?q=Geary%20Rummler"
+    ],
+    "tom_demarco": [
+        "https://www.google.com/search?q=Tom%20DeMarco"
+    ],
+    "barry_boehm": [
+        "https://www.google.com/search?q=Barry%20Boehm"
+    ],
+    "gerald_weinberg": [
+        "https://www.ted.com/search?q=Gerald%20Weinberg",
+        "https://www.google.com/search?q=Gerald%20Weinberg"
+    ],
+    "grady_booch": [
+        "https://www.ted.com/search?q=Grady%20Booch",
+        "https://www.google.com/search?q=Grady%20Booch"
+    ],
+    "ikujiro_nonaka": [
+        "https://www.ted.com/search?q=Ikujiro%20Nonaka",
+        "https://github.com/search?q=Ikujiro%20Nonaka",
+        "https://www.google.com/search?q=Ikujiro%20Nonaka"
+    ],
+    "hirotaka_takeuchi": [
+        "https://www.ted.com/search?q=Hirotaka%20Takeuchi",
+        "https://www.google.com/search?q=Hirotaka%20Takeuchi"
+    ],
+    "edgar_schein": [
+        "https://www.ted.com/search?q=Edgar%20Schein",
+        "https://www.google.com/search?q=Edgar%20Schein"
+    ],
+    "karl_weick": [
+        "https://www.ted.com/search?q=Karl%20Weick",
+        "https://www.google.com/search?q=Karl%20Weick"
+    ],
+    "robert_sutton": [
+        "https://www.ted.com/search?q=Robert%20Sutton",
+        "https://github.com/search?q=Robert%20Sutton",
+        "https://www.google.com/search?q=Robert%20Sutton"
+    ],
+    "richard_branson": [
+        "https://www.ted.com/search?q=Richard%20Branson",
+        "https://www.google.com/search?q=Richard%20Branson"
+    ],
+    "tony_hsieh": [
+        "https://www.ted.com/search?q=Tony%20Hsieh",
+        "https://www.google.com/search?q=Tony%20Hsieh"
+    ],
+    "john_boyd": [
+        "https://www.ted.com/search?q=John%20Boyd",
+        "https://github.com/search?q=John%20Boyd",
+        "https://www.google.com/search?q=John%20Boyd"
+    ],
+    "gifford_pinchot_iii": [
+        "https://www.ted.com/search?q=Gifford%20Pinchot%20III",
+        "https://www.google.com/search?q=Gifford%20Pinchot%20III"
+    ],
+    "clay_shirky": [
+        "https://www.ted.com/search?q=Clay%20Shirky",
+        "https://github.com/search?q=Clay%20Shirky",
+        "https://www.google.com/search?q=Clay%20Shirky"
+    ],
+    "yves_morieux": [
+        "https://www.ted.com/search?q=Yves%20Morieux",
+        "https://www.google.com/search?q=Yves%20Morieux"
+    ],
+    "nilofer_merchant": [
+        "https://www.ted.com/search?q=Nilofer%20Merchant",
+        "https://www.google.com/search?q=Nilofer%20Merchant"
+    ],
+    "ron_westrum": [
+        "https://www.google.com/search?q=Ron%20Westrum"
+    ],
+    "gene_kim": [
+        "https://www.ted.com/search?q=Gene%20Kim",
+        "https://www.google.com/search?q=Gene%20Kim"
+    ],
+    "jez_humble": [
+        "https://www.ted.com/search?q=Jez%20Humble",
+        "https://www.google.com/search?q=Jez%20Humble"
+    ],
+    "kelsey_hightower": [
+        "https://www.ted.com/search?q=Kelsey%20Hightower",
+        "https://www.google.com/search?q=Kelsey%20Hightower"
+    ],
+    "camille_fournier": [
+        "https://www.google.com/search?q=Camille%20Fournier"
+    ],
+    "reid_hoffman": [
+        "https://www.ted.com/search?q=Reid%20Hoffman",
+        "https://www.google.com/search?q=Reid%20Hoffman"
+    ],
+    "jason_fried": [
+        "https://www.ted.com/search?q=Jason%20Fried",
+        "https://www.google.com/search?q=Jason%20Fried"
+    ],
+    "david_heinemeier_hansson": [
+        "https://www.google.com/search?q=David%20Heinemeier%20Hansson"
+    ],
+    "jim_rohn": [
+        "https://www.google.com/search?q=Jim%20Rohn"
+    ],
+    "zeynep_ton": [
+        "https://www.google.com/search?q=Zeynep%20Ton"
+    ],
+    "anil_dash": [
+        "https://www.ted.com/search?q=Anil%20Dash",
+        "https://www.google.com/search?q=Anil%20Dash"
+    ],
+    "margaret_heffernan": [
+        "https://www.google.com/search?q=Margaret%20Heffernan"
+    ],
+    "rita_mcgrath": [
+        "https://www.ted.com/search?q=Rita%20McGrath",
+        "https://www.google.com/search?q=Rita%20McGrath"
+    ],
+    "liz_fosslien": [
+        "https://www.google.com/search?q=Liz%20Fosslien"
+    ],
+    "molly_graham": [
+        "https://www.ted.com/search?q=Molly%20Graham",
+        "https://www.google.com/search?q=Molly%20Graham"
+    ],
+    "anne_morriss": [
+        "https://www.google.com/search?q=Anne%20Morriss"
+    ],
+    "kim_malone_scott": [
+        "https://www.ted.com/search?q=Kim%20Malone%20Scott",
+        "https://www.google.com/search?q=Kim%20Malone%20Scott"
+    ],
+    "heidi_grant_halvorson": [
+        "https://www.google.com/search?q=Heidi%20Grant%20Halvorson"
+    ],
+    "susan_david": [
+        "https://www.ted.com/search?q=Susan%20David",
+        "https://www.google.com/search?q=Susan%20David"
+    ],
+    "roger_martin": [
+        "https://www.ted.com/search?q=Roger%20Martin",
+        "https://www.google.com/search?q=Roger%20Martin"
+    ],
+    "michael_bungay_stanier": [
+        "https://www.ted.com/search?q=Michael%20Bungay%20Stanier",
+        "https://www.google.com/search?q=Michael%20Bungay%20Stanier"
+    ],
+    "keith_ferrazzi": [
+        "https://www.ted.com/search?q=Keith%20Ferrazzi",
+        "https://github.com/search?q=Keith%20Ferrazzi",
+        "https://www.google.com/search?q=Keith%20Ferrazzi"
+    ],
+    "dan_pink": [
+        "https://www.google.com/search?q=Dan%20Pink"
+    ],
+    "cal_newport": [
+        "https://www.ted.com/search?q=Cal%20Newport",
+        "https://github.com/search?q=Cal%20Newport",
+        "https://www.google.com/search?q=Cal%20Newport"
+    ],
+    "david_allen": [
+        "https://www.ted.com/search?q=David%20Allen",
+        "https://www.google.com/search?q=David%20Allen"
+    ],
+    "tiago_forte": [
+        "https://www.ted.com/search?q=Tiago%20Forte",
+        "https://www.google.com/search?q=Tiago%20Forte"
+    ],
+    "laura_vanderkam": [
+        "https://www.ted.com/search?q=Laura%20Vanderkam",
+        "https://github.com/search?q=Laura%20Vanderkam",
+        "https://www.google.com/search?q=Laura%20Vanderkam"
+    ],
+    "oliver_burkeman": [
+        "https://www.ted.com/search?q=Oliver%20Burkeman",
+        "https://github.com/search?q=Oliver%20Burkeman",
+        "https://www.google.com/search?q=Oliver%20Burkeman"
+    ],
+    "greg_mckeown": [
+        "https://www.ted.com/search?q=Greg%20McKeown",
+        "https://www.google.com/search?q=Greg%20McKeown"
+    ],
+    "jake_knapp": [
+        "https://www.google.com/search?q=Jake%20Knapp"
+    ],
+    "john_maeda": [
+        "https://www.ted.com/search?q=John%20Maeda",
+        "https://github.com/search?q=John%20Maeda",
+        "https://www.google.com/search?q=John%20Maeda"
+    ],
+    "erika_hall": [
+        "https://www.ted.com/search?q=Erika%20Hall",
+        "https://github.com/search?q=Erika%20Hall",
+        "https://www.google.com/search?q=Erika%20Hall"
+    ],
+    "leah_buley": [
+        "https://www.ted.com/search?q=Leah%20Buley",
+        "https://www.google.com/search?q=Leah%20Buley"
+    ],
+    "kate_rutter": [
+        "https://www.ted.com/search?q=Kate%20Rutter",
+        "https://www.google.com/search?q=Kate%20Rutter"
+    ],
+    "jennifer_dulski": [
+        "https://www.ted.com/search?q=Jennifer%20Dulski",
+        "https://www.google.com/search?q=Jennifer%20Dulski"
+    ],
+    "brian_robertson": [
+        "https://www.ted.com/search?q=Brian%20Robertson",
+        "https://www.google.com/search?q=Brian%20Robertson"
+    ],
+    "frederic_laloux": [
+        "https://www.ted.com/search?q=Frederic%20Laloux",
+        "https://www.google.com/search?q=Frederic%20Laloux"
+    ],
+    "navi_radjou": [
+        "https://www.ted.com/search?q=Navi%20Radjou",
+        "https://www.google.com/search?q=Navi%20Radjou"
+    ],
+    "linda_gratton": [
+        "https://www.ted.com/search?q=Linda%20Gratton",
+        "https://www.google.com/search?q=Linda%20Gratton"
+    ],
+    "rob_cross": [
+        "https://www.ted.com/search?q=Rob%20Cross",
+        "https://www.google.com/search?q=Rob%20Cross"
+    ],
+    "teresa_amabile": [
+        "https://www.ted.com/search?q=Teresa%20Amabile",
+        "https://www.google.com/search?q=Teresa%20Amabile"
+    ],
+    "scott_eblin": [
+        "https://www.google.com/search?q=Scott%20Eblin"
+    ],
+    "jennifer_garvey_berger": [
+        "https://www.ted.com/search?q=Jennifer%20Garvey%20Berger",
+        "https://www.google.com/search?q=Jennifer%20Garvey%20Berger"
+    ],
+    "carol_dweck": [
+        "https://www.ted.com/search?q=Carol%20Dweck",
+        "https://www.google.com/search?q=Carol%20Dweck"
+    ],
+    "ed_batista": [
+        "https://www.ted.com/search?q=Ed%20Batista",
+        "https://www.google.com/search?q=Ed%20Batista"
+    ],
+    "michael_lopp": [
+        "https://www.ted.com/search?q=Michael%20Lopp",
+        "https://www.google.com/search?q=Michael%20Lopp"
+    ],
+    "camille_ricketts": [
+        "https://www.ted.com/search?q=Camille%20Ricketts",
+        "https://www.google.com/search?q=Camille%20Ricketts"
+    ],
+    "tomas_chamorro-premuzic": [
+        "https://www.google.com/search?q=Tomas%20Chamorro-Premuzic"
+    ],
+    "annie_duke": [
+        "https://www.ted.com/search?q=Annie%20Duke",
+        "https://www.google.com/search?q=Annie%20Duke"
+    ],
+    "julia_galef": [
+        "https://www.google.com/search?q=Julia%20Galef"
+    ],
+    "barbara_minto": [
+        "https://www.google.com/search?q=Barbara%20Minto"
+    ],
+    "nancy_duarte": [
+        "https://www.ted.com/search?q=Nancy%20Duarte",
+        "https://www.google.com/search?q=Nancy%20Duarte"
+    ],
+    "dan_roam": [
+        "https://www.ted.com/search?q=Dan%20Roam",
+        "https://www.google.com/search?q=Dan%20Roam"
+    ],
+    "patti_sanchez": [
+        "https://www.ted.com/search?q=Patti%20Sanchez",
+        "https://www.google.com/search?q=Patti%20Sanchez"
+    ],
+    "stephen_bungay": [
+        "https://www.google.com/search?q=Stephen%20Bungay"
+    ],
+    "david_marquet": [
+        "https://www.google.com/search?q=David%20Marquet"
+    ],
+    "stanley_mcchrystal": [
+        "https://www.google.com/search?q=Stanley%20McChrystal"
+    ],
+    "chris_fussell": [
+        "https://www.google.com/search?q=Chris%20Fussell"
+    ],
+    "amy_c._edmondson": [
+        "https://www.ted.com/search?q=Amy%20C.%20Edmondson",
+        "https://www.google.com/search?q=Amy%20C.%20Edmondson"
+    ],
+    "david_rock": [
+        "https://www.ted.com/search?q=David%20Rock",
+        "https://www.google.com/search?q=David%20Rock"
+    ],
+    "lisa_feldman_barrett": [
+        "https://www.ted.com/search?q=Lisa%20Feldman%20Barrett",
+        "https://www.google.com/search?q=Lisa%20Feldman%20Barrett"
+    ],
+    "roy_baumeister": [
+        "https://www.google.com/search?q=Roy%20Baumeister"
+    ],
+    "daniel_kahneman": [
+        "https://www.ted.com/search?q=Daniel%20Kahneman",
+        "https://www.google.com/search?q=Daniel%20Kahneman"
+    ]
+}

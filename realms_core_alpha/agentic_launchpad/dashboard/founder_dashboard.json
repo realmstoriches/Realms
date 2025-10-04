@@ -1,0 +1,19 @@
+{
+  "system_status": {
+    "agents_online": true,
+    "monetization_active": true,
+    "cta_injected": 3,
+    "syndication_status": "Pending"
+  },
+  "reach": {
+    "posts_today": 3,
+    "estimated_clicks": 0,
+    "conversion_rate": "2\u20135%",
+    "estimated_transactions": 0
+  },
+  "timeline": {
+    "first_transaction_window": "Unknown",
+    "stripe_payout_window": "Unknown"
+  },
+  "stripe_link": "None"
+}

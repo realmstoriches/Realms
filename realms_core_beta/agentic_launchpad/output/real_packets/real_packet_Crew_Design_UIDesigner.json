@@ -1,0 +1,425 @@
+{
+    "crew_name": "Crew_Design_UIDesigner",
+    "mission_scope": "Real mission packet for Crew_Design_UIDesigner",
+    "agents": [
+        {
+            "role_title": "UI Designer",
+            "agent_name": "John Carmack",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": true
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Mark Zuckerberg",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Drew Houston",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Diane Greene",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Safra Catz",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Tristan Harris",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Patty McCord",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Josh Bersin",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Simon Sinek",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Claire Hughes Johnson",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Rita Mulcahy",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Tom Peters",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Steve Browne",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Felicia Fields",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Hollie Delaney",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Nicole Forsgren",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Kim Scott",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Ram Charan",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Jeffrey Pfeffer",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Frederick Herzberg",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Frank Gilbreth",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Jim Collins",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Tiago Forte",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Teresa Amabile",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Tomas Chamorro-Premuzic",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Julia Galef",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        },
+        {
+            "role_title": "UI Designer",
+            "agent_name": "Barbara Minto",
+            "domain": "General",
+            "persona": {
+                "style": "creative",
+                "tone": "empathetic",
+                "offline_safe": false
+            }
+        }
+    ],
+    "fallbacks": [
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Mark Zuckerberg"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Drew Houston"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Diane Greene"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Safra Catz"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Tristan Harris"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Patty McCord"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Josh Bersin"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Simon Sinek"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Claire Hughes Johnson"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Rita Mulcahy"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Tom Peters"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Steve Browne"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Felicia Fields"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Hollie Delaney"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Nicole Forsgren"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Kim Scott"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Ram Charan"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Jeffrey Pfeffer"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Frederick Herzberg"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Frank Gilbreth"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Jim Collins"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Tiago Forte"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Teresa Amabile"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Tomas Chamorro-Premuzic"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Julia Galef"
+        },
+        {
+            "role_title": "UI Designer",
+            "fallback_agent": "Barbara Minto"
+        }
+    ],
+    "domains": [
+        "General"
+    ],
+    "persona_overlay": {
+        "crew_style": "creative",
+        "tone": "empathetic"
+    },
+    "dispatch_logic": {
+        "primary": "Crew_Design_UIDesigner",
+        "fallback": [
+            "Mark Zuckerberg",
+            "Drew Houston",
+            "Diane Greene",
+            "Safra Catz",
+            "Tristan Harris",
+            "Patty McCord",
+            "Josh Bersin",
+            "Simon Sinek",
+            "Claire Hughes Johnson",
+            "Rita Mulcahy",
+            "Tom Peters",
+            "Steve Browne",
+            "Felicia Fields",
+            "Hollie Delaney",
+            "Nicole Forsgren",
+            "Kim Scott",
+            "Ram Charan",
+            "Jeffrey Pfeffer",
+            "Frederick Herzberg",
+            "Frank Gilbreth",
+            "Jim Collins",
+            "Tiago Forte",
+            "Teresa Amabile",
+            "Tomas Chamorro-Premuzic",
+            "Julia Galef",
+            "Barbara Minto"
+        ],
+        "twin_origin": "pantheon_twin/Crew_Design_UIDesigner",
+        "offline_safe": [
+            "John Carmack"
+        ]
+    },
+    "confirmation_chain": []
+}

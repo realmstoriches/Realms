@@ -1,0 +1,5 @@
+{
+  "env": "production",
+  "webhook_url": "https://hook.us2.make.com/your_webhook",
+  "wordpress_url": "https://blog.realmstoriches.xyz/wp-json/wp/v2/posts"
+}

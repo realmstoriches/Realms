@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Realms Founder Dashboard</title>
+  <script>
+    async function loadCrews() {
+      const res = await fetch("http://localhost:5050/list_crews");
+      const data = await res.json();
+      const select = document.getElementById("crewSelect");
+      data.crews.forEach(c => {
+        const opt = document.createElement("option");
+        opt.value = c;
+        opt.textContent = c;
+        select.appendChild(opt);
+      });
+    }
+
+    async function dispatchCrew() {
+      const crew = document.getElementById("crewSelect").value;
+      const res = await fetch("http://localhost:5050/dispatch", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({crew})
+      });
+      const data = await res.json();
+      document.getElementById("output").textContent = JSON.stringify(data, null, 2);
+    }
+
+    window.onload = loadCrews;
+  </script>
+</head>
+<body>
+  <h1>🧠 Realms Founder Dashboard</h1>
+  <select id="crewSelect"></select>
+  <button onclick="dispatchCrew()">Dispatch</button>
+  <pre id="output"></pre>
+</body>
+</html>

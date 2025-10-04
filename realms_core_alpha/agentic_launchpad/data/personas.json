@@ -1,0 +1,1237 @@
+{
+    "Ada Lovelace": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Alan Turing": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Claude Shannon": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Grace Hopper": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Steve Jobs": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Tim Berners-Lee": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Linus Torvalds": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Barbara Liskov": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Donald Knuth": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Radia Perlman": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Fei-Fei Li": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Anne Wojcicki": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Ben Silbermann": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Kara Swisher": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Michael Krigsman": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Hamilton Mann": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Sam Altman": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Ilya Sutskever": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Geoffrey Hinton": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Yoshua Bengio": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Marissa Mayer": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Mitchell Baker": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Kent Beck": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Martin Fowler": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "James Gosling": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Guido van Rossum": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Brendan Eich": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Bjarne Stroustrup": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Yukihiro Matsumoto": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Anders Hejlsberg": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Jeff Dean": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Ian Goodfellow": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Jeremy Howard": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Chris Lattner": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "John Carmack": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": true
+    },
+    "Sal Khan": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Susan Wojcicki": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Melanie Mitchell": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Lex Fridman": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Sebastian Thrun": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Bill Gates": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Jeff Bezos": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Mark Zuckerberg": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Jack Dorsey": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Antonio Neri": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Neil Gunther": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Meredith Whittaker": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Sundar Pichai": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Brian Chesky": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Drew Houston": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Daniel Ek": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Whitney Wolfe Herd": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Reshma Saujani": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Melinda French Gates": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Reed Hastings": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Marc Andreessen": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Ben Horowitz": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Naval Ravikant": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Patrick Collison": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "John Collison": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Diane Greene": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Safra Catz": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Ginni Rometty": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Meg Whitman": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Padmasree Warrior": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Tristan Harris": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Gina Bianchini": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Jony Ive": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Don Norman": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Mary Jo Foley": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Marty Cagan": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Martin Casado": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Shantanu Narayen": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Julie Zhuo": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Laszlo Bock": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Patty McCord": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Josh Bersin": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Hubert Joly": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Simon Sinek": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Seth Godin": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Ann Handley": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Rand Fishkin": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "April Dunford": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Brian Halligan": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Dharmesh Shah": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Mary Barra": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Satya Nadella": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Indra Nooyi": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Tony Robbins": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Marc Benioff": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Melanie Perkins": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Tobi L\u00fctke": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Stewart Butterfield": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Claire Hughes Johnson": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Henry Gantt": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Peter Drucker": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Rita Mulcahy": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Tom Peters": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Margaret Hamilton": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "W. Edwards Deming": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Frederick Winslow Taylor": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Steve Browne": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Felicia Fields": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Hollie Delaney": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Ann Mei Chang": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "John Kotter": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Amy Edmondson": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Linda Hill": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Rosabeth Moss Kanter": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Michael Porter": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Clayton Christensen": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Theresa M. Payton": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Nicole Forsgren": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Kim Scott": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Ram Charan": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Liz Wiseman": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Frances Frei": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Tasha Eurich": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Herminia Ibarra": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Whitney Johnson": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Claude Silver": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Dave Ulrich": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Brene Brown": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Marshall Goldsmith": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Daniel Goleman": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Adam Grant": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Angela Duckworth": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Jeffrey Pfeffer": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Gary Hamel": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Ranjay Gulati": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Mary Parker Follett": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Lyndall Urwick": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Henri Fayol": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Peter Senge": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Chris Argyris": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Warren Bennis": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Jay Galbraith": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Mintzberg": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Joan Woodward": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Frederick Herzberg": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "David Ulrich": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Susan Heathfield": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Jac Fitz-enz": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "John P. Kotter": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Joseph Juran": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Taiichi Ohno": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Frank Gilbreth": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Lillian Gilbreth": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Shigeo Shingo": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Michael Hammer": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Jim Collins": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Eliyahu Goldratt": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Philip Crosby": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "John Doerr": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Andy Grove": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Jeff Sutherland": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Ken Schwaber": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Mike Cohn": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Alistair Cockburn": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Frederick Taylor": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Rensis Likert": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Barbara Kellerman": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Frances Hesselbein": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Richard Hackman": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Stephen Covey": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Donella Meadows": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Russell Ackoff": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Geary Rummler": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Tom DeMarco": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Barry Boehm": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Gerald Weinberg": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Grady Booch": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Ikujiro Nonaka": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Hirotaka Takeuchi": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Edgar Schein": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Karl Weick": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Robert Sutton": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Richard Branson": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Tony Hsieh": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "John Boyd": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Gifford Pinchot III": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Clay Shirky": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Yves Morieux": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Nilofer Merchant": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Ron Westrum": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Gene Kim": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Jez Humble": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Kelsey Hightower": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Camille Fournier": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Reid Hoffman": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Jason Fried": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "David Heinemeier Hansson": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Jim Rohn": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Zeynep Ton": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Anil Dash": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Margaret Heffernan": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Rita McGrath": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Liz Fosslien": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Molly Graham": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Anne Morriss": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Kim Malone Scott": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Heidi Grant Halvorson": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Susan David": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Roger Martin": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Michael Bungay Stanier": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Keith Ferrazzi": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Dan Pink": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Cal Newport": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "David Allen": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Tiago Forte": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Laura Vanderkam": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Oliver Burkeman": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Greg McKeown": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Jake Knapp": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "John Maeda": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Erika Hall": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Leah Buley": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Kate Rutter": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Jennifer Dulski": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Brian Robertson": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Frederic Laloux": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Navi Radjou": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Linda Gratton": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Rob Cross": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Teresa Amabile": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Scott Eblin": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Jennifer Garvey Berger": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Carol Dweck": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Ed Batista": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Michael Lopp": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Camille Ricketts": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    },
+    "Tomas Chamorro-Premuzic": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Annie Duke": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Julia Galef": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Barbara Minto": {
+        "style": "creative",
+        "tone": "empathetic",
+        "offline_safe": false
+    },
+    "Nancy Duarte": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Dan Roam": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "Patti Sanchez": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Stephen Bungay": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "David Marquet": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Stanley McChrystal": {
+        "style": "adaptive",
+        "tone": "precise",
+        "offline_safe": false
+    },
+    "Chris Fussell": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Amy C. Edmondson": {
+        "style": "adaptive",
+        "tone": "inspiring",
+        "offline_safe": false
+    },
+    "David Rock": {
+        "style": "adaptive",
+        "tone": "neutral",
+        "offline_safe": false
+    },
+    "Lisa Feldman Barrett": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Roy Baumeister": {
+        "style": "technical",
+        "tone": "precise",
+        "offline_safe": true
+    },
+    "Daniel Kahneman": {
+        "style": "visionary",
+        "tone": "inspiring",
+        "offline_safe": true
+    }
+}

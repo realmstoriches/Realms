@@ -1,0 +1,6 @@
+✅ MoviePy import patch complete
+Total files patched: 3
+
+F:\Realms\realms_core_alpha\autopilot\heal_autopilot_swarm.py
+F:\Realms\realms_core_alpha\autopilot\patch_moviepy_imports.py
+F:\Realms\realms_core_alpha\autopilot\realms_autopilot.py

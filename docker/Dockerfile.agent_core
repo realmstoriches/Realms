@@ -1,0 +1,6 @@
+FROM python:3.10
+WORKDIR /app
+COPY ./realms_core_alpha/agentic_launchpad/modules/ .
+RUN pip install flask
+CMD ["python", "monetization_engine.py"]
+

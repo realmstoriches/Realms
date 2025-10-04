@@ -1,0 +1,1980 @@
+{
+    "Ada Lovelace": {
+        "domain": "Computing Pioneer",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Alan Turing": {
+        "domain": "Cryptography & AI",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Claude Shannon": {
+        "domain": "Information Theory",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Grace Hopper": {
+        "domain": "Programming Languages",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Steve Jobs": {
+        "domain": "Product Strategy & Design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Tim Berners-Lee": {
+        "domain": "Web Architecture",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Linus Torvalds": {
+        "domain": "Open Source Systems",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Barbara Liskov": {
+        "domain": "Software Engineering",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Donald Knuth": {
+        "domain": "Algorithms & Typography",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Radia Perlman": {
+        "domain": "Networking",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Fei-Fei Li": {
+        "domain": "Artificial Intelligence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Anne Wojcicki": {
+        "domain": "Genomics & Health Tech",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Ben Silbermann": {
+        "domain": "Social Discovery Platforms",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Kara Swisher": {
+        "domain": "Tech Journalism",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Michael Krigsman": {
+        "domain": "Digital Strategy & Analysis",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Hamilton Mann": {
+        "domain": "Digital Transformation",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Sam Altman": {
+        "domain": "AI & Startup Leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Ilya Sutskever": {
+        "domain": "Deep Learning",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Geoffrey Hinton": {
+        "domain": "Neural Networks",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Yoshua Bengio": {
+        "domain": "Machine Learning",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Marissa Mayer": {
+        "domain": "Product & UX Leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Mitchell Baker": {
+        "domain": "Open Source Governance",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Kent Beck": {
+        "domain": "Agile Development",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Martin Fowler": {
+        "domain": "Software Architecture",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "James Gosling": {
+        "domain": "Programming Languages",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Guido van Rossum": {
+        "domain": "Programming Languages",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Brendan Eich": {
+        "domain": "Web Development",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Bjarne Stroustrup": {
+        "domain": "Programming Languages",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Yukihiro Matsumoto": {
+        "domain": "Programming Languages",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Anders Hejlsberg": {
+        "domain": "Programming Languages",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jeff Dean": {
+        "domain": "Scalable Systems & AI",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Ian Goodfellow": {
+        "domain": "Machine Learning",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jeremy Howard": {
+        "domain": "Deep Learning Education",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Chris Lattner": {
+        "domain": "Compiler Design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "John Carmack": {
+        "domain": "Graphics & Game Engines",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Sal Khan": {
+        "domain": "Education Technology",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Susan Wojcicki": {
+        "domain": "Digital Media",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Melanie Mitchell": {
+        "domain": "Complex Systems & AI",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Lex Fridman": {
+        "domain": "AI & Robotics",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Sebastian Thrun": {
+        "domain": "Autonomous Systems",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Bill Gates": {
+        "domain": "Software & Philanthropy",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jeff Bezos": {
+        "domain": "E-commerce & Cloud",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Mark Zuckerberg": {
+        "domain": "Social Media",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jack Dorsey": {
+        "domain": "Social Platforms & Fintech",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Antonio Neri": {
+        "domain": "Enterprise IT",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Neil Gunther": {
+        "domain": "Computational Scalability",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Meredith Whittaker": {
+        "domain": "AI Ethics & Governance",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Sundar Pichai": {
+        "domain": "Search & Cloud Platforms",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Brian Chesky": {
+        "domain": "Platform Economy",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Drew Houston": {
+        "domain": "Cloud Storage",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Daniel Ek": {
+        "domain": "Streaming Media",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Whitney Wolfe Herd": {
+        "domain": "Social Platforms",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Reshma Saujani": {
+        "domain": "Tech Education",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Melinda French Gates": {
+        "domain": "Philanthropy & Tech Equity",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Reed Hastings": {
+        "domain": "Streaming & Media",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Marc Andreessen": {
+        "domain": "Venture Capital & Browsers",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Ben Horowitz": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Naval Ravikant": {
+        "domain": "Angel Investing & Philosophy",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Patrick Collison": {
+        "domain": "Fintech Infrastructure",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "John Collison": {
+        "domain": "Fintech Infrastructure",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Diane Greene": {
+        "domain": "Cloud Computing",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Safra Catz": {
+        "domain": "Enterprise Software",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Ginni Rometty": {
+        "domain": "Enterprise AI & Cloud",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Meg Whitman": {
+        "domain": "Tech Leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Padmasree Warrior": {
+        "domain": "Mobility & Innovation",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Tristan Harris": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Gina Bianchini": {
+        "domain": "Community Platforms",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jony Ive": {
+        "domain": "Industrial Design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Don Norman": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Mary Jo Foley": {
+        "domain": "Enterprise Tech Journalism",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Marty Cagan": {
+        "domain": "Product Management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Martin Casado": {
+        "domain": "Networking & VC",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Shantanu Narayen": {
+        "domain": "Creative Software",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Julie Zhuo": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Laszlo Bock": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Patty McCord": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Josh Bersin": {
+        "domain": "HR Strategy",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Hubert Joly": {
+        "domain": "Leadership & Turnaround",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Simon Sinek": {
+        "domain": "Leadership & Vision",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Seth Godin": {
+        "domain": "Marketing & Storytelling",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Ann Handley": {
+        "domain": "Content Marketing",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Rand Fishkin": {
+        "domain": "SEO & Growth",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "April Dunford": {
+        "domain": "Positioning & GTM",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Brian Halligan": {
+        "domain": "Inbound Marketing",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Dharmesh Shah": {
+        "domain": "Startup Marketing & Culture",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Mary Barra": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Satya Nadella": {
+        "domain": "Cloud & Culture Transformation",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Indra Nooyi": {
+        "domain": "Global Strategy & Leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Tony Robbins": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Marc Benioff": {
+        "domain": "CRM & Culture",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Melanie Perkins": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Tobi L\u00fctke": {
+        "domain": "E-commerce Infrastructure",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Stewart Butterfield": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Claire Hughes Johnson": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Henry Gantt": {
+        "domain": "Project Management",
+        "tools": [
+            "Asana",
+            "Jira",
+            "GanttPro",
+            "Trello"
+        ],
+        "preferred_stack": "Agile"
+    },
+    "Peter Drucker": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Rita Mulcahy": {
+        "domain": "Project Management Training",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "Agile"
+    },
+    "Tom Peters": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Margaret Hamilton": {
+        "domain": "Software Project Management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "Agile"
+    },
+    "W. Edwards Deming": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Frederick Winslow Taylor": {
+        "domain": "Scientific Management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Steve Browne": {
+        "domain": "Human Resources",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Felicia Fields": {
+        "domain": "Strategic HR",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Hollie Delaney": {
+        "domain": "Culture & Retention",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Ann Mei Chang": {
+        "domain": "Lean Impact & Innovation",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "John Kotter": {
+        "domain": "Organizational Change",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Amy Edmondson": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Linda Hill": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Rosabeth Moss Kanter": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Michael Porter": {
+        "domain": "Competitive Strategy",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Clayton Christensen": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Theresa M. Payton": {
+        "domain": "Cybersecurity Leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Nicole Forsgren": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Kim Scott": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Ram Charan": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Liz Wiseman": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Frances Frei": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Tasha Eurich": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Herminia Ibarra": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Whitney Johnson": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Claude Silver": {
+        "domain": "Chief Heart Officer",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Dave Ulrich": {
+        "domain": "HR Strategy",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Brene Brown": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Marshall Goldsmith": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Daniel Goleman": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Adam Grant": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Angela Duckworth": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jeffrey Pfeffer": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Gary Hamel": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Ranjay Gulati": {
+        "domain": "Organizational Resilience",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Mary Parker Follett": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Lyndall Urwick": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Henri Fayol": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Peter Senge": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Chris Argyris": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Warren Bennis": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jay Galbraith": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Mintzberg": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Joan Woodward": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Frederick Herzberg": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "David Ulrich": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Susan Heathfield": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jac Fitz-enz": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "John P. Kotter": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Joseph Juran": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Taiichi Ohno": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Frank Gilbreth": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Lillian Gilbreth": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Shigeo Shingo": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Michael Hammer": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jim Collins": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Eliyahu Goldratt": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Philip Crosby": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "John Doerr": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Andy Grove": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jeff Sutherland": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Ken Schwaber": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Mike Cohn": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Alistair Cockburn": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Frederick Taylor": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Rensis Likert": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Barbara Kellerman": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Frances Hesselbein": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Richard Hackman": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Stephen Covey": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Donella Meadows": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Russell Ackoff": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Geary Rummler": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Tom DeMarco": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Barry Boehm": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Gerald Weinberg": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Grady Booch": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Ikujiro Nonaka": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Hirotaka Takeuchi": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Edgar Schein": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Karl Weick": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Robert Sutton": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Richard Branson": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Tony Hsieh": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "John Boyd": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Gifford Pinchot III": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Clay Shirky": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Yves Morieux": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Nilofer Merchant": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Ron Westrum": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Gene Kim": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jez Humble": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Kelsey Hightower": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Camille Fournier": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Reid Hoffman": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jason Fried": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "David Heinemeier Hansson": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jim Rohn": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Zeynep Ton": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Anil Dash": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Margaret Heffernan": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Rita McGrath": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Liz Fosslien": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Molly Graham": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Anne Morriss": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Kim Malone Scott": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Heidi Grant Halvorson": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Susan David": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Roger Martin": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Michael Bungay Stanier": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Keith Ferrazzi": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Dan Pink": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Cal Newport": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "David Allen": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Tiago Forte": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Laura Vanderkam": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Oliver Burkeman": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Greg McKeown": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jake Knapp": {
+        "domain": "project management",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "John Maeda": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Erika Hall": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Leah Buley": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Kate Rutter": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jennifer Dulski": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Brian Robertson": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Frederic Laloux": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Navi Radjou": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Linda Gratton": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Rob Cross": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Teresa Amabile": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Scott Eblin": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Jennifer Garvey Berger": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Carol Dweck": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Ed Batista": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Michael Lopp": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Camille Ricketts": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Tomas Chamorro-Premuzic": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Annie Duke": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Julia Galef": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Barbara Minto": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Nancy Duarte": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Dan Roam": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Patti Sanchez": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Stephen Bungay": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "David Marquet": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Stanley McChrystal": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Chris Fussell": {
+        "domain": "organizational design",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Amy C. Edmondson": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "David Rock": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Lisa Feldman Barrett": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Roy Baumeister": {
+        "domain": "HR leadership",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    },
+    "Daniel Kahneman": {
+        "domain": "operational excellence",
+        "tools": [
+            "Notion",
+            "Google Docs"
+        ],
+        "preferred_stack": "OKRs"
+    }
+}

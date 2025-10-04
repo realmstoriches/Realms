@@ -1,0 +1,4 @@
+{"role": "UI Designer", "original_crew": "DynamicCrew_launch_001", "fallback_crew": "Crew_Alpha_2", "agent": "Susan Kare"}
+{"role": "Strategic PM", "original_crew": "DynamicCrew_launch_001", "fallback_crew": "Crew_Leadership_StrategicPM", "agent": "Ada Lovelace"}
+{"role": "UI Designer", "original_crew": "DynamicCrew_launch_001", "fallback_crew": "Crew_Design_UIDesigner", "agent": "John Carmack"}
+{"role": "Frontend Engineer", "original_crew": "DynamicCrew_launch_001", "fallback_crew": "Crew_Engineering_FrontendEngineer", "agent": "Claude Shannon"}

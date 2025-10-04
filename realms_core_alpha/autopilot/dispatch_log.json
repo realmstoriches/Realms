@@ -1,0 +1,18 @@
+[
+  {
+    "platform": "LinkedIn",
+    "title": "Realms Launches Sovereign Dispatch Engine",
+    "body": "\ud83d\udcb3 [Support Realms](https://buy.stripe.com/test_abc123456)\n\ud83c\udf10 [Visit Us]     \t(https://www.realmstoriches.xyz)",
+    "images": [
+      "https://example.com/image1.jpg"
+    ],
+    "videos": [
+      "https://example.com/video1.mp4"
+    ],
+    "links": [
+      "https://www.realmstoriches.xyz",
+      "https://buy.stripe.com/test_abc123456"
+    ],
+    "cta_validated": false
+  }
+]

@@ -1,0 +1,11 @@
+{
+    "summary": {
+        "total_roles": 7,
+        "roles_missing_fallbacks": 0,
+        "invalid_agents": 0,
+        "duplicate_fallback_agents": 0
+    },
+    "missing_fallbacks": [],
+    "invalid_agents": [],
+    "duplicate_agents": {}
+}

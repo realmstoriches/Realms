@@ -1,0 +1,28 @@
+[
+    {
+        "department_name": "Strategy",
+        "teams": [
+            "Leadership"
+        ]
+    },
+    {
+        "department_name": "Technology",
+        "teams": [
+            "Engineering",
+            "Quality"
+        ]
+    },
+    {
+        "department_name": "Execution",
+        "teams": [
+            "Operations"
+        ]
+    },
+    {
+        "department_name": "Product",
+        "teams": [
+            "Design",
+            "Product"
+        ]
+    }
+]

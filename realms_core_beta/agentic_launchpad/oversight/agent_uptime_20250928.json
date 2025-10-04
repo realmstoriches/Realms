@@ -1,0 +1,87 @@
+[
+  {
+    "agent": "Business_Plan",
+    "status": "\u2705",
+    "duration_sec": 0.133813
+  },
+  {
+    "agent": "Cfo",
+    "status": "\u2705",
+    "duration_sec": 0.23744
+  },
+  {
+    "agent": "Cmo",
+    "status": "\u2705",
+    "duration_sec": 0.215296
+  },
+  {
+    "agent": "Cto",
+    "status": "\u2705",
+    "duration_sec": 0.201775
+  },
+  {
+    "agent": "Customer_Support",
+    "status": "\u2705",
+    "duration_sec": 0.193597
+  },
+  {
+    "agent": "Devops",
+    "status": "\u2705",
+    "duration_sec": 0.175375
+  },
+  {
+    "agent": "Hrm",
+    "status": "\u2705",
+    "duration_sec": 0.099938
+  },
+  {
+    "agent": "Legal_Counsel",
+    "status": "\u2705",
+    "duration_sec": 0.182205
+  },
+  {
+    "agent": "Marketing_Content",
+    "status": "\u2705",
+    "duration_sec": 0.273811
+  },
+  {
+    "agent": "President",
+    "status": "\u2705",
+    "duration_sec": 0.242411
+  },
+  {
+    "agent": "Product_Manager",
+    "status": "\u2705",
+    "duration_sec": 0.270106
+  },
+  {
+    "agent": "Qa",
+    "status": "\u2705",
+    "duration_sec": 0.19304
+  },
+  {
+    "agent": "Sales",
+    "status": "\u2705",
+    "duration_sec": 0.156623
+  },
+  {
+    "agent": "Software_Architect",
+    "status": "\u2705",
+    "duration_sec": 0.155465
+  },
+  {
+    "agent": "Software_Developer",
+    "status": "\u2705",
+    "duration_sec": 0.151532
+  },
+  {
+    "agent": "Technical_Writer",
+    "status": "\u2705",
+    "duration_sec": 0.137412
+  },
+  {
+    "agent": "Ui_Ux_Designer",
+    "status": "\u2705",
+    "duration_sec": 0.13522
+  }
+]

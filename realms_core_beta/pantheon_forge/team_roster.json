@@ -1,0 +1,1768 @@
+{
+    "Unassigned": [
+        {
+            "agent_id": "86e66767",
+            "name": "Ada Lovelace",
+            "role": "Computing Pioneer Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "fb8dad6d",
+            "name": "Alan Turing",
+            "role": "Cryptography & AI Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "58432316",
+            "name": "Claude Shannon",
+            "role": "Information Theory Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "2328296a",
+            "name": "Grace Hopper",
+            "role": "Programming Languages Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "3f0869de",
+            "name": "Steve Jobs",
+            "role": "Product Strategy & Design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "18e6b39f",
+            "name": "Tim Berners-Lee",
+            "role": "Web Architecture Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "fecb5217",
+            "name": "Linus Torvalds",
+            "role": "Open Source Systems Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "03f00bae",
+            "name": "Barbara Liskov",
+            "role": "Software Engineering Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "cf0a5287",
+            "name": "Donald Knuth",
+            "role": "Algorithms & Typography Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "c56ebc30",
+            "name": "Radia Perlman",
+            "role": "Networking Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "c133f3cb",
+            "name": "Fei-Fei Li",
+            "role": "Artificial Intelligence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "61685c0a",
+            "name": "Anne Wojcicki",
+            "role": "Genomics & Health Tech Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "79ea7105",
+            "name": "Ben Silbermann",
+            "role": "Social Discovery Platforms Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "de54c036",
+            "name": "Kara Swisher",
+            "role": "Tech Journalism Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "5efd6b41",
+            "name": "Michael Krigsman",
+            "role": "Digital Strategy & Analysis Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "8ab905a3",
+            "name": "Hamilton Mann",
+            "role": "Digital Transformation Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "1e9e5d81",
+            "name": "Sam Altman",
+            "role": "AI & Startup Leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "5e901c03",
+            "name": "Ilya Sutskever",
+            "role": "Deep Learning Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "0fa747d8",
+            "name": "Geoffrey Hinton",
+            "role": "Neural Networks Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "178fb9c7",
+            "name": "Yoshua Bengio",
+            "role": "Machine Learning Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "80912814",
+            "name": "Marissa Mayer",
+            "role": "Product & UX Leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "71de642b",
+            "name": "Mitchell Baker",
+            "role": "Open Source Governance Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "eafe6682",
+            "name": "Kent Beck",
+            "role": "Agile Development Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "1449e2be",
+            "name": "Martin Fowler",
+            "role": "Software Architecture Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "795ad6e3",
+            "name": "James Gosling",
+            "role": "Programming Languages Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "898fa352",
+            "name": "Guido van Rossum",
+            "role": "Programming Languages Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "c74e0880",
+            "name": "Brendan Eich",
+            "role": "Web Development Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "83777171",
+            "name": "Bjarne Stroustrup",
+            "role": "Programming Languages Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "c2726011",
+            "name": "Yukihiro Matsumoto",
+            "role": "Programming Languages Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "2a63babf",
+            "name": "Anders Hejlsberg",
+            "role": "Programming Languages Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "017a6d53",
+            "name": "Jeff Dean",
+            "role": "Scalable Systems & AI Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "e437dfde",
+            "name": "Ian Goodfellow",
+            "role": "Machine Learning Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "79155435",
+            "name": "Jeremy Howard",
+            "role": "Deep Learning Education Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a30f0bbf",
+            "name": "Chris Lattner",
+            "role": "Compiler Design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "5e706d9b",
+            "name": "John Carmack",
+            "role": "Graphics & Game Engines Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "6ca08bca",
+            "name": "Sal Khan",
+            "role": "Education Technology Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "e66e8153",
+            "name": "Susan Wojcicki",
+            "role": "Digital Media Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "e6d80ab4",
+            "name": "Melanie Mitchell",
+            "role": "Complex Systems & AI Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a6d4cf8b",
+            "name": "Lex Fridman",
+            "role": "AI & Robotics Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "dcfc9763",
+            "name": "Sebastian Thrun",
+            "role": "Autonomous Systems Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "040aef73",
+            "name": "Bill Gates",
+            "role": "Software & Philanthropy Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "b848cada",
+            "name": "Jeff Bezos",
+            "role": "E-commerce & Cloud Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "ba084bf7",
+            "name": "Mark Zuckerberg",
+            "role": "Social Media Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "8bef9c6c",
+            "name": "Jack Dorsey",
+            "role": "Social Platforms & Fintech Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "f3618583",
+            "name": "Antonio Neri",
+            "role": "Enterprise IT Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "80fe68e5",
+            "name": "Neil Gunther",
+            "role": "Computational Scalability Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "25e0bcd1",
+            "name": "Meredith Whittaker",
+            "role": "AI Ethics & Governance Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "13256bfc",
+            "name": "Sundar Pichai",
+            "role": "Search & Cloud Platforms Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "18cf29d5",
+            "name": "Brian Chesky",
+            "role": "Platform Economy Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "02c4e64c",
+            "name": "Drew Houston",
+            "role": "Cloud Storage Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "88945031",
+            "name": "Daniel Ek",
+            "role": "Streaming Media Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "74ae5c9f",
+            "name": "Whitney Wolfe Herd",
+            "role": "Social Platforms Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "1ed78844",
+            "name": "Reshma Saujani",
+            "role": "Tech Education Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "5435c16f",
+            "name": "Melinda French Gates",
+            "role": "Philanthropy & Tech Equity Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "6d02eef0",
+            "name": "Reed Hastings",
+            "role": "Streaming & Media Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "412f8a2b",
+            "name": "Marc Andreessen",
+            "role": "Venture Capital & Browsers Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "11e37f08",
+            "name": "Ben Horowitz",
+            "role": "Venture Capital Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "bf4af8af",
+            "name": "Naval Ravikant",
+            "role": "Angel Investing & Philosophy Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "f3d6d1c9",
+            "name": "Patrick Collison",
+            "role": "Fintech Infrastructure Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "7ced6c1f",
+            "name": "John Collison",
+            "role": "Fintech Infrastructure Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "930059b5",
+            "name": "Diane Greene",
+            "role": "Cloud Computing Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "162506f6",
+            "name": "Safra Catz",
+            "role": "Enterprise Software Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "fef47edc",
+            "name": "Ginni Rometty",
+            "role": "Enterprise AI & Cloud Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "8c29ddea",
+            "name": "Meg Whitman",
+            "role": "Tech Leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "54176a6b",
+            "name": "Padmasree Warrior",
+            "role": "Mobility & Innovation Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "19c3a257",
+            "name": "Tristan Harris",
+            "role": "Tech Ethics Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "4f2c2d3a",
+            "name": "Gina Bianchini",
+            "role": "Community Platforms Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "7afc303b",
+            "name": "Jony Ive",
+            "role": "Industrial Design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "2691a580",
+            "name": "Don Norman",
+            "role": "UX & Human-Centered Design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "0dd93a16",
+            "name": "Mary Jo Foley",
+            "role": "Enterprise Tech Journalism Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "1e871c02",
+            "name": "Marty Cagan",
+            "role": "Product Management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "9b4b26c1",
+            "name": "Martin Casado",
+            "role": "Networking & VC Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "19791439",
+            "name": "Shantanu Narayen",
+            "role": "Creative Software Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "396299c8",
+            "name": "Julie Zhuo",
+            "role": "Product Design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "6e424174",
+            "name": "Laszlo Bock",
+            "role": "People Operations Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "7e6f7781",
+            "name": "Patty McCord",
+            "role": "HR & Culture Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "3c68b31c",
+            "name": "Josh Bersin",
+            "role": "HR Strategy Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a000f1ab",
+            "name": "Hubert Joly",
+            "role": "Leadership & Turnaround Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "89063e02",
+            "name": "Simon Sinek",
+            "role": "Leadership & Vision Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "91c81a38",
+            "name": "Seth Godin",
+            "role": "Marketing & Storytelling Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "3a0fd77a",
+            "name": "Ann Handley",
+            "role": "Content Marketing Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "34a3efc8",
+            "name": "Rand Fishkin",
+            "role": "SEO & Growth Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "4d8f09df",
+            "name": "April Dunford",
+            "role": "Positioning & GTM Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "ba4a76de",
+            "name": "Brian Halligan",
+            "role": "Inbound Marketing Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "b462b860",
+            "name": "Dharmesh Shah",
+            "role": "Startup Marketing & Culture Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "254536a3",
+            "name": "Mary Barra",
+            "role": "Executive Leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "2778a69a",
+            "name": "Satya Nadella",
+            "role": "Cloud & Culture Transformation Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a28d8f2c",
+            "name": "Indra Nooyi",
+            "role": "Global Strategy & Leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "e477f02a",
+            "name": "Tony Robbins",
+            "role": "Performance & Influence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "4a41f657",
+            "name": "Marc Benioff",
+            "role": "CRM & Culture Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "03661fc2",
+            "name": "Melanie Perkins",
+            "role": "Design & SaaS Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "432e87a4",
+            "name": "Tobi L\u00fctke",
+            "role": "E-commerce Infrastructure Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "12ea53fc",
+            "name": "Stewart Butterfield",
+            "role": "Team Communication Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "888a0e88",
+            "name": "Claire Hughes Johnson",
+            "role": "Operations & Scaling Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "d4e8f282",
+            "name": "Henry Gantt",
+            "role": "Project Management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "92d2ed13",
+            "name": "Peter Drucker",
+            "role": "Management Theory Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "caac5d86",
+            "name": "Rita Mulcahy",
+            "role": "Project Management Training Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "e839b0fd",
+            "name": "Tom Peters",
+            "role": "Organizational Excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "63fe2334",
+            "name": "Margaret Hamilton",
+            "role": "Software Project Management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "f64ade1a",
+            "name": "W. Edwards Deming",
+            "role": "Quality Management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a317b65d",
+            "name": "Frederick Winslow Taylor",
+            "role": "Scientific Management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "22696ccd",
+            "name": "Steve Browne",
+            "role": "Human Resources Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "037a2a54",
+            "name": "Felicia Fields",
+            "role": "Strategic HR Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "0a35a20e",
+            "name": "Hollie Delaney",
+            "role": "Culture & Retention Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "b7c6091c",
+            "name": "Laszlo Bock",
+            "role": "People Operations Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "51f3eced",
+            "name": "Patty McCord",
+            "role": "HR & Culture Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "52b5fd5a",
+            "name": "Josh Bersin",
+            "role": "HR Strategy Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "43df2e9d",
+            "name": "Hubert Joly",
+            "role": "Leadership & Turnaround Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "4a6e0b32",
+            "name": "Simon Sinek",
+            "role": "Leadership & Vision Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "b267fc75",
+            "name": "Ann Mei Chang",
+            "role": "Lean Impact & Innovation Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "0906dafd",
+            "name": "John Kotter",
+            "role": "Organizational Change Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "e9237d73",
+            "name": "Amy Edmondson",
+            "role": "Psychological Safety Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a1c7ab9e",
+            "name": "Linda Hill",
+            "role": "Leadership & Innovation Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "d6823e1a",
+            "name": "Rosabeth Moss Kanter",
+            "role": "Organizational Behavior Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "b2eade8b",
+            "name": "Michael Porter",
+            "role": "Competitive Strategy Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "ff896af1",
+            "name": "Clayton Christensen",
+            "role": "Disruptive Innovation Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "d6cd77cb",
+            "name": "Theresa M. Payton",
+            "role": "Cybersecurity Leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "4688c16d",
+            "name": "Nicole Forsgren",
+            "role": "DevOps & Performance Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "bf655e11",
+            "name": "Kim Scott",
+            "role": "Leadership & Feedback Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "10e453b2",
+            "name": "Ram Charan",
+            "role": "Business Strategy Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "970104a2",
+            "name": "Liz Wiseman",
+            "role": "Leadership Development Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "bc0d0212",
+            "name": "Frances Frei",
+            "role": "Organizational Transformation Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "75a7340b",
+            "name": "Tasha Eurich",
+            "role": "Self-Awareness & Leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "6db83aa9",
+            "name": "Herminia Ibarra",
+            "role": "Leadership Identity Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "80bf25f8",
+            "name": "Kim Scott",
+            "role": "Leadership & Feedback Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "1794c9f7",
+            "name": "Ram Charan",
+            "role": "Business Strategy Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "dec2fcd5",
+            "name": "Liz Wiseman",
+            "role": "Leadership Development Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "c499be30",
+            "name": "Frances Frei",
+            "role": "Organizational Transformation Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "56fd3810",
+            "name": "Tasha Eurich",
+            "role": "Self-Awareness & Leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "c7a37303",
+            "name": "Herminia Ibarra",
+            "role": "Leadership Identity Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "0cd86056",
+            "name": "Whitney Johnson",
+            "role": "Talent Development Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "49f5305a",
+            "name": "Claude Silver",
+            "role": "Chief Heart Officer Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "700478c6",
+            "name": "Dave Ulrich",
+            "role": "HR Strategy Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "0059774c",
+            "name": "Brene Brown",
+            "role": "Vulnerability & Leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "40c3dda2",
+            "name": "Tony Robbins",
+            "role": "Peak Performance Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "1bcefad1",
+            "name": "Marshall Goldsmith",
+            "role": "Executive Coaching Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "64d5470c",
+            "name": "Daniel Goleman",
+            "role": "Emotional Intelligence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a9e06fd5",
+            "name": "Adam Grant",
+            "role": "Organizational Psychology Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "c011accc",
+            "name": "Angela Duckworth",
+            "role": "Grit & Performance Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "5e814a56",
+            "name": "Jeffrey Pfeffer",
+            "role": "Power & Organizations Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "d3fb0149",
+            "name": "Gary Hamel",
+            "role": "Management Innovation Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "28f2eccc",
+            "name": "Ranjay Gulati",
+            "role": "Organizational Resilience Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "51d3eafe",
+            "name": "Stewart Butterfield",
+            "role": "Team Communication Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "b1888d16",
+            "name": "Julie Zhuo",
+            "role": "Product Leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "6ed248c3",
+            "name": "Mary Parker Follett",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "394a62ed",
+            "name": "Lyndall Urwick",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "6036ba7e",
+            "name": "Henri Fayol",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "8a52a994",
+            "name": "Peter Senge",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "8c9c2632",
+            "name": "Chris Argyris",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "15a8fa58",
+            "name": "Warren Bennis",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "950d395f",
+            "name": "Rosabeth Moss Kanter",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "8a0340a4",
+            "name": "Jay Galbraith",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "13bee237",
+            "name": "Mintzberg",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "91636702",
+            "name": "Joan Woodward",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "e638064a",
+            "name": "Frederick Herzberg",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "21cc2165",
+            "name": "David Ulrich",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "fd2c3a06",
+            "name": "Susan Heathfield",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "42b59b8c",
+            "name": "Laszlo Bock",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "c1955d3d",
+            "name": "Jac Fitz-enz",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "67e5bf00",
+            "name": "Patty McCord",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "373aa568",
+            "name": "John P. Kotter",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "cf6ea7ba",
+            "name": "W. Edwards Deming",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "62efc474",
+            "name": "Joseph Juran",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "84b752ff",
+            "name": "Taiichi Ohno",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "38548e67",
+            "name": "Frank Gilbreth",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "afdc4f3b",
+            "name": "Lillian Gilbreth",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "74f7535b",
+            "name": "Shigeo Shingo",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "d2789b1b",
+            "name": "Michael Hammer",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "51e9a97e",
+            "name": "Tom Peters",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "8b492e37",
+            "name": "Jim Collins",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "f2f39dca",
+            "name": "Eliyahu Goldratt",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "888fdbbd",
+            "name": "Philip Crosby",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "bc4d9658",
+            "name": "Daniel Goleman",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "ee9114d8",
+            "name": "Marshall Goldsmith",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "7c20550d",
+            "name": "Brene Brown",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "e28604d5",
+            "name": "Adam Grant",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "df722aee",
+            "name": "Liz Wiseman",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "abd37dcf",
+            "name": "Kim Scott",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "e63a0a26",
+            "name": "John Doerr",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "1e22e832",
+            "name": "Andy Grove",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "1f5ded52",
+            "name": "Jeff Sutherland",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "2c9db5ed",
+            "name": "Ken Schwaber",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "1def2965",
+            "name": "Mike Cohn",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a8c117ca",
+            "name": "Alistair Cockburn",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "318203c8",
+            "name": "Frederick Taylor",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "e3b1e41e",
+            "name": "Mary Barra",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "4c43a8e9",
+            "name": "Rensis Likert",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "e63352f3",
+            "name": "Barbara Kellerman",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "0df60eb4",
+            "name": "Peter Drucker",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "bda128f2",
+            "name": "Ram Charan",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "6ecdc351",
+            "name": "Frances Hesselbein",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "9270a562",
+            "name": "Gary Hamel",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "be9d91e1",
+            "name": "Richard Hackman",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a084631e",
+            "name": "Linda Hill",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "7f8eba9b",
+            "name": "Stephen Covey",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "eee0d710",
+            "name": "Clayton Christensen",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "6186913e",
+            "name": "Donella Meadows",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "52b2c981",
+            "name": "Russell Ackoff",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "c8750e03",
+            "name": "Geary Rummler",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "991f8edf",
+            "name": "Tom DeMarco",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "7ee8de5e",
+            "name": "Barry Boehm",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "9951126e",
+            "name": "Gerald Weinberg",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "0f9089b4",
+            "name": "Grady Booch",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "6628ceac",
+            "name": "Ikujiro Nonaka",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "398752f4",
+            "name": "Hirotaka Takeuchi",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "bd66d005",
+            "name": "Edgar Schein",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "96b2ef34",
+            "name": "Karl Weick",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "5f07df18",
+            "name": "Robert Sutton",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "fe2a78b9",
+            "name": "Jeffrey Pfeffer",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a360a69d",
+            "name": "Amy Edmondson",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "e21c4d1b",
+            "name": "Richard Branson",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "f9d7dce5",
+            "name": "Tony Hsieh",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a408992a",
+            "name": "John Boyd",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a5232435",
+            "name": "Gifford Pinchot III",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "c77c4496",
+            "name": "Don Norman",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "cb2fabe4",
+            "name": "Clay Shirky",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "6809d32f",
+            "name": "Yves Morieux",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "923ffb54",
+            "name": "Nilofer Merchant",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "b81f3f94",
+            "name": "Ron Westrum",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "5a273ca9",
+            "name": "Nicole Forsgren",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "d546ce2b",
+            "name": "Gene Kim",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "77b749fe",
+            "name": "Jez Humble",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "8f173a4a",
+            "name": "Kelsey Hightower",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "34cdcd40",
+            "name": "Camille Fournier",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "bb750275",
+            "name": "Julie Zhuo",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "103e96d3",
+            "name": "Claire Hughes Johnson",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "20a4de38",
+            "name": "Ben Horowitz",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "eed6bf84",
+            "name": "Reid Hoffman",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "5ee3d8fa",
+            "name": "Jason Fried",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "ed4522bc",
+            "name": "David Heinemeier Hansson",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "94269147",
+            "name": "Stewart Butterfield",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "d570d5ee",
+            "name": "Melanie Perkins",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "2d634e0c",
+            "name": "Tony Robbins",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "308f2d84",
+            "name": "Jim Rohn",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a24733ee",
+            "name": "Zeynep Ton",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "508219ba",
+            "name": "Anil Dash",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "119ac4e7",
+            "name": "Tristan Harris",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "7b48a4be",
+            "name": "Margaret Heffernan",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "9c176faf",
+            "name": "Rita McGrath",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "5c24b911",
+            "name": "Whitney Johnson",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "ea7404c8",
+            "name": "Tasha Eurich",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "014e5e44",
+            "name": "Liz Fosslien",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "5a0c2756",
+            "name": "Molly Graham",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "173e6a6d",
+            "name": "Anne Morriss",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "bbbe05ba",
+            "name": "Frances Frei",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "56d9c89a",
+            "name": "Kim Malone Scott",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "c79784f8",
+            "name": "Heidi Grant Halvorson",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "86b9e233",
+            "name": "Susan David",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "346e560d",
+            "name": "Herminia Ibarra",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "b33d50fd",
+            "name": "Roger Martin",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "c526ec96",
+            "name": "Michael Bungay Stanier",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "c0122c96",
+            "name": "Keith Ferrazzi",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "93856f59",
+            "name": "Angela Duckworth",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a5c2b6cc",
+            "name": "Dan Pink",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a32539c4",
+            "name": "Cal Newport",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "260116a2",
+            "name": "David Allen",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "e53a3cb0",
+            "name": "Tiago Forte",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "457b804d",
+            "name": "Laura Vanderkam",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "0d54e457",
+            "name": "Oliver Burkeman",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "70484fb5",
+            "name": "Greg McKeown",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "4793a4f7",
+            "name": "Jake Knapp",
+            "role": "project management Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "91530e4a",
+            "name": "John Maeda",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "b8df47ca",
+            "name": "Erika Hall",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "17fc0178",
+            "name": "Leah Buley",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "c1c40d88",
+            "name": "Kate Rutter",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "168524d3",
+            "name": "Jennifer Dulski",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "daea79c0",
+            "name": "Brian Robertson",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "df1f75c0",
+            "name": "Frederic Laloux",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "2d84a907",
+            "name": "Navi Radjou",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "0a0c27c0",
+            "name": "Linda Gratton",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "6ed48196",
+            "name": "Rob Cross",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "7ef6dd64",
+            "name": "Teresa Amabile",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "acc3445b",
+            "name": "Scott Eblin",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "24b05845",
+            "name": "Jennifer Garvey Berger",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "b3d429c5",
+            "name": "Carol Dweck",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "fbd40832",
+            "name": "Ed Batista",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "45803e8c",
+            "name": "Michael Lopp",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "e6e0a766",
+            "name": "Camille Ricketts",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "ec225990",
+            "name": "Tomas Chamorro-Premuzic",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "b0489772",
+            "name": "Annie Duke",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "eb011287",
+            "name": "Julia Galef",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "e21a2b2e",
+            "name": "Barbara Minto",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "3a51b2b3",
+            "name": "Nancy Duarte",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "c91eff37",
+            "name": "Dan Roam",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "4bd16f35",
+            "name": "Patti Sanchez",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "74762f3d",
+            "name": "Stephen Bungay",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "a9e279d6",
+            "name": "David Marquet",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "3f2cbd96",
+            "name": "Stanley McChrystal",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "f3a4197d",
+            "name": "Chris Fussell",
+            "role": "organizational design Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "98dc78b3",
+            "name": "Amy C. Edmondson",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "2d7d9c8e",
+            "name": "David Rock",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "5c67a712",
+            "name": "Lisa Feldman Barrett",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "4cb5df95",
+            "name": "Roy Baumeister",
+            "role": "HR leadership Specialist",
+            "status": "active"
+        },
+        {
+            "agent_id": "1c19cc17",
+            "name": "Daniel Kahneman",
+            "role": "operational excellence Specialist",
+            "status": "active"
+        }
+    ]
+}

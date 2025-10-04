@@ -1,0 +1,248 @@
+{
+    "crew_name": "Crew_Product_ProductLead",
+    "mission_scope": "Real mission packet for Crew_Product_ProductLead",
+    "agents": [],
+    "fallbacks": [
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Anders Hejlsberg"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Jeremy Howard"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Susan Wojcicki"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Sebastian Thrun"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Bill Gates"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Brian Chesky"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Reed Hastings"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Seth Godin"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "April Dunford"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Tobi L\u00fctke"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Linda Hill"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Michael Porter"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Herminia Ibarra"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Whitney Johnson"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Dave Ulrich"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Marshall Goldsmith"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Daniel Goleman"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Adam Grant"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Angela Duckworth"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Joan Woodward"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "David Ulrich"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Shigeo Shingo"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Michael Hammer"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Philip Crosby"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Andy Grove"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Ikujiro Nonaka"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Robert Sutton"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "John Boyd"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Clay Shirky"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Jez Humble"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Roger Martin"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Keith Ferrazzi"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "David Allen"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Jennifer Garvey Berger"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Annie Duke"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Dan Roam"
+        },
+        {
+            "role_title": "Product Lead",
+            "fallback_agent": "Amy C. Edmondson"
+        }
+    ],
+    "domains": [
+        "General"
+    ],
+    "persona_overlay": {
+        "crew_style": "adaptive",
+        "tone": "neutral"
+    },
+    "dispatch_logic": {
+        "primary": "Crew_Product_ProductLead",
+        "fallback": [
+            "Anders Hejlsberg",
+            "Jeremy Howard",
+            "Susan Wojcicki",
+            "Sebastian Thrun",
+            "Bill Gates",
+            "Brian Chesky",
+            "Reed Hastings",
+            "Seth Godin",
+            "April Dunford",
+            "Tobi L\u00fctke",
+            "Linda Hill",
+            "Michael Porter",
+            "Herminia Ibarra",
+            "Whitney Johnson",
+            "Dave Ulrich",
+            "Marshall Goldsmith",
+            "Daniel Goleman",
+            "Adam Grant",
+            "Angela Duckworth",
+            "Joan Woodward",
+            "David Ulrich",
+            "Shigeo Shingo",
+            "Michael Hammer",
+            "Philip Crosby",
+            "Andy Grove",
+            "Ikujiro Nonaka",
+            "Robert Sutton",
+            "John Boyd",
+            "Clay Shirky",
+            "Jez Humble",
+            "Roger Martin",
+            "Keith Ferrazzi",
+            "David Allen",
+            "Jennifer Garvey Berger",
+            "Annie Duke",
+            "Dan Roam",
+            "Amy C. Edmondson"
+        ],
+        "twin_origin": "pantheon_twin/Crew_Product_ProductLead",
+        "offline_safe": [
+            "Donald Knuth"
+        ]
+    },
+    "confirmation_chain": [
+        "Adam Grant",
+        "Amy C. Edmondson",
+        "Anders Hejlsberg",
+        "Andy Grove",
+        "Angela Duckworth",
+        "Annie Duke",
+        "April Dunford",
+        "Bill Gates",
+        "Brian Chesky",
+        "Clay Shirky",
+        "Dan Roam",
+        "Daniel Goleman",
+        "Dave Ulrich",
+        "David Allen",
+        "David Ulrich",
+        "Donald Knuth",
+        "Herminia Ibarra",
+        "Ikujiro Nonaka",
+        "Jennifer Garvey Berger",
+        "Jeremy Howard",
+        "Jez Humble",
+        "Joan Woodward",
+        "John Boyd",
+        "Keith Ferrazzi",
+        "Linda Hill",
+        "Marshall Goldsmith",
+        "Michael Hammer",
+        "Michael Porter",
+        "Philip Crosby",
+        "Reed Hastings",
+        "Robert Sutton",
+        "Roger Martin",
+        "Sebastian Thrun",
+        "Seth Godin",
+        "Shigeo Shingo",
+        "Susan Wojcicki",
+        "Tobi L\u00fctke",
+        "Whitney Johnson"
+    ]
+}

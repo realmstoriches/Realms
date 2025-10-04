@@ -1,0 +1,58 @@
+{
+  "tiers": {
+    "Basic": {
+      "monthly": 49,
+      "features": [
+        "Single crew dispatch",
+        "Fallback logic",
+        "Dashboard access",
+        "Email campaign automation",
+        "Weekly blog content"
+      ],
+      "fallback_guarantee": false,
+      "recursive_scaling": false
+    },
+    "Pro": {
+      "monthly": 149,
+      "features": [
+        "Multi-crew dispatch",
+        "Recursive scaling",
+        "Custom agent onboarding",
+        "Investor relations module",
+        "Social channel automation"
+      ],
+      "fallback_guarantee": true,
+      "recursive_scaling": true
+    },
+    "Enterprise": {
+      "custom": true,
+      "features": [
+        "Dedicated fallback routing",
+        "White-label Realms deployment",
+        "Real-time analytics dashboard",
+        "24/7 crew coverage",
+        "Agentic workforce expansion",
+        "Priority investor outreach"
+      ],
+      "fallback_guarantee": true,
+      "recursive_scaling": true
+    }
+  },
+  "per_mission": {
+    "ContentCreation": 15,
+    "EmailCampaign": 25,
+    "InvestorOutreach": 40,
+    "CrewDispatch": 10,
+    "RecursiveSpawn": 20,
+    "DashboardUpdate": 5
+  },
+  "discounts": {
+    "annual_commitment": 0.15,
+    "referral_bonus": 0.10,
+    "early_adopter": 0.20
+  },
+  "currency": "USD",
+  "billing_cycle": "monthly",
+  "payment_gateways": ["Stripe", "PayPal", "Crypto (USDC, ETH)"]
+}
+
