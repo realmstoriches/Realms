@@ -1,0 +1,72 @@
+{
+  "syndication_status": {
+    "LinkedIn": [
+      {
+        "timestamp": "2025-09-29T21:00:47.756066",
+        "success": false
+      },
+      {
+        "timestamp": "2025-09-29T21:00:49.762826",
+        "success": false
+      },
+      {
+        "timestamp": "2025-09-29T21:00:53.772352",
+        "success": false
+      },
+      {
+        "timestamp": "2025-09-29T21:00:59.788876",
+        "success": false
+      },
+      {
+        "timestamp": "2025-09-29T21:01:07.796345",
+        "success": false
+      }
+    ],
+    "Twitter": [
+      {
+        "timestamp": "2025-09-29T21:00:47.757024",
+        "success": true
+      },
+      {
+        "timestamp": "2025-09-29T21:00:49.762826",
+        "success": true
+      },
+      {
+        "timestamp": "2025-09-29T21:00:53.773454",
+        "success": true
+      },
+      {
+        "timestamp": "2025-09-29T21:00:59.788876",
+        "success": true
+      },
+      {
+        "timestamp": "2025-09-29T21:01:07.796345",
+        "success": true
+      }
+    ],
+    "Facebook": [
+      {
+        "timestamp": "2025-09-29T21:00:47.757024",
+        "success": true
+      },
+      {
+        "timestamp": "2025-09-29T21:00:49.763877",
+        "success": true
+      },
+      {
+        "timestamp": "2025-09-29T21:00:53.773454",
+        "success": true
+      },
+      {
+        "timestamp": "2025-09-29T21:00:59.789980",
+        "success": true
+      },
+      {
+        "timestamp": "2025-09-29T21:01:07.797378",
+        "success": true
+      }
+    ],
+    "last_attempt": "2025-09-29T21:01:17.824921",
+    "fallback_triggered": false
+  }
+}

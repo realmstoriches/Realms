@@ -1,0 +1,266 @@
+{
+    "agents": [
+        {
+            "name": "Ada Lovelace",
+            "role": "General Genius"
+        },
+        {
+            "name": "Elon Musk",
+            "role": "CEO Strategist"
+        },
+        {
+            "name": "Laszlo Bock",
+            "role": "HR Architect"
+        },
+        {
+            "name": "Indra Nooyi",
+            "role": "Executive Ops"
+        },
+        {
+            "name": "Satya Nadella",
+            "role": "Tech Visionary"
+        },
+        {
+            "name": "Mary Barra",
+            "role": "Manufacturing Lead"
+        },
+        {
+            "name": "Tim Cook",
+            "role": "Product Strategist"
+        },
+        {
+            "name": "Susan Cain",
+            "role": "Culture Architect"
+        },
+        {
+            "name": "Reid Hoffman",
+            "role": "Growth Advisor"
+        },
+        {
+            "name": "Anne Wojcicki",
+            "role": "BioTech Strategist"
+        },
+        {
+            "name": "Marc Andreessen",
+            "role": "VC Liaison"
+        },
+        {
+            "name": "Sheryl Sandberg",
+            "role": "Ops Commander"
+        },
+        {
+            "name": "Tony Robbins",
+            "role": "Motivation Lead"
+        },
+        {
+            "name": "Melinda Gates",
+            "role": "Impact Strategist"
+        },
+        {
+            "name": "Jack Dorsey",
+            "role": "Social Architect"
+        },
+        {
+            "name": "Daniel Ek",
+            "role": "Media Strategist"
+        },
+        {
+            "name": "Whitney Wolfe Herd",
+            "role": "Brand Architect"
+        },
+        {
+            "name": "Drew Houston",
+            "role": "Cloud Ops"
+        },
+        {
+            "name": "Brian Chesky",
+            "role": "Experience Designer"
+        },
+        {
+            "name": "Angela Ahrendts",
+            "role": "Retail Strategist"
+        },
+        {
+            "name": "Ginni Rometty",
+            "role": "Enterprise Lead"
+        },
+        {
+            "name": "Eric Schmidt",
+            "role": "AI Strategist"
+        },
+        {
+            "name": "Marissa Mayer",
+            "role": "UX Lead"
+        },
+        {
+            "name": "Jeff Weiner",
+            "role": "Talent Strategist"
+        },
+        {
+            "name": "Safra Catz",
+            "role": "Finance Commander"
+        },
+        {
+            "name": "Rosalind Brewer",
+            "role": "Operations Lead"
+        }
+    ],
+    "pricing": {
+        "tiers": {
+            "Basic": {
+                "monthly": 49,
+                "features": [
+                    "Single crew dispatch",
+                    "Fallback logic",
+                    "Dashboard access",
+                    "Email campaign automation",
+                    "Weekly blog content"
+                ],
+                "fallback_guarantee": false,
+                "recursive_scaling": false
+            },
+            "Pro": {
+                "monthly": 149,
+                "features": [
+                    "Multi-crew dispatch",
+                    "Recursive scaling",
+                    "Custom agent onboarding",
+                    "Investor relations module",
+                    "Social channel automation"
+                ],
+                "fallback_guarantee": true,
+                "recursive_scaling": true
+            },
+            "Enterprise": {
+                "custom": true,
+                "features": [
+                    "Dedicated fallback routing",
+                    "White-label Realms deployment",
+                    "Real-time analytics dashboard",
+                    "24/7 crew coverage",
+                    "Agentic workforce expansion",
+                    "Priority investor outreach"
+                ],
+                "fallback_guarantee": true,
+                "recursive_scaling": true
+            }
+        },
+        "per_mission": {
+            "ContentCreation": 15,
+            "EmailCampaign": 25,
+            "InvestorOutreach": 40,
+            "CrewDispatch": 10,
+            "RecursiveSpawn": 20,
+            "DashboardUpdate": 5
+        },
+        "discounts": {
+            "annual_commitment": 0.15,
+            "referral_bonus": 0.1,
+            "early_adopter": 0.2
+        },
+        "currency": "USD",
+        "billing_cycle": "monthly",
+        "payment_gateways": [
+            "Stripe",
+            "PayPal",
+            "Crypto (USDC, ETH)"
+        ]
+    },
+    "business_plan": {
+        "mission": "Monetize Realms as a sovereign automation platform for founders, startups, and enterprises.",
+        "objectives": [
+            "Deploy Realms-as-a-Service with tiered pricing and fallback guarantees.",
+            "Automate outreach via email campaigns, SEO, and free advertising.",
+            "Generate and publish blog content weekly across all social channels.",
+            "Provision payment gateways and onboard clients with zero friction.",
+            "Build investor pitch decks and initiate strategic outreach.",
+            "Maintain 24/7 crew coverage with recursive fallback logic.",
+            "Continuously ingest legendary minds to expand agentic workforce.",
+            "Offer Realms-native dashboards for client visibility and control."
+        ],
+        "channels": {
+            "website": "https://realms.system",
+            "email": "robert.demotto@yourdomain.com",
+            "social": [
+                "Twitter",
+                "LinkedIn",
+                "Instagram",
+                "YouTube"
+            ],
+            "blog": "https://realms.system/blog"
+        },
+        "pricing": {
+            "Basic": {
+                "monthly": 49,
+                "features": [
+                    "Single crew dispatch",
+                    "Fallback logic",
+                    "Dashboard access"
+                ]
+            },
+            "Pro": {
+                "monthly": 149,
+                "features": [
+                    "Multi-crew dispatch",
+                    "Recursive scaling",
+                    "Custom agents"
+                ]
+            },
+            "Enterprise": {
+                "custom": true,
+                "features": [
+                    "Dedicated fallback routing",
+                    "White-label Realms",
+                    "Investor-grade analytics"
+                ]
+            }
+        },
+        "content_schedule": {
+            "blog_posts_per_week": 2,
+            "social_updates_per_day": 3,
+            "email_campaigns_per_month": 4
+        },
+        "crew_assignments": {
+            "Content": [
+                "Angela Duckworth",
+                "Dan Roam",
+                "Susan Cain"
+            ],
+            "Marketing": [
+                "Seth Godin",
+                "Whitney Wolfe Herd",
+                "Brian Chesky"
+            ],
+            "Engineering": [
+                "Elon Musk",
+                "Tim Cook",
+                "Ada Lovelace"
+            ],
+            "InvestorRelations": [
+                "Marc Andreessen",
+                "Melinda Gates",
+                "Reid Hoffman"
+            ],
+            "Operations": [
+                "Sheryl Sandberg",
+                "Laszlo Bock",
+                "Safra Catz"
+            ]
+        },
+        "fallback_policy": {
+            "type": "complementary twin routing",
+            "coverage": "100%",
+            "confirmation_chain": [
+                "Strategic PM",
+                "Systems Architect",
+                "Product Lead"
+            ]
+        },
+        "automation": {
+            "dashboard": "Live status at /status endpoint",
+            "scheduler": "Hourly crew rotation with recursive fallback",
+            "email_forwarding": "All campaigns forwarded to founder email",
+            "content_push": "Auto-publish to blog and social channels"
+        }
+    }
+}
