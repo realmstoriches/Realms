@@ -1,0 +1,103 @@
+manifest_version: 1.0
+organization: Realms to Riches
+mission: Build a sovereign, operationally independent outreach and monetization engine that scales globally and preserves founder sovereignty.
+
+agents:
+  - role: PresidentAgent
+    script: agents/president_agent.py
+    responsibilities:
+      - Oversee all agents
+      - Strategic decisions
+      - Trigger IPO sequence
+
+  - role: CFOAgent
+    script: agents/cfo_agent.py
+    responsibilities:
+      - Manage finances
+      - Integrate payment gateway
+      - Prepare financials for IPO
+
+  - role: CTOAgent
+    script: agents/cto_agent.py
+    responsibilities:
+      - Oversee tech stack
+      - Manage dev agents
+      - Coordinate CI/CD
+
+  - role: CMOAgent
+    script: agents/cmo_agent.py
+    responsibilities:
+      - Marketing strategy
+      - Lead content creation
+      - Syndicate outreach
+
+  - role: ProductManagerAgent
+    script: agents/product_manager_agent.py
+    responsibilities:
+      - Define roadmap
+      - Align product with goals
+
+  - role: SoftwareArchitectAgent
+    script: agents/software_architect_agent.py
+    responsibilities:
+      - Design architecture
+      - Set coding standards
+
+  - role: SoftwareDeveloperAgent
+    script: agents/software_developer_agent.py
+    responsibilities:
+      - Write code
+      - Implement features
+
+  - role: DevOpsAgent
+    script: agents/devops_agent.py
+    responsibilities:
+      - CI/CD pipeline
+      - Automate deployments
+      - Finalize Make.com scenario
+
+  - role: QAAgent
+    script: agents/qa_agent.py
+    responsibilities:
+      - Automated testing
+      - Quality assurance
+
+  - role: UIUXDesignerAgent
+    script: agents/ui_ux_designer_agent.py
+    responsibilities:
+      - Design UI/UX
+      - Improve usability
+      - Deploy blog interface
+
+  - role: TechnicalWriterAgent
+    script: agents/technical_writer_agent.py
+    responsibilities:
+      - Documentation
+      - User manuals
+
+  - role: MarketingContentAgent
+    script: agents/marketing_content_agent.py
+    responsibilities:
+      - Create blog/social/email content
+      - Insert CTAs and lead magnets
+
+  - role: SalesAgent
+    script: agents/sales_agent.py
+    responsibilities:
+      - Lead generation
+      - Conversion funnel
+      - Build sales logic
+
+  - role: LegalCounselAgent
+    script: agents/legal_counsel_agent.py
+    responsibilities:
+      - Legal docs
+      - Terms and privacy
+      - Draft and finalize S-1
+
+  - role: CustomerSupportAgent
+    script: agents/customer_support_agent.py
+    responsibilities:
+      - Handle inquiries
+      - Support users
+

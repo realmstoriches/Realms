@@ -1,278 +1,513 @@
-[
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:42:47.601411"
-  },
-  {
-    "name": "modules",
-    "path": "F:\\Realms\\agentic_pool\\modules",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:42:48.437755"
-  },
-  {
-    "name": "modules",
-    "path": "F:\\Realms\\agentic_pool\\modules",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:42:49.371749"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:42:50.647210"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:42:51.921741"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:42:53.077824"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:42:54.340327"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:42:55.537420"
-  },
-  {
-    "name": "modules",
-    "path": "F:\\Realms\\agentic_pool\\modules",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:42:56.311288"
-  },
-  {
-    "name": "modules",
-    "path": "F:\\Realms\\agentic_pool\\modules",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:42:57.166910"
-  },
-  {
-    "name": "agentic_launchpad",
-    "path": "F:\\Realms\\agentic_pool\\agentic_launchpad",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:42:58.663550"
-  },
-  {
-    "name": "modules",
-    "path": "F:\\Realms\\agentic_pool\\modules",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:01.999165"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:07.879694"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:10.345553"
-  },
-  {
-    "name": "diagnostics",
-    "path": "F:\\Realms\\agentic_pool\\diagnostics",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:10.767828"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:12.476453"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:14.440883"
-  },
-  {
-    "name": "modules",
-    "path": "F:\\Realms\\agentic_pool\\modules",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:15.501173"
-  },
-  {
-    "name": "agentic_launchpad",
-    "path": "F:\\Realms\\agentic_pool\\agentic_launchpad",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:17.146561"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:18.815321"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:20.464772"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:22.113263"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:23.703797"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:25.384105"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:26.968283"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:28.575797"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:30.356223"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:31.994925"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:33.784448"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:35.681663"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:37.417411"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:39.043491"
-  },
-  {
-    "name": "agentic_launchpad",
-    "path": "F:\\Realms\\agentic_pool\\agentic_launchpad",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:40.013976"
-  },
-  {
-    "name": "agentic_launchpad",
-    "path": "F:\\Realms\\agentic_pool\\agentic_launchpad",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:40.900799"
-  },
-  {
-    "name": "agentic_launchpad",
-    "path": "F:\\Realms\\agentic_pool\\agentic_launchpad",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:41.844591"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:42.964745"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:44.120516"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:45.335962"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:46.538422"
-  },
-  {
-    "name": "modules",
-    "path": "F:\\Realms\\agentic_pool\\modules",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:47.437753"
-  },
-  {
-    "name": "diagnostics",
-    "path": "F:\\Realms\\agentic_pool\\diagnostics",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:47.752008"
-  },
-  {
-    "name": "agentic_launchpad",
-    "path": "F:\\Realms\\agentic_pool\\agentic_launchpad",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:48.825338"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:50.112565"
-  },
-  {
-    "name": "modules",
-    "path": "F:\\Realms\\agentic_pool\\modules",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:50.850286"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:51.980090"
-  },
-  {
-    "name": "agents",
-    "path": "F:\\Realms\\agentic_pool\\agents",
-    "status": "ready",
-    "last_synced": "2025-10-03 21:43:53.132595"
-  }
-]
+{
+  "timestamp": "2025-10-03 23:47:48.038305",
+  "agents": [
+    {
+      "name": "agentic_autopilot",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agentic_autopilot.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\agentic_autopilot",
+      "credentials": {}
+    },
+    {
+      "name": "finish_line_master",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\finish_line_master.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\finish_line_master",
+      "credentials": {}
+    },
+    {
+      "name": "syndication_master",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\syndication_master.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\syndication_master",
+      "credentials": {}
+    },
+    {
+      "name": "cfo_agent",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agents\\cfo_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\cfo_agent",
+      "credentials": {}
+    },
+    {
+      "name": "cmo_agent",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agents\\cmo_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\cmo_agent",
+      "credentials": {}
+    },
+    {
+      "name": "cto_agent",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agents\\cto_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\cto_agent",
+      "credentials": {}
+    },
+    {
+      "name": "customer_support_agent",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agents\\customer_support_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\customer_support_agent",
+      "credentials": {}
+    },
+    {
+      "name": "devops_agent",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agents\\devops_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\devops_agent",
+      "credentials": {}
+    },
+    {
+      "name": "legal_counsel_agent",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agents\\legal_counsel_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\legal_counsel_agent",
+      "credentials": {}
+    },
+    {
+      "name": "marketing_content_agent",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agents\\marketing_content_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\marketing_content_agent",
+      "credentials": {}
+    },
+    {
+      "name": "president_agent",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agents\\president_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\president_agent",
+      "credentials": {}
+    },
+    {
+      "name": "product_manager_agent",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agents\\product_manager_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\product_manager_agent",
+      "credentials": {}
+    },
+    {
+      "name": "qa_agent",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agents\\qa_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\qa_agent",
+      "credentials": {}
+    },
+    {
+      "name": "sales_agent",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agents\\sales_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\sales_agent",
+      "credentials": {}
+    },
+    {
+      "name": "software_architect_agent",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agents\\software_architect_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\software_architect_agent",
+      "credentials": {}
+    },
+    {
+      "name": "software_developer_agent",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agents\\software_developer_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\software_developer_agent",
+      "credentials": {}
+    },
+    {
+      "name": "technical_writer_agent",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agents\\technical_writer_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\technical_writer_agent",
+      "credentials": {}
+    },
+    {
+      "name": "ui_ux_designer_agent",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\agents\\ui_ux_designer_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\ui_ux_designer_agent",
+      "credentials": {}
+    },
+    {
+      "name": "content_pipeline",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\modules\\content_pipeline.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\content_pipeline",
+      "credentials": {}
+    },
+    {
+      "name": "crew_scheduler",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\modules\\crew_scheduler.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\crew_scheduler",
+      "credentials": {}
+    },
+    {
+      "name": "investor_relations",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\modules\\investor_relations.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\investor_relations",
+      "credentials": {}
+    },
+    {
+      "name": "monetization_engine",
+      "path": "F:\\Realms\\realms_core_alpha\\agentic_launchpad\\modules\\monetization_engine.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\monetization_engine",
+      "credentials": {}
+    },
+    {
+      "name": "syndication_validator",
+      "path": "F:\\Realms\\realms_core_alpha\\realms_agentic_core\\diagnostics\\syndication_validator.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\syndication_validator",
+      "credentials": {}
+    },
+    {
+      "name": "agentic_autopilot",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agentic_autopilot.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\agentic_autopilot",
+      "credentials": {}
+    },
+    {
+      "name": "finish_line_master",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\finish_line_master.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\finish_line_master",
+      "credentials": {}
+    },
+    {
+      "name": "syndication_master",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\syndication_master.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\syndication_master",
+      "credentials": {}
+    },
+    {
+      "name": "cfo_agent",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agents\\cfo_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\cfo_agent",
+      "credentials": {}
+    },
+    {
+      "name": "cmo_agent",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agents\\cmo_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\cmo_agent",
+      "credentials": {}
+    },
+    {
+      "name": "cto_agent",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agents\\cto_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\cto_agent",
+      "credentials": {}
+    },
+    {
+      "name": "customer_support_agent",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agents\\customer_support_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\customer_support_agent",
+      "credentials": {}
+    },
+    {
+      "name": "devops_agent",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agents\\devops_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\devops_agent",
+      "credentials": {}
+    },
+    {
+      "name": "legal_counsel_agent",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agents\\legal_counsel_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\legal_counsel_agent",
+      "credentials": {}
+    },
+    {
+      "name": "marketing_content_agent",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agents\\marketing_content_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\marketing_content_agent",
+      "credentials": {}
+    },
+    {
+      "name": "president_agent",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agents\\president_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\president_agent",
+      "credentials": {}
+    },
+    {
+      "name": "product_manager_agent",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agents\\product_manager_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\product_manager_agent",
+      "credentials": {}
+    },
+    {
+      "name": "qa_agent",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agents\\qa_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\qa_agent",
+      "credentials": {}
+    },
+    {
+      "name": "sales_agent",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agents\\sales_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\sales_agent",
+      "credentials": {}
+    },
+    {
+      "name": "software_architect_agent",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agents\\software_architect_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\software_architect_agent",
+      "credentials": {}
+    },
+    {
+      "name": "software_developer_agent",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agents\\software_developer_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\software_developer_agent",
+      "credentials": {}
+    },
+    {
+      "name": "technical_writer_agent",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agents\\technical_writer_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\technical_writer_agent",
+      "credentials": {}
+    },
+    {
+      "name": "ui_ux_designer_agent",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\agents\\ui_ux_designer_agent.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\ui_ux_designer_agent",
+      "credentials": {}
+    },
+    {
+      "name": "content_pipeline",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\modules\\content_pipeline.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\content_pipeline",
+      "credentials": {}
+    },
+    {
+      "name": "crew_scheduler",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\modules\\crew_scheduler.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\crew_scheduler",
+      "credentials": {}
+    },
+    {
+      "name": "investor_relations",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\modules\\investor_relations.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\investor_relations",
+      "credentials": {}
+    },
+    {
+      "name": "monetization_engine",
+      "path": "F:\\Realms\\realms_core_beta\\agentic_launchpad\\modules\\monetization_engine.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\monetization_engine",
+      "credentials": {}
+    },
+    {
+      "name": "syndication_validator",
+      "path": "F:\\Realms\\realms_core_beta\\realms_agentic_core\\diagnostics\\syndication_validator.py",
+      "crew": "fallback",
+      "role": "Fallback Specialist",
+      "dual_core": false,
+      "memory": {},
+      "status": "containerized",
+      "container_path": "F:\\Realms\\agentic_pool\\fallback\\fallback_specialist\\syndication_validator",
+      "credentials": {}
+    }
+  ],
+  "monetization": [],
+  "syndication": []
+}
