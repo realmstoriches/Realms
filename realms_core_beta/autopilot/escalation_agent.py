@@ -1,32 +1,10 @@
-import sys
-import os
 import logging
 import json
-
-# 🧠 Ensure sibling modules resolve
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
+import os
 from agentic_launchpad.modules.upsell_agent import generate_upsell_payload
 from agentic_launchpad.modules.email_campaign.thank_you_agent import send_thank_you_email
 
 logging.basicConfig(level=logging.INFO)
-
-def assign_fallback_agent(diagnosis):
-    logging.info(f"🧠 Assigning fallback agent for diagnosis: {diagnosis}")
-    # You can later map diagnosis to specific fallback logic here
-    return {
-        "role": "fallback_dispatcher",
-        "crew": {"crew_name": "fallback_core"},
-        "manifest": {
-            "expanded_roles": [
-                {
-                    "role_title": "fallback_dispatcher",
-                    "crew": "fallback_core",
-                    "agent_name": "fallback_email"
-                }
-            ]
-        }
-    }
 
 def escalate_if_needed(role, crew, manifest):
     fallback_agent = next(

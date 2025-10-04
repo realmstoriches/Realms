@@ -25,6 +25,29 @@ def safe_write(path, content):
     except Exception as e:
         print(f"❌ Failed to write {path.name}: {e}")
 
+def heal_env_file():
+    env_path = BASE.parent / ".env"
+    if not env_path.exists():
+        print("⚠️ .env not found. Creating...")
+        env_path.write_text("", encoding="utf-8")
+        return
+    lines = safe_read(env_path).splitlines()
+    clean = []
+    for line in lines:
+        if "=" in line and not line.strip().startswith("#"):
+            key, val = line.strip().split("=", 1)
+            val = val.strip()
+            # Preserve quotes if value contains special characters
+            if any(c in val for c in ['#', '*', ' ', '(', ')']):
+                val = '"' + val.strip().strip('"').strip("'") + '"'
+            clean.append(f"{key.strip()}={val}\n")
+        else:
+            clean.append(line + "\n")
+
+
+    safe_write(env_path, "".join(clean))
+    print("✅ .env healed")
+
 def patch_config_manager():
     path = BASE / "config_manager.py"
     if not path.exists(): return
@@ -55,6 +78,21 @@ def patch_realms_autopilot():
             "sys.path.append(str(Path(__file__).resolve().parent))\n"
         )
         updated = patch + code.replace("from agentic_launchpad.", "from ")
+        safe_write(path, updated)
+
+def patch_fallback_email():
+    path = BASE / "fallback_email.py"
+    if not path.exists(): return
+    code = safe_read(path)
+    if code and "realms_agentic_core.dispatch.dispatch_email" in code:
+        patch = (
+            "import sys\nfrom pathlib import Path\n"
+            "sys.path.append(str(Path(__file__).resolve().parent.parent))\n"
+        )
+        updated = patch + code.replace(
+            "from realms_agentic_core.dispatch.dispatch_email",
+            "from dispatch.dispatch_email"
+        )
         safe_write(path, updated)
 
 def create_fallback_trigger():
@@ -88,15 +126,21 @@ def add_init_files():
 def run_all_patches():
     print("\n🧠 Starting patch and repair sequence...")
     try:
+        heal_env_file()
         patch_config_manager()
         patch_syndication_master()
         patch_realms_autopilot()
+        patch_fallback_email()
         create_fallback_trigger()
         add_init_files()
         print("\n✅ All patches applied. System ready for launch.")
     except Exception:
         print("\n❌ Patch script failed unexpectedly:")
         traceback.print_exc()
+
+def execute_repair():
+    print("\n🛠️ [execute_repair] Running full patch and repair sequence...")
+    run_all_patches()
 
 if __name__ == "__main__":
     run_all_patches()

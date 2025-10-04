@@ -16,6 +16,9 @@ sys.path.append(str(Path(__file__).resolve().parent.parent / 'superimage'))
 import sys
 from pathlib import Path
 sys.path.append(str(Path(__file__).resolve().parent.parent / 'superimage'))
+import sys
+from pathlib import Path
+sys.path.append(str(Path(__file__).resolve().parent.parent / 'superimage'))
 import json, random, requests
 from datetime import datetime
 from pathlib import Path

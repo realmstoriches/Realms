@@ -1,7 +1,6 @@
-import requests, re, time, random, smtplib, dns.resolver
+import requests, re, time, random, smtplib, dns.resolver, shutil
 from bs4 import BeautifulSoup
 import undetected_chromedriver as uc
-from realms_agentic_core.proxy_pool import PROXIES
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -10,7 +9,11 @@ HEADERS = {
 def get_rendered_html(url):
     try:
         options = uc.ChromeOptions()
-        options.headless = True
+        options.add_argument("--headless")
+        options.add_argument("--disable-gpu")
+        chrome_path = shutil.which("chrome") or shutil.which("google-chrome")
+        if chrome_path:
+            options.binary_location = chrome_path
         driver = uc.Chrome(options=options)
         driver.get(url)
         time.sleep(3)
@@ -39,15 +42,21 @@ def extract_emails_from_html(html):
 
     return emails
 
-def fetch_html(url):
+def fetch_html(url, proxies=None):
     for attempt in range(3):
-        proxy = random.choice(PROXIES)
+        proxy = random.choice(proxies) if proxies else None
         try:
-            response = requests.get(url, headers=HEADERS, proxies={"http": proxy, "https": proxy}, timeout=10)
+            response = requests.get(url, headers=HEADERS, proxies={"http": proxy, "https": proxy} if proxy else None, timeout=10)
             return response.text
         except Exception as e:
             print(f"⚠️ Proxy failed: {proxy} — {e}")
-    return ""
+    print("🔁 Retrying without proxy...")
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=10)
+        return response.text
+    except Exception as e:
+        print(f"❌ Final failure: {url} — {e}")
+        return ""
 
 def validate_email(email):
     domain = email.split('@')[-1]
@@ -64,7 +73,7 @@ def validate_email(email):
     except Exception:
         return False
 
-def scrape_github_email_dumps():
+def scrape_github_email_dumps(proxies=None):
     repos = [
         "https://github.com/Mithileysh/Email-Datasets",
         "https://github.com/Abumaude/Email_Datasets",
@@ -72,18 +81,18 @@ def scrape_github_email_dumps():
     ]
     harvested = set()
     for repo in repos:
-        html = fetch_html(repo)
+        html = fetch_html(repo, proxies=proxies)
         harvested.update(extract_emails_from_html(html))
     return harvested
 
-def harvest_leads(domain_list):
+def harvest_leads(domain_list, proxies=None):
     all_emails = set()
     failed_domains = []
     invalid_emails = []
 
     for url in domain_list:
         print(f"\n🔎 Scanning: {url}")
-        html = fetch_html(url)
+        html = fetch_html(url, proxies=proxies)
         emails = extract_emails_from_html(html)
 
         if not emails:
@@ -105,7 +114,7 @@ def harvest_leads(domain_list):
                 invalid_emails.append(email)
 
     print("\n📦 Scraping GitHub email dump repositories...")
-    github_emails = scrape_github_email_dumps()
+    github_emails = scrape_github_email_dumps(proxies=proxies)
     for email in github_emails:
         print(f"🔍 Validating GitHub dump email: {email}")
         if validate_email(email):
@@ -130,45 +139,13 @@ def harvest_leads(domain_list):
     return list(all_emails)
 
 if __name__ == "__main__":
-    domains = [
-        # 🧠 Founder & Startup Directories
-        "https://www.bookyourdata.com/buy-email-list/founder",
-        "https://www.iinfotanks.com/founder-email-list/",
-        "https://angel.co/companies",
-        "https://www.crunchbase.com/discover/organization.companies",
-        "https://www.producthunt.com/startups",
-        "https://www.startupblink.com/startups/united-states",
-        "https://www.gust.com/startups",
-        "https://www.f6s.com/startups",
-
-        # 🧠 Developer & Engineer Hubs
-        "https://github.com/torvalds",
-        "https://github.com/sindresorhus",
-        "https://github.com/gaearon",
-        "https://github.com/yyx990803",
-        "https://github.com/rauchg",
-        "https://stackoverflow.com/users",
-        "https://dev.to",
-
-        # 🧠 University Faculty Directories
-        "https://www.psu.edu/search/directories",
-        "https://www.upenn.edu/directories",
-        "https://www.cs.cmu.edu/people",
-        "https://www.educationdatalists.com/database/university-lecturers-email-list",
-
-        # 🧠 Tech Speaker Lists
-        "https://www.leadingauthorities.com/speaker-list/technology-speakers",
-        "https://www.allamericanspeakers.com/lists/view-all-lists.php",
-        "https://keynotespeakers.info/technology-speakers/",
-
-        # 🧠 Google Dork Searches
-        "https://www.google.com/search?q=site:github.com+%22@gmail.com%22",
-        "https://www.google.com/search?q=site:angel.co+%22@founder.com%22",
-        "https://www.google.com/search?q=site:linkedin.com/in+%22@startup.ai%22"
-    ]
-
-    leads = harvest_leads(domains)
+    domains = [ ... ]  # your full domain list here
+    leads = harvest_leads(domains, proxies=None)
     print(f"\n✅ Final validated leads: {len(leads)}")
     with open("validated_emails.txt", "w") as f:
         for email in leads:
             f.write(email + "\n")
+
+def fallback_regex_scrape(html):
+    import re
+    return re.findall(r'[\w\.-]+@[\w\.-]+', html)

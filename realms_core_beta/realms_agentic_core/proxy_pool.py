@@ -1,55 +1,30 @@
-PROXIES = [
-    # 🇺🇸 United States
-    "http://198.199.86.11:8080",
-    "http://104.207.38.220:3129",
-    "http://107.174.128.67:6509",
-    "http://45.61.96.78:6058",
-    "http://23.95.244.112:6065",
-    "http://104.239.106.170:5815",
-    "http://50.114.15.46:6031",
-    "http://45.41.169.63:6724",
-    "http://45.61.124.113:6442",
-    "http://104.224.90.177:6338",
+import requests
+import random
 
-    # 🇩🇪 Germany
-    "http://188.40.57.101:80",
-    "http://92.113.150.5:1080",
-    "http://62.171.159.232:8888",
+def fetch_free_proxies():
+    url = "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=1000&country=US&ssl=all&anonymity=elite"
+    try:
+        r = requests.get(url, timeout=5)
+        proxies = r.text.strip().split("\n")
+        return [p.strip() for p in proxies if p.strip()]
+    except Exception as e:
+        print("❌ Failed to fetch proxies:", e)
+        return []
 
-    # 🇫🇷 France
-    "http://141.95.127.58:3128",
+def validate_proxy(proxy_ip):
+    proxy = {"http": f"http://{proxy_ip}", "https": f"http://{proxy_ip}"}
+    try:
+        r = requests.get("https://httpbin.org/ip", proxies=proxy, timeout=5)
+        return r.status_code == 200
+    except:
+        return False
 
-    # 🇨🇦 Canada
-    "http://45.3.46.242:3129",
-    "http://104.207.59.82:3129",
-
-    # 🇬🇧 United Kingdom
-    "http://217.69.121.22:5687",
-    "http://104.143.224.195:6056",
-
-    # 🇧🇷 Brazil
-    "http://52.67.251.34:80",
-    "http://179.96.28.58:80",
-
-    # 🇱🇹 Lithuania
-    "http://103.47.53.136:8434",
-    "http://86.38.236.202:6486",
-
-    # 🇸🇬 Singapore
-    "http://143.42.66.91:80",
-
-    # 🇸🇨 Seychelles
-    "http://154.213.166.211:3129",
-
-    # 🇳🇱 Netherlands
-    "http://176.65.132.67:3128",
-
-    # 🇯🇵 Japan
-    "http://139.162.78.109:8080",
-
-    # 🇹🇷 Turkey
-    "http://213.142.156.97:80",
-
-    # 🇲🇦 Morocco
-    "http://196.89.210.194:3128"
-]
+def get_valid_proxy():
+    pool = fetch_free_proxies()
+    random.shuffle(pool)
+    for proxy_ip in pool:
+        if validate_proxy(proxy_ip):
+            print(f"✅ Valid proxy: {proxy_ip}")
+            return {"http": f"http://{proxy_ip}", "https": f"http://{proxy_ip}"}
+    print("❌ No valid proxies found.")
+    return None

@@ -1,81 +1,50 @@
-import sys, os, subprocess, threading, time, traceback
+import sys, os, subprocess, threading, time, traceback, shutil, requests
+from realms_dispatch_unified import dispatch_to_platform
+from dotenv import load_dotenv
 from datetime import datetime
 from pathlib import Path
+from fastapi import FastAPI, Request
+from fastapi.responses import HTMLResponse
 
 # 🔧 Path setup
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 BASE = Path("F:/Realms/realms_core_alpha")
 ENV = BASE / ".env"
+load_dotenv(dotenv_path=ENV, override=True)
 
-# 🩺 Heal .env
-def heal_env_file(env_path):
-    if not env_path.exists():
-        print(f"⚠️ .env not found. Creating...")
-        env_path.write_text("", encoding="utf-8")
-    with open(env_path) as f:
-        lines = f.readlines()
-    clean = []
-    for line in lines:
-        if "=" in line and not line.strip().startswith("#"):
-            key, val = line.strip().split("=", 1)
-            val_clean = val.strip().strip('"').strip("'")
-            clean.append(f"{key.strip()}={val_clean}\n")
-    with open(env_path, "w") as f:
-        f.writelines(clean)
-    print("✅ .env healed")
-
-heal_env_file(ENV)
-
-# 🔌 Load environment
-def safe_import(module_name):
+# ✅ Proxy pool
+def fetch_free_proxies():
+    url = "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=1000&country=US&ssl=all&anonymity=elite"
     try:
-        return __import__(module_name)
-    except ImportError:
-        subprocess.call([sys.executable, "-m", "pip", "install", module_name])
-        return __import__(module_name)
+        r = requests.get(url, timeout=5)
+        proxies = r.text.strip().split("\n")
+        return [p.strip() for p in proxies if p.strip()]
+    except:
+        return []
 
-load_dotenv = safe_import("dotenv").load_dotenv
-load_dotenv(dotenv_path=ENV)
+def validate_proxy(proxy_ip):
+    proxy = {"http": f"http://{proxy_ip}", "https": f"http://{proxy_ip}"}
+    try:
+        r = requests.get("https://httpbin.org/ip", proxies=proxy, timeout=5)
+        return r.status_code == 200
+    except:
+        return False
+
+def get_valid_proxy():
+    pool = fetch_free_proxies()
+    for proxy_ip in pool:
+        if validate_proxy(proxy_ip):
+            print(f"✅ Proxy validated: {proxy_ip}")
+            return {"http": f"http://{proxy_ip}", "https": f"http://{proxy_ip}"}
+    print("❌ No valid proxies found.")
+    return None
+
+PROXIES = get_valid_proxy()
 
 # 🔑 Stripe
-stripe = safe_import("stripe")
+import stripe
 stripe.api_key = os.getenv("STRIPE_API_KEY")
 STRIPE_WEBHOOK_SECRET = os.getenv("STRIPE_WEBHOOK_SECRET")
-
-# 🌐 FastAPI
-fastapi = safe_import("fastapi")
-responses = safe_import("fastapi.responses")
-FastAPI, Request = fastapi.FastAPI, fastapi.Request
-try:
-    from fastapi.responses import HTMLResponse
-except ImportError:
-    subprocess.call([sys.executable, "-m", "pip", "install", "fastapi"])
-    from fastapi.responses import HTMLResponse
-
-app = FastAPI()
-dashboard_data = []
-
-# 🎬 MoviePy fallback
-try:
-    from moviepy import ImageClip, TextClip, CompositeVideoClip
-except ImportError:
-    subprocess.call([sys.executable, "-m", "pip", "install", "moviepy"])
-    from moviepy import ImageClip, TextClip, CompositeVideoClip
-
-# 🌐 Inject fallback
-try:
-    from agentic_launchpad.final_filler import inject_website_link
-except ImportError:
-    def inject_website_link(content, website_url):
-        return content + f"\n\n🌐 Visit us: {website_url}"
-
-# 🧠 Patch diagnose_failure fallback
-try:
-    from realms_agentic_core.diagnostics.reflex_dispatcher import diagnose_failure
-except ImportError:
-    def diagnose_failure(error):
-        print(f"🧠 Diagnosing failure: {error}")
-        return "generic_diagnosis"
 
 # 🧠 Core agents
 from realms_agentic_core.lead_harvest_agent import harvest_leads
@@ -93,22 +62,15 @@ from agentic_launchpad.audit.fallback_manager import assign_fallback_agent
 from agentic_launchpad.patch_and_repair import execute_repair
 from agentic_launchpad.modules.email_campaign.thank_you_agent import send_thank_you_email
 from agentic_launchpad.modules.upsell_agent import generate_upsell_payload
-
-# 🚀 Dispatch agents
-from realms_agentic_core.dispatch.dispatch_wordpress import dispatch_wordpress
-from realms_agentic_core.dispatch.dispatch_linkedin import dispatch_linkedin
-from realms_agentic_core.dispatch.dispatch_email import dispatch_email
-from realms_agentic_core.dispatch.dispatch_facebook import dispatch_to_facebook
-
-# 🛡️ Fallback agents
-from realms_agentic_core.fallback.fallback_wordpress_dispatch import fallback_wordpress_post
-from realms_agentic_core.fallback.fallback_linkedin import fallback_linkedin_post
-from realms_agentic_core.fallback.fallback_email import fallback_email
-from realms_agentic_core.fallback.fallback_facebook import fallback_facebook
+from realms_agentic_core.diagnostics.reflex_dispatcher import diagnose_failure
 
 # 🌍 Constants
 WEBSITE_URL = "https://www.realmstoriches.xyz"
 STRIPE_CTA = "https://buy.stripe.com/test_4gwcN3g5g0gYfWc3cc"
+
+# 🧠 FastAPI dashboard
+app = FastAPI()
+dashboard_data = []
 
 @app.get("/dashboard", response_class=HTMLResponse)
 def show_dashboard():
@@ -118,6 +80,17 @@ def show_dashboard():
         html += f"<tr><td colspan='6'><strong>Payload:</strong><div style='border:1px solid #ccc;padding:10px;background:#f9f9f9;'>{entry['payload_preview']}</div></td></tr>"
     html += "</table>"
     return html
+
+@app.post("/manual-dispatch")
+async def manual_dispatch(request: Request):
+    data = await request.json()
+    platform = data.get("platform")
+    payload = data.get("payload")
+    try:
+        dispatch_to_platform(platform, payload, proxies=PROXIES)
+        return {"status": "success", "message": f"Dispatched to {platform}"}
+    except Exception as e:
+        return {"status": "error", "message": str(e)}
 
 @app.post("/stripe-webhook")
 async def stripe_webhook(request: Request):
@@ -215,17 +188,14 @@ def run_autopilot_cycle(cycle_id):
         handle_failure(cycle_id, e)
 
 if __name__ == "__main__":
-    # 🚀 Start FastAPI server in background
     threading.Thread(
-        target=lambda: safe_import("uvicorn").run(app, host="0.0.0.0", port=8000),
+        target=lambda: subprocess.call([sys.executable, "-m", "uvicorn", "realms_autopilot:app", "--host", "0.0.0.0", "--port", "8000"]),
         daemon=True
     ).start()
 
-    # 🧠 Launch sovereign cycle
     cycle_id = datetime.now().strftime("REALMS-%Y%m%d-%H%M%S")
     print(f"\n🧠 Launching cycle: {cycle_id}")
     run_autopilot_cycle(cycle_id)
 
-    # 🩺 Keep alive for webhook and dashboard
     while True:
-        time.sleep(5)	    
+        time.sleep(5)    
