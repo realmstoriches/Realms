@@ -12,9 +12,4 @@ node_modules/
 
 *.env.*
 *.txt
-*.env
-*.env.*
-*.txt
-*.env
-*.env.*
-*.txt
+
