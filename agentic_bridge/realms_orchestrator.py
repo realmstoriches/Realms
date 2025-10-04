@@ -1,8 +1,6 @@
-import os, re, json, shutil, logging, ast
+import os, re, json, shutil, logging, ast, subprocess
 from datetime import datetime
 from collections import defaultdict
-from chromadb import Client
-from chromadb.config import Settings
 
 # === CONFIGURATION ===
 ROOT = r"F:\Realms"
@@ -14,6 +12,7 @@ DASHBOARD_HTML = os.path.join(ROOT, "dashboard.html")
 VAULT = os.path.join(ROOT, "envs", ".env.vault")
 MONETIZATION_LOGS = os.path.join(ROOT, "logs", "monetization")
 SYNDICATION_PAYLOADS = os.path.join(ROOT, "payloads", "syndication")
+CHROMA_PATH = os.path.join(ROOT, "chromadb")
 
 # === CREWS & ROLES ===
 CREWS = {
@@ -38,12 +37,25 @@ ROLES = {
 os.makedirs(POOL, exist_ok=True)
 os.makedirs(os.path.dirname(LOGS), exist_ok=True)
 logging.basicConfig(filename=LOGS, level=logging.INFO, format='%(asctime)s - %(message)s')
-
 def log(msg): print(msg); logging.info(msg)
 
-# === CHROMADB ===
-chroma_client = Client(Settings(chroma_db_impl="duckdb+parquet", persist_directory=os.path.join(ROOT, "chromadb")))
-chroma_collection = chroma_client.get_or_create_collection("agent_memory")
+# === CHROMADB AUTO-HEAL ===
+def get_chroma_client():
+    try:
+        from chromadb import Client
+        from chromadb.config import Settings
+        return Client(Settings(chroma_db_impl="duckdb+parquet", persist_directory=CHROMA_PATH))
+    except Exception as e:
+        log("⚠️ Legacy Chroma config failed. Switching to HTTP client...")
+        try:
+            from chromadb import HttpClient
+            return HttpClient(host="localhost", port=8000)
+        except Exception as e2:
+            log(f"❌ ChromaDB connection failed: {e2}")
+            return None
+
+chroma_client = get_chroma_client()
+chroma_collection = chroma_client.get_or_create_collection("agent_memory") if chroma_client else None
 
 # === DISCOVERY ===
 def discover_agents():
@@ -61,7 +73,7 @@ def discover_agents():
                             dual_core = "prime" in file.lower() or "prime" in root.lower()
                             name = os.path.splitext(file)[0]
                             role = infer_role(name)
-                            memory = chroma_collection.get(ids=[name]) if chroma_collection.count() else {}
+                            memory = chroma_collection.get(ids=[name]) if chroma_collection else {}
                             agents.append({
                                 "name": name,
                                 "path": path,
@@ -82,28 +94,27 @@ def infer_role(name):
     return next((role for person, role in ROLES.items() if person in name.lower()), "Fallback Specialist")
 
 # === MONETIZATION & SYNDICATION ===
-def parse_monetization():
-    monetization = []
-    if os.path.exists(MONETIZATION_LOGS):
-        for file in os.listdir(MONETIZATION_LOGS):
-            with open(os.path.join(MONETIZATION_LOGS, file), "r") as f:
-                monetization.append(f.read())
-    return monetization
-
-def parse_syndication():
-    syndication = []
-    if os.path.exists(SYNDICATION_PAYLOADS):
-        for file in os.listdir(SYNDICATION_PAYLOADS):
-            with open(os.path.join(SYNDICATION_PAYLOADS, file), "r") as f:
-                syndication.append(f.read())
-    return syndication
+def parse_logs(folder):
+    logs = []
+    if os.path.exists(folder):
+        for file in os.listdir(folder):
+            try:
+                with open(os.path.join(folder, file), "r", encoding="utf-8") as f:
+                    logs.append(f.read())
+            except Exception as e:
+                log(f"⚠️ Failed to read log {file}: {e}")
+    return logs
 
 # === CREDENTIAL INJECTION ===
 def inject_credentials(agent_name):
     if not os.path.exists(VAULT): return {}
-    with open(VAULT, "r") as f:
-        vault = json.load(f)
-    return vault.get(agent_name, {})
+    try:
+        with open(VAULT, "r") as f:
+            vault = json.load(f)
+        return vault.get(agent_name, {})
+    except Exception as e:
+        log(f"⚠️ Vault read failed: {e}")
+        return {}
 
 # === RESTRUCTURE ===
 def restructure_codebase():
@@ -162,12 +173,16 @@ def containerize_agents(agents):
         os.makedirs(dst, exist_ok=True)
         src_dir = os.path.dirname(agent["path"])
         for file in os.listdir(src_dir):
-            shutil.copy2(os.path.join(src_dir, file), os.path.join(dst, file))
+            try:
+                shutil.copy2(os.path.join(src_dir, file), os.path.join(dst, file))
+            except Exception as e:
+                log(f"⚠️ Failed to copy {file} for {agent['name']}: {e}")
         agent["container_path"] = dst
         agent["credentials"] = inject_credentials(agent["name"])
         agent["status"] = "containerized"
 
 # === DASHBOARD ===
+# === DASHBOARD CONTINUED ===
 def build_dashboard(agents, monetization, syndication):
     with open(DASHBOARD_JSON, "w") as f:
         json.dump({
@@ -178,17 +193,43 @@ def build_dashboard(agents, monetization, syndication):
         }, f, indent=2)
 
     html = (
-        "<html><head><title>Agentic Dashboard</title></head><body>"
-        "<h1>Agent Swarm Health & Roster</h1><table border='1'><tr><th>Name</th><th>Crew</th><th>Role</th><th>Status</th></tr>"
+        "<html><head><title>Agentic Dashboard</title><style>"
+        "body{font-family:sans-serif;background:#111;color:#eee;padding:20px;}table{width:100%;border-collapse:collapse;}th,td{border:1px solid #444;padding:8px;}th{background:#222;}tr:nth-child(even){background:#1a1a1a;}"
+        "</style></head><body>"
     )
+    html += "<h1>🧠 Agent Swarm Health & Roster</h1><table><tr><th>Name</th><th>Crew</th><th>Role</th><th>Status</th><th>Dual-Core</th></tr>"
     for agent in agents:
-        html += f"<tr><td>{agent['name']}</td><td>{agent['crew']}</td><td>{agent['role']}</td><td>{agent['status']}</td></tr>"
-    html += "</table><h2>Monetization Logs</h2><pre>" + "\n".join(monetization) + "</pre>"
-    html += "<h2>Syndication Payloads</h2><pre>" + "\n".join(syndication) + "</pre>"
+        html += f"<tr><td>{agent['name']}</td><td>{agent['crew']}</td><td>{agent['role']}</td><td>{agent['status']}</td><td>{'✅' if agent['dual_core'] else '—'}</td></tr>"
+    html += "</table>"
+
+    html += "<h2>💰 Monetization Logs</h2><pre style='background:#222;padding:10px;border:1px solid #444;'>"
+    html += "\n\n".join(monetization) if monetization else "No monetization logs found."
+    html += "</pre>"
+
+    html += "<h2>📡 Syndication Payloads</h2><pre style='background:#222;padding:10px;border:1px solid #444;'>"
+    html += "\n\n".join(syndication) if syndication else "No syndication payloads found."
+    html += "</pre>"
+
+    html += "<h2>🧩 Credential Mesh Status</h2><table><tr><th>Agent</th><th>Keys Injected</th></tr>"
+    for agent in agents:
+        creds = agent.get("credentials", {})
+        html += f"<tr><td>{agent['name']}</td><td>{', '.join(creds.keys()) if creds else '—'}</td></tr>"
+    html += "</table>"
+
+    html += "<h2>📦 Container Paths</h2><table><tr><th>Agent</th><th>Path</th></tr>"
+    for agent in agents:
+        html += f"<tr><td>{agent['name']}</td><td>{agent.get('container_path', '—')}</td></tr>"
+    html += "</table>"
+
+    html += "<h2>🛠️ Future Modules</h2><ul>"
+    html += "<li>Dispatch Supervisor</li><li>Agentic Watchdog</li><li>Revenue Tracker</li><li>Credential Rotator</li><li>Live API Feed</li>"
+    html += "</ul>"
+
     html += "</body></html>"
 
     with open(DASHBOARD_HTML, "w", encoding="utf-8") as f:
         f.write(html)
+    log(f"📊 Dashboard written to {DASHBOARD_HTML}")
 
 # === MAIN EXECUTION ===
 if __name__ == "__main__":
@@ -199,8 +240,8 @@ if __name__ == "__main__":
     log(f"🧠 Discovered {len(agents)} agents")
 
     # Phase 2: Monetization & Syndication
-    monetization = parse_monetization()
-    syndication = parse_syndication()
+    monetization = parse_logs(MONETIZATION_LOGS)
+    syndication = parse_logs(SYNDICATION_PAYLOADS)
     log(f"💰 Parsed {len(monetization)} monetization logs")
     log(f"📡 Parsed {len(syndication)} syndication payloads")
 
@@ -218,6 +259,5 @@ if __name__ == "__main__":
 
     # Phase 6: Dashboard Build
     build_dashboard(agents, monetization, syndication)
-    log("📊 Dashboard generated")
-
     log("🎯 Agent swarm orchestration complete. All systems go.")
+
