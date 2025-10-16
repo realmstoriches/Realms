@@ -1,40 +1,74 @@
 """
 Core classes for the Tri-Hemisphere Agent Architecture.
 """
+from src.knowledge import KnowledgeBase
 
 class HemisphereA:
     """Primary technology great hemisphere."""
-    def __init__(self, knowledge_vector=None):
-        self.knowledge_vector = knowledge_vector or {}
+    def __init__(self, knowledge_base: KnowledgeBase):
+        self.knowledge_base = knowledge_base
 
     def decide(self, problem):
-        # Placeholder for decision logic
-        return {"decision": "HemiA_decide", "confidence": 0.8}
+        # Query the knowledge base for relevant information
+        results = self.knowledge_base.query(problem, n_results=1)
+
+        # Placeholder for decision logic using knowledge
+        if results and results['documents'] and results['documents'][0]:
+            decision = f"HemiA decides based on: {results['documents'][0][0]}"
+        else:
+            decision = "HemiA_decide_no_knowledge"
+
+        return {"decision": decision, "confidence": 0.8}
 
 class HemisphereB:
     """Complementary #2 great hemisphere."""
-    def __init__(self, knowledge_vector=None):
-        self.knowledge_vector = knowledge_vector or {}
+    def __init__(self, knowledge_base: KnowledgeBase):
+        self.knowledge_base = knowledge_base
 
     def decide(self, problem):
-        # Placeholder for decision logic
-        return {"decision": "HemiB_decide", "confidence": 0.75}
+        # Query the knowledge base for relevant information
+        results = self.knowledge_base.query(problem, n_results=1)
+
+        # Placeholder for decision logic using knowledge
+        if results and results['documents'] and results['documents'][0]:
+            decision = f"HemiB decides based on: {results['documents'][0][0]}"
+        else:
+            decision = "HemiB_decide_no_knowledge"
+
+        return {"decision": decision, "confidence": 0.75}
 
 class HemisphereC:
     """Arbitration logic engine."""
-    def __init__(self):
-        pass
+    def __init__(self, fallback_heuristic='A'):
+        self.fallback_heuristic = fallback_heuristic
 
-    def arbitrate(self, decision_a, decision_b):
+    def arbitrate(self, decision_a, decision_b, weights={'A': 1.0, 'B': 1.0}):
         """
-        Arbitrates between the decisions from Hemisphere A and B.
-        This is a placeholder for a more sophisticated weighted decision
-        scoring and conflict resolution mechanism.
+        Arbitrates between the decisions from Hemisphere A and B using
+        weighted scoring and a fallback heuristic.
+
+        Args:
+            decision_a (dict): The decision from Hemisphere A.
+            decision_b (dict): The decision from Hemisphere B.
+            weights (dict): The weights to apply to each hemisphere's confidence score.
+            fallback_heuristic (str): The hemisphere to prefer in case of a tie ('A' or 'B').
+
+        Returns:
+            The final arbitrated decision.
         """
-        if decision_a["confidence"] >= decision_b["confidence"]:
+        score_a = decision_a["confidence"] * weights.get('A', 1.0)
+        score_b = decision_b["confidence"] * weights.get('B', 1.0)
+
+        if score_a > score_b:
             return decision_a["decision"]
-        else:
+        elif score_b > score_a:
             return decision_b["decision"]
+        else:
+            # Conflict resolution: In case of a tie, use the fallback heuristic.
+            if self.fallback_heuristic == 'A':
+                return decision_a["decision"]
+            else:
+                return decision_b["decision"]
 
 class Agent:
     """
@@ -51,18 +85,20 @@ class Agent:
         self.tool_access = tool_access
         self.decision_logs = []
 
-        self.hemisphere_a = HemisphereA()
-        self.hemisphere_b = HemisphereB()
+        # Each agent gets its own knowledge base instance.
+        self.knowledge_base = KnowledgeBase()
+        self.hemisphere_a = HemisphereA(self.knowledge_base)
+        self.hemisphere_b = HemisphereB(self.knowledge_base)
         self.hemisphere_c = HemisphereC()
 
-    def process(self, problem):
+    def process(self, problem, weights={'A': 1.0, 'B': 1.0}):
         """
         Processes a problem by getting decisions from hemispheres A and B,
         and then arbitrating to get a final decision.
         """
         decision_a = self.hemisphere_a.decide(problem)
         decision_b = self.hemisphere_b.decide(problem)
-        final_decision = self.hemisphere_c.arbitrate(decision_a, decision_b)
+        final_decision = self.hemisphere_c.arbitrate(decision_a, decision_b, weights)
         self.decision_logs.append({
             "problem": problem,
             "decision_a": decision_a,
