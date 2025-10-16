@@ -6,16 +6,17 @@ import chromadb
 class KnowledgeBase:
     """
     A wrapper for the ChromaDB client to manage the agent's knowledge.
+    Uses an ephemeral client for in-memory, non-persistent storage.
     """
-    def __init__(self, path=":memory:"):
+    def __init__(self, collection_name="agent_knowledge"):
         """
-        Initializes the ChromaDB client.
+        Initializes the ChromaDB ephemeral client.
 
         Args:
-            path (str): The path to the ChromaDB database. Defaults to in-memory.
+            collection_name (str): The name of the collection to use.
         """
-        self.client = chromadb.Client()
-        self.collection = self.client.get_or_create_collection("agent_knowledge")
+        self.client = chromadb.EphemeralClient()
+        self.collection = self.client.get_or_create_collection(name=collection_name)
 
     def add_document(self, document, metadata, doc_id):
         """

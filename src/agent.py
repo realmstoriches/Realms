@@ -46,15 +46,6 @@ class HemisphereC:
         """
         Arbitrates between the decisions from Hemisphere A and B using
         weighted scoring and a fallback heuristic.
-
-        Args:
-            decision_a (dict): The decision from Hemisphere A.
-            decision_b (dict): The decision from Hemisphere B.
-            weights (dict): The weights to apply to each hemisphere's confidence score.
-            fallback_heuristic (str): The hemisphere to prefer in case of a tie ('A' or 'B').
-
-        Returns:
-            The final arbitrated decision.
         """
         score_a = decision_a["confidence"] * weights.get('A', 1.0)
         score_b = decision_b["confidence"] * weights.get('B', 1.0)
@@ -74,7 +65,7 @@ class Agent:
     """
     A tri-hemisphere agent that combines the strengths of three sub-agents.
     """
-    def __init__(self, name, role, employee_id, hourly_rate, physical_description, skill_matrix, knowledge_sources, tool_access):
+    def __init__(self, name, role, employee_id, hourly_rate, physical_description, skill_matrix, knowledge_sources, tool_access, knowledge_base: KnowledgeBase):
         self.name = name
         self.role = role
         self.employee_id = employee_id
@@ -85,8 +76,8 @@ class Agent:
         self.tool_access = tool_access
         self.decision_logs = []
 
-        # Each agent gets its own knowledge base instance.
-        self.knowledge_base = KnowledgeBase()
+        # Use the provided knowledge base
+        self.knowledge_base = knowledge_base
         self.hemisphere_a = HemisphereA(self.knowledge_base)
         self.hemisphere_b = HemisphereB(self.knowledge_base)
         self.hemisphere_c = HemisphereC()
