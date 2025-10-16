@@ -2,9 +2,14 @@
 This script scrapes the text content from a website and saves it to a file.
 """
 import os
+import sys
 
-# Note: The `view_text_website` tool is assumed to be available in the agent's
-# execution environment. This script is designed to be called by the agent.
+# Add the project root to the Python path to allow for `src` imports
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.insert(0, project_root)
+
+# This will be replaced by the real tool in the agent environment
+from src.tools_placeholder import view_text_website
 
 def scrape_website_content(url: str, output_file: str):
     """
@@ -12,14 +17,7 @@ def scrape_website_content(url: str, output_file: str):
     """
     print(f"Attempting to scrape content from {url}...")
     try:
-        # This is a placeholder for the actual tool call.
-        # In a real environment, this would be:
-        # from your_agent_tools import view_text_website
-        # content = view_text_website(url)
-
-        # Simulating a successful scrape for now.
-        # In the live agent environment, the view_text_website tool would be called.
-        content = "Realms to Riches: Handcrafted wooden accessories for the modern adventurer. We believe in quality, craftsmanship, and a touch of magic in every piece."
+        content = view_text_website(url)
 
         output_dir = os.path.dirname(output_file)
         if not os.path.exists(output_dir):
@@ -30,7 +28,6 @@ def scrape_website_content(url: str, output_file: str):
         print(f"Successfully scraped content and saved to {output_file}")
         return True
     except Exception as e:
-        # In a real scenario, this would catch if robots.txt disallowed access.
         print(f"Could not scrape website: {e}")
         print("Using the existing or placeholder brand_voice.txt file.")
         return False

@@ -20,15 +20,17 @@ def authenticate():
 
 def post_update(content: str, image_path: str = "path/to/image.jpg"):
     """
-    Posts an update to Instagram.
+    Posts an update to Instagram by writing to an output file.
     """
     if not authenticate():
         return None
 
-    print(f"Posting to Instagram:")
-    print(f"  Caption: '{content[:50]}...'")
-    print(f"  Image: {image_path}")
-    import time
-    time.sleep(1) # Simulate network latency
-    print("Instagram post successful.")
+    output_dir = "output"
+    os.makedirs(output_dir, exist_ok=True)
+    with open(os.path.join(output_dir, "instagram_posts.txt"), "a") as f:
+        f.write(f"--- New Instagram Post ---\n")
+        f.write(f"Image: {image_path}\n")
+        f.write(f"Caption: {content}\n\n")
+
+    print(f"Successfully wrote post to {output_dir}/instagram_posts.txt")
     return {"status": "success", "platform": "Instagram"}

@@ -20,15 +20,17 @@ def authenticate():
 
 def post_update(content: str, title: str = "New Product Post"):
     """
-    Posts an update to WordPress.
+    Posts an update to WordPress by writing to an output file.
     """
     if not authenticate():
         return None
 
-    print(f"Posting to WordPress (blog.realmstoriches.xyz):")
-    print(f"  Title: {title}")
-    print(f"  Content: '{content[:50]}...'")
-    import time
-    time.sleep(1) # Simulate network latency
-    print("WordPress post successful.")
+    output_dir = "output"
+    os.makedirs(output_dir, exist_ok=True)
+    with open(os.path.join(output_dir, "wordpress_posts.txt"), "a") as f:
+        f.write(f"--- New WordPress Post ---\n")
+        f.write(f"Title: {title}\n")
+        f.write(f"Content: {content}\n\n")
+
+    print(f"Successfully wrote post to {output_dir}/wordpress_posts.txt")
     return {"status": "success", "platform": "WordPress"}

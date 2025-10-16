@@ -87,6 +87,25 @@ def generate_marketing_content(agent: Agent, product_data: dict):
         "facebook_post": facebook_post
     }
 
+def design_marketing_campaign(agent: Agent, product_data: dict):
+    """
+    Assigns a Campaign Strategist to design a marketing campaign for a product.
+    """
+    product_name = product_data.get("product_name", "our product")
+
+    prompt = (
+        f"Design a comprehensive, multi-platform marketing campaign for the launch of '{product_name}'. "
+        f"Include target audience analysis, key messaging pillars, and a suggested timeline for "
+        f"Twitter, Facebook, and a WordPress blog announcement."
+    )
+
+    campaign_plan = agent.process(prompt)
+
+    return {
+        "product_name": product_name,
+        "campaign_plan": campaign_plan
+    }
+
 def evaluate_product(crew: List[Agent], product_data: dict):
     """
     Orchestrates the evaluation of a product by a crew of agents.

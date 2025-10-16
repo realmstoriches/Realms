@@ -1,6 +1,7 @@
 import os
 import json
 import re
+import sys
 
 def clean_filename(name):
     """Cleans a string to be used as a filename."""
@@ -10,16 +11,16 @@ def clean_filename(name):
     name = re.sub(r'-+', '-', name)
     return name.strip('-')
 
-def parse_product_data(input_file, output_dir):
+def ingest_products_from_raw_data(input_file, output_dir):
     """
     Parses a raw, tab-separated product file into individual JSON files
-    for each unique product.
+    for each unique product, correctly grouping all variants.
     """
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
     products = {}
-    print(f"Starting parsing of {input_file}...")
+    print(f"Starting product ingestion from {input_file}...")
 
     with open(input_file, 'r', encoding='utf-8') as f:
         for i, line in enumerate(f):
@@ -35,18 +36,19 @@ def parse_product_data(input_file, output_dir):
 
             vendor = parts[0].strip()
             sku = parts[1].strip()
-            original_product_name = parts[2].strip()
+            product_name = parts[2].strip()
 
-            if not original_product_name:
+            if not product_name:
                 print(f"Skipping malformed line {i+1}: Empty product name.")
                 continue
 
-            normalized_key = clean_filename(original_product_name)
+            # Use a cleaned, normalized name as the dictionary key
+            normalized_key = clean_filename(product_name)
 
             if normalized_key not in products:
                 products[normalized_key] = {
                     "vendor": vendor,
-                    "product_name": original_product_name,
+                    "product_name": product_name,
                     "variants": []
                 }
 
@@ -65,18 +67,16 @@ def parse_product_data(input_file, output_dir):
 
             products[normalized_key]["variants"].append(variant)
 
-    print(f"Found {len(products)} unique products.")
     for normalized_key, data in products.items():
         filename = f"{normalized_key}.json"
         filepath = os.path.join(output_dir, filename)
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=4)
 
-    print(f"Successfully generated {len(products)} product files in {output_dir}.")
-
+    print(f"Successfully ingested and generated {len(products)} product files.")
 
 if __name__ == "__main__":
-    if not os.path.exists("data/raw_products.txt"):
-        print("Error: This script must be run from the root of the repository.")
-    else:
-        parse_product_data("data/raw_products.txt", "products/")
+    project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+    sys.path.insert(0, project_root)
+
+    ingest_products_from_raw_data("data/raw_products.txt", "products/")

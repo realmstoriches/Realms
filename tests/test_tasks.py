@@ -4,7 +4,7 @@ import os
 from unittest.mock import patch
 from src.agent import Agent
 from src.knowledge import KnowledgeBase
-from src.tasks import evaluate_product, generate_marketing_content, post_in_parallel
+from src.tasks import evaluate_product, generate_marketing_content, post_in_parallel, design_marketing_campaign
 from src.company import generate_employee_file, ORG_CHART
 
 class TestTasks(unittest.TestCase):
@@ -100,6 +100,28 @@ class TestTasks(unittest.TestCase):
         platforms = {r['platform'] for r in results}
         self.assertIn("Twitter", platforms)
         self.assertIn("Facebook", platforms)
+
+    def test_design_marketing_campaign(self):
+        strategist_role = next(r for d in ORG_CHART.values() for r in d if r['title'] == 'Campaign Strategist')
+        strategist_data = generate_employee_file(strategist_role)
+        strategist = Agent(
+            name=strategist_data['name'],
+            role=strategist_data['role_title'],
+            employee_id=strategist_data['employee_id'],
+            hourly_rate=strategist_data['hourly_rate'],
+            physical_description=strategist_data['physical_description'],
+            skill_matrix=strategist_data['skill_matrix'],
+            knowledge_sources=strategist_data['knowledge_sources'],
+            tool_access=strategist_data['tool_access'],
+            knowledge_base=self.kb
+        )
+
+        product_data = {"product_name": "Test Campaign Product"}
+        campaign = design_marketing_campaign(strategist, product_data)
+
+        self.assertEqual(campaign["product_name"], "Test Campaign Product")
+        self.assertIn("campaign_plan", campaign)
+        self.assertIsInstance(campaign["campaign_plan"], str)
 
 
 if __name__ == '__main__':

@@ -21,12 +21,15 @@ def authenticate():
 
 def post_update(content: str):
     """
-    Posts an update to Facebook.
+    Posts an update to Facebook by writing to an output file.
     """
     if not authenticate():
         return None
 
-    print(f"Posting to Facebook: '{content[:50]}...'")
-    time.sleep(1) # Simulate network latency
-    print("Facebook post successful.")
+    output_dir = "output"
+    os.makedirs(output_dir, exist_ok=True)
+    with open(os.path.join(output_dir, "facebook_posts.txt"), "a") as f:
+        f.write(f"--- New Facebook Post ---\n{content}\n\n")
+
+    print(f"Successfully wrote post to {output_dir}/facebook_posts.txt")
     return {"status": "success", "platform": "Facebook"}

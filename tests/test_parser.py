@@ -2,7 +2,7 @@ import unittest
 import os
 import tempfile
 import json
-from scripts.parse_products import parse_product_data, clean_filename
+from src.ingestion import parse_product_data, clean_filename
 
 class TestParser(unittest.TestCase):
 

@@ -20,13 +20,15 @@ def authenticate():
 
 def post_update(content: str):
     """
-    Posts an update to LinkedIn.
+    Posts an update to LinkedIn by writing to an output file.
     """
     if not authenticate():
         return None
 
-    print(f"Posting to LinkedIn: '{content[:50]}...'")
-    import time
-    time.sleep(1) # Simulate network latency
-    print("LinkedIn post successful.")
+    output_dir = "output"
+    os.makedirs(output_dir, exist_ok=True)
+    with open(os.path.join(output_dir, "linkedin_posts.txt"), "a") as f:
+        f.write(f"--- New LinkedIn Post ---\n{content}\n\n")
+
+    print(f"Successfully wrote post to {output_dir}/linkedin_posts.txt")
     return {"status": "success", "platform": "LinkedIn"}

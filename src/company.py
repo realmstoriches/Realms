@@ -77,6 +77,17 @@ ORG_CHART = {
             ],
             "skills": ["Social Media Strategy", "Project Management", "Data Analysis"],
             "tools": ["Buffer", "Sprout Social", "HubSpot"]
+        },
+        {
+            "title": "Campaign Strategist",
+            "department": "Marketing",
+            "responsibilities": [
+                "Design and oversee multi-platform marketing campaigns.",
+                "Identify target audiences and key messaging.",
+                "Set campaign goals and KPIs."
+            ],
+            "skills": ["Marketing Strategy", "Market Research", "Budgeting", "Leadership"],
+            "tools": ["Salesforce", "Marketo", "Asana"]
         }
     ]
 }
