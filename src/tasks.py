@@ -6,6 +6,7 @@ import concurrent.futures
 from typing import List, Dict
 from src.agent import Agent
 from src.social import twitter, facebook, linkedin, wordpress, instagram, reddit
+from src.throttling import throttler
 
 # A registry of available social media platforms
 SOCIAL_PLATFORMS = {
@@ -32,6 +33,7 @@ def post_in_parallel(content_dict: Dict[str, str], product_name: str, subreddits
         future_to_platform = {}
         for platform, content in content_dict.items():
             if platform in SOCIAL_PLATFORMS:
+                throttler.wait_if_needed(platform)
                 if platform == "wordpress":
                     future = executor.submit(SOCIAL_PLATFORMS[platform], content, title=f"Introducing: {product_name}")
                     future_to_platform[future] = platform
@@ -40,6 +42,7 @@ def post_in_parallel(content_dict: Dict[str, str], product_name: str, subreddits
                     future_to_platform[future] = platform
                 elif platform == "reddit":
                     for sub in subreddits:
+                        throttler.wait_if_needed(platform) # Check for each subreddit post
                         future = executor.submit(SOCIAL_PLATFORMS[platform], content, subreddit=sub, title=f"Check out our new {product_name}!")
                         future_to_platform[future] = f"{platform} (r/{sub})"
                 else:

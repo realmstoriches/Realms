@@ -1,0 +1,26 @@
+{
+  "twitter": {
+    "requests": 50000,
+    "window_seconds": 2592000
+  },
+  "facebook": {
+    "requests": 4800,
+    "window_seconds": 86400
+  },
+  "linkedin": {
+    "requests": 150,
+    "window_seconds": 86400
+  },
+  "wordpress": {
+    "requests": 120,
+    "window_seconds": 60
+  },
+  "instagram": {
+    "requests": 25,
+    "window_seconds": 86400
+  },
+  "reddit": {
+    "requests": 100,
+    "window_seconds": 60
+  }
+}

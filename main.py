@@ -5,6 +5,7 @@ from src.company import ORG_CHART, generate_employee_file
 from src.knowledge import KnowledgeBase
 from src.tasks import generate_marketing_content, post_in_parallel, design_marketing_campaign
 from src.ingestion import parse_product_data, ingest_text_file
+from src.payments import create_stripe_product, create_payment_link
 from scripts.scrape_website import scrape_website_content
 
 def create_agent_by_role(role_title: str, knowledge_base: KnowledgeBase):
@@ -66,15 +67,27 @@ if __name__ == "__main__":
         generated_content = generate_marketing_content(content_creator, product_data)
         print("Content generation complete.\n")
 
-        print("Social Media Manager is posting the content...")
+        # c. Create Stripe Product and Payment Link
+        print("Creating Stripe product and payment link...")
+        stripe_product_id = create_stripe_product(product_data['product_name'])
+        payment_link = create_payment_link(stripe_product_id)
+        print(f"Payment link created: {payment_link}\n")
+
+        # d. Social Media Manager executes the posting
+        print("Social Media Manager is posting the content with payment link...")
+
+        # Append the payment link to the generated content
+        tweet_with_link = f"{generated_content['tweet']}\n\nBuy now: {payment_link}"
+        facebook_post_with_link = f"{generated_content['facebook_post']}\n\nGet yours here: {payment_link}"
+
         posting_results = post_in_parallel(
             content_dict={
-                "twitter": generated_content["tweet"],
-                "facebook": generated_content["facebook_post"],
-                "linkedin": generated_content["facebook_post"],
-                "wordpress": generated_content["facebook_post"],
-                "instagram": generated_content["tweet"],
-                "reddit": generated_content["facebook_post"]
+                "twitter": tweet_with_link,
+                "facebook": facebook_post_with_link,
+                "linkedin": facebook_post_with_link,
+                "wordpress": facebook_post_with_link,
+                "instagram": tweet_with_link,
+                "reddit": facebook_post_with_link
             },
             product_name=product_data['product_name']
         )
