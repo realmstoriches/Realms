@@ -6,7 +6,6 @@ from src.knowledge import KnowledgeBase
 class TestAgent(unittest.TestCase):
 
     def setUp(self):
-        # Create a unique knowledge base for each test to ensure isolation
         self.kb = KnowledgeBase(collection_name=f"test_agent_{random.randint(1000, 9999)}")
         self.agent = Agent(
             name="Test Agent",
@@ -48,25 +47,20 @@ class TestAgent(unittest.TestCase):
         decision_a = {"decision": "A", "confidence": 0.9}
         decision_b = {"decision": "B", "confidence": 0.8}
 
-        # Test case 1: Hemisphere A has higher confidence
         self.assertEqual(hemi_c_A.arbitrate(decision_a, decision_b), "A")
 
-        # Test case 2: Hemisphere B has higher confidence
         decision_b_strong = {"decision": "B_strong", "confidence": 0.95}
         self.assertEqual(hemi_c_A.arbitrate(decision_a, decision_b_strong), "B_strong")
 
-        # Test case 3: Equal confidence with fallback to A
         decision_c = {"decision": "C", "confidence": 0.9}
         self.assertEqual(hemi_c_A.arbitrate(decision_a, decision_c), "A")
 
-        # Test case 4: Equal confidence with fallback to B
         hemi_c_B = HemisphereC(fallback_heuristic='B')
         self.assertEqual(hemi_c_B.arbitrate(decision_a, decision_c), "C")
 
-        # Test case 5: Weighted scoring favoring B
         weights = {'A': 0.8, 'B': 1.0}
-        decision_d = {"decision": "D", "confidence": 0.9} # score = 0.72
-        decision_e = {"decision": "E", "confidence": 0.8} # score = 0.8
+        decision_d = {"decision": "D", "confidence": 0.9}
+        decision_e = {"decision": "E", "confidence": 0.8}
         self.assertEqual(hemi_c_A.arbitrate(decision_d, decision_e, weights), "E")
 
 if __name__ == '__main__':

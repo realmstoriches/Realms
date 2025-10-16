@@ -8,10 +8,7 @@ from src.knowledge import KnowledgeBase
 class TestIngestion(unittest.TestCase):
 
     def setUp(self):
-        # Create a unique knowledge base for each test to ensure isolation
         self.knowledge_base = KnowledgeBase(collection_name=f"test_ingestion_{random.randint(1000, 9999)}")
-
-        # Create a temporary file for testing
         self.temp_dir = tempfile.TemporaryDirectory()
         self.test_file = os.path.join(self.temp_dir.name, "test_ingestion_data.txt")
 
@@ -20,7 +17,6 @@ class TestIngestion(unittest.TestCase):
             f.write("Test knowledge 2\n")
 
     def tearDown(self):
-        # Clean up the temporary directory and file
         self.temp_dir.cleanup()
 
     def test_ingest_text_file(self):

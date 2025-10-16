@@ -3,11 +3,11 @@
     "optimization_focus": "Engineering and R&D",
     "agent_roster": [
         {
-            "name": "Taylor Garcia",
+            "name": "Casey Garcia",
             "role_title": "AI Infrastructure Engineer",
-            "employee_id": "43541",
-            "hourly_rate": 119.21,
-            "physical_description": "A VR avatar for Taylor Garcia.",
+            "employee_id": "59414",
+            "hourly_rate": 122.2,
+            "physical_description": "A VR avatar for Casey Garcia.",
             "skill_matrix": [
                 "Python",
                 "Kubernetes",
@@ -26,11 +26,11 @@
             "decision_logs": []
         },
         {
-            "name": "Jordan Johnson",
+            "name": "Morgan Smith",
             "role_title": "Graphics Driver Engineer",
-            "employee_id": "96549",
-            "hourly_rate": 63.66,
-            "physical_description": "A VR avatar for Jordan Johnson.",
+            "employee_id": "89724",
+            "hourly_rate": 139.12,
+            "physical_description": "A VR avatar for Morgan Smith.",
             "skill_matrix": [
                 "C++",
                 "CUDA",
@@ -51,8 +51,8 @@
         {
             "name": "Casey Jones",
             "role_title": "ASIC Design Engineer",
-            "employee_id": "93317",
-            "hourly_rate": 104.13,
+            "employee_id": "22074",
+            "hourly_rate": 108.79,
             "physical_description": "A VR avatar for Casey Jones.",
             "skill_matrix": [
                 "Verilog",
@@ -71,11 +71,11 @@
             "decision_logs": []
         },
         {
-            "name": "Morgan Johnson",
+            "name": "River Johnson",
             "role_title": "Research Scientist",
-            "employee_id": "88553",
-            "hourly_rate": 132.03,
-            "physical_description": "A VR avatar for Morgan Johnson.",
+            "employee_id": "40339",
+            "hourly_rate": 99.02,
+            "physical_description": "A VR avatar for River Johnson.",
             "skill_matrix": [
                 "Python",
                 "PyTorch",
