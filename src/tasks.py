@@ -7,6 +7,7 @@ from typing import List, Dict
 from src.agent import Agent
 from src.social import twitter, facebook, linkedin, wordpress, instagram, reddit
 from src.throttling import throttler
+from src.logging import log_post_performance
 
 # A registry of available social media platforms
 SOCIAL_PLATFORMS = {
@@ -53,9 +54,14 @@ def post_in_parallel(content_dict: Dict[str, str], product_name: str, subreddits
             platform = future_to_platform[future]
             try:
                 result = future.result()
+                if result and result.get('status') == 'success':
+                    log_post_performance(product_name, platform, success=True)
+                else:
+                    log_post_performance(product_name, platform, success=False)
                 results.append(result)
             except Exception as exc:
                 print(f"'{platform}' generated an exception: {exc}")
+                log_post_performance(product_name, platform, success=False)
     return results
 
 def generate_marketing_content(agent: Agent, product_data: dict):
@@ -93,13 +99,25 @@ def generate_marketing_content(agent: Agent, product_data: dict):
 def design_marketing_campaign(agent: Agent, product_data: dict):
     """
     Assigns a Campaign Strategist to design a marketing campaign for a product.
+    Includes a summary of past performance to allow for self-refinement.
     """
     product_name = product_data.get("product_name", "our product")
 
+    # Read past performance to inform the new campaign
+    performance_summary = ""
+    try:
+        with open("logs/social_media_performance.log", "r") as f:
+            # Get the last 10 lines for a recent summary
+            recent_performance = f.readlines()[-10:]
+            if recent_performance:
+                performance_summary = "Reviewing recent performance:\n" + "".join(recent_performance)
+    except FileNotFoundError:
+        pass # No past performance to review
+
     prompt = (
-        f"Design a comprehensive, multi-platform marketing campaign for the launch of '{product_name}'. "
-        f"Include target audience analysis, key messaging pillars, and a suggested timeline for "
-        f"Twitter, Facebook, and a WordPress blog announcement."
+        f"{performance_summary}\n\n"
+        f"Based on this, design a new, comprehensive marketing campaign for '{product_name}'. "
+        f"Include target audience, key messaging, and a timeline for Twitter, Facebook, and a blog."
     )
 
     campaign_plan = agent.process(prompt)

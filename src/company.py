@@ -89,6 +89,41 @@ ORG_CHART = {
             "skills": ["Marketing Strategy", "Market Research", "Budgeting", "Leadership"],
             "tools": ["Salesforce", "Marketo", "Asana"]
         }
+    ],
+    "Business Advisory": [
+        {
+            "title": "CFO Agent",
+            "department": "Business Advisory",
+            "responsibilities": [
+                "Generate financial projections.",
+                "Create business valuation models.",
+                "Analyze market financials."
+            ],
+            "skills": ["Financial Modeling", "Valuation", "Forecasting", "Data Analysis"],
+            "tools": ["Excel", "QuickBooks", "Capital IQ"]
+        },
+        {
+            "title": "Legal Counsel Agent",
+            "department": "Business Advisory",
+            "responsibilities": [
+                "Draft standard legal agreements.",
+                "Ensure compliance with regulations.",
+                "Advise on corporate structure."
+            ],
+            "skills": ["Corporate Law", "Contract Law", "Intellectual Property"],
+            "tools": ["Westlaw", "LexisNexis", "DocuSign"]
+        },
+        {
+            "title": "Market Analyst Agent",
+            "department": "Business Advisory",
+            "responsibilities": [
+                "Identify target audience demographics and psychographics.",
+                "Analyze competitor strategies.",
+                "Generate market trend reports."
+            ],
+            "skills": ["Market Research", "Competitive Analysis", "Survey Design", "Persona Development"],
+            "tools": ["Nielsen", "Gartner", "SurveyMonkey"]
+        }
     ]
 }
 
