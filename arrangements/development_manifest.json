@@ -1,0 +1,105 @@
+{
+    "arrangement_name": "Development",
+    "optimization_focus": "Engineering and R&D",
+    "agent_roster": [
+        {
+            "name": "Taylor Garcia",
+            "role_title": "AI Infrastructure Engineer",
+            "employee_id": "43541",
+            "hourly_rate": 119.21,
+            "physical_description": "A VR avatar for Taylor Garcia.",
+            "skill_matrix": [
+                "Python",
+                "Kubernetes",
+                "Docker",
+                "TensorFlow",
+                "PyTorch"
+            ],
+            "knowledge_sources": [
+                "Software"
+            ],
+            "tool_access": [
+                "Jenkins",
+                "Git",
+                "Jira"
+            ],
+            "decision_logs": []
+        },
+        {
+            "name": "Jordan Johnson",
+            "role_title": "Graphics Driver Engineer",
+            "employee_id": "96549",
+            "hourly_rate": 63.66,
+            "physical_description": "A VR avatar for Jordan Johnson.",
+            "skill_matrix": [
+                "C++",
+                "CUDA",
+                "Vulkan",
+                "OpenGL",
+                "Driver Development"
+            ],
+            "knowledge_sources": [
+                "Software"
+            ],
+            "tool_access": [
+                "Perforce",
+                "Visual Studio",
+                "GDB"
+            ],
+            "decision_logs": []
+        },
+        {
+            "name": "Casey Jones",
+            "role_title": "ASIC Design Engineer",
+            "employee_id": "93317",
+            "hourly_rate": 104.13,
+            "physical_description": "A VR avatar for Casey Jones.",
+            "skill_matrix": [
+                "Verilog",
+                "SystemVerilog",
+                "ASIC Design",
+                "UVM"
+            ],
+            "knowledge_sources": [
+                "Hardware"
+            ],
+            "tool_access": [
+                "VCS",
+                "Verdi",
+                "Design Compiler"
+            ],
+            "decision_logs": []
+        },
+        {
+            "name": "Morgan Johnson",
+            "role_title": "Research Scientist",
+            "employee_id": "88553",
+            "hourly_rate": 132.03,
+            "physical_description": "A VR avatar for Morgan Johnson.",
+            "skill_matrix": [
+                "Python",
+                "PyTorch",
+                "TensorFlow",
+                "Deep Learning",
+                "Computer Vision"
+            ],
+            "knowledge_sources": [
+                "Research"
+            ],
+            "tool_access": [
+                "Jupyter",
+                "Git",
+                "LaTeX"
+            ],
+            "decision_logs": []
+        }
+    ],
+    "chroma_db_linkage": "shared_workforce_kb",
+    "arbitration_logic_parameters": {
+        "fallback_heuristic": "A",
+        "weights": {
+            "A": 1.0,
+            "B": 1.0
+        }
+    }
+}

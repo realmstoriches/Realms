@@ -2,6 +2,7 @@ from src.agent import Agent
 from src.company import ORG_CHART, generate_employee_file
 from src.ingestion import ingest_text_file
 from src.knowledge import KnowledgeBase
+from src.arrangements import ARRANGEMENT_TEMPLATES, generate_manifest
 
 def create_workforce(knowledge_base: KnowledgeBase):
     """
@@ -52,3 +53,11 @@ if __name__ == "__main__":
         print(f"Decision Log: {software_agent.decision_logs[-1]}")
     else:
         print("\nCould not find a 'Graphics Driver Engineer' to run the example.")
+
+    # --- Generate an Arrangement Manifest ---
+    print("\n--- Generating Arrangement Manifest ---")
+    development_template = ARRANGEMENT_TEMPLATES.get("Development")
+    if development_template:
+        generate_manifest("Development", development_template)
+    else:
+        print("Could not find the 'Development' arrangement template.")
