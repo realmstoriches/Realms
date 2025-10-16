@@ -78,7 +78,10 @@ class TestTasks(unittest.TestCase):
             knowledge_base=self.kb
         )
 
-        product_data = {"product_name": "Test Product"}
+        product_data = {
+            "product_name": "Test Product",
+            "variants": [{"options": {"Feature": "Value"}}]
+        }
         content = generate_marketing_content(marketing_agent, product_data)
 
         self.assertIn("tweet", content)
@@ -92,7 +95,7 @@ class TestTasks(unittest.TestCase):
             "twitter": "Test tweet",
             "facebook": "Test facebook post"
         }
-        results = post_in_parallel(content)
+        results = post_in_parallel(content, "Test Product")
         self.assertEqual(len(results), 2)
         platforms = {r['platform'] for r in results}
         self.assertIn("Twitter", platforms)

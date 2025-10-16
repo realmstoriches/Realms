@@ -5,7 +5,9 @@ from src.company import ORG_CHART, generate_employee_file
 from src.knowledge import KnowledgeBase
 from src.tasks import generate_marketing_content, post_in_parallel
 from src.ingestion import ingest_text_file
+from src.ingestion import ingest_text_file
 from scripts.parse_products import parse_product_data
+from scripts.scrape_website import scrape_website_content
 
 def create_agent_by_role(role_title: str, knowledge_base: KnowledgeBase):
     """
@@ -31,12 +33,16 @@ def create_agent_by_role(role_title: str, knowledge_base: KnowledgeBase):
 if __name__ == "__main__":
     # --- Phase 1: Setup & Ingestion ---
     print("--- Phase 1: Setup & Ingestion ---")
+    # Scrape website for brand voice
+    scrape_website_content("https://www.realmstoriches.xyz", "knowledge/brand_voice.txt")
+
     # Parse the raw product data into structured JSON files
     parse_product_data("data/raw_products.txt", "products/")
 
     # Create and populate the knowledge base for the marketing agent
     marketing_kb = KnowledgeBase(collection_name="marketing_kb")
     ingest_text_file(marketing_kb, "knowledge/Marketing.txt")
+    ingest_text_file(marketing_kb, "knowledge/brand_voice.txt")
     print("Marketing knowledge base populated.\n")
 
     # --- Phase 2: Assemble the Crew ---
@@ -47,36 +53,36 @@ if __name__ == "__main__":
     print(f"Social Media Manager '{social_media_manager.name}' is on duty.\n")
 
     # --- Phase 3: Content Generation and Posting ---
-    print("--- Phase 3: Content Generation and Posting for 5 Sample Products ---")
-    product_files = [f for f in os.listdir("products") if f.endswith('.json')]
-
-    for i, product_file in enumerate(product_files[:5]): # Process first 5 products
-        print(f"\n--- Processing Product {i+1}: {product_file} ---")
-        product_path = os.path.join("products", product_file)
-
-        with open(product_path, 'r') as f:
+    print("--- Phase 3: Content Generation and Posting ---")
+    sample_product_filename = "products/american-walnut-limited-edition.json"
+    if os.path.exists(sample_product_filename):
+        with open(sample_product_filename, 'r') as f:
             product_data = json.load(f)
 
-        # a. Generate content
-        print(f"Generating content for: {product_data['product_name']}...")
+        print(f"Generating content for product: {product_data['product_name']}...")
         generated_content = generate_marketing_content(marketing_agent, product_data)
-        print("Content generation complete.")
-        print(f"  Tweet: {generated_content['tweet']}")
-        print(f"  Facebook Post: {generated_content['facebook_post']}")
 
+        print("\nAssigning Social Media Manager to post content in parallel...")
+        posting_results = post_in_parallel(
+            content_dict={
+                "twitter": generated_content["tweet"],
+                "facebook": generated_content["facebook_post"],
+                "linkedin": generated_content["facebook_post"], # Reuse for LinkedIn
+                "wordpress": generated_content["facebook_post"], # Reuse for WordPress
+                "instagram": generated_content["tweet"], # Shorter content for Instagram
+                "reddit": generated_content["facebook_post"]
+            },
+            product_name=product_data['product_name'],
+            subreddits=["product_announcements", "gadgets"]
+        )
 
-        # b. Post content in parallel
-        print("\nAssigning Social Media Manager to post content...")
-        posting_results = post_in_parallel({
-            "twitter": generated_content["tweet"],
-            "facebook": generated_content["facebook_post"]
-        })
-
-        print("Posting complete.")
+        print("\n--- Posting Results ---")
         for result in posting_results:
             if result:
-                print(f"  -> Successfully posted to {result['platform']}.")
+                print(f"Successfully posted to {result.get('platform', 'N/A')}.")
             else:
-                print("  -> A post failed.")
+                print("A post failed.")
+    else:
+        print(f"Could not find sample product file: {sample_product_filename}")
 
     print("\n--- Workflow Complete ---")

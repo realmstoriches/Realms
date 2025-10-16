@@ -5,15 +5,19 @@ such as product testing and content generation.
 import concurrent.futures
 from typing import List, Dict
 from src.agent import Agent
-from src.social import twitter, facebook
+from src.social import twitter, facebook, linkedin, wordpress, instagram, reddit
 
 # A registry of available social media platforms
 SOCIAL_PLATFORMS = {
     "twitter": twitter.post_update,
     "facebook": facebook.post_update,
+    "linkedin": linkedin.post_update,
+    "wordpress": wordpress.post_update,
+    "instagram": instagram.post_update,
+    "reddit": reddit.post_update,
 }
 
-def post_in_parallel(content_dict: Dict[str, str]):
+def post_in_parallel(content_dict: Dict[str, str], product_name: str, subreddits: List[str] = None):
     """
     Posts content to all social media platforms in parallel.
 
@@ -22,12 +26,26 @@ def post_in_parallel(content_dict: Dict[str, str]):
                                        names and values are the content to post.
     """
     results = []
+    subreddits = subreddits or ["yourproductsubreddit"] # Default subreddit
+
     with concurrent.futures.ThreadPoolExecutor() as executor:
-        future_to_platform = {
-            executor.submit(SOCIAL_PLATFORMS[platform], content): platform
-            for platform, content in content_dict.items()
-            if platform in SOCIAL_PLATFORMS
-        }
+        future_to_platform = {}
+        for platform, content in content_dict.items():
+            if platform in SOCIAL_PLATFORMS:
+                if platform == "wordpress":
+                    future = executor.submit(SOCIAL_PLATFORMS[platform], content, title=f"Introducing: {product_name}")
+                    future_to_platform[future] = platform
+                elif platform == "instagram":
+                    future = executor.submit(SOCIAL_PLATFORMS[platform], content, image_path=f"products/images/{product_name}.jpg")
+                    future_to_platform[future] = platform
+                elif platform == "reddit":
+                    for sub in subreddits:
+                        future = executor.submit(SOCIAL_PLATFORMS[platform], content, subreddit=sub, title=f"Check out our new {product_name}!")
+                        future_to_platform[future] = f"{platform} (r/{sub})"
+                else:
+                    future = executor.submit(SOCIAL_PLATFORMS[platform], content)
+                    future_to_platform[future] = platform
+
         for future in concurrent.futures.as_completed(future_to_platform):
             platform = future_to_platform[future]
             try:
@@ -42,13 +60,26 @@ def generate_marketing_content(agent: Agent, product_data: dict):
     Assigns a marketing agent to generate social media content for a product.
     """
     product_name = product_data.get("product_name", "our latest product")
+    variants = product_data.get("variants", [])
 
-    # Simulate generating a tweet
-    tweet_prompt = f"Create a short, punchy tweet for {product_name}."
+    # Create a more detailed prompt with product specifics
+    features = []
+    if variants:
+        # Just grab the first variant's options as representative features
+        first_variant_options = variants[0].get("options", {})
+        features = [f"{k}: {v}" for k, v in first_variant_options.items()]
+
+    features_str = ", ".join(features)
+
+    # Create a more detailed prompt
+    prompt_details = f"Product: {product_name}. Key features: {features_str}."
+
+    # Generate a tweet
+    tweet_prompt = f"Create a short, exciting tweet for the following product. {prompt_details}"
     tweet = agent.process(tweet_prompt)
 
-    # Simulate generating a Facebook post
-    facebook_prompt = f"Write an engaging Facebook post for {product_name}, highlighting its key features."
+    # Generate a Facebook post
+    facebook_prompt = f"Write an engaging Facebook post for the following product, highlighting its benefits. {prompt_details}"
     facebook_post = agent.process(facebook_prompt)
 
     return {
