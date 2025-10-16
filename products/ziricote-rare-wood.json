@@ -1,0 +1,42 @@
+{
+    "vendor": "realms_to_riches",
+    "product_name": "ziricote-rare-wood",
+    "variants": [
+        {
+            "sku": "P30P-B-ZIRI",
+            "options": {
+                "Phone Model": "Huawei P30 PRO"
+            }
+        },
+        {
+            "sku": "GP8-B-ZIRI",
+            "options": {
+                "Phone Model": "Google Pixel 8"
+            }
+        },
+        {
+            "sku": "S24U-B-ZIRI",
+            "options": {
+                "Phone Model": "Samsung Galaxy S24 Ultra"
+            }
+        },
+        {
+            "sku": "i7-B-ZIRI",
+            "options": {
+                "Phone Model": "iPhone 6/6S/7/8/SE2/SE3"
+            }
+        },
+        {
+            "sku": "i15PM-B-ZIRI",
+            "options": {
+                "Phone Model": "iPhone 15 Pro Max"
+            }
+        },
+        {
+            "sku": "GP7A-B-ZIRI",
+            "options": {
+                "Phone Model": "Google Pixel 7A"
+            }
+        }
+    ]
+}

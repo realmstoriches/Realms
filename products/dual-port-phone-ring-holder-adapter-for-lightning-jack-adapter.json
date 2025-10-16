@@ -1,0 +1,18 @@
+{
+    "vendor": "realms_to_riches",
+    "product_name": "dual-port-phone-ring-holder-adapter-for-lightning-jack-adapter",
+    "variants": [
+        {
+            "sku": "LIGHTNING + 3.5MM JAC",
+            "options": {
+                "Style": "Lightning + 3.5mm jac"
+            }
+        },
+        {
+            "sku": "2 LIGHTNING PORTS",
+            "options": {
+                "Style": "2 Lightning ports"
+            }
+        }
+    ]
+}

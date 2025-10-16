@@ -1,0 +1,54 @@
+{
+    "vendor": "realms_to_riches",
+    "product_name": "protective-iphone-carbon-fiber-case",
+    "variants": [
+        {
+            "sku": "IPHONE7(4.7\")SILVER",
+            "options": {
+                "Option": "iPhone 7 (4.7\") Silver"
+            }
+        },
+        {
+            "sku": "IPHONE7PLUS(5.5\")SILVER",
+            "options": {
+                "Option": "iPhone 7 Plus (5.5\") Silver"
+            }
+        },
+        {
+            "sku": "IPHONE7PLUS(5.5\")ROSEGOLD",
+            "options": {
+                "Option": "iPhone 7 Plus (5.5\") Rose Gold"
+            }
+        },
+        {
+            "sku": "IPHONE7PLUS(5.5\")GOLD",
+            "options": {
+                "Option": "iPhone 7 Plus (5.5\") Gold"
+            }
+        },
+        {
+            "sku": "IPHONE7PLUS(5.5\")DARKBLUE",
+            "options": {
+                "Option": "iPhone 7 Plus (5.5\") Dark Blue"
+            }
+        },
+        {
+            "sku": "IPHONE7(4.7\")GOLD",
+            "options": {
+                "Option": "iPhone 7 (4.7\") Gold"
+            }
+        },
+        {
+            "sku": "IPHONE7(4.7\")DARKBLUE",
+            "options": {
+                "Option": "iPhone 7 (4.7\") Dark Blue"
+            }
+        },
+        {
+            "sku": "IPHONE7(4.7\")ROSEGOLD",
+            "options": {
+                "Option": "iPhone 7 (4.7\") Rose Gold"
+            }
+        }
+    ]
+}

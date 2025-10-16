@@ -1,0 +1,18 @@
+{
+    "vendor": "realms_to_riches",
+    "product_name": "multifunctional-wireless-charger-alarm-clock-speaker-app-control",
+    "variants": [
+        {
+            "sku": "BLACK",
+            "options": {
+                "Primary Colour": "black"
+            }
+        },
+        {
+            "sku": "WHITE",
+            "options": {
+                "Primary Colour": "white"
+            }
+        }
+    ]
+}

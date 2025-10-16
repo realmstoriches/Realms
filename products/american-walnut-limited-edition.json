@@ -1,0 +1,510 @@
+{
+    "vendor": "realms_to_riches",
+    "product_name": "american-walnut-limited-edition",
+    "variants": [
+        {
+            "sku": "GP8PRO-B-WALN",
+            "options": {
+                "Phone Model": "Google Pixel 8 PRO"
+            }
+        },
+        {
+            "sku": "S9-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S9"
+            }
+        },
+        {
+            "sku": "S21P-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S21 Plus"
+            }
+        },
+        {
+            "sku": "S10-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S10"
+            }
+        },
+        {
+            "sku": "S10E-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S10E"
+            }
+        },
+        {
+            "sku": "S21U-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S21 Ultra"
+            }
+        },
+        {
+            "sku": "S22U-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S22 Ultra"
+            }
+        },
+        {
+            "sku": "S23-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S23"
+            }
+        },
+        {
+            "sku": "S23U-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S23 Ultra"
+            }
+        },
+        {
+            "sku": "S24P-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S24 Plus"
+            }
+        },
+        {
+            "sku": "S25-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S25"
+            }
+        },
+        {
+            "sku": "i16PLUS-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 16 Plus"
+            }
+        },
+        {
+            "sku": "i15PM-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 15 Pro Max"
+            }
+        },
+        {
+            "sku": "S24-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S24"
+            }
+        },
+        {
+            "sku": "S24FE-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S24 FE"
+            }
+        },
+        {
+            "sku": "S20FE-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S20 FE"
+            }
+        },
+        {
+            "sku": "i12P-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 12 Pro"
+            }
+        },
+        {
+            "sku": "i14-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 14"
+            }
+        },
+        {
+            "sku": "S25P-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S25 Plus"
+            }
+        },
+        {
+            "sku": "S25U-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S25 Ultra"
+            }
+        },
+        {
+            "sku": "i12M-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 12 Mini"
+            }
+        },
+        {
+            "sku": "i12-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 12"
+            }
+        },
+        {
+            "sku": "i7-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 6/6S/7/8/SE2/SE3"
+            }
+        },
+        {
+            "sku": "i15-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 15"
+            }
+        },
+        {
+            "sku": "GP7PRO-B-WALN",
+            "options": {
+                "Phone Model": "Google Pixel 7 PRO"
+            }
+        },
+        {
+            "sku": "i16P-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 16 Pro"
+            }
+        },
+        {
+            "sku": "S21FE-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S21 FE"
+            }
+        },
+        {
+            "sku": "S23FE-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S23 FE"
+            }
+        },
+        {
+            "sku": "GP9-B-WALN",
+            "options": {
+                "Phone Model": "Google Pixel 9/9 Pro"
+            }
+        },
+        {
+            "sku": "GP9XL-B-WALN",
+            "options": {
+                "Phone Model": "Google Pixel 9 XL"
+            }
+        },
+        {
+            "sku": "i16PM-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 16 Pro Max"
+            }
+        },
+        {
+            "sku": "S21-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S21"
+            }
+        },
+        {
+            "sku": "i16E-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 16e"
+            }
+        },
+        {
+            "sku": "GP6A-B-WALN",
+            "options": {
+                "Phone Model": "Google Pixel 6A"
+            }
+        },
+        {
+            "sku": "GP8-B-WALN",
+            "options": {
+                "Phone Model": "Google Pixel 8"
+            }
+        },
+        {
+            "sku": "GP4A-B-WALN",
+            "options": {
+                "Phone Model": "Google Pixel 4A"
+            }
+        },
+        {
+            "sku": "P40-B-WALN",
+            "options": {
+                "Phone Model": "Huawei P40"
+            }
+        },
+        {
+            "sku": "S24U-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S24 Ultra"
+            }
+        },
+        {
+            "sku": "i13-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 13"
+            }
+        },
+        {
+            "sku": "i15P-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 15 Pro"
+            }
+        },
+        {
+            "sku": "GP7-B-WALN",
+            "options": {
+                "Phone Model": "Google Pixel 7"
+            }
+        },
+        {
+            "sku": "P20-B-WALN",
+            "options": {
+                "Phone Model": "Huawei P20"
+            }
+        },
+        {
+            "sku": "P20L-B-WALN",
+            "options": {
+                "Phone Model": "Huawei P20 Lite"
+            }
+        },
+        {
+            "sku": "P20P-B-WALN",
+            "options": {
+                "Phone Model": "Huawei P20 Pro"
+            }
+        },
+        {
+            "sku": "P30P-B-WALN",
+            "options": {
+                "Phone Model": "Huawei P30 PRO"
+            }
+        },
+        {
+            "sku": "P40P-B-WALN",
+            "options": {
+                "Phone Model": "Huawei P40 PRO"
+            }
+        },
+        {
+            "sku": "GP4-B-WALN",
+            "options": {
+                "Phone Model": "Google Pixel 4"
+            }
+        },
+        {
+            "sku": "GP5-B-WALN",
+            "options": {
+                "Phone Model": "Google Pixel 5"
+            }
+        },
+        {
+            "sku": "GP6P-B-WALN",
+            "options": {
+                "Phone Model": "Google Pixel 6 PRO"
+            }
+        },
+        {
+            "sku": "GP7A-B-WALN",
+            "options": {
+                "Phone Model": "Google Pixel 7A"
+            }
+        },
+        {
+            "sku": "GP8A-B-WALN",
+            "options": {
+                "Phone Model": "Google Pixel 8A"
+            }
+        },
+        {
+            "sku": "S6E-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S6 Edge"
+            }
+        },
+        {
+            "sku": "S7-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S7"
+            }
+        },
+        {
+            "sku": "S7E-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S7 Edge"
+            }
+        },
+        {
+            "sku": "S8P-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S8 PLUS"
+            }
+        },
+        {
+            "sku": "S20-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S20"
+            }
+        },
+        {
+            "sku": "i13M-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 13 Mini"
+            }
+        },
+        {
+            "sku": "S20P-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S20 PLUS"
+            }
+        },
+        {
+            "sku": "i5-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 5/5S"
+            }
+        },
+        {
+            "sku": "i7P-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 6/6S/7/8 PLUS"
+            }
+        },
+        {
+            "sku": "iX-B-WALN",
+            "options": {
+                "Phone Model": "iPhone X/XS"
+            }
+        },
+        {
+            "sku": "XR-B-WALN",
+            "options": {
+                "Phone Model": "iPhone XR"
+            }
+        },
+        {
+            "sku": "XM-B-WALN",
+            "options": {
+                "Phone Model": "iPhone XS MAX"
+            }
+        },
+        {
+            "sku": "i11-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 11"
+            }
+        },
+        {
+            "sku": "i11P-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 11 PRO"
+            }
+        },
+        {
+            "sku": "i11PM-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 11 PRO MAX"
+            }
+        },
+        {
+            "sku": "i12PM-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 12 Pro Max"
+            }
+        },
+        {
+            "sku": "i13P-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 13 Pro"
+            }
+        },
+        {
+            "sku": "i13PM-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 13 Pro Max"
+            }
+        },
+        {
+            "sku": "i14PLUS-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 14 Plus"
+            }
+        },
+        {
+            "sku": "i16-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 16"
+            }
+        },
+        {
+            "sku": "i14P-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 14 Pro"
+            }
+        },
+        {
+            "sku": "i15PLUS-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 15 Plus"
+            }
+        },
+        {
+            "sku": "M20-B-WALN",
+            "options": {
+                "Phone Model": "Huawei Mate 20"
+            }
+        },
+        {
+            "sku": "GP4XL-B-WALN",
+            "options": {
+                "Phone Model": "Google Pixel 4 XL"
+            }
+        },
+        {
+            "sku": "S5-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S5"
+            }
+        },
+        {
+            "sku": "S6-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S6"
+            }
+        },
+        {
+            "sku": "S23P-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S23 Plus"
+            }
+        },
+        {
+            "sku": "S20U-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S20 ULTRA"
+            }
+        },
+        {
+            "sku": "S10P-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S10 PLUS"
+            }
+        },
+        {
+            "sku": "S22P-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S22 Plus"
+            }
+        },
+        {
+            "sku": "S22-B-WALN",
+            "options": {
+                "Phone Model": "Samsung Galaxy S22"
+            }
+        },
+        {
+            "sku": "i14PM-B-WALN",
+            "options": {
+                "Phone Model": "iPhone 14 Pro Max"
+            }
+        },
+        {
+            "sku": "P40L-B-WALN",
+            "options": {
+                "Phone Model": "Huawei P40 Lite"
+            }
+        }
+    ]
+}

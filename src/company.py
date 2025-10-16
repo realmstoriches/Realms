@@ -54,6 +54,30 @@ ORG_CHART = {
             "skills": ["Python", "PyTorch", "TensorFlow", "Deep Learning", "Computer Vision"],
             "tools": ["Jupyter", "Git", "LaTeX"]
         }
+    ],
+    "Marketing": [
+        {
+            "title": "Marketing Content Creator",
+            "department": "Marketing",
+            "responsibilities": [
+                "Generate compelling social media copy.",
+                "Write engaging product descriptions.",
+                "Develop marketing campaigns."
+            ],
+            "skills": ["Copywriting", "Social Media Marketing", "SEO", "Content Strategy"],
+            "tools": ["Hootsuite", "Canva", "Google Analytics"]
+        },
+        {
+            "title": "Social Media Manager",
+            "department": "Marketing",
+            "responsibilities": [
+                "Orchestrate content posting across platforms.",
+                "Analyze engagement metrics.",
+                "Manage social media calendar."
+            ],
+            "skills": ["Social Media Strategy", "Project Management", "Data Analysis"],
+            "tools": ["Buffer", "Sprout Social", "HubSpot"]
+        }
     ]
 }
 

@@ -1,0 +1,42 @@
+{
+    "vendor": "realms_to_riches",
+    "product_name": "posturepro\u00e2\u201e\u00a2-360-support-belt",
+    "variants": [
+        {
+            "sku": "DA75_WSTBACK_XL",
+            "options": {
+                "Brace Size": "XL"
+            }
+        },
+        {
+            "sku": "DA67_WSTBACK_M",
+            "options": {
+                "Brace Size": "M"
+            }
+        },
+        {
+            "sku": "DA71_WSTBACK_L",
+            "options": {
+                "Brace Size": "L"
+            }
+        },
+        {
+            "sku": "DA63_WSTBACK_SM",
+            "options": {
+                "Brace Size": "S"
+            }
+        },
+        {
+            "sku": "DA83_WSTBACK_3XL",
+            "options": {
+                "Brace Size": "3XL"
+            }
+        },
+        {
+            "sku": "DA79_WSTBACK_2XL",
+            "options": {
+                "Brace Size": "2XL"
+            }
+        }
+    ]
+}

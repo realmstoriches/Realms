@@ -1,0 +1,12 @@
+{
+    "vendor": "realms_to_riches",
+    "product_name": "bamboo-docking-station-with-4-usb-port",
+    "variants": [
+        {
+            "sku": "sp",
+            "options": {
+                "Title": "sp"
+            }
+        }
+    ]
+}
